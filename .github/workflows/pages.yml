@@ -37,7 +37,7 @@ jobs:
           mkdir _site/data
           cp data/active_alerts.geojson _site/data/
 
-      - uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@v4
 
       - uses: actions/upload-pages-artifact@v3
         with:
