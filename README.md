@@ -9,8 +9,8 @@ changes as well as ongoing ones.
 
 ## Live map
 
-When hosted on GitHub Pages the map is served from `web/index.html` and updated
-automatically by a GitHub Actions workflow. See [Deploying to GitHub Pages](#deploying-to-github-pages).
+When hosted on GitHub Pages the map is updated automatically by a GitHub Actions
+workflow every 10 minutes.
 
 ## Prerequisites
 
@@ -51,21 +51,6 @@ Open **http://localhost:8000/web/** in a browser.
 
 **Testing without an API key:** `make seed` writes realistic fake data so you
 can develop against the map UI before your key arrives.
-
-## Deploying to GitHub Pages
-
-1. Push this repo to GitHub
-2. Add your API key as a repository secret:
-   **Settings → Secrets and variables → Actions → New repository secret**
-   Name: `OBA_API_KEY`
-3. Enable GitHub Pages:
-   **Settings → Pages → Source: GitHub Actions**
-4. The map will be live at `https://<you>.github.io/<repo>/`
-
-The `.github/workflows/refresh.yml` workflow runs every 10 minutes, fetches
-fresh alerts via `python worker/fetch_alerts.py --once`, commits
-`data/active_alerts.geojson` if it changed, and pushes. You can also trigger
-it manually from the **Actions** tab.
 
 ## Architecture
 
