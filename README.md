@@ -59,8 +59,8 @@ can develop against the map UI before your key arrives.
    **Settings → Secrets and variables → Actions → New repository secret**
    Name: `OBA_API_KEY`
 3. Enable GitHub Pages:
-   **Settings → Pages → Source: Deploy from branch → `main`, folder `/` (root)**
-4. The map will be live at `https://<you>.github.io/<repo>/web/`
+   **Settings → Pages → Source: GitHub Actions**
+4. The map will be live at `https://<you>.github.io/<repo>/`
 
 The `.github/workflows/refresh.yml` workflow runs every 10 minutes, fetches
 fresh alerts via `python worker/fetch_alerts.py --once`, commits
