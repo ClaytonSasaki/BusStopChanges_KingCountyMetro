@@ -90,6 +90,23 @@
       box-shadow: 0 0 0 1px rgba(0,0,0,0.25);
       flex-shrink: 0;
     }
+
+    @media (max-width: 600px) {
+      #info-panel {
+        top: auto;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        border-radius: 6px 6px 0 0;
+        min-width: unset;
+        padding: 8px 12px;
+      }
+      #info-panel h1 { margin-bottom: 2px; }
+      #refresh-btn { margin-top: 6px; }
+      .popup-stop-name { font-size: 1rem; }
+      .popup-header    { font-size: 0.85rem; }
+      .popup-desc      { font-size: 0.8rem; }
+    }
   </style>
 </head>
 <body>
@@ -120,7 +137,11 @@
     const GEOJSON_URL = '../data/active_alerts.geojson';
     const REFRESH_MS  = 10 * 60 * 1000; // 10 minutes
 
-    const map = L.map('map').setView([47.5, -122.1], 11);
+    const isMobile = window.innerWidth < 600;
+    const map = L.map('map').setView(
+      isMobile ? [47.608, -122.335] : [47.58, -122.28],
+      isMobile ? 11 : 11
+    );
 
     const osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -143,11 +164,11 @@
     L.control.layers(
       { 'CartoDB Positron': carto, 'OpenStreetMap': osm },
       null,
-      { position: 'topleft', collapsed: false }
+      { position: 'topleft', collapsed: isMobile }
     ).addTo(map);
 
     // Legend
-    const legend = L.control({ position: 'bottomleft' });
+    const legend = L.control({ position: isMobile ? 'topleft' : 'bottomleft' });
     legend.onAdd = () => {
       const div = L.DomUtil.create('div', 'legend');
       div.innerHTML = `
