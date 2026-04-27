@@ -1,0 +1,34 @@
+name: Refresh alerts
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - run: python worker/fetch_alerts.py --once
+        env:
+          OBA_API_KEY: ${{ secrets.OBA_API_KEY }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/active_alerts.geojson
+          git diff --cached --quiet || git commit -m "chore: refresh alerts $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

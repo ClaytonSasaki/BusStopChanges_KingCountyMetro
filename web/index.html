@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KC Metro — Temporary Stop Changes</title>
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.min.css"
+    crossorigin=""
+  />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: system-ui, sans-serif; }
+    #map { height: 100vh; width: 100%; }
+
+    #info-panel {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      z-index: 1000;
+      background: rgba(255,255,255,0.95);
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      padding: 10px 14px;
+      min-width: 220px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    }
+    #info-panel h1 { font-size: 0.9rem; font-weight: 700; margin-bottom: 6px; }
+    #info-panel p  { font-size: 0.75rem; color: #555; line-height: 1.4; }
+    #refresh-btn {
+      margin-top: 8px;
+      padding: 4px 10px;
+      font-size: 0.75rem;
+      cursor: pointer;
+      border: 1px solid #888;
+      border-radius: 4px;
+      background: #f5f5f5;
+    }
+    #refresh-btn:hover { background: #e0e0e0; }
+
+    #error-banner {
+      display: none;
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      z-index: 2000;
+      background: #c0392b;
+      color: #fff;
+      text-align: center;
+      padding: 8px;
+      font-size: 0.85rem;
+    }
+
+    .popup-badge {
+      display: inline-block;
+      color: #fff;
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 2px 6px;
+      border-radius: 3px;
+      margin-bottom: 4px;
+      margin-right: 4px;
+      letter-spacing: 0.04em;
+    }
+    .badge-stop-relocation { background: #e67e22; }
+    .badge-stop-closure    { background: #c0392b; }
+    .badge-route-change    { background: #6c3483; }
+    .badge-upcoming        { background: #7f8c8d; }
+    .popup-stop-name { font-weight: 700; font-size: 0.9rem; margin-bottom: 4px; }
+    .popup-header    { font-size: 0.8rem; margin-bottom: 3px; }
+    .popup-desc      { font-size: 0.75rem; color: #444; margin-bottom: 4px; }
+    .popup-link      { font-size: 0.75rem; }
+
+    /* Legend */
+    .legend {
+      background: rgba(255,255,255,0.95);
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      padding: 8px 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+      font-size: 0.78rem;
+      line-height: 1.6;
+    }
+    .legend-title { font-weight: 700; margin-bottom: 4px; }
+    .legend-row   { display: flex; align-items: center; gap: 7px; }
+    .legend-dot   {
+      width: 13px; height: 13px;
+      border-radius: 50%;
+      border: 2px solid #fff;
+      box-shadow: 0 0 0 1px rgba(0,0,0,0.25);
+      flex-shrink: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="error-banner"></div>
+  <div id="map"></div>
+  <div id="info-panel">
+    <h1>KC Metro Stop Changes</h1>
+    <p id="status-text">Loading…</p>
+    <button id="refresh-btn">Refresh now</button>
+    <p style="margin-top:10px;border-top:1px solid #e0e0e0;padding-top:8px">
+      <a href="https://kingcounty.gov/en/dept/metro/rider-tools/service-advisories"
+         target="_blank" rel="noopener" style="font-size:0.75rem">
+        Full service advisories list ↗
+      </a>
+    </p>
+    <p style="margin-top:6px;font-size:0.7rem;color:#888;line-height:1.4">
+      Data: <a href="https://www.soundtransit.org/help-contacts/business-information/open-transit-data-otd/otd-downloads"
+               target="_blank" rel="noopener" style="color:#888">King County Metro</a>
+      via GTFS-Realtime feed
+    </p>
+  </div>
+
+  <script
+    src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.min.js"
+    crossorigin=""
+  ></script>
+  <script>
+    const GEOJSON_URL = '../data/active_alerts.geojson';
+    const REFRESH_MS  = 10 * 60 * 1000; // 10 minutes
+
+    const map = L.map('map').setView([47.5, -122.1], 11);
+
+    const osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      maxZoom: 19,
+    });
+
+    const carto = L.tileLayer(
+      'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
+      {
+        attribution:
+          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors ' +
+          '&copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd',
+        maxZoom: 20,
+      }
+    );
+
+    carto.addTo(map); // default basemap
+
+    L.control.layers(
+      { 'CartoDB Positron': carto, 'OpenStreetMap': osm },
+      null,
+      { position: 'topleft', collapsed: false }
+    ).addTo(map);
+
+    // Legend
+    const legend = L.control({ position: 'bottomleft' });
+    legend.onAdd = () => {
+      const div = L.DomUtil.create('div', 'legend');
+      div.innerHTML = `
+        <div class="legend-title">Alert type</div>
+        <div class="legend-row">
+          <span class="legend-dot" style="background:#c0392b"></span>
+          <span>Stop Closure</span>
+        </div>
+        <div class="legend-row">
+          <span class="legend-dot" style="background:#e67e22"></span>
+          <span>Stop Relocation</span>
+        </div>
+        <div class="legend-row">
+          <span class="legend-dot" style="background:#6c3483"></span>
+          <span>Route Change</span>
+        </div>
+        <div class="legend-row" style="margin-top:6px">
+          <span class="legend-dot" style="background:#aaa;opacity:0.5"></span>
+          <span style="color:#888">Upcoming</span>
+        </div>
+      `;
+      return div;
+    };
+    legend.addTo(map);
+
+    let alertLayer = null;
+
+    const TYPE_COLORS = {
+      'Stop Closure':    '#c0392b',
+      'Stop Relocation': '#e67e22',
+      'Route Change':    '#6c3483',
+    };
+
+    function markerColor(alertType) {
+      return TYPE_COLORS[alertType] ?? '#555';
+    }
+
+    function typeBadgeClass(alertType) {
+      return {
+        'Stop Closure':    'badge-stop-closure',
+        'Stop Relocation': 'badge-stop-relocation',
+        'Route Change':    'badge-route-change',
+      }[alertType] ?? 'badge-route-change';
+    }
+
+    function buildPopup(props) {
+      const link = props.url
+        ? `<p class="popup-link"><a href="${props.url}" target="_blank" rel="noopener">More info</a></p>`
+        : '';
+      const upcomingBadge = props.status === 'upcoming'
+        ? `<span class="popup-badge badge-upcoming">Upcoming</span>`
+        : '';
+      return `
+        <span class="popup-badge ${typeBadgeClass(props.alert_type)}">${props.alert_type}</span>${upcomingBadge}
+        <p class="popup-stop-name">${props.stop_name}</p>
+        ${props.header      ? `<p class="popup-header">${props.header}</p>` : ''}
+        ${props.description ? `<p class="popup-desc">${props.description}</p>` : ''}
+        <p class="popup-desc" style="color:#888">Stop ${props.stop_id}</p>
+        ${link}
+      `.trim();
+    }
+
+    function showError(msg) {
+      const banner = document.getElementById('error-banner');
+      banner.textContent = msg;
+      banner.style.display = 'block';
+    }
+
+    function hideError() {
+      document.getElementById('error-banner').style.display = 'none';
+    }
+
+    function loadAlerts() {
+      fetch(GEOJSON_URL + '?_=' + Date.now())
+        .then(r => {
+          if (!r.ok) throw new Error(`HTTP ${r.status}`);
+          return r.json();
+        })
+        .then(data => {
+          hideError();
+
+          if (alertLayer) map.removeLayer(alertLayer);
+
+          alertLayer = L.geoJSON(data, {
+            pointToLayer(feature, latlng) {
+              const upcoming = feature.properties.status === 'upcoming';
+              return L.circleMarker(latlng, {
+                radius: 9,
+                fillColor: markerColor(feature.properties.alert_type),
+                color: '#fff',
+                weight: 2,
+                opacity: upcoming ? 0.4 : 1,
+                fillOpacity: upcoming ? 0.3 : 0.85,
+              });
+            },
+            onEachFeature(feature, layer) {
+              layer.bindPopup(buildPopup(feature.properties));
+            },
+          }).addTo(map);
+
+          const features = data.features ?? [];
+          const ongoing  = features.filter(f => f.properties.status === 'ongoing').length;
+          const upcoming = features.filter(f => f.properties.status === 'upcoming').length;
+          const ts = data.generated_at
+            ? new Date(data.generated_at).toLocaleTimeString()
+            : '—';
+          const statusEl = document.getElementById('status-text');
+          statusEl.textContent = features.length === 0
+            ? `No alerts. Updated ${ts}.`
+            : `${ongoing} ongoing, ${upcoming} upcoming. Updated ${ts}.`;
+        })
+        .catch(err => {
+          showError(`Could not load alert data: ${err.message}`);
+          document.getElementById('status-text').textContent = 'Last load failed.';
+        });
+    }
+
+    document.getElementById('refresh-btn').addEventListener('click', loadAlerts);
+
+    loadAlerts();
+    setInterval(loadAlerts, REFRESH_MS);
+  </script>
+</body>
+</html>
