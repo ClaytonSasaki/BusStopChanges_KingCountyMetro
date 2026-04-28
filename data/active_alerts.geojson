@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-04-28T07:24:15.118659+00:00",
+  "generated_at": "2026-04-28T09:42:34.248802+00:00",
   "features": [
     {
       "type": "Feature",
@@ -67,14 +67,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.347549,
-          47.6502495
+          -122.343216,
+          47.6495743
         ]
       },
       "properties": {
         "alert_id": "1_85843",
-        "stop_id": "26490",
-        "stop_name": "N 35th St & Troll Ave N",
+        "stop_id": "26480",
+        "stop_name": "N 35th St & Stone Way N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Routes 31 and 32 will be rerouted off N 35th St between Stone Way N and Fremont Ave N from Sat Mar 28 through Thu May 28 at 11:00 PM due to construction.",
@@ -87,14 +87,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.343216,
-          47.6495743
+          -122.347549,
+          47.6502495
         ]
       },
       "properties": {
         "alert_id": "1_85843",
-        "stop_id": "26480",
-        "stop_name": "N 35th St & Stone Way N",
+        "stop_id": "26490",
+        "stop_name": "N 35th St & Troll Ave N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Routes 31 and 32 will be rerouted off N 35th St between Stone Way N and Fremont Ave N from Sat Mar 28 through Thu May 28 at 11:00 PM due to construction.",
@@ -267,166 +267,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334106,
-          47.5842438
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85641",
-        "stop_id": "15212",
-        "stop_name": "1st Ave S & S Walker St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.333992,
-          47.5723419
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85641",
-        "stop_id": "15190",
-        "stop_name": "1st Ave S & S Spokane St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334106,
-          47.5865173
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85641",
-        "stop_id": "15207",
-        "stop_name": "1st Ave S & S Holgate St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334106,
-          47.5796814
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85641",
-        "stop_id": "15230",
-        "stop_name": "1st Ave S & S Lander St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334297,
-          47.585762
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85641",
-        "stop_id": "15202",
-        "stop_name": "1st Ave S & S Holgate St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334297,
-          47.589901
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85641",
-        "stop_id": "15201",
-        "stop_name": "1st Ave S & S Atlantic St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334106,
-          47.5822334
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85641",
-        "stop_id": "15206",
-        "stop_name": "1st Ave S & S Stacy St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334297,
-          47.5836525
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85641",
-        "stop_id": "15211",
-        "stop_name": "1st Ave S & S Walker St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.333473,
           47.5901985
         ]
@@ -467,6 +307,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.334106,
+          47.5865173
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85641",
+        "stop_id": "15207",
+        "stop_name": "1st Ave S & S Holgate St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334106,
+          47.5842438
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85641",
+        "stop_id": "15212",
+        "stop_name": "1st Ave S & S Walker St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334106,
+          47.5796814
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85641",
+        "stop_id": "15230",
+        "stop_name": "1st Ave S & S Lander St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.334297,
           47.5815544
         ]
@@ -475,6 +375,106 @@
         "alert_id": "1_85641",
         "stop_id": "15203",
         "stop_name": "1st Ave S & S Stacy St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333992,
+          47.5723419
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85641",
+        "stop_id": "15190",
+        "stop_name": "1st Ave S & S Spokane St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334106,
+          47.5822334
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85641",
+        "stop_id": "15206",
+        "stop_name": "1st Ave S & S Stacy St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334297,
+          47.585762
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85641",
+        "stop_id": "15202",
+        "stop_name": "1st Ave S & S Holgate St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334297,
+          47.5836525
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85641",
+        "stop_id": "15211",
+        "stop_name": "1st Ave S & S Walker St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\nThursday, March 26 at 9:30 PM-10:30 PM\r\nFriday, March 27 at 9:00 PM-10:00 PM\r\nSaturday, March 28 at 9:00 PM-10:00 PM\r\nSunday, March 29 at 6:40 PM-7:40 PM\r\nMonday, March 30 at 9:00 PM-10:00 PM\r\nTuesday, March 31 at 9:00 PM-10:00 PM\r\nWednesday, April 1 at 3:30 PM-4:30 PM\r\nFriday, April 10 at 9:00 PM-10:00 PM\r\nSaturday, April 11 at 9:00 PM-10:00 PM\r\nSunday, April 12 at 3:30 PM-4:30 PM\r\nMonday, April 13 at 3:30 PM-4:30 PM\r\nFriday, April 17 at 9:00 PM-10:00 PM\r\nSaturday, April 18 at 6:30 PM-7:30 PM\r\nSunday, April 19 at 3:30 PM-4:30 PM\r\nMonday, April 20 at 9:00 PM-10:00 PM\r\nTuesday, April 21 at 9:00 PM-10:00 PM\r\nWednesday, April 22 at 3:30 PM-4:30 PM\r\nFriday, May 1 at 9:00 PM-10:00 PM\r\nSaturday, May 2 at 9:00 PM-10:00 PM\r\nSunday, May 3 at 3:30 PM-4:30 PM\r\nMonday, May 4 at 9:00 PM-10:00 PM\r\nTuesday, May 5 at 9:00 PM-10:00 PM\r\nWednesday, May 6 at 3:30 PM-4:30 PM\r\nFriday, May 15 at 9:00 PM-10:00 PM\r\nSaturday, May 16 at 6:30 PM-7:30 PM\r\nSunday, May17 at 6:40 PM-7:40 PM\r\nMonday, May 18 at 9:00 PM-10:00 PM\r\nTuesday, May 19 at 9:00 PM-10:00 PM\r\nWednesday, May 20 at 3:30 PM-4:30 PM\r\nFriday, May 29 at 9:30 PM-10:30 PM\r\nSaturday, May 30 at 9:30 PM-10:30 PM\r\nSunday, May 31 at 3:30 PM-4:30 PM\r\nMonday, June 1 at 9:00 PM-10:00 PM\r\nTuesday, June 2 at 9:00 PM-10:00 PM\r\nWednesday, June 3 at 3:00 PM-4:00 PM\r\nTuesday, June 16 at 9:00 PM-10:00 PM\r\nWednesday, June 17 at 9:00 PM-10:00 PM\r\nThursday, June 18 at 3:30 PM-4:30 PM\r\nFriday, June 19 at 9:30 PM-10:30 PM\r\nSaturday, June 20 at 9:30 PM-10:30 PM\r\nSunday, June 21 at 3:30 PM-4:30 PM\r\nMonday, June 29 at 9:00 PM-10:00 PM\r\nTuesday, June 30 at 9:00 PM-10:00 PM\r\nThursday, July 2 at 9:00 PM-10:00 PM\r\nFriday, July 3 at 9:30 PM-10:30 PM\r\nSaturday, July 4 at 3:30 PM 4:30 PM\r\nSunday, July 5 at 3:30 PM-4:30 PM\r\nFriday, July 17 at 9:30 PM-10:30 PM\r\nSaturday, July 18 at 7:30 PM-8:30 PM\r\nSunday, July 19 at 3:30 PM-4:30 PM\r\nMonday, July 20 at 9:00 PM-10:00 PM\r\nTuesday, July 21 at 9:00 PM-10:00 PM\r\nWednesday, July 22 at 3:00 PM-4:00 PM\r\nFriday, July 31 at 9:00 PM-10:00 PM\r\n Saturday, August 1 at 3:30 PM-4:30 PM\r\nSunday, August 2 at 3:30 PM-4:30 PM\r\nTuesday, August 4 at 9:00 PM-10:00 PM\r\nWednesday, August 5 at 9:00 PM-10:00 PM\r\nThursday, August 6 at 3:30 PM-4:30 PM\r\nFriday, August 7 at 9:30 PM-10:30 PM\r\nSaturday, August 8 at 9:10 PM-10:10 PM\r\nSunday, August 9 at 3:30 PM-4:30PM\r\nFriday, August 21 at 9:30 PM-10:30 PM\r\nSaturday, August 22 at 9:00 PM-10:00 PM\r\nSunday, August 23 at 3:30 PM-4:30 PM\r\nMonday, August 24 at 9:00 PM-10:00 PM\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\nWednesday, August 26 at 3:30 PM-4:30 PM\r\nThursday, September 3 at 9:00 PM-10:00 PM\r\nFriday, September 4 at 9:30 PM-10:30 PM\r\nSaturday, September 5 at 9:00 PM-10:00 PM\r\nSunday, September 6 at 3:30 PM-4:30 PM\r\nTuesday, September 8 at 9:00 PM-10:00 PM\r\nWednesday, September 9 at 9:00 PM-10:00 PM\r\nThursday, September 10 at 3:30 PM-4:30 PM\r\nTuesday, September 22 at 9:00 PM-10:00 PM\r\nWednesday, September 23 at 9:30 PM-10:30 PM\r\nThursday, September 24 at 9:00 PM-10:00 PM\r\nFriday, September 25 at 9:30 PM-10:30 PM\r\nSaturday, September 26 at 9:00 PM-10:00 PM\r\nSunday, September 27 at 2:30 PM-3:30 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334297,
+          47.589901
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85641",
+        "stop_id": "15201",
+        "stop_name": "1st Ave S & S Atlantic St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
@@ -647,6 +647,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.232101,
+          47.4655571
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86572",
+        "stop_id": "59878",
+        "stop_name": "Oakesdale Ave SW & SW 16th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #59878 Oakesdale Ave SW & SW 16th St (NB) and Stop #59879 Oakesdale Ave SW & SW 16th St (SB) relocated until Fri May 8 at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\nRapidRide F Line\r\n\nFor RapidRide F Line to Renton The Landing get on/off at:\r\nTemporary stop Oakesdale Ave SW, just south of SW 16th St (NB)\r\n\nFor RapidRide F Line to Burien TC get on/off at:\r\nTemporary stop Oakesdale Ave SW, just south of SW 16th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/676/e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.232323,
+          47.4655151
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86572",
+        "stop_id": "59879",
+        "stop_name": "Oakesdale Ave SW & SW 16th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #59878 Oakesdale Ave SW & SW 16th St (NB) and Stop #59879 Oakesdale Ave SW & SW 16th St (SB) relocated until Fri May 8 at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\nRapidRide F Line\r\n\nFor RapidRide F Line to Renton The Landing get on/off at:\r\nTemporary stop Oakesdale Ave SW, just south of SW 16th St (NB)\r\n\nFor RapidRide F Line to Burien TC get on/off at:\r\nTemporary stop Oakesdale Ave SW, just south of SW 16th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/676/e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.196983,
           47.4085503
         ]
@@ -680,46 +720,6 @@
         "header": "Stop #57370 108th Ave SE & SE 217th St (SB) and Stop #57190 108th Ave SE & SE 217th St (NB) relocated from Mon Apr 20 through Tue Aug 11 due to construction.",
         "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57360 108th Ave SE & SE 212th St (SB)\r\nThe temporary stop on 108th Ave SE just north of SE 220th St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57185 108th Ave SE & SE 220th Pl (NB)\r\nThe temporary stop on 108th Ave SE just south of SE 220th St (NB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.232323,
-          47.4655151
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86572",
-        "stop_id": "59879",
-        "stop_name": "Oakesdale Ave SW & SW 16th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #59878 Oakesdale Ave SW & SW 16th St (NB) and Stop #59879 Oakesdale Ave SW & SW 16th St (SB) relocated until Fri May 8 at 5:00 PM due to construction.",
-        "description": "Affected routes:\r\nRapidRide F Line\r\n\nFor RapidRide F Line to Renton The Landing get on/off at:\r\nTemporary stop Oakesdale Ave SW, just south of SW 16th St (NB)\r\n\nFor RapidRide F Line to Burien TC get on/off at:\r\nTemporary stop Oakesdale Ave SW, just south of SW 16th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/676/e"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.232101,
-          47.4655571
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86572",
-        "stop_id": "59878",
-        "stop_name": "Oakesdale Ave SW & SW 16th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #59878 Oakesdale Ave SW & SW 16th St (NB) and Stop #59879 Oakesdale Ave SW & SW 16th St (SB) relocated until Fri May 8 at 5:00 PM due to construction.",
-        "description": "Affected routes:\r\nRapidRide F Line\r\n\nFor RapidRide F Line to Renton The Landing get on/off at:\r\nTemporary stop Oakesdale Ave SW, just south of SW 16th St (NB)\r\n\nFor RapidRide F Line to Burien TC get on/off at:\r\nTemporary stop Oakesdale Ave SW, just south of SW 16th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/676/e"
       }
     },
     {
@@ -867,46 +867,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.308136,
-          47.3909111
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48974",
-        "stop_name": "Kent Des Moines Rd & 20th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.311691,
-          47.390789
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48972",
-        "stop_name": "16th Ave S & 17th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.312439,
           47.3867798
         ]
@@ -915,46 +875,6 @@
         "alert_id": "1_82885",
         "stop_id": "47280",
         "stop_name": "S 240th St & 16th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.310036,
-          47.3867302
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.308464,
-          47.3910408
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "50466",
-        "stop_name": "Kent Des Moines Rd & 20th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
@@ -987,14 +907,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.309937,
-          47.3865929
+          -122.308464,
+          47.3910408
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
+        "stop_id": "50466",
+        "stop_name": "Kent Des Moines Rd & 20th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
@@ -1015,6 +935,86 @@
         "alert_id": "1_82885",
         "stop_id": "48920",
         "stop_name": "S 240th St & 17th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311691,
+          47.390789
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48972",
+        "stop_name": "16th Ave S & 17th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310036,
+          47.3867302
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.309937,
+          47.3865929
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48925",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308136,
+          47.3909111
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48974",
+        "stop_name": "Kent Des Moines Rd & 20th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
@@ -1087,26 +1087,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.310036,
-          47.3867302
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82886",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.312439,
           47.3867798
         ]
@@ -1135,6 +1115,26 @@
         "alert_id": "1_82886",
         "stop_id": "48920",
         "stop_name": "S 240th St & 17th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310036,
+          47.3867302
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82886",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
@@ -1247,13 +1247,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.164528,
+          -122.164322,
           47.7042999
         ]
       },
       "properties": {
         "alert_id": "1_83410",
-        "stop_id": "80509",
+        "stop_id": "80515",
         "stop_name": "132nd Ave NE & NE 117th St",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -1267,13 +1267,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.164322,
+          -122.164528,
           47.7042999
         ]
       },
       "properties": {
         "alert_id": "1_83410",
-        "stop_id": "80515",
+        "stop_id": "80509",
         "stop_name": "132nd Ave NE & NE 117th St",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -1307,26 +1307,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.376846,
-          47.3092575
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82361",
-        "stop_id": "61510",
-        "stop_name": "35th Ave SW & SW 327th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
-        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.376411,
           47.3039742
         ]
@@ -1347,14 +1327,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.371872,
-          47.3093719
+          -122.376846,
+          47.3092575
         ]
       },
       "properties": {
         "alert_id": "1_82361",
-        "stop_id": "61540",
-        "stop_name": "SW 327th St & 30th Ave SW",
+        "stop_id": "61510",
+        "stop_name": "35th Ave SW & SW 327th St",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
@@ -1387,26 +1367,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.373825,
-          47.310997
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82361",
-        "stop_id": "61530",
-        "stop_name": "SW 325th St & 32nd Ave SW",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
-        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.376862,
           47.3076134
         ]
@@ -1427,6 +1387,86 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.373825,
+          47.310997
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82361",
+        "stop_id": "61530",
+        "stop_name": "SW 325th St & 32nd Ave SW",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.371872,
+          47.3093719
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82361",
+        "stop_id": "61540",
+        "stop_name": "SW 327th St & 30th Ave SW",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.248703,
+          47.7581787
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86881",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "Affected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nGet on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.242851,
+          47.7572136
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86881",
+        "stop_id": "76880",
+        "stop_name": "NE Bothell Way & 73rd Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "Affected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nGet on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.242851,
           47.7572136
         ]
@@ -1495,46 +1535,6 @@
         "alert_id": "1_86881",
         "stop_id": "76870",
         "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "Affected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nGet on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86881",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "Affected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nGet on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.242851,
-          47.7572136
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86881",
-        "stop_id": "76880",
-        "stop_name": "NE Bothell Way & 73rd Ave NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
         "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
@@ -2047,6 +2047,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.358185,
+          47.6531563
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86953",
+        "stop_id": "28370",
+        "stop_name": "NW 36th St & 1st Ave NW",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #28370 NW 36th St & 1st Ave NW (WB) closed from Thu Apr 23 through Thu Apr 30 continuously due to construction.",
+        "description": "Affected routes:\r\n40\r\n\nGet on/off at:\r\nTemporary stop NW Leary Way, just south of NW 39th St. (NB)\r\nStop #28350 N 36th St & Dayton Ave N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/40/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.323204,
           47.6489449
         ]
@@ -2207,26 +2227,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.358185,
-          47.6531563
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86953",
-        "stop_id": "28370",
-        "stop_name": "NW 36th St & 1st Ave NW",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #28370 NW 36th St & 1st Ave NW (WB) closed from Thu Apr 23 through Thu Apr 30 continuously due to construction.",
-        "description": "Affected routes:\r\n40\r\n\nGet on/off at:\r\nTemporary stop NW Leary Way, just south of NW 39th St. (NB)\r\nStop #28350 N 36th St & Dayton Ave N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/40/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.294815,
           47.3924789
         ]
@@ -2327,13 +2327,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202148,
-          47.398262
+          -122.202347,
+          47.3972015
         ]
       },
       "properties": {
         "alert_id": "1_86793",
-        "stop_id": "57160",
+        "stop_id": "57400",
         "stop_name": "104th Ave SE & SE 228th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -2347,13 +2347,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202347,
-          47.3972015
+          -122.202148,
+          47.398262
         ]
       },
       "properties": {
         "alert_id": "1_86793",
-        "stop_id": "57400",
+        "stop_id": "57160",
         "stop_name": "104th Ave SE & SE 228th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -2707,6 +2707,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.313255,
+          47.6153564
+        ]
+      },
+      "properties": {
+        "alert_id": "1_80245",
+        "stop_id": "11480",
+        "stop_name": "E Pine St & 15th Ave",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #11480 E Pine St & 15th Ave (WB) relocated through Thu Dec 31 due to construction.",
+        "description": "Affected routes:\r\n10\r\n12\r\n\nFor Route 10 to downtown Seattle get on/off at:\r\nThe temporary stop on 15th Ave before E Pine St, in front of the Bancroft Apts (SB)\r\nStop #11490 E Pine St & 13th Ave (WB)\r\n\nFor Route 12 to downtown Seattle get on/off at:\r\nStop #11490 E Pine St & 13th Ave (WB)\r\nStop #123 E Madison St & 17th Ave (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.313255,
+          47.6153564
+        ]
+      },
+      "properties": {
+        "alert_id": "1_80245",
+        "stop_id": "11480",
+        "stop_name": "E Pine St & 15th Ave",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #11480 E Pine St & 15th Ave (WB) relocated through Thu Dec 31 due to construction.",
+        "description": "Affected routes:\r\n10\r\n12\r\n\nFor Route 10 to downtown Seattle get on/off at:\r\nThe temporary stop on 15th Ave before E Pine St, in front of the Bancroft Apts (SB)\r\nStop #11490 E Pine St & 13th Ave (WB)\r\n\nFor Route 12 to downtown Seattle get on/off at:\r\nStop #11490 E Pine St & 13th Ave (WB)\r\nStop #123 E Madison St & 17th Ave (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.230064,
           47.3697166
         ]
@@ -2720,46 +2760,6 @@
         "header": "Stop #58180 Central Ave S & S 259th St (SB) relocated from Mon Mar 23 through Mon Jun 1 due to construction.",
         "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on Central Ave S just south of S 259th St (SB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.313255,
-          47.6153564
-        ]
-      },
-      "properties": {
-        "alert_id": "1_80245",
-        "stop_id": "11480",
-        "stop_name": "E Pine St & 15th Ave",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #11480 E Pine St & 15th Ave (WB) relocated through Thu Dec 31 due to construction.",
-        "description": "Affected routes:\r\n10\r\n12\r\n\nFor Route 10 to downtown Seattle get on/off at:\r\nThe temporary stop on 15th Ave before E Pine St, in front of the Bancroft Apts (SB)\r\nStop #11490 E Pine St & 13th Ave (WB)\r\n\nFor Route 12 to downtown Seattle get on/off at:\r\nStop #11490 E Pine St & 13th Ave (WB)\r\nStop #123 E Madison St & 17th Ave (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.313255,
-          47.6153564
-        ]
-      },
-      "properties": {
-        "alert_id": "1_80245",
-        "stop_id": "11480",
-        "stop_name": "E Pine St & 15th Ave",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #11480 E Pine St & 15th Ave (WB) relocated through Thu Dec 31 due to construction.",
-        "description": "Affected routes:\r\n10\r\n12\r\n\nFor Route 10 to downtown Seattle get on/off at:\r\nThe temporary stop on 15th Ave before E Pine St, in front of the Bancroft Apts (SB)\r\nStop #11490 E Pine St & 13th Ave (WB)\r\n\nFor Route 12 to downtown Seattle get on/off at:\r\nStop #11490 E Pine St & 13th Ave (WB)\r\nStop #123 E Madison St & 17th Ave (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
@@ -2947,19 +2947,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.307014,
-          47.7192955
+          -122.092125,
+          47.5605125
         ]
       },
       "properties": {
-        "alert_id": "1_86387",
-        "stop_id": "35400",
-        "stop_name": "NE 125th St & 20th Ave NE",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_86464",
+        "stop_id": "65027",
+        "stop_name": "SE Newport Way & Lakemont Blvd SE",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #35400 NE 125th St & 20th Ave NE (EB) relocated through Fri May 1 due to construction.",
-        "description": "Affected routes:\r\n75\r\n\nGet on/off Route 75 to University District at:\r\nThe temporary stop on NE 125th St just west of 22nd Ave NE (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/75/S"
+        "header": "Stop #65027 SE Newport Way & Lakemont Blvd SE (EB) and Stop #65026 SE Newport Way & Lakemont Blvd SE (WB) closed due to construction.",
+        "description": "Affected routes:\r\n203\r\n\nFor Route 203 to Issaquah Highlands P&R/South Bellevue Station get on/off at:\r\nStop #65013 SE Newport Way & Lakemont Blvd SE (EB)\r\n\nFor Route 203 to South Bellevue Station/Issaquah Highlands P&R get on/off at:\r\nStop #65014 SE Newport Way & Lakemont Blvd SE (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/203/e"
       }
     },
     {
@@ -2987,39 +2987,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.092125,
-          47.5605125
+          -122.307014,
+          47.7192955
         ]
       },
       "properties": {
-        "alert_id": "1_86464",
-        "stop_id": "65027",
-        "stop_name": "SE Newport Way & Lakemont Blvd SE",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #65027 SE Newport Way & Lakemont Blvd SE (EB) and Stop #65026 SE Newport Way & Lakemont Blvd SE (WB) closed due to construction.",
-        "description": "Affected routes:\r\n203\r\n\nFor Route 203 to Issaquah Highlands P&R/South Bellevue Station get on/off at:\r\nStop #65013 SE Newport Way & Lakemont Blvd SE (EB)\r\n\nFor Route 203 to South Bellevue Station/Issaquah Highlands P&R get on/off at:\r\nStop #65014 SE Newport Way & Lakemont Blvd SE (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/203/e"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.211533,
-          47.4510269
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85376",
-        "stop_id": "60359",
-        "stop_name": "Talbot Rd S & S 32nd St",
+        "alert_id": "1_86387",
+        "stop_id": "35400",
+        "stop_name": "NE 125th St & 20th Ave NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #59951 Talbot Rd S & S 32nd St (SB) and Stop #60359 Talbot Rd S & S 32nd St (NB) are relocated through Mon Jun 15 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/03/18/2026/"
+        "header": "Stop #35400 NE 125th St & 20th Ave NE (EB) relocated through Fri May 1 due to construction.",
+        "description": "Affected routes:\r\n75\r\n\nGet on/off Route 75 to University District at:\r\nThe temporary stop on NE 125th St just west of 22nd Ave NE (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/75/S"
       }
     },
     {
@@ -3034,6 +3014,26 @@
       "properties": {
         "alert_id": "1_85376",
         "stop_id": "59951",
+        "stop_name": "Talbot Rd S & S 32nd St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #59951 Talbot Rd S & S 32nd St (SB) and Stop #60359 Talbot Rd S & S 32nd St (NB) are relocated through Mon Jun 15 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/03/18/2026/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.211533,
+          47.4510269
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85376",
+        "stop_id": "60359",
         "stop_name": "Talbot Rd S & S 32nd St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -3127,26 +3127,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.196999,
-          47.405056
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85182",
-        "stop_id": "57185",
-        "stop_name": "108th Ave SE & SE 220th Pl",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57375 108th Ave SE & SE 220th Pl (SB) and Stop #57185 108th Ave SE & SE 220th Pl (NB) relocated from Mon Mar 16 through Mon Jun 1 due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 108th Ave SE just south of SE 220th Pl (SB)\r\nThe temporary stop on 108th Ave SE just south of SE 220th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.197197,
           47.4044571
         ]
@@ -3167,18 +3147,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.221626,
-          47.3261719
+          -122.196999,
+          47.405056
         ]
       },
       "properties": {
-        "alert_id": "1_85184",
-        "stop_id": "58270",
-        "stop_name": "Auburn Way N & 22nd St NE",
+        "alert_id": "1_85182",
+        "stop_id": "57185",
+        "stop_name": "108th Ave SE & SE 220th Pl",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #58270 Auburn Way N & 22nd St NE (SB) and Stop #57900 Auburn Way N & 22nd St NE (NB) relocated from Mon Mar 16 through Mon Jun 1 due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on Auburn Way N just north of 22nd St NE (NB)\r\nThe temporary stop on Auburn Way N just south of 22nd St NE (SB)",
+        "header": "Stop #57375 108th Ave SE & SE 220th Pl (SB) and Stop #57185 108th Ave SE & SE 220th Pl (NB) relocated from Mon Mar 16 through Mon Jun 1 due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 108th Ave SE just south of SE 220th Pl (SB)\r\nThe temporary stop on 108th Ave SE just south of SE 220th St (NB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
@@ -3194,6 +3174,26 @@
       "properties": {
         "alert_id": "1_85184",
         "stop_id": "57900",
+        "stop_name": "Auburn Way N & 22nd St NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #58270 Auburn Way N & 22nd St NE (SB) and Stop #57900 Auburn Way N & 22nd St NE (NB) relocated from Mon Mar 16 through Mon Jun 1 due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on Auburn Way N just north of 22nd St NE (NB)\r\nThe temporary stop on Auburn Way N just south of 22nd St NE (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.221626,
+          47.3261719
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85184",
+        "stop_id": "58270",
         "stop_name": "Auburn Way N & 22nd St NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -3227,14 +3227,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.196953,
-          47.422966
+          -122.197159,
+          47.4223175
         ]
       },
       "properties": {
         "alert_id": "1_85180",
-        "stop_id": "57230",
-        "stop_name": "108th Ave SE & SE 200th St",
+        "stop_id": "57330",
+        "stop_name": "108th Ave SE & SE 201st St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
         "header": "Stop #57330 108th Ave SE & SE 201st St (SB) and Stop #57230 108th Ave SE & SE 200th St (NB) relocated from Mon Mar 16 through Mon Jun 1 due to bus stop maintenance work.",
@@ -3247,14 +3247,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.197159,
-          47.4223175
+          -122.196953,
+          47.422966
         ]
       },
       "properties": {
         "alert_id": "1_85180",
-        "stop_id": "57330",
-        "stop_name": "108th Ave SE & SE 201st St",
+        "stop_id": "57230",
+        "stop_name": "108th Ave SE & SE 200th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
         "header": "Stop #57330 108th Ave SE & SE 201st St (SB) and Stop #57230 108th Ave SE & SE 200th St (NB) relocated from Mon Mar 16 through Mon Jun 1 due to bus stop maintenance work.",
