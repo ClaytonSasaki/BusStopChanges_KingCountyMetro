@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-05-26T21:23:07.200317+00:00",
+  "generated_at": "2026-05-26T22:50:00.804459+00:00",
   "features": [
     {
       "type": "Feature",
@@ -27,14 +27,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.17601,
-          47.3515205
+          -122.171028,
+          47.3539085
         ]
       },
       "properties": {
         "alert_id": "1_87702",
-        "stop_id": "57519",
-        "stop_name": "124th Ave SE & SE 280th St",
+        "stop_id": "59067",
+        "stop_name": "SE 276th Pl & 127th Ave SE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 165 will be rerouted off SE 276th Pl and a portion of 124th Ave SE between 132nd Ave SE and SE 282nd St from Mon May 11 through Tues May 26 due to construction.",
+        "description": "Affected stops:\r\nStop #57518 124th Ave SE & SE 282nd St (NB)\r\nStop #57519 124th Ave SE & SE 280th St (NB)\r\nStop #59063 SE 277th Pl & 124th Ave SE (EB)\r\nStop #59067 SE 276th Pl & 127th Ave SE (EB)\r\nStop #59073 SE 278th Pl & 132nd Ave SE (EB)\r\nStop #57512 SE 276th Pl & 127th Ave SE (WB)\r\nStop #57516 SE 277th Pl & 124th Ave SE (WB)\r\nStop #59062 124th Ave SE & SE 282nd St (SB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57530 124th Ave SE & SE 288th Pl (NB)\r\nTemporary stop 124 Ave SE, just south of SE 282nd St (NB)\r\nTemporary stop 132nd Ave SE, just south of 278th Pl (NB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57496 132nd Ave SE & SE 278th St (SB)\r\nTemporary stop 124th Ave SE, just south of SE 282nd St (SB)\r\nStop #59069 124th Ave SE & SE 288th Pl (SB)\r\n\n\r\n*This is an update to the previous alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.171288,
+          47.3540459
+        ]
+      },
+      "properties": {
+        "alert_id": "1_87702",
+        "stop_id": "57512",
+        "stop_name": "SE 276th Pl & 127th Ave SE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off SE 276th Pl and a portion of 124th Ave SE between 132nd Ave SE and SE 282nd St from Mon May 11 through Tues May 26 due to construction.",
@@ -55,26 +75,6 @@
         "alert_id": "1_87702",
         "stop_id": "57516",
         "stop_name": "SE 277th Pl & 124th Ave SE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off SE 276th Pl and a portion of 124th Ave SE between 132nd Ave SE and SE 282nd St from Mon May 11 through Tues May 26 due to construction.",
-        "description": "Affected stops:\r\nStop #57518 124th Ave SE & SE 282nd St (NB)\r\nStop #57519 124th Ave SE & SE 280th St (NB)\r\nStop #59063 SE 277th Pl & 124th Ave SE (EB)\r\nStop #59067 SE 276th Pl & 127th Ave SE (EB)\r\nStop #59073 SE 278th Pl & 132nd Ave SE (EB)\r\nStop #57512 SE 276th Pl & 127th Ave SE (WB)\r\nStop #57516 SE 277th Pl & 124th Ave SE (WB)\r\nStop #59062 124th Ave SE & SE 282nd St (SB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57530 124th Ave SE & SE 288th Pl (NB)\r\nTemporary stop 124 Ave SE, just south of SE 282nd St (NB)\r\nTemporary stop 132nd Ave SE, just south of 278th Pl (NB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57496 132nd Ave SE & SE 278th St (SB)\r\nTemporary stop 124th Ave SE, just south of SE 282nd St (SB)\r\nStop #59069 124th Ave SE & SE 288th Pl (SB)\r\n\n\r\n*This is an update to the previous alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.16571,
-          47.3518105
-        ]
-      },
-      "properties": {
-        "alert_id": "1_87702",
-        "stop_id": "59073",
-        "stop_name": "SE 278th Pl & 132nd Ave SE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off SE 276th Pl and a portion of 124th Ave SE between 132nd Ave SE and SE 282nd St from Mon May 11 through Tues May 26 due to construction.",
@@ -127,6 +127,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.16571,
+          47.3518105
+        ]
+      },
+      "properties": {
+        "alert_id": "1_87702",
+        "stop_id": "59073",
+        "stop_name": "SE 278th Pl & 132nd Ave SE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 165 will be rerouted off SE 276th Pl and a portion of 124th Ave SE between 132nd Ave SE and SE 282nd St from Mon May 11 through Tues May 26 due to construction.",
+        "description": "Affected stops:\r\nStop #57518 124th Ave SE & SE 282nd St (NB)\r\nStop #57519 124th Ave SE & SE 280th St (NB)\r\nStop #59063 SE 277th Pl & 124th Ave SE (EB)\r\nStop #59067 SE 276th Pl & 127th Ave SE (EB)\r\nStop #59073 SE 278th Pl & 132nd Ave SE (EB)\r\nStop #57512 SE 276th Pl & 127th Ave SE (WB)\r\nStop #57516 SE 277th Pl & 124th Ave SE (WB)\r\nStop #59062 124th Ave SE & SE 282nd St (SB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57530 124th Ave SE & SE 288th Pl (NB)\r\nTemporary stop 124 Ave SE, just south of SE 282nd St (NB)\r\nTemporary stop 132nd Ave SE, just south of 278th Pl (NB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57496 132nd Ave SE & SE 278th St (SB)\r\nTemporary stop 124th Ave SE, just south of SE 282nd St (SB)\r\nStop #59069 124th Ave SE & SE 288th Pl (SB)\r\n\n\r\n*This is an update to the previous alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.17601,
+          47.3515205
+        ]
+      },
+      "properties": {
+        "alert_id": "1_87702",
+        "stop_id": "57519",
+        "stop_name": "124th Ave SE & SE 280th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 165 will be rerouted off SE 276th Pl and a portion of 124th Ave SE between 132nd Ave SE and SE 282nd St from Mon May 11 through Tues May 26 due to construction.",
+        "description": "Affected stops:\r\nStop #57518 124th Ave SE & SE 282nd St (NB)\r\nStop #57519 124th Ave SE & SE 280th St (NB)\r\nStop #59063 SE 277th Pl & 124th Ave SE (EB)\r\nStop #59067 SE 276th Pl & 127th Ave SE (EB)\r\nStop #59073 SE 278th Pl & 132nd Ave SE (EB)\r\nStop #57512 SE 276th Pl & 127th Ave SE (WB)\r\nStop #57516 SE 277th Pl & 124th Ave SE (WB)\r\nStop #59062 124th Ave SE & SE 282nd St (SB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57530 124th Ave SE & SE 288th Pl (NB)\r\nTemporary stop 124 Ave SE, just south of SE 282nd St (NB)\r\nTemporary stop 132nd Ave SE, just south of 278th Pl (NB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57496 132nd Ave SE & SE 278th St (SB)\r\nTemporary stop 124th Ave SE, just south of SE 282nd St (SB)\r\nStop #59069 124th Ave SE & SE 288th Pl (SB)\r\n\n\r\n*This is an update to the previous alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.176025,
           47.3491859
         ]
@@ -140,66 +180,6 @@
         "header": "Route 165 will be rerouted off SE 276th Pl and a portion of 124th Ave SE between 132nd Ave SE and SE 282nd St from Mon May 11 through Tues May 26 due to construction.",
         "description": "Affected stops:\r\nStop #57518 124th Ave SE & SE 282nd St (NB)\r\nStop #57519 124th Ave SE & SE 280th St (NB)\r\nStop #59063 SE 277th Pl & 124th Ave SE (EB)\r\nStop #59067 SE 276th Pl & 127th Ave SE (EB)\r\nStop #59073 SE 278th Pl & 132nd Ave SE (EB)\r\nStop #57512 SE 276th Pl & 127th Ave SE (WB)\r\nStop #57516 SE 277th Pl & 124th Ave SE (WB)\r\nStop #59062 124th Ave SE & SE 282nd St (SB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57530 124th Ave SE & SE 288th Pl (NB)\r\nTemporary stop 124 Ave SE, just south of SE 282nd St (NB)\r\nTemporary stop 132nd Ave SE, just south of 278th Pl (NB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57496 132nd Ave SE & SE 278th St (SB)\r\nTemporary stop 124th Ave SE, just south of SE 282nd St (SB)\r\nStop #59069 124th Ave SE & SE 288th Pl (SB)\r\n\n\r\n*This is an update to the previous alert.",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.171288,
-          47.3540459
-        ]
-      },
-      "properties": {
-        "alert_id": "1_87702",
-        "stop_id": "57512",
-        "stop_name": "SE 276th Pl & 127th Ave SE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off SE 276th Pl and a portion of 124th Ave SE between 132nd Ave SE and SE 282nd St from Mon May 11 through Tues May 26 due to construction.",
-        "description": "Affected stops:\r\nStop #57518 124th Ave SE & SE 282nd St (NB)\r\nStop #57519 124th Ave SE & SE 280th St (NB)\r\nStop #59063 SE 277th Pl & 124th Ave SE (EB)\r\nStop #59067 SE 276th Pl & 127th Ave SE (EB)\r\nStop #59073 SE 278th Pl & 132nd Ave SE (EB)\r\nStop #57512 SE 276th Pl & 127th Ave SE (WB)\r\nStop #57516 SE 277th Pl & 124th Ave SE (WB)\r\nStop #59062 124th Ave SE & SE 282nd St (SB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57530 124th Ave SE & SE 288th Pl (NB)\r\nTemporary stop 124 Ave SE, just south of SE 282nd St (NB)\r\nTemporary stop 132nd Ave SE, just south of 278th Pl (NB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57496 132nd Ave SE & SE 278th St (SB)\r\nTemporary stop 124th Ave SE, just south of SE 282nd St (SB)\r\nStop #59069 124th Ave SE & SE 288th Pl (SB)\r\n\n\r\n*This is an update to the previous alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.171028,
-          47.3539085
-        ]
-      },
-      "properties": {
-        "alert_id": "1_87702",
-        "stop_id": "59067",
-        "stop_name": "SE 276th Pl & 127th Ave SE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off SE 276th Pl and a portion of 124th Ave SE between 132nd Ave SE and SE 282nd St from Mon May 11 through Tues May 26 due to construction.",
-        "description": "Affected stops:\r\nStop #57518 124th Ave SE & SE 282nd St (NB)\r\nStop #57519 124th Ave SE & SE 280th St (NB)\r\nStop #59063 SE 277th Pl & 124th Ave SE (EB)\r\nStop #59067 SE 276th Pl & 127th Ave SE (EB)\r\nStop #59073 SE 278th Pl & 132nd Ave SE (EB)\r\nStop #57512 SE 276th Pl & 127th Ave SE (WB)\r\nStop #57516 SE 277th Pl & 124th Ave SE (WB)\r\nStop #59062 124th Ave SE & SE 282nd St (SB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57530 124th Ave SE & SE 288th Pl (NB)\r\nTemporary stop 124 Ave SE, just south of SE 282nd St (NB)\r\nTemporary stop 132nd Ave SE, just south of 278th Pl (NB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57496 132nd Ave SE & SE 278th St (SB)\r\nTemporary stop 124th Ave SE, just south of SE 282nd St (SB)\r\nStop #59069 124th Ave SE & SE 288th Pl (SB)\r\n\n\r\n*This is an update to the previous alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.343216,
-          47.6495743
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85843",
-        "stop_id": "26480",
-        "stop_name": "N 35th St & Stone Way N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 31 and 32 will be rerouted off N 35th St between Stone Way N and Fremont Ave N from Sat Mar 28 through Thu May 28 at 11:00 PM due to construction.",
-        "description": "Affected stops:\r\nStop #26480 N 35th St & Stone Way N (WB)\r\nStop #26490 N 35th St & Troll Ave N (WB)\r\nStop #26510 Fremont Ave N & N 34th St (SB)\r\n\nGet on/off:\r\nThe temporary stop on Stone Way N just south of N 35th St (SB)\r\nThe temporary stop on Fremont Ave N just south of N 34th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
@@ -275,6 +255,26 @@
         "alert_id": "1_85843",
         "stop_id": "26510",
         "stop_name": "Fremont Ave N & N 34th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 31 and 32 will be rerouted off N 35th St between Stone Way N and Fremont Ave N from Sat Mar 28 through Thu May 28 at 11:00 PM due to construction.",
+        "description": "Affected stops:\r\nStop #26480 N 35th St & Stone Way N (WB)\r\nStop #26490 N 35th St & Troll Ave N (WB)\r\nStop #26510 Fremont Ave N & N 34th St (SB)\r\n\nGet on/off:\r\nThe temporary stop on Stone Way N just south of N 35th St (SB)\r\nThe temporary stop on Fremont Ave N just south of N 34th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.343216,
+          47.6495743
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85843",
+        "stop_id": "26480",
+        "stop_name": "N 35th St & Stone Way N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Routes 31 and 32 will be rerouted off N 35th St between Stone Way N and Fremont Ave N from Sat Mar 28 through Thu May 28 at 11:00 PM due to construction.",
@@ -347,26 +347,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.347549,
-          47.6502495
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85842",
-        "stop_id": "26490",
-        "stop_name": "N 35th St & Troll Ave N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 62 to Downtown Seattle will be rerouted off N 35th St from Sat Mar 28 through Thu May 28 at 11:00 PM due to construction.",
-        "description": "Affected stops:\r\nStop #26480 N 35th St & Stone Way N (WB)\r\nStop #26490 N 35th St & Troll Ave N (WB)\r\nStop #26510 Fremont Ave N & N 34th St (SB)\r\n\nGet on/off at:\r\nThe temporary stop on Stone Way N, just south of N 35th St (SB)\r\nThe temporary stop on Fremont Ave N, just south of N 34th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/62/S"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.343216,
           47.6495743
         ]
@@ -407,6 +387,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.347549,
+          47.6502495
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85842",
+        "stop_id": "26490",
+        "stop_name": "N 35th St & Troll Ave N",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 62 to Downtown Seattle will be rerouted off N 35th St from Sat Mar 28 through Thu May 28 at 11:00 PM due to construction.",
+        "description": "Affected stops:\r\nStop #26480 N 35th St & Stone Way N (WB)\r\nStop #26490 N 35th St & Troll Ave N (WB)\r\nStop #26510 Fremont Ave N & N 34th St (SB)\r\n\nGet on/off at:\r\nThe temporary stop on Stone Way N, just south of N 35th St (SB)\r\nThe temporary stop on Fremont Ave N, just south of N 34th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/62/S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.248703,
           47.7581787
         ]
@@ -420,66 +420,6 @@
         "header": "Route 331 to Aurora Village/Kenmore is rerouted off NE Bothell Way between 68th Ave NE and 73rd Ave NE through Fri Aug 28 due to construction.",
         "description": "Affected stops:\r\nStop #76870 NE Bothell Way & 68th Ave NE (EB)\r\n\nGet on/off at:\r\nStop #70022 68th Ave NE & NE Bothell Way (NB)\r\nStop #76527 NE 181st St & 73rd Ave NE (EB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/331/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.37674,
-          47.6930084
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88038",
-        "stop_id": "13585",
-        "stop_name": "15th Ave NW & NW 87th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #13585 15th Ave NW & NW 87th St (SB) relocated from Thu May 14 to Tue May 26 9:00 AM to 3:00 PM daily (weekdays only) due to construction.",
-        "description": "Affected routes:\r\n40\r\n\nGet on/off at:\r\nStop #40049 Holman Rd NW & Mary Ave NW (WB)\r\nThe temporary stop on 15th Ave NW, just south of NW 87th St (SB)\r\nStop #37081 NW 85th St & 15th Ave NW (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/40/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.197174,
-          47.4078369
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86770",
-        "stop_id": "57370",
-        "stop_name": "108th Ave SE & SE 217th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57370 108th Ave SE & SE 217th St (SB) and Stop #57190 108th Ave SE & SE 217th St (NB) relocated from Mon Apr 20 through Tue Aug 11 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57360 108th Ave SE & SE 212th St (SB)\r\nThe temporary stop on 108th Ave SE just north of SE 220th St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57185 108th Ave SE & SE 220th Pl (NB)\r\nThe temporary stop on 108th Ave SE just south of SE 220th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.196983,
-          47.4085503
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86770",
-        "stop_id": "57190",
-        "stop_name": "108th Ave SE & SE 217th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57370 108th Ave SE & SE 217th St (SB) and Stop #57190 108th Ave SE & SE 217th St (NB) relocated from Mon Apr 20 through Tue Aug 11 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57360 108th Ave SE & SE 212th St (SB)\r\nThe temporary stop on 108th Ave SE just north of SE 220th St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57185 108th Ave SE & SE 220th Pl (NB)\r\nThe temporary stop on 108th Ave SE just south of SE 220th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -527,19 +467,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.315758,
-          47.5992737
+          -122.197174,
+          47.4078369
         ]
       },
       "properties": {
-        "alert_id": "1_88485",
-        "stop_id": "1671",
-        "stop_name": "12th & Jackson",
-        "alert_type": "Stop Closure",
+        "alert_id": "1_86770",
+        "stop_id": "57370",
+        "stop_name": "108th Ave SE & SE 217th St",
+        "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #1672 12th & Jackson (EB) and Stop #1671 12th & Jackson (WB) are closed today.",
-        "description": "Affected lines:\r\nFirst Hill Streetcar\r\n\nFor First Hill Streetcar  to Capitol Hill get on/off at:\r\nStop #1662 7th & Jackson (EB)\r\nStop #1682 14th & Washington (NB)\r\n\nFor First Hill Streetcar to Pioneer Square get on/off at:\r\nStop #1681 14th & Washington (SB)\r\nStop #1661 7th & Jackson(WB)\r\n\nFor alternate bus service, use Metro bus routes 7, 36 or 106 for service on S Jackson St. Use Metro bus route 60 for service on Broadway.\r\n\nAdditionally, riders can use the 1 Line for direct service between Capitol Hill and the International District.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+        "header": "Stop #57370 108th Ave SE & SE 217th St (SB) and Stop #57190 108th Ave SE & SE 217th St (NB) relocated from Mon Apr 20 through Tue Aug 11 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57360 108th Ave SE & SE 212th St (SB)\r\nThe temporary stop on 108th Ave SE just north of SE 220th St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57185 108th Ave SE & SE 220th Pl (NB)\r\nThe temporary stop on 108th Ave SE just south of SE 220th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.196983,
+          47.4085503
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86770",
+        "stop_id": "57190",
+        "stop_name": "108th Ave SE & SE 217th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57370 108th Ave SE & SE 217th St (SB) and Stop #57190 108th Ave SE & SE 217th St (NB) relocated from Mon Apr 20 through Tue Aug 11 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57360 108th Ave SE & SE 212th St (SB)\r\nThe temporary stop on 108th Ave SE just north of SE 220th St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57185 108th Ave SE & SE 220th Pl (NB)\r\nThe temporary stop on 108th Ave SE just south of SE 220th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -554,6 +514,26 @@
       "properties": {
         "alert_id": "1_88485",
         "stop_id": "1672",
+        "stop_name": "12th & Jackson",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #1672 12th & Jackson (EB) and Stop #1671 12th & Jackson (WB) are closed today.",
+        "description": "Affected lines:\r\nFirst Hill Streetcar\r\n\nFor First Hill Streetcar  to Capitol Hill get on/off at:\r\nStop #1662 7th & Jackson (EB)\r\nStop #1682 14th & Washington (NB)\r\n\nFor First Hill Streetcar to Pioneer Square get on/off at:\r\nStop #1681 14th & Washington (SB)\r\nStop #1661 7th & Jackson(WB)\r\n\nFor alternate bus service, use Metro bus routes 7, 36 or 106 for service on S Jackson St. Use Metro bus route 60 for service on Broadway.\r\n\nAdditionally, riders can use the 1 Line for direct service between Capitol Hill and the International District.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315758,
+          47.5992737
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88485",
+        "stop_id": "1671",
         "stop_name": "12th & Jackson",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -587,14 +567,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.308464,
-          47.3910408
+          -122.312439,
+          47.3867798
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "50466",
-        "stop_name": "Kent Des Moines Rd & 20th Ave S",
+        "stop_id": "47280",
+        "stop_name": "S 240th St & 16th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
@@ -607,14 +587,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.311691,
-          47.390789
+          -122.311783,
+          47.3866272
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "48972",
-        "stop_name": "16th Ave S & 17th Pl S",
+        "stop_id": "48920",
+        "stop_name": "S 240th St & 17th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
@@ -647,14 +627,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.311783,
-          47.3866272
+          -122.309937,
+          47.3865929
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "48920",
-        "stop_name": "S 240th St & 17th Ave S",
+        "stop_id": "48925",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308464,
+          47.3910408
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "50466",
+        "stop_name": "Kent Des Moines Rd & 20th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310036,
+          47.3867302
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311691,
+          47.390789
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48972",
+        "stop_name": "16th Ave S & 17th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
@@ -687,99 +727,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.309937,
-          47.3865929
+          -122.229919,
+          47.3703918
         ]
       },
       "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
+        "alert_id": "1_85436",
+        "stop_id": "57990",
+        "stop_name": "Central Ave S & S 259th St",
+        "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.312439,
-          47.3867798
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "47280",
-        "stop_name": "S 240th St & 16th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.310036,
-          47.3867302
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.310036,
-          47.3867302
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82886",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.309937,
-          47.3865929
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82886",
-        "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
+        "header": "Stop #57990 Central Ave S & S 259th St (NB) relocated from Mon Mar 23 through Mon Jun 1 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on Central Ave S just south of 259th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -827,19 +787,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.229919,
-          47.3703918
+          -122.310036,
+          47.3867302
         ]
       },
       "properties": {
-        "alert_id": "1_85436",
-        "stop_id": "57990",
-        "stop_name": "Central Ave S & S 259th St",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_82886",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #57990 Central Ave S & S 259th St (NB) relocated from Mon Mar 23 through Mon Jun 1 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on Central Ave S just south of 259th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.309937,
+          47.3865929
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82886",
+        "stop_id": "48925",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Fri Aug 14 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
       }
     },
     {
@@ -880,26 +860,6 @@
         "header": "Stop #70666 NE 85th St & Kirkland Way (EB) closed through Tue Aug 31, 2027 due to construction.",
         "description": "Affected routes:\r\n239\r\n250\r\n\nGet on/off at:\r\nThe temporary stop on NE 85th St, just east of Kirkland Way (EB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7423"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.323364,
-          47.559597
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88306",
-        "stop_id": "41040",
-        "stop_name": "Airport Way S & S Edmunds St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 124 to Tukwila Link Station will be rerouted off Airport Way S between S Snoqualmie St and S Lucile St Tue May 26 to Fri May 29 from 7:00 PM until 6:00 AM, each night, due to construction.",
-        "description": "Affected stops:\r\nStop #41020 Airport Way S & S Industrial Way (SB)\r\nStop #41030 Airport Way S & S Snoqualmie St (SB)\r\nStop #41040 Airport Way S & S Edmunds St (SB)\r\n\nGet on/off at:\r\nThe temporary stop on Airport Way S just north of S Industrial Way\r\nStop #41060 Airport Way S & S Lucile St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/124/S"
       }
     },
     {
@@ -935,6 +895,26 @@
         "alert_id": "1_88306",
         "stop_id": "41030",
         "stop_name": "Airport Way S & S Snoqualmie St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 124 to Tukwila Link Station will be rerouted off Airport Way S between S Snoqualmie St and S Lucile St Tue May 26 to Fri May 29 from 7:00 PM until 6:00 AM, each night, due to construction.",
+        "description": "Affected stops:\r\nStop #41020 Airport Way S & S Industrial Way (SB)\r\nStop #41030 Airport Way S & S Snoqualmie St (SB)\r\nStop #41040 Airport Way S & S Edmunds St (SB)\r\n\nGet on/off at:\r\nThe temporary stop on Airport Way S just north of S Industrial Way\r\nStop #41060 Airport Way S & S Lucile St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/124/S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323364,
+          47.559597
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88306",
+        "stop_id": "41040",
+        "stop_name": "Airport Way S & S Edmunds St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 124 to Tukwila Link Station will be rerouted off Airport Way S between S Snoqualmie St and S Lucile St Tue May 26 to Fri May 29 from 7:00 PM until 6:00 AM, each night, due to construction.",
@@ -1087,46 +1067,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.169868,
-          47.5673218
-        ]
-      },
-      "properties": {
-        "alert_id": "1_87850",
-        "stop_id": "79900",
-        "stop_name": "Factoria Blvd SE & SE Newport Way",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #79900 Factoria Blvd SE & SE Newport Way (SB) closed from Mon May 18 through Fri May 29 due to construction.",
-        "description": "Affected routes:\r\n240\r\n\nGet on/off at:\r\nStop #79890 Factoria Blvd SE & SE 42nd St (SB)\r\nStop #64790 Factoria Blvd SE & Coal Creek Pkwy SE (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/240/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.191422,
-          47.6101265
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88423",
-        "stop_id": "82810",
-        "stop_name": "Main St & 112th Ave NE",
-        "alert_type": "Stop Closure",
-        "status": "upcoming",
-        "header": "Stop #82810 Main St & 112th Ave NE (WB) closed from Wed May 27 to Thu Dec 31 from 8:00 AM to 3:00 PM daily, Mon-Fri only due to construction.",
-        "description": "Affected routes:\r\n240\r\n\nGet on/off at:\r\nStop #82790 112th Ave SE & SE 4th St (NB)\r\nStop #85730 108th Ave NE & NE 2nd St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/240/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.270378,
           47.4741135
         ]
@@ -1167,14 +1107,94 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.376846,
-          47.3092575
+          -122.191422,
+          47.6101265
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88423",
+        "stop_id": "82810",
+        "stop_name": "Main St & 112th Ave NE",
+        "alert_type": "Stop Closure",
+        "status": "upcoming",
+        "header": "Stop #82810 Main St & 112th Ave NE (WB) closed from Wed May 27 to Thu Dec 31 from 8:00 AM to 3:00 PM daily, Mon-Fri only due to construction.",
+        "description": "Affected routes:\r\n240\r\n\nGet on/off at:\r\nStop #82790 112th Ave SE & SE 4th St (NB)\r\nStop #85730 108th Ave NE & NE 2nd St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/240/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.169868,
+          47.5673218
+        ]
+      },
+      "properties": {
+        "alert_id": "1_87850",
+        "stop_id": "79900",
+        "stop_name": "Factoria Blvd SE & SE Newport Way",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #79900 Factoria Blvd SE & SE Newport Way (SB) closed from Mon May 18 through Fri May 29 due to construction.",
+        "description": "Affected routes:\r\n240\r\n\nGet on/off at:\r\nStop #79890 Factoria Blvd SE & SE 42nd St (SB)\r\nStop #64790 Factoria Blvd SE & Coal Creek Pkwy SE (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/240/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329147,
+          47.3152351
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88267",
+        "stop_id": "83783",
+        "stop_name": "S 320th St & 4th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "upcoming",
+        "header": "Stop #83783 S 320th St & 4th Ave S (WB) closed from Wed May 27 to Fri Jun 5 7:00 AM to 3:30 PM daily due to construction.",
+        "description": "Affected routes:\r\n181\r\n187\r\n\nGet on/off at:\r\nStop #83782 S 320th St & 6th Ave S (WB)\r\nStop #83784 SW 320th St & 1st Ave S (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/2204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329147,
+          47.3152351
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88267",
+        "stop_id": "83783",
+        "stop_name": "S 320th St & 4th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "upcoming",
+        "header": "Stop #83783 S 320th St & 4th Ave S (WB) closed from Wed May 27 to Fri Jun 5 7:00 AM to 3:30 PM daily due to construction.",
+        "description": "Affected routes:\r\n181\r\n187\r\n\nGet on/off at:\r\nStop #83782 S 320th St & 6th Ave S (WB)\r\nStop #83784 SW 320th St & 1st Ave S (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/2204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.376862,
+          47.3076134
         ]
       },
       "properties": {
         "alert_id": "1_82361",
-        "stop_id": "61510",
-        "stop_name": "35th Ave SW & SW 327th St",
+        "stop_id": "61500",
+        "stop_name": "35th Ave SW & SW 328th Pl",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
@@ -1207,54 +1227,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.376862,
-          47.3076134
+          -122.376846,
+          47.3092575
         ]
       },
       "properties": {
         "alert_id": "1_82361",
-        "stop_id": "61500",
-        "stop_name": "35th Ave SW & SW 328th Pl",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
-        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.376709,
-          47.3110771
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82361",
-        "stop_id": "61520",
-        "stop_name": "35th Ave SW & SW 325th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
-        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.373825,
-          47.310997
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82361",
-        "stop_id": "61530",
-        "stop_name": "SW 325th St & 32nd Ave SW",
+        "stop_id": "61510",
+        "stop_name": "35th Ave SW & SW 327th St",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
@@ -1287,19 +1267,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.329147,
-          47.3152351
+          -122.373825,
+          47.310997
         ]
       },
       "properties": {
-        "alert_id": "1_88267",
-        "stop_id": "83783",
-        "stop_name": "S 320th St & 4th Ave S",
+        "alert_id": "1_82361",
+        "stop_id": "61530",
+        "stop_name": "SW 325th St & 32nd Ave SW",
         "alert_type": "Stop Closure",
-        "status": "upcoming",
-        "header": "Stop #83783 S 320th St & 4th Ave S (WB) closed from Wed May 27 to Fri Jun 5 7:00 AM to 3:30 PM daily due to construction.",
-        "description": "Affected routes:\r\n181\r\n187\r\n\nGet on/off at:\r\nStop #83782 S 320th St & 6th Ave S (WB)\r\nStop #83784 SW 320th St & 1st Ave S (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/2204"
+        "status": "ongoing",
+        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
       }
     },
     {
@@ -1307,19 +1287,119 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.329147,
-          47.3152351
+          -122.376709,
+          47.3110771
         ]
       },
       "properties": {
-        "alert_id": "1_88267",
-        "stop_id": "83783",
-        "stop_name": "S 320th St & 4th Ave S",
+        "alert_id": "1_82361",
+        "stop_id": "61520",
+        "stop_name": "35th Ave SW & SW 325th St",
         "alert_type": "Stop Closure",
-        "status": "upcoming",
-        "header": "Stop #83783 S 320th St & 4th Ave S (WB) closed from Wed May 27 to Fri Jun 5 7:00 AM to 3:30 PM daily due to construction.",
-        "description": "Affected routes:\r\n181\r\n187\r\n\nGet on/off at:\r\nStop #83782 S 320th St & 6th Ave S (WB)\r\nStop #83784 SW 320th St & 1st Ave S (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/2204"
+        "status": "ongoing",
+        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.035355,
+          47.631916
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88222",
+        "stop_id": "81775",
+        "stop_name": "228th Ave NE & NE 25th Way",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #81775 228th Ave NE & NE 25th Way (NB) relocated from Fri May 22 to Fri May 29 9:30 AM to 3:30 PM daily due to construction.",
+        "description": "Affected routes:\r\n269\r\nST 554\r\n\nGet on/off at:\r\nStop #81861 228th Ave NE & NE 22nd St (NB)\r\nThe temporary stop on 228th Ave NE just south of NE 25th Way (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/2136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.035355,
+          47.631916
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88222",
+        "stop_id": "81775",
+        "stop_name": "228th Ave NE & NE 25th Way",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #81775 228th Ave NE & NE 25th Way (NB) relocated from Fri May 22 to Fri May 29 9:30 AM to 3:30 PM daily due to construction.",
+        "description": "Affected routes:\r\n269\r\nST 554\r\n\nGet on/off at:\r\nStop #81861 228th Ave NE & NE 22nd St (NB)\r\nThe temporary stop on 228th Ave NE just south of NE 25th Way (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/2136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.248703,
+          47.7581787
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86881",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.248703,
+          47.7581787
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86881",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.248703,
+          47.7581787
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86881",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
@@ -1387,66 +1467,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86881",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86881",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86881",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.242851,
           47.7572136
         ]
@@ -1460,46 +1480,6 @@
         "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
         "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.035355,
-          47.631916
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88222",
-        "stop_id": "81775",
-        "stop_name": "228th Ave NE & NE 25th Way",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #81775 228th Ave NE & NE 25th Way (NB) relocated from Fri May 22 to Fri May 29 9:30 AM to 3:30 PM daily due to construction.",
-        "description": "Affected routes:\r\n269\r\nST 554\r\n\nGet on/off at:\r\nStop #81861 228th Ave NE & NE 22nd St (NB)\r\nThe temporary stop on 228th Ave NE just south of NE 25th Way (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/2136"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.035355,
-          47.631916
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88222",
-        "stop_id": "81775",
-        "stop_name": "228th Ave NE & NE 25th Way",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #81775 228th Ave NE & NE 25th Way (NB) relocated from Fri May 22 to Fri May 29 9:30 AM to 3:30 PM daily due to construction.",
-        "description": "Affected routes:\r\n269\r\nST 554\r\n\nGet on/off at:\r\nStop #81861 228th Ave NE & NE 22nd St (NB)\r\nThe temporary stop on 228th Ave NE just south of NE 25th Way (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/2136"
       }
     },
     {
@@ -1707,6 +1687,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.334473,
+          47.7375755
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86319",
+        "stop_id": "16330",
+        "stop_name": "Meridian Ave N & N 150th St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Fri May 29 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334473,
+          47.7375755
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86319",
+        "stop_id": "16330",
+        "stop_name": "Meridian Ave N & N 150th St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Fri May 29 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334473,
+          47.7375755
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86319",
+        "stop_id": "16330",
+        "stop_name": "Meridian Ave N & N 150th St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Fri May 29 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.313164,
           47.7340279
         ]
@@ -1727,106 +1767,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334473,
-          47.7375755
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86319",
-        "stop_id": "16330",
-        "stop_name": "Meridian Ave N & N 150th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Fri May 29 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334473,
-          47.7375755
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86319",
-        "stop_id": "16330",
-        "stop_name": "Meridian Ave N & N 150th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Fri May 29 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334473,
-          47.7375755
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86319",
-        "stop_id": "16330",
-        "stop_name": "Meridian Ave N & N 150th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Fri May 29 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.252281,
-          47.4625549
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86756",
-        "stop_id": "58112",
-        "stop_name": "Southcenter Blvd & 65th Ave S",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #58112 Southcenter Blvd & 65th Ave S (WB) is relocated 7:00AM to 7:00PM daily until Mon Jun 1 due to construction.",
-        "description": "Affected routes:\r\n150\r\nRapidRide F Line\r\n\nGet on/off at:\r\nTemporary stop on Southcenter Blvd, just west of the closed zone (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7181"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.252281,
-          47.4625549
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86756",
-        "stop_id": "58112",
-        "stop_name": "Southcenter Blvd & 65th Ave S",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #58112 Southcenter Blvd & 65th Ave S (WB) is relocated 7:00AM to 7:00PM daily until Mon Jun 1 due to construction.",
-        "description": "Affected routes:\r\n150\r\nRapidRide F Line\r\n\nGet on/off at:\r\nTemporary stop on Southcenter Blvd, just west of the closed zone (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7181"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.202171,
           47.7602425
         ]
@@ -1840,6 +1780,46 @@
         "header": "Route 239 to UW Bothell / Cascadia College is rerouted off Main St between 102nd Ave NE & 104th Ave NE through Fri Sep 25 due to construction.",
         "description": "Affected stops:\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\n\nGet on/off at:\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.252281,
+          47.4625549
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86756",
+        "stop_id": "58112",
+        "stop_name": "Southcenter Blvd & 65th Ave S",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #58112 Southcenter Blvd & 65th Ave S (WB) is relocated 7:00AM to 7:00PM daily until Mon Jun 1 due to construction.",
+        "description": "Affected routes:\r\n150\r\nRapidRide F Line\r\n\nGet on/off at:\r\nTemporary stop on Southcenter Blvd, just west of the closed zone (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.252281,
+          47.4625549
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86756",
+        "stop_id": "58112",
+        "stop_name": "Southcenter Blvd & 65th Ave S",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #58112 Southcenter Blvd & 65th Ave S (WB) is relocated 7:00AM to 7:00PM daily until Mon Jun 1 due to construction.",
+        "description": "Affected routes:\r\n150\r\nRapidRide F Line\r\n\nGet on/off at:\r\nTemporary stop on Southcenter Blvd, just west of the closed zone (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7181"
       }
     },
     {
@@ -1947,39 +1927,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.203827,
-          47.4426765
+          -122.195068,
+          47.6457138
         ]
       },
       "properties": {
-        "alert_id": "1_87888",
-        "stop_id": "59390",
-        "stop_name": "SE Carr Rd & 103rd Ave SE",
-        "alert_type": "Stop Closure",
+        "alert_id": "1_88537",
+        "stop_id": "74441",
+        "stop_name": "108th Ave NE & NE 39th St",
+        "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #59390 SE Carr Rd & 103rd Ave SE (EB) closed from Wed May 13 at 12:00 AM to Fri Jul 31 at 12:00 AM due to construction.",
-        "description": "Affected routes:\r\n160\r\nDART 906\r\n\nGet on/off at:\r\nStop #59380 S Carr Rd & Smithers Ave S (EB)\r\nStop #59400 SE Carr Rd & 106th Pl SE (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.203827,
-          47.4426765
-        ]
-      },
-      "properties": {
-        "alert_id": "1_87888",
-        "stop_id": "59390",
-        "stop_name": "SE Carr Rd & 103rd Ave SE",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #59390 SE Carr Rd & 103rd Ave SE (EB) closed from Wed May 13 at 12:00 AM to Fri Jul 31 at 12:00 AM due to construction.",
-        "description": "Affected routes:\r\n160\r\nDART 906\r\n\nGet on/off at:\r\nStop #59380 S Carr Rd & Smithers Ave S (EB)\r\nStop #59400 SE Carr Rd & 106th Pl SE (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+        "header": "Stop #74441 108th Ave NE & NE 39th St (SB) relocated through Sun Jun 28 due to construction.",
+        "description": "Affected routes:\r\n255\r\n\nGet on/off at:\r\nThe temporary stop on 108th Ave NE, just north of the closed stop (SB)\r\nStop #74442 108th Ave NE & NE 38th Pl (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8277"
       }
     },
     {
@@ -2000,6 +1960,46 @@
         "header": "Stop #9550 Eastlake Ave E & E Allison St (NB) relocated until Fri Aug 28 at 7:00 PM due to construction.",
         "description": "Affected routes:\r\n70\r\n\nGet on/off at:\r\nThe temporary stop on Eastlake Ave E just before E Allison St (NB)\r\n\nTo learn more about the construction impacts that are part of the upgrade of Route 70 into the RapidRide J Line please visit SDOT\u2019s website link:\r\n\nhttps://www.seattle.gov/transportation/projects-and-programs/programs/transit-program/transit-plus-multimodal-corridor-program/rapidride-roosevelt",
         "url": "https://www.seattle.gov/transportation/projects-and-programs/programs/transit-program/transit-plus-multimodal-corridor-program/rapidride-j-line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.203827,
+          47.4426765
+        ]
+      },
+      "properties": {
+        "alert_id": "1_87888",
+        "stop_id": "59390",
+        "stop_name": "SE Carr Rd & 103rd Ave SE",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #59390 SE Carr Rd & 103rd Ave SE (EB) closed from Wed May 13 at 12:00 AM to Fri Jul 31 at 12:00 AM due to construction.",
+        "description": "Affected routes:\r\n160\r\nDART 906\r\n\nGet on/off at:\r\nStop #59380 S Carr Rd & Smithers Ave S (EB)\r\nStop #59400 SE Carr Rd & 106th Pl SE (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.203827,
+          47.4426765
+        ]
+      },
+      "properties": {
+        "alert_id": "1_87888",
+        "stop_id": "59390",
+        "stop_name": "SE Carr Rd & 103rd Ave SE",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #59390 SE Carr Rd & 103rd Ave SE (EB) closed from Wed May 13 at 12:00 AM to Fri Jul 31 at 12:00 AM due to construction.",
+        "description": "Affected routes:\r\n160\r\nDART 906\r\n\nGet on/off at:\r\nStop #59380 S Carr Rd & Smithers Ave S (EB)\r\nStop #59400 SE Carr Rd & 106th Pl SE (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
@@ -2167,46 +2167,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.317329,
-          47.5986519
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88413",
-        "stop_id": "3700",
-        "stop_name": "12th Ave S & S Jackson St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #3700 12th Ave S & S Jackson St (SB) closed from Tue May 26 to Fri May 29 from 7:00 AM to 3:30 PM daily due to construction.",
-        "description": "Affected routes:\r\n36\r\n60\r\n\nFor Route 36 to Othello Station get on/off at:\r\nStop #1490 S Jackson St & 8th Ave S (EB)\r\nStop #3710 12th Ave S & S Weller St (SB)\r\n\nFor Route 60 to Westwood Village get on/off at:\r\nStop #3710 12th Ave S & S Weller St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.317329,
-          47.5986519
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88413",
-        "stop_id": "3700",
-        "stop_name": "12th Ave S & S Jackson St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #3700 12th Ave S & S Jackson St (SB) closed from Tue May 26 to Fri May 29 from 7:00 AM to 3:30 PM daily due to construction.",
-        "description": "Affected routes:\r\n36\r\n60\r\n\nFor Route 36 to Othello Station get on/off at:\r\nStop #1490 S Jackson St & 8th Ave S (EB)\r\nStop #3710 12th Ave S & S Weller St (SB)\r\n\nFor Route 60 to Westwood Village get on/off at:\r\nStop #3710 12th Ave S & S Weller St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.313248,
           47.7195091
         ]
@@ -2239,6 +2199,46 @@
         "status": "ongoing",
         "header": "Stop #35270 NE 125th St & 15th Ave NE (WB) relocated through Tue Jun 30 due to construction.",
         "description": "Affected routes:\r\n982\r\n986\r\n\nGet off at:\r\nStudents may request to de-board the bus on NE 125th St just before 15th Ave NE (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.317329,
+          47.5986519
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88413",
+        "stop_id": "3700",
+        "stop_name": "12th Ave S & S Jackson St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #3700 12th Ave S & S Jackson St (SB) closed from Tue May 26 to Fri May 29 from 7:00 AM to 3:30 PM daily due to construction.",
+        "description": "Affected routes:\r\n36\r\n60\r\n\nFor Route 36 to Othello Station get on/off at:\r\nStop #1490 S Jackson St & 8th Ave S (EB)\r\nStop #3710 12th Ave S & S Weller St (SB)\r\n\nFor Route 60 to Westwood Village get on/off at:\r\nStop #3710 12th Ave S & S Weller St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.317329,
+          47.5986519
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88413",
+        "stop_id": "3700",
+        "stop_name": "12th Ave S & S Jackson St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #3700 12th Ave S & S Jackson St (SB) closed from Tue May 26 to Fri May 29 from 7:00 AM to 3:30 PM daily due to construction.",
+        "description": "Affected routes:\r\n36\r\n60\r\n\nFor Route 36 to Othello Station get on/off at:\r\nStop #1490 S Jackson St & 8th Ave S (EB)\r\nStop #3710 12th Ave S & S Weller St (SB)\r\n\nFor Route 60 to Westwood Village get on/off at:\r\nStop #3710 12th Ave S & S Weller St (SB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
@@ -2267,26 +2267,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.281281,
-          47.4703484
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88533",
-        "stop_id": "50075",
-        "stop_name": "42nd Ave S & S 148th St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 128 is rerouted in both directions off Southcenter Blvd and 42nd Ave S between S 144th St and Tukwila International Blvd due to an emergency response.",
-        "description": "\n\r\nAffected stops:\r\nStop #50075 42nd Ave S & S 148th St (SB)\r\nStop #54206 Southcenter Blvd & 42nd Ave S (WB)\r\nStop #49350 42nd Ave S & S 152nd St (NB)\r\nStop #49360 42nd Ave S & S 148th St (NB)\r\nStop #41119 42nd Ave S & S 144th St (NB)\r\n\nFor Route 128 to Admiral District get on/off at:\r\nStop #40813 S 144th St & 42nd Ave S (WB)\r\nStop #60923 Tuk Intl Blvd Sta - Bay 3 (WB)\r\n\nFor Route 128 to Southcenter get on/off at:\r\nStop #60922 Tuk Intl Blvd Sta - Bay 2 (WB)\r\nStop #41237 S 144th St & 51st Ave S (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/128/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.2817,
           47.4659157
         ]
@@ -2307,14 +2287,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.281075,
-          47.4669838
+          -122.281281,
+          47.4703484
         ]
       },
       "properties": {
         "alert_id": "1_88533",
-        "stop_id": "49350",
-        "stop_name": "42nd Ave S & S 152nd St",
+        "stop_id": "50075",
+        "stop_name": "42nd Ave S & S 148th St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 128 is rerouted in both directions off Southcenter Blvd and 42nd Ave S between S 144th St and Tukwila International Blvd due to an emergency response.",
@@ -2355,6 +2335,26 @@
         "alert_id": "1_88533",
         "stop_id": "41119",
         "stop_name": "42nd Ave S & S 144th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 128 is rerouted in both directions off Southcenter Blvd and 42nd Ave S between S 144th St and Tukwila International Blvd due to an emergency response.",
+        "description": "\n\r\nAffected stops:\r\nStop #50075 42nd Ave S & S 148th St (SB)\r\nStop #54206 Southcenter Blvd & 42nd Ave S (WB)\r\nStop #49350 42nd Ave S & S 152nd St (NB)\r\nStop #49360 42nd Ave S & S 148th St (NB)\r\nStop #41119 42nd Ave S & S 144th St (NB)\r\n\nFor Route 128 to Admiral District get on/off at:\r\nStop #40813 S 144th St & 42nd Ave S (WB)\r\nStop #60923 Tuk Intl Blvd Sta - Bay 3 (WB)\r\n\nFor Route 128 to Southcenter get on/off at:\r\nStop #60922 Tuk Intl Blvd Sta - Bay 2 (WB)\r\nStop #41237 S 144th St & 51st Ave S (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/128/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.281075,
+          47.4669838
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88533",
+        "stop_id": "49350",
+        "stop_name": "42nd Ave S & S 152nd St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 128 is rerouted in both directions off Southcenter Blvd and 42nd Ave S between S 144th St and Tukwila International Blvd due to an emergency response.",
@@ -2540,6 +2540,26 @@
         "header": "Stop #64970 SE Newport Way & 152nd Ave SE (EB) relocated until Wed Jul 15 at 9:00 AM due to construction.",
         "description": "Affected routes:\r\n203\r\n271\r\n\nGet on/off at:\r\nStop #64960 SE Newport Way & 151st Ave SE (EB)\r\nThe temporary stop on SE Newport Way just east of 152nd Ave SE (EB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30439,
+          47.3150368
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88261",
+        "stop_id": "85543",
+        "stop_name": "Federal Way Downtown Station - Bay 13",
+        "alert_type": "Stop Closure",
+        "status": "upcoming",
+        "header": "Stop #85543 Federal Way Downtown Station - Bay 13 (EB) closed from 8:30 AM to 3:00 PM on Thu May 28 due to construction.",
+        "description": "Affected routes:\r\n181\r\n\nGet on/off at:\r\nStop #61332 S 320th St & 20th Ave S (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/181/E/"
       }
     },
     {
@@ -2767,46 +2787,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334282,
-          47.72295
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88408",
-        "stop_id": "16860",
-        "stop_name": "Meridian Ave N & N 130th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #16860 Meridian Ave N & N 130th St (SB) closed from 9:00 AM to 3:00 PM on Tue May 26 due to construction.",
-        "description": "Affected routes:\r\n345\r\n365\r\n\nGet on/off at:\r\nRoute 345: to Northgate Station\r\nStop #43130 N 130th St & Ashworth Ave N (EB)\r\nStop 16870 N 128th St & Meridian Ave N (WB)\r\n\nGet on/off:\r\nRoute 365: to Northgate Station\r\nStop #16850 Meridian Ave N & N 133rd St (SB)\r\nStop 16870 N 128th St & Meridian Ave N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334282,
-          47.72295
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88408",
-        "stop_id": "16860",
-        "stop_name": "Meridian Ave N & N 130th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #16860 Meridian Ave N & N 130th St (SB) closed from 9:00 AM to 3:00 PM on Tue May 26 due to construction.",
-        "description": "Affected routes:\r\n345\r\n365\r\n\nGet on/off at:\r\nRoute 345: to Northgate Station\r\nStop #43130 N 130th St & Ashworth Ave N (EB)\r\nStop 16870 N 128th St & Meridian Ave N (WB)\r\n\nGet on/off:\r\nRoute 365: to Northgate Station\r\nStop #16850 Meridian Ave N & N 133rd St (SB)\r\nStop 16870 N 128th St & Meridian Ave N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.028519,
           47.3593903
         ]
@@ -3007,13 +2987,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.092728,
-          47.5609665
+          -122.092125,
+          47.5605125
         ]
       },
       "properties": {
         "alert_id": "1_86464",
-        "stop_id": "65026",
+        "stop_id": "65027",
         "stop_name": "SE Newport Way & Lakemont Blvd SE",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -3027,13 +3007,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.092125,
-          47.5605125
+          -122.092728,
+          47.5609665
         ]
       },
       "properties": {
         "alert_id": "1_86464",
-        "stop_id": "65027",
+        "stop_id": "65026",
         "stop_name": "SE Newport Way & Lakemont Blvd SE",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -3127,26 +3107,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.20224,
-          47.3799477
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85183",
-        "stop_id": "57162",
-        "stop_name": "104th Ave SE & SE 248th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57407 104th Ave SE & SE 248th St (SB) and Stop #57162 104th Ave SE & SE 248th St (NB) relocated from Mon Mar 16 through Mon Jun 1 due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 104th Ave SE just south of SE 248th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 248th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.202446,
           47.3793526
         ]
@@ -3167,19 +3127,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.387215,
-          47.5344429
+          -122.20224,
+          47.3799477
         ]
       },
       "properties": {
-        "alert_id": "1_88210",
-        "stop_id": "39450",
-        "stop_name": "SW Ida St & California Ave SW",
-        "alert_type": "Stop Closure",
+        "alert_id": "1_85183",
+        "stop_id": "57162",
+        "stop_name": "104th Ave SE & SE 248th St",
+        "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #39450 SW Ida St & California Ave SW (WB) and Stop #39840 SW Ida St & California Ave SW (EB) closed Mon May 25 through Fri Jun 5 from 7:00 AM to 7:00 PM, each day, due to construction.",
-        "description": "Affected routes:\r\n22\r\n\nFor Route 22 to Alaska Junction get on/off at:\r\nStop #39448 41st Ave SW & SW Holden St (NB)\r\nStop #39451 California Ave SW & SW Austin St (NB)\r\n\nFor Route 22 to Shorewood get on/off at:\r\nStop #39830 California Ave SW & SW Webster St (SB)\r\nStop #39850 SW Ida St & 41st Ave SW (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/22/n"
+        "header": "Stop #57407 104th Ave SE & SE 248th St (SB) and Stop #57162 104th Ave SE & SE 248th St (NB) relocated from Mon Mar 16 through Mon Jun 1 due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 104th Ave SE just south of SE 248th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 248th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -3194,6 +3154,26 @@
       "properties": {
         "alert_id": "1_88210",
         "stop_id": "39840",
+        "stop_name": "SW Ida St & California Ave SW",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #39450 SW Ida St & California Ave SW (WB) and Stop #39840 SW Ida St & California Ave SW (EB) closed Mon May 25 through Fri Jun 5 from 7:00 AM to 7:00 PM, each day, due to construction.",
+        "description": "Affected routes:\r\n22\r\n\nFor Route 22 to Alaska Junction get on/off at:\r\nStop #39448 41st Ave SW & SW Holden St (NB)\r\nStop #39451 California Ave SW & SW Austin St (NB)\r\n\nFor Route 22 to Shorewood get on/off at:\r\nStop #39830 California Ave SW & SW Webster St (SB)\r\nStop #39850 SW Ida St & 41st Ave SW (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/22/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.387215,
+          47.5344429
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88210",
+        "stop_id": "39450",
         "stop_name": "SW Ida St & California Ave SW",
         "alert_type": "Stop Closure",
         "status": "ongoing",
