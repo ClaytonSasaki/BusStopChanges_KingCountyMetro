@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-06-04T14:20:40.545970+00:00",
+  "generated_at": "2026-06-04T17:29:02.891908+00:00",
   "features": [
     {
       "type": "Feature",
@@ -107,14 +107,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.240036,
-          47.3831444
+          -122.238029,
+          47.3831062
         ]
       },
       "properties": {
         "alert_id": "1_87304",
-        "stop_id": "79215",
-        "stop_name": "W Smith St & 6th Ave N",
+        "stop_id": "57187",
+        "stop_name": "W Smith St & 4th Ave N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off portions of W Smith St and W Meeker St between 4th Ave N & Washington Ave N Thu Apr 30, 2026 through Fri Dec 24, 2027 due to construction.",
@@ -127,14 +127,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.238029,
-          47.3831062
+          -122.240036,
+          47.3831444
         ]
       },
       "properties": {
         "alert_id": "1_87304",
-        "stop_id": "57187",
-        "stop_name": "W Smith St & 4th Ave N",
+        "stop_id": "79215",
+        "stop_name": "W Smith St & 6th Ave N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off portions of W Smith St and W Meeker St between 4th Ave N & Washington Ave N Thu Apr 30, 2026 through Fri Dec 24, 2027 due to construction.",
@@ -256,30 +256,10 @@
         "stop_id": "81845",
         "stop_name": "Sahalee Way NE & NE 37th Way",
         "alert_type": "Stop Closure",
-        "status": "upcoming",
+        "status": "ongoing",
         "header": "Stop #81845 Sahalee Way NE & NE 37th Way (SB) closed from 7:30 AM to 5:00 PM on Thu Jun 4 due to construction.",
         "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n269\r\n\nGet on/off at:\r\nTemporary stop on Sahalee Way NE, just north of NE 37th Way (SB)\r\nStop #81800 Sahalee Way NE & NE 36th St (SB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/269/S"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.197174,
-          47.4078369
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86770",
-        "stop_id": "57370",
-        "stop_name": "108th Ave SE & SE 217th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57370 108th Ave SE & SE 217th St (SB) and Stop #57190 108th Ave SE & SE 217th St (NB) relocated from Mon Apr 20 through Tue Aug 11 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57360 108th Ave SE & SE 212th St (SB)\r\nThe temporary stop on 108th Ave SE just north of SE 220th St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57185 108th Ave SE & SE 220th Pl (NB)\r\nThe temporary stop on 108th Ave SE just south of SE 220th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -294,6 +274,26 @@
       "properties": {
         "alert_id": "1_86770",
         "stop_id": "57190",
+        "stop_name": "108th Ave SE & SE 217th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57370 108th Ave SE & SE 217th St (SB) and Stop #57190 108th Ave SE & SE 217th St (NB) relocated from Mon Apr 20 through Tue Aug 11 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57360 108th Ave SE & SE 212th St (SB)\r\nThe temporary stop on 108th Ave SE just north of SE 220th St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57185 108th Ave SE & SE 220th Pl (NB)\r\nThe temporary stop on 108th Ave SE just south of SE 220th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.197174,
+          47.4078369
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86770",
+        "stop_id": "57370",
         "stop_name": "108th Ave SE & SE 217th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -367,54 +367,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.308136,
-          47.3909111
+          -122.31189,
+          47.3907471
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "48974",
-        "stop_name": "Kent Des Moines Rd & 20th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.309937,
-          47.3865929
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.312439,
-          47.3867798
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "47280",
-        "stop_name": "S 240th St & 16th Ave S",
+        "stop_id": "50468",
+        "stop_name": "16th Ave S & 17th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -447,13 +407,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.308464,
-          47.3910408
+          -122.308136,
+          47.3909111
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "50466",
+        "stop_id": "48974",
         "stop_name": "Kent Des Moines Rd & 20th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -467,14 +427,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.31189,
-          47.3907471
+          -122.312439,
+          47.3867798
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "50468",
-        "stop_name": "16th Ave S & 17th Pl S",
+        "stop_id": "47280",
+        "stop_name": "S 240th St & 16th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311783,
+          47.3866272
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48920",
+        "stop_name": "S 240th St & 17th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -507,14 +487,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.311783,
-          47.3866272
+          -122.308464,
+          47.3910408
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "48920",
-        "stop_name": "S 240th St & 17th Ave S",
+        "stop_id": "50466",
+        "stop_name": "Kent Des Moines Rd & 20th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.309937,
+          47.3865929
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48925",
+        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -534,6 +534,26 @@
       "properties": {
         "alert_id": "1_82886",
         "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nThis is an update to the previous alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.309937,
+          47.3865929
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82886",
+        "stop_id": "48925",
         "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -575,26 +595,6 @@
         "alert_id": "1_82886",
         "stop_id": "48920",
         "stop_name": "S 240th St & 17th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nThis is an update to the previous alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.309937,
-          47.3865929
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82886",
-        "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -807,19 +807,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.191422,
-          47.6101265
+          -122.270378,
+          47.4741135
         ]
       },
       "properties": {
-        "alert_id": "1_88423",
-        "stop_id": "82810",
-        "stop_name": "Main St & 112th Ave NE",
+        "alert_id": "1_88269",
+        "stop_id": "40811",
+        "stop_name": "S 144th St & Macadam Rd S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #82810 Main St & 112th Ave NE (WB) closed from Wed May 27 to Thu Dec 31 from 8:00 AM to 3:00 PM daily, Mon-Fri only due to construction.",
-        "description": "Affected routes:\r\n240\r\n\nGet on/off at:\r\nStop #82790 112th Ave SE & SE 4th St (NB)\r\nStop #85730 108th Ave NE & NE 2nd St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/240/N/"
+        "header": "Stop #40811 S 144th St & Macadam Rd S (WB) and Stop #41237 S 144th St & 51st Ave S (EB) closed from Fri May 22 to Fri Jun 12 7:00 AM to 5:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n128\r\n\nFor Route 128 to Admiral District get on/off at:\r\nStop #40828 53rd Ave S & S 144th St (NB)\r\n\nFor Route 128 to Southcenter get on/off at:\r\nStop #41247 S 144th St & 53rd Ave S (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/128/N/"
       }
     },
     {
@@ -847,19 +847,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.270378,
-          47.4741135
+          -122.191422,
+          47.6101265
         ]
       },
       "properties": {
-        "alert_id": "1_88269",
-        "stop_id": "40811",
-        "stop_name": "S 144th St & Macadam Rd S",
+        "alert_id": "1_88423",
+        "stop_id": "82810",
+        "stop_name": "Main St & 112th Ave NE",
         "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #40811 S 144th St & Macadam Rd S (WB) and Stop #41237 S 144th St & 51st Ave S (EB) closed from Fri May 22 to Fri Jun 12 7:00 AM to 5:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n128\r\n\nFor Route 128 to Admiral District get on/off at:\r\nStop #40828 53rd Ave S & S 144th St (NB)\r\n\nFor Route 128 to Southcenter get on/off at:\r\nStop #41247 S 144th St & 53rd Ave S (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/128/N/"
+        "header": "Stop #82810 Main St & 112th Ave NE (WB) closed from Wed May 27 to Thu Dec 31 from 8:00 AM to 3:00 PM daily, Mon-Fri only due to construction.",
+        "description": "Affected routes:\r\n240\r\n\nGet on/off at:\r\nStop #82790 112th Ave SE & SE 4th St (NB)\r\nStop #85730 108th Ave NE & NE 2nd St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/240/N/"
       }
     },
     {
@@ -927,26 +927,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.376862,
-          47.3076134
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82361",
-        "stop_id": "61500",
-        "stop_name": "35th Ave SW & SW 328th Pl",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
-        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.376411,
           47.3039742
         ]
@@ -967,14 +947,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.371872,
-          47.3093719
+          -122.376862,
+          47.3076134
         ]
       },
       "properties": {
         "alert_id": "1_82361",
-        "stop_id": "61540",
-        "stop_name": "SW 327th St & 30th Ave SW",
+        "stop_id": "61500",
+        "stop_name": "35th Ave SW & SW 328th Pl",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
@@ -1027,139 +1007,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.248703,
-          47.7581787
+          -122.371872,
+          47.3093719
         ]
       },
       "properties": {
-        "alert_id": "1_86881",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_82361",
+        "stop_id": "61540",
+        "stop_name": "SW 327th St & 30th Ave SW",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86881",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86881",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86881",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.242851,
-          47.7572136
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86881",
-        "stop_id": "76880",
-        "stop_name": "NE Bothell Way & 73rd Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86881",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.242851,
-          47.7572136
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86881",
-        "stop_id": "76880",
-        "stop_name": "NE Bothell Way & 73rd Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
       }
     },
     {
@@ -1187,18 +1047,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.246307,
-          47.3813095
+          -122.248703,
+          47.7581787
         ]
       },
       "properties": {
-        "alert_id": "1_86095",
-        "stop_id": "57188",
-        "stop_name": "W Meeker St & Washington Ave S",
+        "alert_id": "1_86881",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Mon Apr 6 through Mon Apr 26 due to permanent bus stop closure.",
-        "description": "Affected routes:\r\n165\r\nDART 914\r\n\nGet on/off:\r\nThe temporary stop on Thomas Ave N just east of the regular stop",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
@@ -1207,18 +1067,118 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.246307,
-          47.3813095
+          -122.248703,
+          47.7581787
         ]
       },
       "properties": {
-        "alert_id": "1_86095",
-        "stop_id": "57188",
-        "stop_name": "W Meeker St & Washington Ave S",
+        "alert_id": "1_86881",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Mon Apr 6 through Mon Apr 26 due to permanent bus stop closure.",
-        "description": "Affected routes:\r\n165\r\nDART 914\r\n\nGet on/off:\r\nThe temporary stop on Thomas Ave N just east of the regular stop",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.248703,
+          47.7581787
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86881",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.248703,
+          47.7581787
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86881",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.242851,
+          47.7572136
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86881",
+        "stop_id": "76880",
+        "stop_name": "NE Bothell Way & 73rd Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.248703,
+          47.7581787
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86881",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.242851,
+          47.7572136
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86881",
+        "stop_id": "76880",
+        "stop_name": "NE Bothell Way & 73rd Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
@@ -1247,6 +1207,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.246307,
+          47.3813095
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86095",
+        "stop_id": "57188",
+        "stop_name": "W Meeker St & Washington Ave S",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Mon Apr 6 through Mon Apr 26 due to permanent bus stop closure.",
+        "description": "Affected routes:\r\n165\r\nDART 914\r\n\nGet on/off:\r\nThe temporary stop on Thomas Ave N just east of the regular stop",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.246307,
+          47.3813095
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86095",
+        "stop_id": "57188",
+        "stop_name": "W Meeker St & Washington Ave S",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Mon Apr 6 through Mon Apr 26 due to permanent bus stop closure.",
+        "description": "Affected routes:\r\n165\r\nDART 914\r\n\nGet on/off:\r\nThe temporary stop on Thomas Ave N just east of the regular stop",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.3545,
           47.638195
         ]
@@ -1260,6 +1260,26 @@
         "header": "Stop #3940 Boston St & Warren Ave N (EB) closed from 9:00 AM to 5:00 PM on Fri Jun 5 due to construction.",
         "description": "Affected routes:\r\n4\r\n\nGet on/off at:\r\nStop #3930 Boston St & Queen Anne Ave N (EB)\r\nStop #3950 Boston St & Nob Hill Ave N (EB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/4/s"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315636,
+          47.6128387
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89082",
+        "stop_id": "3160",
+        "stop_name": "E Union St & 13th Ave",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 2 to Madrona Park is rerouted off E Union St between 12th Ave and 14th Ave due to utility work.",
+        "description": "Affected stops:\r\nStop #3160 E Union St & 13th Ave (EB)\r\n\nGet on/off at:\r\nStop #3156 E Madison St & 12th Ave (EB)\r\nStop #3190 E Union St & 18th Ave (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/2/S"
       }
     },
     {
@@ -1407,26 +1427,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.195068,
-          47.6457138
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88537",
-        "stop_id": "74441",
-        "stop_name": "108th Ave NE & NE 39th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #74441 108th Ave NE & NE 39th St (SB) relocated through Sun Jun 28 due to construction.",
-        "description": "Affected routes:\r\n255\r\n\nGet on/off at:\r\nThe temporary stop on 108th Ave NE, just north of the closed stop (SB)\r\nStop #74442 108th Ave NE & NE 38th Pl (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8277"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.230301,
           47.3865623
         ]
@@ -1480,6 +1480,26 @@
         "header": "Route 165 is rerouted off E James St between Jason Ave N and Railroad Ave N from Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM daily due to construction.",
         "description": "Affected stops:\r\nStop #57480 E James St & Woodford Ave N (WB)\r\nStop #58144 Central Ave N & E James St (SB)\r\nStop #57070 E James St & Central Ave N (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57470 E James St & Jason Ave N (WB)\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57452 Kent Sounder Station - Bay 2 (NB)\r\nStop #57090 E James St & Jason Ave N (EB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.195068,
+          47.6457138
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88537",
+        "stop_id": "74441",
+        "stop_name": "108th Ave NE & NE 39th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #74441 108th Ave NE & NE 39th St (SB) relocated through Sun Jun 28 due to construction.",
+        "description": "Affected routes:\r\n255\r\n\nGet on/off at:\r\nThe temporary stop on 108th Ave NE, just north of the closed stop (SB)\r\nStop #74442 108th Ave NE & NE 38th Pl (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8277"
       }
     },
     {
@@ -1867,19 +1887,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202347,
-          47.3972015
+          -122.313339,
+          47.7596664
         ]
       },
       "properties": {
-        "alert_id": "1_86793",
-        "stop_id": "57400",
-        "stop_name": "104th Ave SE & SE 228th St",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_88695",
+        "stop_id": "77910",
+        "stop_name": "15th Ave NE & NE 180th St",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #57400 104th Ave SE & SE 228th St (SB) and Stop #57160 104th Ave SE & SE 228th St (NB) relocated from Mon Apr 20 through Tue Jun 23 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57390 Benson Rd SE & SE 224th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 230th Pl (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57150 104th Ave SE & SE 232nd St (NB)\r\nThe temporary stop on 104th Ave SE just south of SE 226th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+        "header": "Stop #77910 15th Ave NE & NE 180th St (NB) will be permanently closed from Tue Jun 2 due to permanent bus stop closure.",
+        "description": "Affected routes:\r\n333\r\n\nGet on/off:\r\nStop #77461 15th Ave NE & NE 179TH St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/N/"
       }
     },
     {
@@ -1907,38 +1927,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.313339,
-          47.7596664
+          -122.202347,
+          47.3972015
         ]
       },
       "properties": {
-        "alert_id": "1_88695",
-        "stop_id": "77910",
-        "stop_name": "15th Ave NE & NE 180th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #77910 15th Ave NE & NE 180th St (NB) will be permanently closed from Tue Jun 2 due to permanent bus stop closure.",
-        "description": "Affected routes:\r\n333\r\n\nGet on/off:\r\nStop #77461 15th Ave NE & NE 179TH St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.202446,
-          47.3793526
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88980",
-        "stop_id": "57407",
-        "stop_name": "104th Ave SE & SE 248th St",
+        "alert_id": "1_86793",
+        "stop_id": "57400",
+        "stop_name": "104th Ave SE & SE 228th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #57407 104th Ave SE & SE 248th St (SB) and Stop #57162 104th Ave SE & SE 248th St (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 104th Ave SE just south of SE 248th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 248th St (NB)",
+        "header": "Stop #57400 104th Ave SE & SE 228th St (SB) and Stop #57160 104th Ave SE & SE 228th St (NB) relocated from Mon Apr 20 through Tue Jun 23 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57390 Benson Rd SE & SE 224th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 230th Pl (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57150 104th Ave SE & SE 232nd St (NB)\r\nThe temporary stop on 104th Ave SE just south of SE 226th St (NB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
@@ -1954,6 +1954,26 @@
       "properties": {
         "alert_id": "1_88980",
         "stop_id": "57162",
+        "stop_name": "104th Ave SE & SE 248th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57407 104th Ave SE & SE 248th St (SB) and Stop #57162 104th Ave SE & SE 248th St (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 104th Ave SE just south of SE 248th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 248th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.202446,
+          47.3793526
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88980",
+        "stop_id": "57407",
         "stop_name": "104th Ave SE & SE 248th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -2187,19 +2207,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.028519,
-          47.3593903
+          -122.191505,
+          47.5159988
         ]
       },
       "properties": {
-        "alert_id": "1_86627",
-        "stop_id": "62319",
-        "stop_name": "SE Kent-Kangley Rd & 235th Ave SE",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_88804",
+        "stop_id": "56720",
+        "stop_name": "NE 27th St & Aberdeen Ave NE",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #62319 SE Kent-Kangley Rd & 235th Ave SE (EB) relocated from Wed Apr 15 to Fri Sep 25 8:00 AM to 3:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n168\r\n\nGet on/off:\r\nThe temporary stop on SE Kent-Kangley Rd just west of 235th Ave SE (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/168/E/"
+        "header": "Stop #56720 NE 27th St & Aberdeen Ave NE (WB) and Stop #54780 NE 27th St & Aberdeen Ave NE (EB) closed from 9:00 AM to 3:00 PM on Thu Jun 4 due to construction.",
+        "description": "Affected routes:\r\n111\r\n\nFor Route 111 to Downtown Seattle get on/off at:\r\nStop #56710 NE 27th St & Camas Ave NE (WB)\r\nStop #56730 Kennewick Pl NE & NE 29th St (NB)\r\n\nFor Route 111 to Lake Kathleen get on/off at:\r\nStop #54770 Kennewick Pl NE & NE 28th St (SB)\r\nStop #54790 NE 27th St & Camas Ave NE (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/111/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.191391,
+          47.5158424
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88804",
+        "stop_id": "54780",
+        "stop_name": "NE 27th St & Aberdeen Ave NE",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #56720 NE 27th St & Aberdeen Ave NE (WB) and Stop #54780 NE 27th St & Aberdeen Ave NE (EB) closed from 9:00 AM to 3:00 PM on Thu Jun 4 due to construction.",
+        "description": "Affected routes:\r\n111\r\n\nFor Route 111 to Downtown Seattle get on/off at:\r\nStop #56710 NE 27th St & Camas Ave NE (WB)\r\nStop #56730 Kennewick Pl NE & NE 29th St (NB)\r\n\nFor Route 111 to Lake Kathleen get on/off at:\r\nStop #54770 Kennewick Pl NE & NE 28th St (SB)\r\nStop #54790 NE 27th St & Camas Ave NE (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/111/S/"
       }
     },
     {
@@ -2227,39 +2267,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.191505,
-          47.5159988
+          -122.028519,
+          47.3593903
         ]
       },
       "properties": {
-        "alert_id": "1_88804",
-        "stop_id": "56720",
-        "stop_name": "NE 27th St & Aberdeen Ave NE",
-        "alert_type": "Stop Closure",
-        "status": "upcoming",
-        "header": "Stop #56720 NE 27th St & Aberdeen Ave NE (WB) and Stop #54780 NE 27th St & Aberdeen Ave NE (EB) closed from 9:00 AM to 3:00 PM on Thu Jun 4 due to construction.",
-        "description": "Affected routes:\r\n111\r\n\nFor Route 111 to Downtown Seattle get on/off at:\r\nStop #56710 NE 27th St & Camas Ave NE (WB)\r\nStop #56730 Kennewick Pl NE & NE 29th St (NB)\r\n\nFor Route 111 to Lake Kathleen get on/off at:\r\nStop #54770 Kennewick Pl NE & NE 28th St (SB)\r\nStop #54790 NE 27th St & Camas Ave NE (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/111/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.191391,
-          47.5158424
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88804",
-        "stop_id": "54780",
-        "stop_name": "NE 27th St & Aberdeen Ave NE",
-        "alert_type": "Stop Closure",
-        "status": "upcoming",
-        "header": "Stop #56720 NE 27th St & Aberdeen Ave NE (WB) and Stop #54780 NE 27th St & Aberdeen Ave NE (EB) closed from 9:00 AM to 3:00 PM on Thu Jun 4 due to construction.",
-        "description": "Affected routes:\r\n111\r\n\nFor Route 111 to Downtown Seattle get on/off at:\r\nStop #56710 NE 27th St & Camas Ave NE (WB)\r\nStop #56730 Kennewick Pl NE & NE 29th St (NB)\r\n\nFor Route 111 to Lake Kathleen get on/off at:\r\nStop #54770 Kennewick Pl NE & NE 28th St (SB)\r\nStop #54790 NE 27th St & Camas Ave NE (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/111/S/"
+        "alert_id": "1_86627",
+        "stop_id": "62319",
+        "stop_name": "SE Kent-Kangley Rd & 235th Ave SE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #62319 SE Kent-Kangley Rd & 235th Ave SE (EB) relocated from Wed Apr 15 to Fri Sep 25 8:00 AM to 3:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n168\r\n\nGet on/off:\r\nThe temporary stop on SE Kent-Kangley Rd just west of 235th Ave SE (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/168/E/"
       }
     },
     {
@@ -2287,19 +2307,79 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.309692,
-          47.4885292
+          -122.295418,
+          47.6612778
         ]
       },
       "properties": {
-        "alert_id": "1_87795",
-        "stop_id": "49440",
-        "stop_name": "S 128th St & Roseberg Ave S",
-        "alert_type": "Stop Closure",
+        "alert_id": "1_88962",
+        "stop_id": "25202",
+        "stop_name": "NE 45th St & University Village",
+        "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #49440 S 128th St & Roseberg Ave S (EB) and Stop #49980 S 128th St & Roseberg Ave S (WB) closed due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n132\r\n\nFor Route 132 to Downtown Seattle get on/off at:\r\nStop #49430 Des Moines Memorial Dr S & S 128th St (NB)\r\nStop #49450 S 128th St & 20th Ave S (EB)\r\n\nFor Route 132 to Burien TC get on/off at:\r\nStop #49970 S 128th St & 20th Ave S (WB)\r\nStop #50010 Des Moines Memorial Dr S & S 128th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/132/S/"
+        "header": "Stop #25202 NE 45th St & University Village (WB) relocated from Thu Jun 4 through Fri Aug 28 due to construction.",
+        "description": "Affected routes:\r\n31\r\n32\r\n45\r\n67\r\n\nGet on/off at:\r\nTemporary stop on NE 45th St just east of the University Village main driveway. (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/75083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.295418,
+          47.6612778
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88962",
+        "stop_id": "25202",
+        "stop_name": "NE 45th St & University Village",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #25202 NE 45th St & University Village (WB) relocated from Thu Jun 4 through Fri Aug 28 due to construction.",
+        "description": "Affected routes:\r\n31\r\n32\r\n45\r\n67\r\n\nGet on/off at:\r\nTemporary stop on NE 45th St just east of the University Village main driveway. (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/75083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.295418,
+          47.6612778
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88962",
+        "stop_id": "25202",
+        "stop_name": "NE 45th St & University Village",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #25202 NE 45th St & University Village (WB) relocated from Thu Jun 4 through Fri Aug 28 due to construction.",
+        "description": "Affected routes:\r\n31\r\n32\r\n45\r\n67\r\n\nGet on/off at:\r\nTemporary stop on NE 45th St just east of the University Village main driveway. (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/75083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.295418,
+          47.6612778
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88962",
+        "stop_id": "25202",
+        "stop_name": "NE 45th St & University Village",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #25202 NE 45th St & University Village (WB) relocated from Thu Jun 4 through Fri Aug 28 due to construction.",
+        "description": "Affected routes:\r\n31\r\n32\r\n45\r\n67\r\n\nGet on/off at:\r\nTemporary stop on NE 45th St just east of the University Village main driveway. (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/75083"
       }
     },
     {
@@ -2327,119 +2407,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.295418,
-          47.6612778
+          -122.309692,
+          47.4885292
         ]
       },
       "properties": {
-        "alert_id": "1_88962",
-        "stop_id": "25202",
-        "stop_name": "NE 45th St & University Village",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_87795",
+        "stop_id": "49440",
+        "stop_name": "S 128th St & Roseberg Ave S",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #25202 NE 45th St & University Village (WB) relocated from Thu Jun 4 through Fri Aug 28 due to construction.",
-        "description": "Affected routes:\r\n31\r\n32\r\n45\r\n67\r\n\nGet on/off at:\r\nTemporary stop on NE 45th St just east of the University Village main driveway. (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/75083"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.295418,
-          47.6612778
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88962",
-        "stop_id": "25202",
-        "stop_name": "NE 45th St & University Village",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #25202 NE 45th St & University Village (WB) relocated from Thu Jun 4 through Fri Aug 28 due to construction.",
-        "description": "Affected routes:\r\n31\r\n32\r\n45\r\n67\r\n\nGet on/off at:\r\nTemporary stop on NE 45th St just east of the University Village main driveway. (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/75083"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.295418,
-          47.6612778
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88962",
-        "stop_id": "25202",
-        "stop_name": "NE 45th St & University Village",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #25202 NE 45th St & University Village (WB) relocated from Thu Jun 4 through Fri Aug 28 due to construction.",
-        "description": "Affected routes:\r\n31\r\n32\r\n45\r\n67\r\n\nGet on/off at:\r\nTemporary stop on NE 45th St just east of the University Village main driveway. (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/75083"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.295418,
-          47.6612778
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88962",
-        "stop_id": "25202",
-        "stop_name": "NE 45th St & University Village",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #25202 NE 45th St & University Village (WB) relocated from Thu Jun 4 through Fri Aug 28 due to construction.",
-        "description": "Affected routes:\r\n31\r\n32\r\n45\r\n67\r\n\nGet on/off at:\r\nTemporary stop on NE 45th St just east of the University Village main driveway. (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/75083"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.211708,
-          47.4509659
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85376",
-        "stop_id": "59951",
-        "stop_name": "Talbot Rd S & S 32nd St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #59951 Talbot Rd S & S 32nd St (SB) and Stop #60359 Talbot Rd S & S 32nd St (NB) relocated through Sat Aug 1 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.211533,
-          47.4510269
-        ]
-      },
-      "properties": {
-        "alert_id": "1_85376",
-        "stop_id": "60359",
-        "stop_name": "Talbot Rd S & S 32nd St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #59951 Talbot Rd S & S 32nd St (SB) and Stop #60359 Talbot Rd S & S 32nd St (NB) relocated through Sat Aug 1 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+        "header": "Stop #49440 S 128th St & Roseberg Ave S (EB) and Stop #49980 S 128th St & Roseberg Ave S (WB) closed due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n132\r\n\nFor Route 132 to Downtown Seattle get on/off at:\r\nStop #49430 Des Moines Memorial Dr S & S 128th St (NB)\r\nStop #49450 S 128th St & 20th Ave S (EB)\r\n\nFor Route 132 to Burien TC get on/off at:\r\nStop #49970 S 128th St & 20th Ave S (WB)\r\nStop #50010 Des Moines Memorial Dr S & S 128th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/132/S/"
       }
     },
     {
@@ -2479,6 +2459,46 @@
         "status": "ongoing",
         "header": "Stop #57330 108th Ave SE & SE 201st St (SB) and Stop #57230 108th Ave SE & SE 200th St (NB) relocated through Fri Jul 10 due to bus stop maintenance work.",
         "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nFor Route 160 to Auburn Station:\r\nThe temporary stop on 108th Ave SE just north of the closed stop (SB)\r\n\nFor Route 160 to Renton:\r\nThe temporary stop on 108th Ave SE just south of the closed stop (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.211708,
+          47.4509659
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85376",
+        "stop_id": "59951",
+        "stop_name": "Talbot Rd S & S 32nd St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #59951 Talbot Rd S & S 32nd St (SB) and Stop #60359 Talbot Rd S & S 32nd St (NB) relocated through Sat Aug 1 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.211533,
+          47.4510269
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85376",
+        "stop_id": "60359",
+        "stop_name": "Talbot Rd S & S 32nd St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #59951 Talbot Rd S & S 32nd St (SB) and Stop #60359 Talbot Rd S & S 32nd St (NB) relocated through Sat Aug 1 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (NB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
       }
     },
@@ -2547,106 +2567,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.270027,
-          47.5069351
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88890",
-        "stop_id": "55441",
-        "stop_name": "51st Ave S & S Creston St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
-        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.269966,
-          47.5098152
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88890",
-        "stop_id": "55450",
-        "stop_name": "51st Ave S & S Ryan St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
-        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.270134,
-          47.5166931
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88890",
-        "stop_id": "55228",
-        "stop_name": "51st Ave S & S Roxbury St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
-        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.270149,
-          47.51408
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88890",
-        "stop_id": "55230",
-        "stop_name": "51st Ave S & S Bond St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
-        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.270157,
-          47.5122337
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88890",
-        "stop_id": "55240",
-        "stop_name": "51st Ave S & S Gazelle St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
-        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.270218,
           47.5073318
         ]
@@ -2656,47 +2576,7 @@
         "stop_id": "55260",
         "stop_name": "51st Ave S & S 107th St",
         "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
-        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.269943,
-          47.5141907
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88890",
-        "stop_id": "55470",
-        "stop_name": "51st Ave S & S Bond St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
-        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.270172,
-          47.5096855
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88890",
-        "stop_id": "55250",
-        "stop_name": "51st Ave S & S Ryan St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
+        "status": "ongoing",
         "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
         "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
@@ -2716,10 +2596,210 @@
         "stop_id": "55460",
         "stop_name": "51st Ave S & S Gazelle St",
         "alert_type": "Route Change",
-        "status": "upcoming",
+        "status": "ongoing",
         "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
         "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.269943,
+          47.5141907
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88890",
+        "stop_id": "55470",
+        "stop_name": "51st Ave S & S Bond St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
+        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.270149,
+          47.51408
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88890",
+        "stop_id": "55230",
+        "stop_name": "51st Ave S & S Bond St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
+        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.269966,
+          47.5098152
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88890",
+        "stop_id": "55450",
+        "stop_name": "51st Ave S & S Ryan St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
+        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.270157,
+          47.5122337
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88890",
+        "stop_id": "55240",
+        "stop_name": "51st Ave S & S Gazelle St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
+        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.270134,
+          47.5166931
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88890",
+        "stop_id": "55228",
+        "stop_name": "51st Ave S & S Roxbury St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
+        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.270172,
+          47.5096855
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88890",
+        "stop_id": "55250",
+        "stop_name": "51st Ave S & S Ryan St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
+        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.270027,
+          47.5069351
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88890",
+        "stop_id": "55441",
+        "stop_name": "51st Ave S & S Creston St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 107 is rerouted off a portion of 51st Ave S between S Bangor St and S Roxbury St from 8:00 AM to 5:00 PM on Thu Jun 4 due to construction.",
+        "description": "Affected stops:\r\nStop #55441 51st Ave S & S Creston St (NB)\r\nStop #55450 51st Ave S & S Ryan St (NB)\r\nStop #55460 51st Ave S & S Gazelle St (NB)\r\nStop #55470 51st Ave S & S Bond St (NB)\r\nStop #55228 51st Ave S & S Roxbury St (SB)\r\nStop #55230 51st Ave S & S Bond St (SB)\r\nStop #55240 51st Ave S & S Gazelle St (SB)\r\nStop #55250 51st Ave S & S Ryan St (SB)\r\nStop #55260 51st Ave S & S 107th St (SB)\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nStop #55430 51st Ave S & S Hazel St (NB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (NB)\r\nStop #55150 Renton Ave S & S Bangor St (NB)\r\nStop #55160 Renton Ave S & S Prentice St (NB)\r\nStop #55170 Renton Ave S & S Ryan St (NB)\r\nStop #55180 Renton Ave S & S Victor St (NB)\r\nStop #55190 Renton Ave S & 57th Ave S (NB)\r\nStop #55200 Renton Ave S & S Norfolk St (NB)\r\nStop #55210 Renton Ave S & 54th Ave S (NB)\r\nStop #55220 Renton Ave S & 52nd Ave S (NB)\r\nStop #55472 51st Ave S & Renton Ave S (NB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55226 51st Ave S & S Fletcher St (SB)\r\nStop #56275 Renton Ave S & S Roxbury St (SB)\r\nStop #56280 Renton Ave S & 52nd Ave S (SB)\r\nStop #56290 Renton Ave S & 54th Ave S (SB)\r\nStop #56300 Renton Ave S & 55th Ave S (SB)\r\nStop #56310 Renton Ave S & 57th Ave S (SB)\r\nStop #56320 Renton Ave S & S Victor St (SB)\r\nStop #56330 Renton Ave S & S Ryan St (SB)\r\nStop #56340 Renton Ave S & S Prentice St (SB)\r\nThe temporary stop on 51st Ave S just south of S Bangor St (SB)\r\nStop #55280 51st Ave S & Beacon Ave S (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315582,
+          47.6771355
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88094",
+        "stop_id": "23561",
+        "stop_name": "Roosevelt Station - Bay 3",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 67 and ST 522 will be rerouted off a portion of 12th Ave NE between NE 65th St and NE 75th St on Sat Jun 6 due to the Roosevelt High School Neighborhood Parade.",
+        "description": "Affected stops:\r\nStop #23561 Roosevelt Station - Bay 3 (NB)\r\nStop #23580 12th Ave NE & NE 70th St (NB)\r\n\nGet on/off at:\r\nRoute ST 522 to Woodinville:\r\nStop #38567 Lake City Way NE & NE 85th St (NB)\r\n\nRoute 67 to Northgate: \r\nStop #23540 12th Ave NE & NE 61st St (NB)\r\nStop #23600 NE 75th St & 12th Ave NE (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315582,
+          47.6771355
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88094",
+        "stop_id": "23561",
+        "stop_name": "Roosevelt Station - Bay 3",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 67 and ST 522 will be rerouted off a portion of 12th Ave NE between NE 65th St and NE 75th St on Sat Jun 6 due to the Roosevelt High School Neighborhood Parade.",
+        "description": "Affected stops:\r\nStop #23561 Roosevelt Station - Bay 3 (NB)\r\nStop #23580 12th Ave NE & NE 70th St (NB)\r\n\nGet on/off at:\r\nRoute ST 522 to Woodinville:\r\nStop #38567 Lake City Way NE & NE 85th St (NB)\r\n\nRoute 67 to Northgate: \r\nStop #23540 12th Ave NE & NE 61st St (NB)\r\nStop #23600 NE 75th St & 12th Ave NE (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315536,
+          47.67976
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88094",
+        "stop_id": "23580",
+        "stop_name": "12th Ave NE & NE 70th St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 67 and ST 522 will be rerouted off a portion of 12th Ave NE between NE 65th St and NE 75th St on Sat Jun 6 due to the Roosevelt High School Neighborhood Parade.",
+        "description": "Affected stops:\r\nStop #23561 Roosevelt Station - Bay 3 (NB)\r\nStop #23580 12th Ave NE & NE 70th St (NB)\r\n\nGet on/off at:\r\nRoute ST 522 to Woodinville:\r\nStop #38567 Lake City Way NE & NE 85th St (NB)\r\n\nRoute 67 to Northgate: \r\nStop #23540 12th Ave NE & NE 61st St (NB)\r\nStop #23600 NE 75th St & 12th Ave NE (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
