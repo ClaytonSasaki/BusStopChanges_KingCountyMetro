@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-06-08T16:16:26.528443+00:00",
+  "generated_at": "2026-06-08T18:38:42.074820+00:00",
   "features": [
     {
       "type": "Feature",
@@ -207,13 +207,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.196983,
-          47.4085503
+          -122.197174,
+          47.4078369
         ]
       },
       "properties": {
         "alert_id": "1_86770",
-        "stop_id": "57190",
+        "stop_id": "57370",
         "stop_name": "108th Ave SE & SE 217th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -227,13 +227,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.197174,
-          47.4078369
+          -122.196983,
+          47.4085503
         ]
       },
       "properties": {
         "alert_id": "1_86770",
-        "stop_id": "57370",
+        "stop_id": "57190",
         "stop_name": "108th Ave SE & SE 217th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -307,26 +307,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.191391,
-          47.5158424
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88904",
-        "stop_id": "54780",
-        "stop_name": "NE 27th St & Aberdeen Ave NE",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #56720 NE 27th St & Aberdeen Ave NE (WB) and Stop #54780 NE 27th St & Aberdeen Ave NE (EB) closed from Mon Jun 8 to Fri Jun 12 9:00 AM to 3:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n111\r\n\nFor Route 111 to Downtown Seattle get on/off at:\r\nStop #56710 NE 27th St & Camas Ave NE (WB)\r\nStop #56730 Kennewick Pl NE & NE 29th St (NB)\r\n\nFor Route 111 to Lake Kathleen get on/off at:\r\nStop #54770 Kennewick Pl NE & NE 28th St (SB)\r\nStop #54790 NE 27th St & Camas Ave NE (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/111/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.191505,
           47.5159988
         ]
@@ -347,39 +327,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.312439,
-          47.3867798
+          -122.191391,
+          47.5158424
         ]
       },
       "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "47280",
-        "stop_name": "S 240th St & 16th Ave S",
+        "alert_id": "1_88904",
+        "stop_id": "54780",
+        "stop_name": "NE 27th St & Aberdeen Ave NE",
         "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.309937,
-          47.3865929
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+        "header": "Stop #56720 NE 27th St & Aberdeen Ave NE (WB) and Stop #54780 NE 27th St & Aberdeen Ave NE (EB) closed from Mon Jun 8 to Fri Jun 12 9:00 AM to 3:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n111\r\n\nFor Route 111 to Downtown Seattle get on/off at:\r\nStop #56710 NE 27th St & Camas Ave NE (WB)\r\nStop #56730 Kennewick Pl NE & NE 29th St (NB)\r\n\nFor Route 111 to Lake Kathleen get on/off at:\r\nStop #54770 Kennewick Pl NE & NE 28th St (SB)\r\nStop #54790 NE 27th St & Camas Ave NE (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/111/S/"
       }
     },
     {
@@ -407,14 +367,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.311783,
-          47.3866272
+          -122.312439,
+          47.3867798
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "48920",
-        "stop_name": "S 240th St & 17th Ave S",
+        "stop_id": "47280",
+        "stop_name": "S 240th St & 16th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308464,
+          47.3910408
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "50466",
+        "stop_name": "Kent Des Moines Rd & 20th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -467,14 +447,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.308464,
-          47.3910408
+          -122.311783,
+          47.3866272
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "50466",
-        "stop_name": "Kent Des Moines Rd & 20th Ave S",
+        "stop_id": "48920",
+        "stop_name": "S 240th St & 17th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.309937,
+          47.3865929
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48925",
+        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -547,14 +547,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.310036,
-          47.3867302
+          -122.312439,
+          47.3867798
         ]
       },
       "properties": {
         "alert_id": "1_82886",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
+        "stop_id": "47280",
+        "stop_name": "S 240th St & 16th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -567,14 +567,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.312439,
-          47.3867798
+          -122.310036,
+          47.3867302
         ]
       },
       "properties": {
         "alert_id": "1_82886",
-        "stop_id": "47280",
-        "stop_name": "S 240th St & 16th Ave S",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -647,13 +647,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.164322,
+          -122.164528,
           47.7042999
         ]
       },
       "properties": {
         "alert_id": "1_83410",
-        "stop_id": "80515",
+        "stop_id": "80509",
         "stop_name": "132nd Ave NE & NE 117th St",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -667,13 +667,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.164528,
+          -122.164322,
           47.7042999
         ]
       },
       "properties": {
         "alert_id": "1_83410",
-        "stop_id": "80509",
+        "stop_id": "80515",
         "stop_name": "132nd Ave NE & NE 117th St",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -787,26 +787,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.376862,
-          47.3076134
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82361",
-        "stop_id": "61500",
-        "stop_name": "35th Ave SW & SW 328th Pl",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
-        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.376709,
           47.3110771
         ]
@@ -815,46 +795,6 @@
         "alert_id": "1_82361",
         "stop_id": "61520",
         "stop_name": "35th Ave SW & SW 325th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
-        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.373825,
-          47.310997
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82361",
-        "stop_id": "61530",
-        "stop_name": "SW 325th St & 32nd Ave SW",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
-        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.376846,
-          47.3092575
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82361",
-        "stop_id": "61510",
-        "stop_name": "35th Ave SW & SW 327th St",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
@@ -895,6 +835,66 @@
         "alert_id": "1_82361",
         "stop_id": "61490",
         "stop_name": "35th Ave SW & SW 332nd Pl",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.376846,
+          47.3092575
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82361",
+        "stop_id": "61510",
+        "stop_name": "35th Ave SW & SW 327th St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.373825,
+          47.310997
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82361",
+        "stop_id": "61530",
+        "stop_name": "SW 325th St & 32nd Ave SW",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n187\r\n\nAffected stops:\r\nStop #61490 35th Ave SW & SW 332nd Pl (NB)\r\nStop #61500 35th Ave SW & SW 328th Pl (NB)\r\nStop #61510 35th Ave SW & SW 327th St (NB)\r\nStop #61520 35th Ave SW & SW 325th St (NB)\r\nStop #61530 SW 325th St & 32nd Ave SW (EB)\r\nStop #61540 SW 327th St & 30th Ave SW (EB)\r\n\nGet on/off at:\r\nThe temporary stop located within 30 feet of your regular stop.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/187/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.376862,
+          47.3076134
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82361",
+        "stop_id": "61500",
+        "stop_name": "35th Ave SW & SW 328th Pl",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Six stops on 35th Ave SW between SW 325th St and SW 333rd St, and on SW 325th St, 30th Ave SW, and SW 327th St will be closed intermittently from now until Wed Jun 10th at 5:00 PM due to construction.",
@@ -987,26 +987,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.142479,
-          47.5969696
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89000",
-        "stop_id": "68630",
-        "stop_name": "148th Ave SE & SE 16th St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.140152,
           47.6004448
         ]
@@ -1027,13 +1007,73 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.135582,
-          47.6028709
+          -122.140549,
+          47.6002808
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68670",
+        "stop_id": "68530",
+        "stop_name": "Lake Hills Blvd & SE 12th Pl",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.142807,
+          47.5981712
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89000",
+        "stop_id": "68540",
+        "stop_name": "148th Ave SE & Lake Hills Blvd",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.142479,
+          47.5969696
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89000",
+        "stop_id": "68630",
+        "stop_name": "148th Ave SE & SE 16th St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.136032,
+          47.6029015
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89000",
+        "stop_id": "68510",
         "stop_name": "Lake Hills Blvd & 154th Ave SE",
         "alert_type": "Route Change",
         "status": "upcoming",
@@ -1067,53 +1107,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.142807,
-          47.5981712
+          -122.135582,
+          47.6028709
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68540",
-        "stop_name": "148th Ave SE & Lake Hills Blvd",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.140549,
-          47.6002808
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89000",
-        "stop_id": "68530",
-        "stop_name": "Lake Hills Blvd & SE 12th Pl",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.136032,
-          47.6029015
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89000",
-        "stop_id": "68510",
+        "stop_id": "68670",
         "stop_name": "Lake Hills Blvd & 154th Ave SE",
         "alert_type": "Route Change",
         "status": "upcoming",
@@ -1207,13 +1207,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.221436,
-          47.3267365
+          -122.221626,
+          47.3261719
         ]
       },
       "properties": {
         "alert_id": "1_88979",
-        "stop_id": "57900",
+        "stop_id": "58270",
         "stop_name": "Auburn Way N & 22nd St NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -1227,13 +1227,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.221626,
-          47.3261719
+          -122.221436,
+          47.3267365
         ]
       },
       "properties": {
         "alert_id": "1_88979",
-        "stop_id": "58270",
+        "stop_id": "57900",
         "stop_name": "Auburn Way N & 22nd St NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -1627,26 +1627,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.223145,
-          47.4410667
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88696",
-        "stop_id": "59358",
-        "stop_name": "SW 43rd St & Lind Ave SW",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 153 to Kent is rerouted off portions of Lind Ave SW and S 180th St between SW 41st St and E Valley Hwy through Sun Jun 28 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected stops:\r\nStop #80764 Lind Ave SW & SW 41st St (SB)\r\nStop #59358 SW 43rd St & Lind Ave SW (EB)\r\n\nGet on/off at:\r\nStop #80763 Lind Ave SW & SW 39th St (SB)\r\nThe temporary stop on SW 41st St, just east of Lind Ave SW (EB)\r\nStop #84362 E Valley Hwy & S 180th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/153/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.224045,
           47.4435844
         ]
@@ -1667,19 +1647,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202148,
-          47.398262
+          -122.223145,
+          47.4410667
         ]
       },
       "properties": {
-        "alert_id": "1_86793",
-        "stop_id": "57160",
-        "stop_name": "104th Ave SE & SE 228th St",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_88696",
+        "stop_id": "59358",
+        "stop_name": "SW 43rd St & Lind Ave SW",
+        "alert_type": "Route Change",
         "status": "ongoing",
-        "header": "Stop #57400 104th Ave SE & SE 228th St (SB) and Stop #57160 104th Ave SE & SE 228th St (NB) relocated from Mon Apr 20 through Tue Jun 23 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57390 Benson Rd SE & SE 224th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 230th Pl (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57150 104th Ave SE & SE 232nd St (NB)\r\nThe temporary stop on 104th Ave SE just south of SE 226th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+        "header": "Route 153 to Kent is rerouted off portions of Lind Ave SW and S 180th St between SW 41st St and E Valley Hwy through Sun Jun 28 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected stops:\r\nStop #80764 Lind Ave SW & SW 41st St (SB)\r\nStop #59358 SW 43rd St & Lind Ave SW (EB)\r\n\nGet on/off at:\r\nStop #80763 Lind Ave SW & SW 39th St (SB)\r\nThe temporary stop on SW 41st St, just east of Lind Ave SW (EB)\r\nStop #84362 E Valley Hwy & S 180th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/153/S/"
       }
     },
     {
@@ -1707,6 +1687,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.202148,
+          47.398262
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86793",
+        "stop_id": "57160",
+        "stop_name": "104th Ave SE & SE 228th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57400 104th Ave SE & SE 228th St (SB) and Stop #57160 104th Ave SE & SE 228th St (NB) relocated from Mon Apr 20 through Tue Jun 23 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57390 Benson Rd SE & SE 224th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 230th Pl (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57150 104th Ave SE & SE 232nd St (NB)\r\nThe temporary stop on 104th Ave SE just south of SE 226th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.313339,
           47.7596664
         ]
@@ -1720,6 +1720,166 @@
         "header": "Stop #77910 15th Ave NE & NE 180th St (NB) will be permanently closed from Tue Jun 2 due to permanent bus stop closure.",
         "description": "Affected routes:\r\n333\r\n\nGet on/off:\r\nStop #77461 15th Ave NE & NE 179TH St (NB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.207664,
+          47.7210693
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89267",
+        "stop_id": "82480",
+        "stop_name": "100th Ave NE & Juanita Woodinville Way NE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 230 is rerouted off 100th Ave NE between Juanita Woodinville Way NE and NE 145th St due to a collision.",
+        "description": "Affected stops:\r\nStop #82480 100th Ave NE & Juanita Woodinville Way NE (NB)\r\nStop #82672 100th Ave NE & NE 137th St (NB)\r\nStop #82673 100th Ave NE & NE 140th St (NB)\r\nStop #82674 100th Ave NE & Simonds Rd NE (NB)\r\nStop #82675 100th Ave NE & Simonds Rd NE (SB)\r\nStop #82676 100th Ave NE & NE 140th St (SB)\r\nStop #82671 100th Ave NE & NE 137th St (SB)\r\nStop #82680 100th Ave NE & Juanita Woodinville Way NE (SB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #70220 100th Ave NE & NE 132nd St (NB)\r\nStop #82677 100th Ave NE & NE 145th St (NB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #82679 100th Ave NE & NE 151st St (SB)\r\nStop #70130 100th Ave NE & NE 132nd St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.207909,
+          47.7259598
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89267",
+        "stop_id": "82676",
+        "stop_name": "100th Ave NE & NE 140th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 230 is rerouted off 100th Ave NE between Juanita Woodinville Way NE and NE 145th St due to a collision.",
+        "description": "Affected stops:\r\nStop #82480 100th Ave NE & Juanita Woodinville Way NE (NB)\r\nStop #82672 100th Ave NE & NE 137th St (NB)\r\nStop #82673 100th Ave NE & NE 140th St (NB)\r\nStop #82674 100th Ave NE & Simonds Rd NE (NB)\r\nStop #82675 100th Ave NE & Simonds Rd NE (SB)\r\nStop #82676 100th Ave NE & NE 140th St (SB)\r\nStop #82671 100th Ave NE & NE 137th St (SB)\r\nStop #82680 100th Ave NE & Juanita Woodinville Way NE (SB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #70220 100th Ave NE & NE 132nd St (NB)\r\nStop #82677 100th Ave NE & NE 145th St (NB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #82679 100th Ave NE & NE 151st St (SB)\r\nStop #70130 100th Ave NE & NE 132nd St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.207939,
+          47.7303391
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89267",
+        "stop_id": "82675",
+        "stop_name": "100th Ave NE & Simonds Rd NE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 230 is rerouted off 100th Ave NE between Juanita Woodinville Way NE and NE 145th St due to a collision.",
+        "description": "Affected stops:\r\nStop #82480 100th Ave NE & Juanita Woodinville Way NE (NB)\r\nStop #82672 100th Ave NE & NE 137th St (NB)\r\nStop #82673 100th Ave NE & NE 140th St (NB)\r\nStop #82674 100th Ave NE & Simonds Rd NE (NB)\r\nStop #82675 100th Ave NE & Simonds Rd NE (SB)\r\nStop #82676 100th Ave NE & NE 140th St (SB)\r\nStop #82671 100th Ave NE & NE 137th St (SB)\r\nStop #82680 100th Ave NE & Juanita Woodinville Way NE (SB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #70220 100th Ave NE & NE 132nd St (NB)\r\nStop #82677 100th Ave NE & NE 145th St (NB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #82679 100th Ave NE & NE 151st St (SB)\r\nStop #70130 100th Ave NE & NE 132nd St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20787,
+          47.7210274
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89267",
+        "stop_id": "82680",
+        "stop_name": "100th Ave NE & Juanita Woodinville Way NE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 230 is rerouted off 100th Ave NE between Juanita Woodinville Way NE and NE 145th St due to a collision.",
+        "description": "Affected stops:\r\nStop #82480 100th Ave NE & Juanita Woodinville Way NE (NB)\r\nStop #82672 100th Ave NE & NE 137th St (NB)\r\nStop #82673 100th Ave NE & NE 140th St (NB)\r\nStop #82674 100th Ave NE & Simonds Rd NE (NB)\r\nStop #82675 100th Ave NE & Simonds Rd NE (SB)\r\nStop #82676 100th Ave NE & NE 140th St (SB)\r\nStop #82671 100th Ave NE & NE 137th St (SB)\r\nStop #82680 100th Ave NE & Juanita Woodinville Way NE (SB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #70220 100th Ave NE & NE 132nd St (NB)\r\nStop #82677 100th Ave NE & NE 145th St (NB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #82679 100th Ave NE & NE 151st St (SB)\r\nStop #70130 100th Ave NE & NE 132nd St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.207886,
+          47.7227936
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89267",
+        "stop_id": "82671",
+        "stop_name": "100th Ave NE & NE 137th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 230 is rerouted off 100th Ave NE between Juanita Woodinville Way NE and NE 145th St due to a collision.",
+        "description": "Affected stops:\r\nStop #82480 100th Ave NE & Juanita Woodinville Way NE (NB)\r\nStop #82672 100th Ave NE & NE 137th St (NB)\r\nStop #82673 100th Ave NE & NE 140th St (NB)\r\nStop #82674 100th Ave NE & Simonds Rd NE (NB)\r\nStop #82675 100th Ave NE & Simonds Rd NE (SB)\r\nStop #82676 100th Ave NE & NE 140th St (SB)\r\nStop #82671 100th Ave NE & NE 137th St (SB)\r\nStop #82680 100th Ave NE & Juanita Woodinville Way NE (SB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #70220 100th Ave NE & NE 132nd St (NB)\r\nStop #82677 100th Ave NE & NE 145th St (NB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #82679 100th Ave NE & NE 151st St (SB)\r\nStop #70130 100th Ave NE & NE 132nd St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.207703,
+          47.7257614
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89267",
+        "stop_id": "82673",
+        "stop_name": "100th Ave NE & NE 140th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 230 is rerouted off 100th Ave NE between Juanita Woodinville Way NE and NE 145th St due to a collision.",
+        "description": "Affected stops:\r\nStop #82480 100th Ave NE & Juanita Woodinville Way NE (NB)\r\nStop #82672 100th Ave NE & NE 137th St (NB)\r\nStop #82673 100th Ave NE & NE 140th St (NB)\r\nStop #82674 100th Ave NE & Simonds Rd NE (NB)\r\nStop #82675 100th Ave NE & Simonds Rd NE (SB)\r\nStop #82676 100th Ave NE & NE 140th St (SB)\r\nStop #82671 100th Ave NE & NE 137th St (SB)\r\nStop #82680 100th Ave NE & Juanita Woodinville Way NE (SB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #70220 100th Ave NE & NE 132nd St (NB)\r\nStop #82677 100th Ave NE & NE 145th St (NB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #82679 100th Ave NE & NE 151st St (SB)\r\nStop #70130 100th Ave NE & NE 132nd St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20768,
+          47.7236748
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89267",
+        "stop_id": "82672",
+        "stop_name": "100th Ave NE & NE 137th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 230 is rerouted off 100th Ave NE between Juanita Woodinville Way NE and NE 145th St due to a collision.",
+        "description": "Affected stops:\r\nStop #82480 100th Ave NE & Juanita Woodinville Way NE (NB)\r\nStop #82672 100th Ave NE & NE 137th St (NB)\r\nStop #82673 100th Ave NE & NE 140th St (NB)\r\nStop #82674 100th Ave NE & Simonds Rd NE (NB)\r\nStop #82675 100th Ave NE & Simonds Rd NE (SB)\r\nStop #82676 100th Ave NE & NE 140th St (SB)\r\nStop #82671 100th Ave NE & NE 137th St (SB)\r\nStop #82680 100th Ave NE & Juanita Woodinville Way NE (SB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #70220 100th Ave NE & NE 132nd St (NB)\r\nStop #82677 100th Ave NE & NE 145th St (NB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #82679 100th Ave NE & NE 151st St (SB)\r\nStop #70130 100th Ave NE & NE 132nd St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.207733,
+          47.7309799
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89267",
+        "stop_id": "82674",
+        "stop_name": "100th Ave NE & Simonds Rd NE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 230 is rerouted off 100th Ave NE between Juanita Woodinville Way NE and NE 145th St due to a collision.",
+        "description": "Affected stops:\r\nStop #82480 100th Ave NE & Juanita Woodinville Way NE (NB)\r\nStop #82672 100th Ave NE & NE 137th St (NB)\r\nStop #82673 100th Ave NE & NE 140th St (NB)\r\nStop #82674 100th Ave NE & Simonds Rd NE (NB)\r\nStop #82675 100th Ave NE & Simonds Rd NE (SB)\r\nStop #82676 100th Ave NE & NE 140th St (SB)\r\nStop #82671 100th Ave NE & NE 137th St (SB)\r\nStop #82680 100th Ave NE & Juanita Woodinville Way NE (SB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #70220 100th Ave NE & NE 132nd St (NB)\r\nStop #82677 100th Ave NE & NE 145th St (NB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #82679 100th Ave NE & NE 151st St (SB)\r\nStop #70130 100th Ave NE & NE 132nd St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S"
       }
     },
     {
@@ -1927,13 +2087,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.309692,
-          47.4885292
+          -122.309738,
+          47.4886665
         ]
       },
       "properties": {
         "alert_id": "1_87795",
-        "stop_id": "49440",
+        "stop_id": "49980",
         "stop_name": "S 128th St & Roseberg Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -1947,13 +2107,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.309738,
-          47.4886665
+          -122.309692,
+          47.4885292
         ]
       },
       "properties": {
         "alert_id": "1_87795",
-        "stop_id": "49980",
+        "stop_id": "49440",
         "stop_name": "S 128th St & Roseberg Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
