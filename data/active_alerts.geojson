@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-03T03:37:29.256276+00:00",
+  "generated_at": "2026-07-03T06:50:41.042152+00:00",
   "features": [
     {
       "type": "Feature",
@@ -27,19 +27,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.222198,
-          47.3451881
+          -122.185982,
+          47.4602013
         ]
       },
       "properties": {
-        "alert_id": "1_89529",
-        "stop_id": "57920",
-        "stop_name": "Auburn Way N & 42nd St NE",
-        "alert_type": "Stop Closure",
+        "alert_id": "1_89925",
+        "stop_id": "60022",
+        "stop_name": "116th Ave SE & SE 160th St",
+        "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #58235 Auburn Way N & 42nd St NE (SB) and Stop #57920 Auburn Way N & 42nd St NE (NB) closed from Mon Jun 15 through Sat Aug 15 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Auburn Way N just south of the affected stop (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Auburn Way N just north of the affected stop (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+        "header": "Stop #60022 116th Ave SE & SE 160th St (SB) relocated from Mon Jun 22 to Wed Sep 30 from 7:00 AM to 5:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n102\r\n148\r\n\nGet on/off: \r\nThe temporary stop on 116th Ave SE just south of SE 160th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/3637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.185982,
+          47.4602013
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89925",
+        "stop_id": "60022",
+        "stop_name": "116th Ave SE & SE 160th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #60022 116th Ave SE & SE 160th St (SB) relocated from Mon Jun 22 to Wed Sep 30 from 7:00 AM to 5:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n102\r\n148\r\n\nGet on/off: \r\nThe temporary stop on 116th Ave SE just south of SE 160th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/3637"
       }
     },
     {
@@ -67,59 +87,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.185982,
-          47.4602013
+          -122.222198,
+          47.3451881
         ]
       },
       "properties": {
-        "alert_id": "1_89925",
-        "stop_id": "60022",
-        "stop_name": "116th Ave SE & SE 160th St",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_89529",
+        "stop_id": "57920",
+        "stop_name": "Auburn Way N & 42nd St NE",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #60022 116th Ave SE & SE 160th St (SB) relocated from Mon Jun 22 to Wed Sep 30 from 7:00 AM to 5:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n102\r\n148\r\n\nGet on/off: \r\nThe temporary stop on 116th Ave SE just south of SE 160th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/3637"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.185982,
-          47.4602013
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89925",
-        "stop_id": "60022",
-        "stop_name": "116th Ave SE & SE 160th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #60022 116th Ave SE & SE 160th St (SB) relocated from Mon Jun 22 to Wed Sep 30 from 7:00 AM to 5:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n102\r\n148\r\n\nGet on/off: \r\nThe temporary stop on 116th Ave SE just south of SE 160th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/3637"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.240036,
-          47.3831444
-        ]
-      },
-      "properties": {
-        "alert_id": "1_87304",
-        "stop_id": "79215",
-        "stop_name": "W Smith St & 6th Ave N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off portions of W Smith St and W Meeker St between 4th Ave N & Washington Ave N Thu Apr 30, 2026 through Fri Dec 24, 2027 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected stops:\r\nStop #57187 W Smith St & 4th Ave N (WB)\r\nStop #79215 W Smith St & 6th Ave N (WB)\r\n\nGet on/off at:\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\nStop #50755 W Meeker St & Washington Ave N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
+        "header": "Stop #58235 Auburn Way N & 42nd St NE (SB) and Stop #57920 Auburn Way N & 42nd St NE (NB) closed from Mon Jun 15 through Sat Aug 15 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Auburn Way N just south of the affected stop (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Auburn Way N just north of the affected stop (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
       }
     },
     {
@@ -135,6 +115,26 @@
         "alert_id": "1_87304",
         "stop_id": "57187",
         "stop_name": "W Smith St & 4th Ave N",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 165 will be rerouted off portions of W Smith St and W Meeker St between 4th Ave N & Washington Ave N Thu Apr 30, 2026 through Fri Dec 24, 2027 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected stops:\r\nStop #57187 W Smith St & 4th Ave N (WB)\r\nStop #79215 W Smith St & 6th Ave N (WB)\r\n\nGet on/off at:\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\nStop #50755 W Meeker St & Washington Ave N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.240036,
+          47.3831444
+        ]
+      },
+      "properties": {
+        "alert_id": "1_87304",
+        "stop_id": "79215",
+        "stop_name": "W Smith St & 6th Ave N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off portions of W Smith St and W Meeker St between 4th Ave N & Washington Ave N Thu Apr 30, 2026 through Fri Dec 24, 2027 due to construction.",
@@ -167,26 +167,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.196983,
-          47.4085503
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86770",
-        "stop_id": "57190",
-        "stop_name": "108th Ave SE & SE 217th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57370 108th Ave SE & SE 217th St (SB) and Stop #57190 108th Ave SE & SE 217th St (NB) relocated from Mon Apr 20 through Tue Aug 11 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57360 108th Ave SE & SE 212th St (SB)\r\nThe temporary stop on 108th Ave SE just north of SE 220th St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57185 108th Ave SE & SE 220th Pl (NB)\r\nThe temporary stop on 108th Ave SE just south of SE 220th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.197174,
           47.4078369
         ]
@@ -207,19 +187,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.197189,
-          47.4297333
+          -122.196983,
+          47.4085503
         ]
       },
       "properties": {
-        "alert_id": "1_89574",
-        "stop_id": "57310",
-        "stop_name": "108th Ave SE & SE 192nd St",
+        "alert_id": "1_86770",
+        "stop_id": "57190",
+        "stop_name": "108th Ave SE & SE 217th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #57310 108th Ave SE & SE 192nd St (SB) and Stop #57250 108th Ave SE & SE 192nd St (NB) relocated from Mon Jun 15 through Wed Jul 15 weekdays only due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57300 108th Ave SE & SE 186th St (SB)\r\nThe temporary stop on 108th Ave SE just south of 196th St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57240 108th Ave SE & SE 196th St (NB)\r\nThe temporary stop on 108th Ave SE just south of 190th Pl (NB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+        "header": "Stop #57370 108th Ave SE & SE 217th St (SB) and Stop #57190 108th Ave SE & SE 217th St (NB) relocated from Mon Apr 20 through Tue Aug 11 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57360 108th Ave SE & SE 212th St (SB)\r\nThe temporary stop on 108th Ave SE just north of SE 220th St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57185 108th Ave SE & SE 220th Pl (NB)\r\nThe temporary stop on 108th Ave SE just south of SE 220th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -234,6 +214,26 @@
       "properties": {
         "alert_id": "1_89574",
         "stop_id": "57250",
+        "stop_name": "108th Ave SE & SE 192nd St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57310 108th Ave SE & SE 192nd St (SB) and Stop #57250 108th Ave SE & SE 192nd St (NB) relocated from Mon Jun 15 through Wed Jul 15 weekdays only due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57300 108th Ave SE & SE 186th St (SB)\r\nThe temporary stop on 108th Ave SE just south of 196th St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57240 108th Ave SE & SE 196th St (NB)\r\nThe temporary stop on 108th Ave SE just south of 190th Pl (NB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.197189,
+          47.4297333
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89574",
+        "stop_id": "57310",
         "stop_name": "108th Ave SE & SE 192nd St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -347,14 +347,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.308464,
-          47.3910408
+          -122.310036,
+          47.3867302
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "50466",
-        "stop_name": "Kent Des Moines Rd & 20th Ave S",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311783,
+          47.3866272
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48920",
+        "stop_name": "S 240th St & 17th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -447,14 +467,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.310036,
-          47.3867302
+          -122.308464,
+          47.3910408
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
+        "stop_id": "50466",
+        "stop_name": "Kent Des Moines Rd & 20th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -487,46 +507,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.311783,
-          47.3866272
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48920",
-        "stop_name": "S 240th St & 17th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.311783,
-          47.3866272
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82886",
-        "stop_id": "48920",
-        "stop_name": "S 240th St & 17th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nThis is an update to the previous alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.312439,
           47.3867798
         ]
@@ -547,14 +527,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.310036,
-          47.3867302
+          -122.311783,
+          47.3866272
         ]
       },
       "properties": {
         "alert_id": "1_82886",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
+        "stop_id": "48920",
+        "stop_name": "S 240th St & 17th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -587,19 +567,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.188362,
-          47.6791801
+          -122.310036,
+          47.3867302
         ]
       },
       "properties": {
-        "alert_id": "1_87933",
-        "stop_id": "70666",
-        "stop_name": "NE 85th St & Kirkland Way",
+        "alert_id": "1_82886",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #70666 NE 85th St & Kirkland Way (EB) closed through Tue Aug 31, 2027 due to construction.",
-        "description": "Affected routes:\r\n239\r\n250\r\n\nGet on/off at:\r\nThe temporary stop on NE 85th St, just east of Kirkland Way (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7423"
+        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nThis is an update to the previous alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
       }
     },
     {
@@ -627,19 +607,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.212471,
-          47.4421959
+          -122.188362,
+          47.6791801
         ]
       },
       "properties": {
-        "alert_id": "1_89758",
-        "stop_id": "59949",
-        "stop_name": "Talbot Rd S & S Carr Rd",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_87933",
+        "stop_id": "70666",
+        "stop_name": "NE 85th St & Kirkland Way",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #59949 Talbot Rd S & S Carr Rd (SB) and Stop #60361 Talbot Rd S & S Carr Rd (NB) relocated Wed Jun 17 until further notice due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off at:\r\nThe temporary stop on Talbot Rd S, just north of the closed stop (NB & SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+        "header": "Stop #70666 NE 85th St & Kirkland Way (EB) closed through Tue Aug 31, 2027 due to construction.",
+        "description": "Affected routes:\r\n239\r\n250\r\n\nGet on/off at:\r\nThe temporary stop on NE 85th St, just east of Kirkland Way (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7423"
       }
     },
     {
@@ -654,6 +634,26 @@
       "properties": {
         "alert_id": "1_89758",
         "stop_id": "60361",
+        "stop_name": "Talbot Rd S & S Carr Rd",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #59949 Talbot Rd S & S Carr Rd (SB) and Stop #60361 Talbot Rd S & S Carr Rd (NB) relocated Wed Jun 17 until further notice due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off at:\r\nThe temporary stop on Talbot Rd S, just north of the closed stop (NB & SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.212471,
+          47.4421959
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89758",
+        "stop_id": "59949",
         "stop_name": "Talbot Rd S & S Carr Rd",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -687,74 +687,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.333473,
-          47.5901985
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88623",
-        "stop_id": "15204",
-        "stop_name": "Edgar Martinez Dr S & Occidental Ave S",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nFriday, July 3 at 9:30 PM-10:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.334106,
-          47.5796814
+          47.5759239
         ]
       },
       "properties": {
         "alert_id": "1_88623",
-        "stop_id": "15230",
-        "stop_name": "1st Ave S & S Lander St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nFriday, July 3 at 9:30 PM-10:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334106,
-          47.5822334
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88623",
-        "stop_id": "15206",
-        "stop_name": "1st Ave S & S Stacy St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nFriday, July 3 at 9:30 PM-10:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334297,
-          47.5815544
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88623",
-        "stop_id": "15203",
-        "stop_name": "1st Ave S & S Stacy St",
+        "stop_id": "15205",
+        "stop_name": "1st Ave S & S Hanford St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
@@ -787,6 +727,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.334297,
+          47.5836525
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88623",
+        "stop_id": "15211",
+        "stop_name": "1st Ave S & S Walker St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\n\nFriday, July 3 at 9:30 PM-10:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.333992,
           47.5723419
         ]
@@ -807,14 +767,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334297,
-          47.5836525
+          -122.334106,
+          47.5822334
         ]
       },
       "properties": {
         "alert_id": "1_88623",
-        "stop_id": "15211",
-        "stop_name": "1st Ave S & S Walker St",
+        "stop_id": "15206",
+        "stop_name": "1st Ave S & S Stacy St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\n\nFriday, July 3 at 9:30 PM-10:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334106,
+          47.5796814
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88623",
+        "stop_id": "15230",
+        "stop_name": "1st Ave S & S Lander St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
@@ -848,13 +828,13 @@
         "type": "Point",
         "coordinates": [
           -122.334106,
-          47.5759239
+          47.5842438
         ]
       },
       "properties": {
         "alert_id": "1_88623",
-        "stop_id": "15205",
-        "stop_name": "1st Ave S & S Hanford St",
+        "stop_id": "15212",
+        "stop_name": "1st Ave S & S Walker St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
@@ -887,14 +867,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334106,
-          47.5842438
+          -122.334297,
+          47.5815544
         ]
       },
       "properties": {
         "alert_id": "1_88623",
-        "stop_id": "15212",
-        "stop_name": "1st Ave S & S Walker St",
+        "stop_id": "15203",
+        "stop_name": "1st Ave S & S Stacy St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
@@ -907,39 +887,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.188461,
-          47.6793251
+          -122.333473,
+          47.5901985
         ]
       },
       "properties": {
-        "alert_id": "1_89116",
-        "stop_id": "70664",
-        "stop_name": "NE 85th St & 114th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #70664 NE 85th St & 114th Ave NE (WB) relocated Thu Jun 4 to Thu Aug 20 from 7:00 AM to 6:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n239\r\n250\r\n\nGet on/off at:\r\nThe temporary stop on NE 85th St, just west of the closed stop (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7424"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.188461,
-          47.6793251
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89116",
-        "stop_id": "70664",
-        "stop_name": "NE 85th St & 114th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #70664 NE 85th St & 114th Ave NE (WB) relocated Thu Jun 4 to Thu Aug 20 from 7:00 AM to 6:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n239\r\n250\r\n\nGet on/off at:\r\nThe temporary stop on NE 85th St, just west of the closed stop (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7424"
+        "alert_id": "1_88623",
+        "stop_id": "15204",
+        "stop_name": "Edgar Martinez Dr S & Occidental Ave S",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\n\nFriday, July 3 at 9:30 PM-10:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
       }
     },
     {
@@ -960,6 +920,46 @@
         "header": "Stop #82810 Main St & 112th Ave NE (WB) closed from Wed May 27 to Thu Dec 31 from 8:00 AM to 3:00 PM daily, Mon-Fri only due to construction.",
         "description": "Affected routes:\r\n240\r\n\nGet on/off at:\r\nStop #82790 112th Ave SE & SE 4th St (NB)\r\nStop #85730 108th Ave NE & NE 2nd St (NB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/240/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.188461,
+          47.6793251
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89116",
+        "stop_id": "70664",
+        "stop_name": "NE 85th St & 114th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #70664 NE 85th St & 114th Ave NE (WB) relocated Thu Jun 4 to Thu Aug 20 from 7:00 AM to 6:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n239\r\n250\r\n\nGet on/off at:\r\nThe temporary stop on NE 85th St, just west of the closed stop (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.188461,
+          47.6793251
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89116",
+        "stop_id": "70664",
+        "stop_name": "NE 85th St & 114th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #70664 NE 85th St & 114th Ave NE (WB) relocated Thu Jun 4 to Thu Aug 20 from 7:00 AM to 6:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n239\r\n250\r\n\nGet on/off at:\r\nThe temporary stop on NE 85th St, just west of the closed stop (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7424"
       }
     },
     {
@@ -1027,46 +1027,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.333122,
-          47.6270752
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88351",
-        "stop_id": "10190",
-        "stop_name": "Fairview Ave N & Aloha St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 70 to Downtown Seattle is rerouted off Fairview Ave N between Aloha St and Valley St from Fri May 22 through Mon Aug 31 due to construction.",
-        "description": "Affected stops:\r\nStop #10190 Fairview Ave N & Aloha St (SB)\r\n\nGet on/off at:\r\nStop #10328 Valley St & Fairview Ave N. (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/70/S"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.142029,
-          47.5987816
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89000",
-        "stop_id": "68640",
-        "stop_name": "Lake Hills Blvd & 148th Ave SE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.140152,
           47.6004448
         ]
@@ -1075,46 +1035,6 @@
         "alert_id": "1_89000",
         "stop_id": "68650",
         "stop_name": "Lake Hills Blvd & SE 12th Pl",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.136032,
-          47.6029015
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89000",
-        "stop_id": "68510",
-        "stop_name": "Lake Hills Blvd & 154th Ave SE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.142479,
-          47.5969696
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89000",
-        "stop_id": "68630",
-        "stop_name": "148th Ave SE & SE 16th St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
@@ -1147,14 +1067,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.140549,
-          47.6002808
+          -122.142479,
+          47.5969696
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68530",
-        "stop_name": "Lake Hills Blvd & SE 12th Pl",
+        "stop_id": "68630",
+        "stop_name": "148th Ave SE & SE 16th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.136032,
+          47.6029015
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89000",
+        "stop_id": "68510",
+        "stop_name": "Lake Hills Blvd & 154th Ave SE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.142029,
+          47.5987816
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89000",
+        "stop_id": "68640",
+        "stop_name": "Lake Hills Blvd & 148th Ave SE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
@@ -1187,6 +1147,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.140549,
+          47.6002808
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89000",
+        "stop_id": "68530",
+        "stop_name": "Lake Hills Blvd & SE 12th Pl",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.246307,
           47.3813095
         ]
@@ -1220,6 +1200,26 @@
         "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Mon Apr 6 through Mon Apr 26 due to permanent bus stop closure.",
         "description": "Affected routes:\r\n165\r\nDART 914\r\n\nGet on/off:\r\nThe temporary stop on Thomas Ave N just east of the regular stop",
         "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333122,
+          47.6270752
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88351",
+        "stop_id": "10190",
+        "stop_name": "Fairview Ave N & Aloha St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 70 to Downtown Seattle is rerouted off Fairview Ave N between Aloha St and Valley St from Fri May 22 through Mon Aug 31 due to construction.",
+        "description": "Affected stops:\r\nStop #10190 Fairview Ave N & Aloha St (SB)\r\n\nGet on/off at:\r\nStop #10328 Valley St & Fairview Ave N. (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/70/S"
       }
     },
     {
@@ -1247,26 +1247,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.224045,
-          47.4435844
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90588",
-        "stop_id": "80764",
-        "stop_name": "Lind Ave SW & SW 41st St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 153 to Kent is rerouted off portions of Lind Ave SW and S 180th St between SW 41st St and E Valley Hwy until Fri Jul 3 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected stops:\r\nStop #80764 Lind Ave SW & SW 41st St (SB)\r\nStop #59358 SW 43rd St & Lind Ave SW (EB)\r\n\nGet on/off at:\r\nStop #80763 Lind Ave SW & SW 39th St (SB)\r\nThe temporary stop on SW 41st St, just east of Lind Ave SW (EB)\r\nStop #84362 E Valley Hwy & S 180th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/153/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.223145,
           47.4410667
         ]
@@ -1287,299 +1267,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.288094,
-          47.3941536
+          -122.224045,
+          47.4435844
         ]
       },
       "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "58777",
-        "stop_name": "Veterans Dr & Veterans Dr",
+        "alert_id": "1_90588",
+        "stop_id": "80764",
+        "stop_name": "Lind Ave SW & SW 41st St",
         "alert_type": "Route Change",
         "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.264694,
-          47.3890419
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "80051",
-        "stop_name": "Lakeside Blvd W & 55th Pl S",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.253593,
-          47.3819389
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "50772",
-        "stop_name": "64th Ave S & W Meeker St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.266571,
-          47.3943901
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "80021",
-        "stop_name": "S 228th St & 54th Ave S",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.267128,
-          47.3929596
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "80003",
-        "stop_name": "53rd Pl S & 54th Ave S",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.266579,
-          47.3945351
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "80005",
-        "stop_name": "S 228th St & 54th Ave S",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.26474,
-          47.3891983
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "80002",
-        "stop_name": "Lakeside Blvd W & 55th Pl S",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.267349,
-          47.3929749
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "80025",
-        "stop_name": "53rd Pl S & 54th Ave S",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.284981,
-          47.3952827
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "58778",
-        "stop_name": "Veterans Dr & Riverview Blvd S",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.263779,
-          47.3935776
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "80004",
-        "stop_name": "S 233rd St & Lakeside Blvd E",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.254288,
-          47.3868027
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "50714",
-        "stop_name": "W James St & 64th Ave S",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.260612,
-          47.3875732
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "80160",
-        "stop_name": "Lakeside Blvd W & Lakeside Blvd E",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.263725,
-          47.3941765
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "80031",
-        "stop_name": "Lakeside Blvd E & S 228th St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.287567,
-          47.3917961
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "21945",
-        "stop_name": "Kent Des Moines Park And Ride",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.26075,
-          47.3874588
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90786",
-        "stop_id": "80061",
-        "stop_name": "Lakeside Blvd W & Lakeside Blvd E",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off Veterans Dr between 64th Ave S and Military Rd S today due to a collision.",
-        "description": "This is an update to the previous alert.\r\nAffected stops:\r\nStop #50772 64th Ave S & W Meeker St (NB)\r\nStop #50714 W James St & 64th Ave S (WB)\r\nStop #80160 Lakeside Blvd W & Lakeside Blvd E (WB)\r\nStop #80002 Lakeside Blvd W & 55th Pl S (NB)\r\nStop #80003 53rd Pl S & 54th Ave S (NB)\r\nStop #80004 S 233rd St & Lakeside Blvd E (EB)\r\nStop #80005 S 228th St & 54th Ave S (WB)\r\nStop #58778 Veterans Dr & Riverview Blvd S (WB)\r\nStop #21945 Kent Des Moines P&R (SB)\r\nStop #58777 Veterans Dr & Veterans Dr (EB)\r\nStop #80021 S 228th St & 54th Ave S (EB)\r\nStop #80031 Lakeside Blvd E & S 228th St (SB)\r\nStop #80025 53rd Pl S & 54th Ave S (SB)\r\nStop #80051 Lakeside Blvd W & 55th Pl S (SB)\r\nStop #80061 Lakeside Blvd W & Lakeside Blvd E (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\nStop #58796 Kent Des Moines Rd & Military Rd S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #53508 Kent Des Moines Rd & I-5 Ramp (EB)\r\nStop #50717 64th Ave S & W James St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
+        "header": "Route 153 to Kent is rerouted off portions of Lind Ave SW and S 180th St between SW 41st St and E Valley Hwy until Fri Jul 3 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected stops:\r\nStop #80764 Lind Ave SW & SW 41st St (SB)\r\nStop #59358 SW 43rd St & Lind Ave SW (EB)\r\n\nGet on/off at:\r\nStop #80763 Lind Ave SW & SW 39th St (SB)\r\nThe temporary stop on SW 41st St, just east of Lind Ave SW (EB)\r\nStop #84362 E Valley Hwy & S 180th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/153/S/"
       }
     },
     {
@@ -1607,13 +1307,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.179726,
-          47.7438431
+          -122.178909,
+          47.7437096
         ]
       },
       "properties": {
         "alert_id": "1_90382",
-        "stop_id": "81430",
+        "stop_id": "81404",
         "stop_name": "NE 160th St & 121st Ave NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -1627,13 +1327,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.178909,
-          47.7437096
+          -122.179726,
+          47.7438431
         ]
       },
       "properties": {
         "alert_id": "1_90382",
-        "stop_id": "81404",
+        "stop_id": "81430",
         "stop_name": "NE 160th St & 121st Ave NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -1747,6 +1447,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.334473,
+          47.7375755
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89748",
+        "stop_id": "16330",
+        "stop_name": "Meridian Ave N & N 150th St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Sat Aug 29 due to construction.",
+        "description": "Affected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334473,
+          47.7375755
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89748",
+        "stop_id": "16330",
+        "stop_name": "Meridian Ave N & N 150th St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Sat Aug 29 due to construction.",
+        "description": "Affected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334473,
+          47.7375755
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89748",
+        "stop_id": "16330",
+        "stop_name": "Meridian Ave N & N 150th St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Sat Aug 29 due to construction.",
+        "description": "Affected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.230064,
           47.3697166
         ]
@@ -1767,59 +1527,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334473,
-          47.7375755
+          -122.231201,
+          47.3860893
         ]
       },
       "properties": {
-        "alert_id": "1_89748",
-        "stop_id": "16330",
-        "stop_name": "Meridian Ave N & N 150th St",
-        "alert_type": "Stop Closure",
+        "alert_id": "1_88856",
+        "stop_id": "58144",
+        "stop_name": "Central Ave N & E James St",
+        "alert_type": "Route Change",
         "status": "ongoing",
-        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Sat Aug 29 due to construction.",
-        "description": "Affected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8722"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334473,
-          47.7375755
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89748",
-        "stop_id": "16330",
-        "stop_name": "Meridian Ave N & N 150th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Sat Aug 29 due to construction.",
-        "description": "Affected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8722"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334473,
-          47.7375755
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89748",
-        "stop_id": "16330",
-        "stop_name": "Meridian Ave N & N 150th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Sat Aug 29 due to construction.",
-        "description": "Affected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8722"
+        "header": "Route 165 is rerouted off E James St between Jason Ave N and Railroad Ave N from Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM daily due to construction.",
+        "description": "Affected stops:\r\nStop #57480 E James St & Woodford Ave N (WB)\r\nStop #58144 Central Ave N & E James St (SB)\r\nStop #57070 E James St & Central Ave N (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57470 E James St & Jason Ave N (WB)\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57452 Kent Sounder Station - Bay 2 (NB)\r\nStop #57090 E James St & Jason Ave N (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/E"
       }
     },
     {
@@ -1835,26 +1555,6 @@
         "alert_id": "1_88856",
         "stop_id": "57070",
         "stop_name": "E James St & Central Ave N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off E James St between Jason Ave N and Railroad Ave N from Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM daily due to construction.",
-        "description": "Affected stops:\r\nStop #57480 E James St & Woodford Ave N (WB)\r\nStop #58144 Central Ave N & E James St (SB)\r\nStop #57070 E James St & Central Ave N (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57470 E James St & Jason Ave N (WB)\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57452 Kent Sounder Station - Bay 2 (NB)\r\nStop #57090 E James St & Jason Ave N (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.231201,
-          47.3860893
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88856",
-        "stop_id": "58144",
-        "stop_name": "Central Ave N & E James St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 165 is rerouted off E James St between Jason Ave N and Railroad Ave N from Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM daily due to construction.",
@@ -2087,13 +1787,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.20224,
-          47.3799477
+          -122.202446,
+          47.3793526
         ]
       },
       "properties": {
         "alert_id": "1_88980",
-        "stop_id": "57162",
+        "stop_id": "57407",
         "stop_name": "104th Ave SE & SE 248th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -2107,13 +1807,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202446,
-          47.3793526
+          -122.20224,
+          47.3799477
         ]
       },
       "properties": {
         "alert_id": "1_88980",
-        "stop_id": "57407",
+        "stop_id": "57162",
         "stop_name": "104th Ave SE & SE 248th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -2227,226 +1927,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334297,
-          47.5815544
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88605",
-        "stop_id": "15203",
-        "stop_name": "1st Ave S & S Stacy St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nThursday, July 2 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334297,
-          47.589901
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88605",
-        "stop_id": "15201",
-        "stop_name": "1st Ave S & S Atlantic St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nThursday, July 2 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334297,
-          47.5836525
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88605",
-        "stop_id": "15211",
-        "stop_name": "1st Ave S & S Walker St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nThursday, July 2 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334106,
-          47.5796814
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88605",
-        "stop_id": "15230",
-        "stop_name": "1st Ave S & S Lander St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nThursday, July 2 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334106,
-          47.5822334
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88605",
-        "stop_id": "15206",
-        "stop_name": "1st Ave S & S Stacy St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nThursday, July 2 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334106,
-          47.5865173
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88605",
-        "stop_id": "15207",
-        "stop_name": "1st Ave S & S Holgate St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nThursday, July 2 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.333992,
-          47.5723419
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88605",
-        "stop_id": "15190",
-        "stop_name": "1st Ave S & S Spokane St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nThursday, July 2 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334297,
-          47.585762
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88605",
-        "stop_id": "15202",
-        "stop_name": "1st Ave S & S Holgate St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nThursday, July 2 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.333473,
-          47.5901985
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88605",
-        "stop_id": "15204",
-        "stop_name": "Edgar Martinez Dr S & Occidental Ave S",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nThursday, July 2 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334106,
-          47.5759239
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88605",
-        "stop_id": "15205",
-        "stop_name": "1st Ave S & S Hanford St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nThursday, July 2 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334106,
-          47.5842438
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88605",
-        "stop_id": "15212",
-        "stop_name": "1st Ave S & S Walker St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nThursday, July 2 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.207703,
           47.7257614
         ]
@@ -2547,46 +2027,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.197159,
-          47.4223175
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88961",
-        "stop_id": "57330",
-        "stop_name": "108th Ave SE & SE 201st St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57330 108th Ave SE & SE 201st St (SB) and Stop #57230 108th Ave SE & SE 200th St (NB) relocated through Fri Jul 10 due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nFor Route 160 to Auburn Station:\r\nThe temporary stop on 108th Ave SE just north of the closed stop (SB)\r\n\nFor Route 160 to Renton:\r\nThe temporary stop on 108th Ave SE just south of the closed stop (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.196953,
-          47.422966
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88961",
-        "stop_id": "57230",
-        "stop_name": "108th Ave SE & SE 200th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57330 108th Ave SE & SE 201st St (SB) and Stop #57230 108th Ave SE & SE 200th St (NB) relocated through Fri Jul 10 due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nFor Route 160 to Auburn Station:\r\nThe temporary stop on 108th Ave SE just north of the closed stop (SB)\r\n\nFor Route 160 to Renton:\r\nThe temporary stop on 108th Ave SE just south of the closed stop (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.211533,
           47.4510269
         ]
@@ -2619,6 +2059,46 @@
         "status": "ongoing",
         "header": "Stop #59951 Talbot Rd S & S 32nd St (SB) and Stop #60359 Talbot Rd S & S 32nd St (NB) relocated through Sat Aug 1 due to construction.",
         "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.196953,
+          47.422966
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88961",
+        "stop_id": "57230",
+        "stop_name": "108th Ave SE & SE 200th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57330 108th Ave SE & SE 201st St (SB) and Stop #57230 108th Ave SE & SE 200th St (NB) relocated through Fri Jul 10 due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nFor Route 160 to Auburn Station:\r\nThe temporary stop on 108th Ave SE just north of the closed stop (SB)\r\n\nFor Route 160 to Renton:\r\nThe temporary stop on 108th Ave SE just south of the closed stop (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.197159,
+          47.4223175
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88961",
+        "stop_id": "57330",
+        "stop_name": "108th Ave SE & SE 201st St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57330 108th Ave SE & SE 201st St (SB) and Stop #57230 108th Ave SE & SE 200th St (NB) relocated through Fri Jul 10 due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nFor Route 160 to Auburn Station:\r\nThe temporary stop on 108th Ave SE just north of the closed stop (SB)\r\n\nFor Route 160 to Renton:\r\nThe temporary stop on 108th Ave SE just south of the closed stop (NB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
       }
     },
