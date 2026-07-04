@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-04T07:12:15.597507+00:00",
+  "generated_at": "2026-07-04T09:32:52.456970+00:00",
   "features": [
     {
       "type": "Feature",
@@ -27,13 +27,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.222389,
-          47.3439255
+          -122.222198,
+          47.3451881
         ]
       },
       "properties": {
         "alert_id": "1_89529",
-        "stop_id": "58235",
+        "stop_id": "57920",
         "stop_name": "Auburn Way N & 42nd St NE",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -47,13 +47,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.222198,
-          47.3451881
+          -122.222389,
+          47.3439255
         ]
       },
       "properties": {
         "alert_id": "1_89529",
-        "stop_id": "57920",
+        "stop_id": "58235",
         "stop_name": "Auburn Way N & 42nd St NE",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -267,6 +267,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.036324,
+          47.5360336
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90631",
+        "stop_id": "81704",
+        "stop_name": "Front St N & NE Crescent Dr",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 271 will be rerouted from 7:00 AM to 2:00 PM on Sat Jul 4 due to the Down Home 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)\r\n\nDuring this event Route 271 will not serve the stops on Front St N south of NW Gilman Blvd or on Newport Way SW at W Sunset Way.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.036499,
+          47.5368423
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90631",
+        "stop_id": "64554",
+        "stop_name": "Front St N & NW Holly St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 271 will be rerouted from 7:00 AM to 2:00 PM on Sat Jul 4 due to the Down Home 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)\r\n\nDuring this event Route 271 will not serve the stops on Front St N south of NW Gilman Blvd or on Newport Way SW at W Sunset Way.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.036377,
           47.5321922
         ]
@@ -274,6 +314,26 @@
       "properties": {
         "alert_id": "1_90631",
         "stop_id": "64540",
+        "stop_name": "Front St N & NE Alder St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 271 will be rerouted from 7:00 AM to 2:00 PM on Sat Jul 4 due to the Down Home 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)\r\n\nDuring this event Route 271 will not serve the stops on Front St N south of NW Gilman Blvd or on Newport Way SW at W Sunset Way.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.036583,
+          47.5321274
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90631",
+        "stop_id": "65090",
         "stop_name": "Front St N & NE Alder St",
         "alert_type": "Route Change",
         "status": "upcoming",
@@ -307,46 +367,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.03653,
-          47.5355415
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90631",
-        "stop_id": "64456",
-        "stop_name": "Front St N & NE Crescent Dr",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 271 will be rerouted from 7:00 AM to 2:00 PM on Sat Jul 4 due to the Down Home 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)\r\n\nDuring this event Route 271 will not serve the stops on Front St N south of NW Gilman Blvd or on Newport Way SW at W Sunset Way.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/e"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.036583,
-          47.5321274
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90631",
-        "stop_id": "65090",
-        "stop_name": "Front St N & NE Alder St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 271 will be rerouted from 7:00 AM to 2:00 PM on Sat Jul 4 due to the Down Home 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)\r\n\nDuring this event Route 271 will not serve the stops on Front St N south of NW Gilman Blvd or on Newport Way SW at W Sunset Way.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/e"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.036537,
           47.5342369
         ]
@@ -354,46 +374,6 @@
       "properties": {
         "alert_id": "1_90631",
         "stop_id": "81692",
-        "stop_name": "Front St N & NE Dogwood St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 271 will be rerouted from 7:00 AM to 2:00 PM on Sat Jul 4 due to the Down Home 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)\r\n\nDuring this event Route 271 will not serve the stops on Front St N south of NW Gilman Blvd or on Newport Way SW at W Sunset Way.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/e"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.036499,
-          47.5368423
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90631",
-        "stop_id": "64554",
-        "stop_name": "Front St N & NW Holly St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 271 will be rerouted from 7:00 AM to 2:00 PM on Sat Jul 4 due to the Down Home 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)\r\n\nDuring this event Route 271 will not serve the stops on Front St N south of NW Gilman Blvd or on Newport Way SW at W Sunset Way.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/e"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.036339,
-          47.5342865
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90631",
-        "stop_id": "64548",
         "stop_name": "Front St N & NE Dogwood St",
         "alert_type": "Route Change",
         "status": "upcoming",
@@ -427,14 +407,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.036324,
-          47.5360336
+          -122.03653,
+          47.5355415
         ]
       },
       "properties": {
         "alert_id": "1_90631",
-        "stop_id": "81704",
+        "stop_id": "64456",
         "stop_name": "Front St N & NE Crescent Dr",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 271 will be rerouted from 7:00 AM to 2:00 PM on Sat Jul 4 due to the Down Home 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)\r\n\nDuring this event Route 271 will not serve the stops on Front St N south of NW Gilman Blvd or on Newport Way SW at W Sunset Way.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.036339,
+          47.5342865
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90631",
+        "stop_id": "64548",
+        "stop_name": "Front St N & NE Dogwood St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 271 will be rerouted from 7:00 AM to 2:00 PM on Sat Jul 4 due to the Down Home 4th of July Parade.",
@@ -527,94 +527,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.311691,
-          47.390789
+          -122.310036,
+          47.3867302
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "48972",
-        "stop_name": "16th Ave S & 17th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.312439,
-          47.3867798
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "47280",
-        "stop_name": "S 240th St & 16th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.309937,
-          47.3865929
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48925",
+        "stop_id": "47275",
         "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.311783,
-          47.3866272
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48920",
-        "stop_name": "S 240th St & 17th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.308136,
-          47.3909111
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48974",
-        "stop_name": "Kent Des Moines Rd & 20th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -647,14 +567,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.310036,
-          47.3867302
+          -122.311783,
+          47.3866272
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
+        "stop_id": "48920",
+        "stop_name": "S 240th St & 17th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311691,
+          47.390789
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48972",
+        "stop_name": "16th Ave S & 17th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308136,
+          47.3909111
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48974",
+        "stop_name": "Kent Des Moines Rd & 20th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -692,9 +652,49 @@
         ]
       },
       "properties": {
-        "alert_id": "1_82886",
+        "alert_id": "1_82885",
         "stop_id": "47280",
         "stop_name": "S 240th St & 16th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.309937,
+          47.3865929
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48925",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310036,
+          47.3867302
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82886",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -707,14 +707,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.311783,
-          47.3866272
+          -122.312439,
+          47.3867798
         ]
       },
       "properties": {
         "alert_id": "1_82886",
-        "stop_id": "48920",
-        "stop_name": "S 240th St & 17th Ave S",
+        "stop_id": "47280",
+        "stop_name": "S 240th St & 16th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -747,14 +747,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.310036,
-          47.3867302
+          -122.311783,
+          47.3866272
         ]
       },
       "properties": {
         "alert_id": "1_82886",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
+        "stop_id": "48920",
+        "stop_name": "S 240th St & 17th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -927,14 +927,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.263481,
-          47.5200996
+          -122.267807,
+          47.5199165
         ]
       },
       "properties": {
         "alert_id": "1_90508",
-        "stop_id": "8050",
-        "stop_name": "Rainier Ave S & Seward Park Ave S",
+        "stop_id": "8070",
+        "stop_name": "Rainier Ave S & 52nd Ave S",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 7 will be rerouted from 9:00 AM to 8:00 PM on Sat Jul 4 due to the Somali Independence Festival.",
@@ -967,14 +967,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.264366,
-          47.5216446
+          -122.269897,
+          47.521328
         ]
       },
       "properties": {
         "alert_id": "1_90508",
-        "stop_id": "30122",
-        "stop_name": "Seward Park Ave S & S Fisher Pl",
+        "stop_id": "8080",
+        "stop_name": "Rainier Ave S & S Fisher Pl",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 7 will be rerouted from 9:00 AM to 8:00 PM on Sat Jul 4 due to the Somali Independence Festival.",
@@ -1007,6 +1007,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.263481,
+          47.5200996
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90508",
+        "stop_id": "8050",
+        "stop_name": "Rainier Ave S & Seward Park Ave S",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 7 will be rerouted from 9:00 AM to 8:00 PM on Sat Jul 4 due to the Somali Independence Festival.",
+        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nFor Route 7 to Downtown Seattle: \r\nStop #30160 S Henderson St & Renton Ave S (WB)\r\nStop #55583 Martin L King Jr Way S & S Henderson St (NB)\r\nStop #31134 S Henderson St & 48th Ave S (EB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)\r\n\nFor Route 7 to Rainier Beach and to Prentice St:\r\nStop #8990 Rainier Ave S & S Cloverdale St (SB)\r\nStop #30140 S Henderson St & Rainier Ave S (WB)\r\nStop #30160 S Henderson St & Renton Ave S (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.264366,
+          47.5216446
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90508",
+        "stop_id": "30122",
+        "stop_name": "Seward Park Ave S & S Fisher Pl",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 7 will be rerouted from 9:00 AM to 8:00 PM on Sat Jul 4 due to the Somali Independence Festival.",
+        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nFor Route 7 to Downtown Seattle: \r\nStop #30160 S Henderson St & Renton Ave S (WB)\r\nStop #55583 Martin L King Jr Way S & S Henderson St (NB)\r\nStop #31134 S Henderson St & 48th Ave S (EB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)\r\n\nFor Route 7 to Rainier Beach and to Prentice St:\r\nStop #8990 Rainier Ave S & S Cloverdale St (SB)\r\nStop #30140 S Henderson St & Rainier Ave S (WB)\r\nStop #30160 S Henderson St & Renton Ave S (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.26989,
           47.5228729
         ]
@@ -1027,39 +1067,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.269897,
-          47.521328
+          -122.035011,
+          47.5301666
         ]
       },
       "properties": {
-        "alert_id": "1_90508",
-        "stop_id": "8080",
-        "stop_name": "Rainier Ave S & S Fisher Pl",
+        "alert_id": "1_90629",
+        "stop_id": "64502",
+        "stop_name": "E Sunset Way & 1st Ave NE",
         "alert_type": "Route Change",
         "status": "upcoming",
-        "header": "Route 7 will be rerouted from 9:00 AM to 8:00 PM on Sat Jul 4 due to the Somali Independence Festival.",
-        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nFor Route 7 to Downtown Seattle: \r\nStop #30160 S Henderson St & Renton Ave S (WB)\r\nStop #55583 Martin L King Jr Way S & S Henderson St (NB)\r\nStop #31134 S Henderson St & 48th Ave S (EB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)\r\n\nFor Route 7 to Rainier Beach and to Prentice St:\r\nStop #8990 Rainier Ave S & S Cloverdale St (SB)\r\nStop #30140 S Henderson St & Rainier Ave S (WB)\r\nStop #30160 S Henderson St & Renton Ave S (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.267807,
-          47.5199165
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90508",
-        "stop_id": "8070",
-        "stop_name": "Rainier Ave S & 52nd Ave S",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 7 will be rerouted from 9:00 AM to 8:00 PM on Sat Jul 4 due to the Somali Independence Festival.",
-        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nFor Route 7 to Downtown Seattle: \r\nStop #30160 S Henderson St & Renton Ave S (WB)\r\nStop #55583 Martin L King Jr Way S & S Henderson St (NB)\r\nStop #31134 S Henderson St & 48th Ave S (EB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)\r\n\nFor Route 7 to Rainier Beach and to Prentice St:\r\nStop #8990 Rainier Ave S & S Cloverdale St (SB)\r\nStop #30140 S Henderson St & Rainier Ave S (WB)\r\nStop #30160 S Henderson St & Renton Ave S (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N/"
+        "header": "ST 554 will be rerouted from 7:00 AM to 2:00 PM on Sat Jul 4 due to the Down Home 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #80485 E Sunset Way & Rainier Blvd S (EB)\r\nStop #64502 E Sunset Way & 1st Ave NE (WB)\r\n\nFor ST 554 to Issaquah get on/off at:\r\nStop #64590 Issaquah Transit Center - Bay 6 (SB)\r\nThe temporary stop on 2nd Ave SE, just south of SE Andrews St (NB)\r\n\nFor ST 554 to Downtown Seattle get on/off at:\r\nThe temporary stop on 2nd Ave SE, just north of SE Andrews St (SB)\r\nStop #64555 Issaquah Transit Center - Bay 2 (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/554/w"
       }
     },
     {
@@ -1075,26 +1095,6 @@
         "alert_id": "1_90629",
         "stop_id": "80485",
         "stop_name": "E Sunset Way & Rainier Blvd S",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "ST 554 will be rerouted from 7:00 AM to 2:00 PM on Sat Jul 4 due to the Down Home 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #80485 E Sunset Way & Rainier Blvd S (EB)\r\nStop #64502 E Sunset Way & 1st Ave NE (WB)\r\n\nFor ST 554 to Issaquah get on/off at:\r\nStop #64590 Issaquah Transit Center - Bay 6 (SB)\r\nThe temporary stop on 2nd Ave SE, just south of SE Andrews St (NB)\r\n\nFor ST 554 to Downtown Seattle get on/off at:\r\nThe temporary stop on 2nd Ave SE, just north of SE Andrews St (SB)\r\nStop #64555 Issaquah Transit Center - Bay 2 (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/554/w"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.035011,
-          47.5301666
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90629",
-        "stop_id": "64502",
-        "stop_name": "E Sunset Way & 1st Ave NE",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "ST 554 will be rerouted from 7:00 AM to 2:00 PM on Sat Jul 4 due to the Down Home 4th of July Parade.",
@@ -1127,14 +1127,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.250259,
-          47.2672806
+          -122.250145,
+          47.2716141
         ]
       },
       "properties": {
         "alert_id": "1_89751",
-        "stop_id": "57852",
-        "stop_name": "Milwaukee Blvd S & Homer Ave SE",
+        "stop_id": "57851",
+        "stop_name": "Milwaukee Blvd N & Ellingson Rd",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "DART 917 is rerouted off a portion of Milwaukee Blvd N between Ellingson Rd and 3rd Ave SE until further notice due to construction.",
@@ -1147,14 +1147,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.250145,
-          47.2716141
+          -122.250259,
+          47.2672806
         ]
       },
       "properties": {
         "alert_id": "1_89751",
-        "stop_id": "57851",
-        "stop_name": "Milwaukee Blvd N & Ellingson Rd",
+        "stop_id": "57852",
+        "stop_name": "Milwaukee Blvd S & Homer Ave SE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "DART 917 is rerouted off a portion of Milwaukee Blvd N between Ellingson Rd and 3rd Ave SE until further notice due to construction.",
@@ -1247,14 +1247,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.135582,
-          47.6028709
+          -122.140549,
+          47.6002808
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68670",
-        "stop_name": "Lake Hills Blvd & 154th Ave SE",
+        "stop_id": "68530",
+        "stop_name": "Lake Hills Blvd & SE 12th Pl",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
@@ -1307,14 +1307,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.140549,
-          47.6002808
+          -122.136032,
+          47.6029015
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68530",
-        "stop_name": "Lake Hills Blvd & SE 12th Pl",
+        "stop_id": "68510",
+        "stop_name": "Lake Hills Blvd & 154th Ave SE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
@@ -1347,13 +1347,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.136032,
-          47.6029015
+          -122.135582,
+          47.6028709
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68510",
+        "stop_id": "68670",
         "stop_name": "Lake Hills Blvd & 154th Ave SE",
         "alert_type": "Route Change",
         "status": "ongoing",
@@ -1387,14 +1387,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.224045,
-          47.4435844
+          -122.223145,
+          47.4410667
         ]
       },
       "properties": {
         "alert_id": "1_90588",
-        "stop_id": "80764",
-        "stop_name": "Lind Ave SW & SW 41st St",
+        "stop_id": "59358",
+        "stop_name": "SW 43rd St & Lind Ave SW",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 153 to Kent is rerouted off portions of Lind Ave SW and S 180th St between SW 41st St and E Valley Hwy until Fri Jul 3 due to construction.",
@@ -1407,14 +1407,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.223145,
-          47.4410667
+          -122.224045,
+          47.4435844
         ]
       },
       "properties": {
         "alert_id": "1_90588",
-        "stop_id": "59358",
-        "stop_name": "SW 43rd St & Lind Ave SW",
+        "stop_id": "80764",
+        "stop_name": "Lind Ave SW & SW 41st St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 153 to Kent is rerouted off portions of Lind Ave SW and S 180th St between SW 41st St and E Valley Hwy until Fri Jul 3 due to construction.",
@@ -1487,6 +1487,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.209373,
+          47.6783562
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90547",
+        "stop_id": "70420",
+        "stop_name": "Market St & 4th Ave",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 255 is rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Kirkland 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #70420 Market St & 4th Ave (NB)\r\nStop #70440 Market St & 8th Ave (NB)\r\nStop #70390 Market St & 2nd St W (SB)\r\nStop #70410 Market St & Waverly Way (SB)\r\n\nFor Route 255 to Totem Lake TC get on/off at:\r\nStop #73814 Kirkland Transit Center - Bay 2 (NB)\r\nStop #74580 3rd St & 5th Ave (NB)\r\nStop #74600 3rd St & 9th Ave (NB)\r\nThe temporary stop on 10th Ave, just east of 1st St (WB)\r\nStop #70460 Market St & 12th Ave (NB)\r\n\nFor Route 255 to University District get on/off at:\r\nStop #70370 Market St & 11th Ave W (SB)\r\nThe temporary stop on 10th Ave, just east of Market St (EB)\r\nStop #74390 3rd St & 5th Ave (SB)\r\nStop #73816 Kirkland Transit Center - Bay 3 (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/255/E/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.209702,
           47.677597
         ]
@@ -1515,26 +1535,6 @@
         "alert_id": "1_90547",
         "stop_id": "70390",
         "stop_name": "Market St & 2nd St W",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 255 is rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Kirkland 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #70420 Market St & 4th Ave (NB)\r\nStop #70440 Market St & 8th Ave (NB)\r\nStop #70390 Market St & 2nd St W (SB)\r\nStop #70410 Market St & Waverly Way (SB)\r\n\nFor Route 255 to Totem Lake TC get on/off at:\r\nStop #73814 Kirkland Transit Center - Bay 2 (NB)\r\nStop #74580 3rd St & 5th Ave (NB)\r\nStop #74600 3rd St & 9th Ave (NB)\r\nThe temporary stop on 10th Ave, just east of 1st St (WB)\r\nStop #70460 Market St & 12th Ave (NB)\r\n\nFor Route 255 to University District get on/off at:\r\nStop #70370 Market St & 11th Ave W (SB)\r\nThe temporary stop on 10th Ave, just east of Market St (EB)\r\nStop #74390 3rd St & 5th Ave (SB)\r\nStop #73816 Kirkland Transit Center - Bay 3 (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/255/E/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.209373,
-          47.6783562
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90547",
-        "stop_id": "70420",
-        "stop_name": "Market St & 4th Ave",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 255 is rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Kirkland 4th of July Parade.",
@@ -1607,13 +1607,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.221626,
-          47.3261719
+          -122.221436,
+          47.3267365
         ]
       },
       "properties": {
         "alert_id": "1_88979",
-        "stop_id": "58270",
+        "stop_id": "57900",
         "stop_name": "Auburn Way N & 22nd St NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -1627,13 +1627,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.221436,
-          47.3267365
+          -122.221626,
+          47.3261719
         ]
       },
       "properties": {
         "alert_id": "1_88979",
-        "stop_id": "57900",
+        "stop_id": "58270",
         "stop_name": "Auburn Way N & 22nd St NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -1747,6 +1747,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.231201,
+          47.3860893
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88856",
+        "stop_id": "58144",
+        "stop_name": "Central Ave N & E James St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 165 is rerouted off E James St between Jason Ave N and Railroad Ave N from Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM daily due to construction.",
+        "description": "Affected stops:\r\nStop #57480 E James St & Woodford Ave N (WB)\r\nStop #58144 Central Ave N & E James St (SB)\r\nStop #57070 E James St & Central Ave N (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57470 E James St & Jason Ave N (WB)\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57452 Kent Sounder Station - Bay 2 (NB)\r\nStop #57090 E James St & Jason Ave N (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.22818,
           47.3866959
         ]
@@ -1775,26 +1795,6 @@
         "alert_id": "1_88856",
         "stop_id": "57070",
         "stop_name": "E James St & Central Ave N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off E James St between Jason Ave N and Railroad Ave N from Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM daily due to construction.",
-        "description": "Affected stops:\r\nStop #57480 E James St & Woodford Ave N (WB)\r\nStop #58144 Central Ave N & E James St (SB)\r\nStop #57070 E James St & Central Ave N (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57470 E James St & Jason Ave N (WB)\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57452 Kent Sounder Station - Bay 2 (NB)\r\nStop #57090 E James St & Jason Ave N (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.231201,
-          47.3860893
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88856",
-        "stop_id": "58144",
-        "stop_name": "Central Ave N & E James St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 165 is rerouted off E James St between Jason Ave N and Railroad Ave N from Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM daily due to construction.",
@@ -2007,14 +2007,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334106,
-          47.5842438
+          -122.334297,
+          47.5815544
         ]
       },
       "properties": {
         "alert_id": "1_88611",
-        "stop_id": "15212",
-        "stop_name": "1st Ave S & S Walker St",
+        "stop_id": "15203",
+        "stop_name": "1st Ave S & S Stacy St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\n\nSaturday, July 4 at 3:30 PM-4:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334106,
+          47.5796814
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88611",
+        "stop_id": "15230",
+        "stop_name": "1st Ave S & S Lander St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\n\nSaturday, July 4 at 3:30 PM-4:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334297,
+          47.585762
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88611",
+        "stop_id": "15202",
+        "stop_name": "1st Ave S & S Holgate St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
@@ -2048,26 +2088,6 @@
         "type": "Point",
         "coordinates": [
           -122.334106,
-          47.5796814
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88611",
-        "stop_id": "15230",
-        "stop_name": "1st Ave S & S Lander St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nSaturday, July 4 at 3:30 PM-4:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334106,
           47.5822334
         ]
       },
@@ -2088,26 +2108,6 @@
         "type": "Point",
         "coordinates": [
           -122.334297,
-          47.589901
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88611",
-        "stop_id": "15201",
-        "stop_name": "1st Ave S & S Atlantic St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nSaturday, July 4 at 3:30 PM-4:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334297,
           47.5836525
         ]
       },
@@ -2115,66 +2115,6 @@
         "alert_id": "1_88611",
         "stop_id": "15211",
         "stop_name": "1st Ave S & S Walker St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nSaturday, July 4 at 3:30 PM-4:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.333473,
-          47.5901985
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88611",
-        "stop_id": "15204",
-        "stop_name": "Edgar Martinez Dr S & Occidental Ave S",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nSaturday, July 4 at 3:30 PM-4:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334106,
-          47.5759239
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88611",
-        "stop_id": "15205",
-        "stop_name": "1st Ave S & S Hanford St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\nSaturday, July 4 at 3:30 PM-4:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334297,
-          47.585762
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88611",
-        "stop_id": "15202",
-        "stop_name": "1st Ave S & S Holgate St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
@@ -2208,13 +2148,13 @@
         "type": "Point",
         "coordinates": [
           -122.334297,
-          47.5815544
+          47.589901
         ]
       },
       "properties": {
         "alert_id": "1_88611",
-        "stop_id": "15203",
-        "stop_name": "1st Ave S & S Stacy St",
+        "stop_id": "15201",
+        "stop_name": "1st Ave S & S Atlantic St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
@@ -2227,19 +2167,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202446,
-          47.3793526
+          -122.334106,
+          47.5759239
         ]
       },
       "properties": {
-        "alert_id": "1_88980",
-        "stop_id": "57407",
-        "stop_name": "104th Ave SE & SE 248th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57407 104th Ave SE & SE 248th St (SB) and Stop #57162 104th Ave SE & SE 248th St (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 104th Ave SE just south of SE 248th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 248th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+        "alert_id": "1_88611",
+        "stop_id": "15205",
+        "stop_name": "1st Ave S & S Hanford St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\n\nSaturday, July 4 at 3:30 PM-4:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334106,
+          47.5842438
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88611",
+        "stop_id": "15212",
+        "stop_name": "1st Ave S & S Walker St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\n\nSaturday, July 4 at 3:30 PM-4:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333473,
+          47.5901985
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88611",
+        "stop_id": "15204",
+        "stop_name": "Edgar Martinez Dr S & Occidental Ave S",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\n\nSaturday, July 4 at 3:30 PM-4:30 PM\r\n\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
       }
     },
     {
@@ -2267,19 +2247,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.200272,
-          47.7605972
+          -122.202446,
+          47.3793526
         ]
       },
       "properties": {
-        "alert_id": "1_90530",
-        "stop_id": "76222",
-        "stop_name": "Beardslee Blvd & Sunrise Dr",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #76024 E Riverside Dr & 111th Ave NE (WB)\r\nStop #76030 E Riverside Dr & E Riverside Pl (WB)\r\nStop #76044 E Riverside Dr & Eason Ave (WB)\r\nStop #76023 102nd Ave NE & E Riverside Dr (NB)\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76306 Beardslee Blvd & NE 185th St (WB)\r\nStop #76308 Beardslee Blvd & 104th Ave NE (WB)\r\nStop #76315 102nd Ave NE & Main St (SB)\r\nStop #76021 E Riverside Dr & 102nd Ave NE (EB)\r\nStop #76045 E Riverside Dr & Eason Ave (EB)\r\nStop #76058 E Riverside Dr & 111th Ave NE (EB)\r\nStop #76060 E Riverside Dr & 111th Ave NE (EB)\r\n\nFor Route 239 to UW Bothell / Cascadia College get on/off at:\r\nStop #70312 Brickyard Rd NE & NE Woodinville Dr (NB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 239 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #70311 Brickyard Rd NE & E Riverside Dr (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/N/"
+        "alert_id": "1_88980",
+        "stop_id": "57407",
+        "stop_name": "104th Ave SE & SE 248th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57407 104th Ave SE & SE 248th St (SB) and Stop #57162 104th Ave SE & SE 248th St (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 104th Ave SE just south of SE 248th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 248th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -2287,34 +2267,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.19738,
-          47.7618637
+          -122.192078,
+          47.752594
         ]
       },
       "properties": {
         "alert_id": "1_90530",
-        "stop_id": "76306",
-        "stop_name": "Beardslee Blvd & NE 185th St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #76024 E Riverside Dr & 111th Ave NE (WB)\r\nStop #76030 E Riverside Dr & E Riverside Pl (WB)\r\nStop #76044 E Riverside Dr & Eason Ave (WB)\r\nStop #76023 102nd Ave NE & E Riverside Dr (NB)\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76306 Beardslee Blvd & NE 185th St (WB)\r\nStop #76308 Beardslee Blvd & 104th Ave NE (WB)\r\nStop #76315 102nd Ave NE & Main St (SB)\r\nStop #76021 E Riverside Dr & 102nd Ave NE (EB)\r\nStop #76045 E Riverside Dr & Eason Ave (EB)\r\nStop #76058 E Riverside Dr & 111th Ave NE (EB)\r\nStop #76060 E Riverside Dr & 111th Ave NE (EB)\r\n\nFor Route 239 to UW Bothell / Cascadia College get on/off at:\r\nStop #70312 Brickyard Rd NE & NE Woodinville Dr (NB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 239 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #70311 Brickyard Rd NE & E Riverside Dr (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.203827,
-          47.7597694
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90530",
-        "stop_id": "76315",
-        "stop_name": "102nd Ave NE & Main St",
+        "stop_id": "76058",
+        "stop_name": "E Riverside Dr & 111th Ave NE",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
@@ -2347,14 +2307,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.203842,
-          47.7568092
+          -122.200783,
+          47.7606392
         ]
       },
       "properties": {
         "alert_id": "1_90530",
-        "stop_id": "76023",
-        "stop_name": "102nd Ave NE & E Riverside Dr",
+        "stop_id": "76308",
+        "stop_name": "Beardslee Blvd & 104th Ave NE",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
@@ -2367,94 +2327,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.199478,
-          47.7560654
+          -122.203621,
+          47.759716
         ]
       },
       "properties": {
         "alert_id": "1_90530",
-        "stop_id": "76044",
-        "stop_name": "E Riverside Dr & Eason Ave",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #76024 E Riverside Dr & 111th Ave NE (WB)\r\nStop #76030 E Riverside Dr & E Riverside Pl (WB)\r\nStop #76044 E Riverside Dr & Eason Ave (WB)\r\nStop #76023 102nd Ave NE & E Riverside Dr (NB)\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76306 Beardslee Blvd & NE 185th St (WB)\r\nStop #76308 Beardslee Blvd & 104th Ave NE (WB)\r\nStop #76315 102nd Ave NE & Main St (SB)\r\nStop #76021 E Riverside Dr & 102nd Ave NE (EB)\r\nStop #76045 E Riverside Dr & Eason Ave (EB)\r\nStop #76058 E Riverside Dr & 111th Ave NE (EB)\r\nStop #76060 E Riverside Dr & 111th Ave NE (EB)\r\n\nFor Route 239 to UW Bothell / Cascadia College get on/off at:\r\nStop #70312 Brickyard Rd NE & NE Woodinville Dr (NB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 239 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #70311 Brickyard Rd NE & E Riverside Dr (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.202705,
-          47.75634
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90530",
-        "stop_id": "76021",
-        "stop_name": "E Riverside Dr & 102nd Ave NE",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #76024 E Riverside Dr & 111th Ave NE (WB)\r\nStop #76030 E Riverside Dr & E Riverside Pl (WB)\r\nStop #76044 E Riverside Dr & Eason Ave (WB)\r\nStop #76023 102nd Ave NE & E Riverside Dr (NB)\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76306 Beardslee Blvd & NE 185th St (WB)\r\nStop #76308 Beardslee Blvd & 104th Ave NE (WB)\r\nStop #76315 102nd Ave NE & Main St (SB)\r\nStop #76021 E Riverside Dr & 102nd Ave NE (EB)\r\nStop #76045 E Riverside Dr & Eason Ave (EB)\r\nStop #76058 E Riverside Dr & 111th Ave NE (EB)\r\nStop #76060 E Riverside Dr & 111th Ave NE (EB)\r\n\nFor Route 239 to UW Bothell / Cascadia College get on/off at:\r\nStop #70312 Brickyard Rd NE & NE Woodinville Dr (NB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 239 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #70311 Brickyard Rd NE & E Riverside Dr (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.199661,
-          47.7559624
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90530",
-        "stop_id": "76045",
-        "stop_name": "E Riverside Dr & Eason Ave",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #76024 E Riverside Dr & 111th Ave NE (WB)\r\nStop #76030 E Riverside Dr & E Riverside Pl (WB)\r\nStop #76044 E Riverside Dr & Eason Ave (WB)\r\nStop #76023 102nd Ave NE & E Riverside Dr (NB)\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76306 Beardslee Blvd & NE 185th St (WB)\r\nStop #76308 Beardslee Blvd & 104th Ave NE (WB)\r\nStop #76315 102nd Ave NE & Main St (SB)\r\nStop #76021 E Riverside Dr & 102nd Ave NE (EB)\r\nStop #76045 E Riverside Dr & Eason Ave (EB)\r\nStop #76058 E Riverside Dr & 111th Ave NE (EB)\r\nStop #76060 E Riverside Dr & 111th Ave NE (EB)\r\n\nFor Route 239 to UW Bothell / Cascadia College get on/off at:\r\nStop #70312 Brickyard Rd NE & NE Woodinville Dr (NB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 239 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #70311 Brickyard Rd NE & E Riverside Dr (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.192078,
-          47.752594
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90530",
-        "stop_id": "76058",
-        "stop_name": "E Riverside Dr & 111th Ave NE",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #76024 E Riverside Dr & 111th Ave NE (WB)\r\nStop #76030 E Riverside Dr & E Riverside Pl (WB)\r\nStop #76044 E Riverside Dr & Eason Ave (WB)\r\nStop #76023 102nd Ave NE & E Riverside Dr (NB)\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76306 Beardslee Blvd & NE 185th St (WB)\r\nStop #76308 Beardslee Blvd & 104th Ave NE (WB)\r\nStop #76315 102nd Ave NE & Main St (SB)\r\nStop #76021 E Riverside Dr & 102nd Ave NE (EB)\r\nStop #76045 E Riverside Dr & Eason Ave (EB)\r\nStop #76058 E Riverside Dr & 111th Ave NE (EB)\r\nStop #76060 E Riverside Dr & 111th Ave NE (EB)\r\n\nFor Route 239 to UW Bothell / Cascadia College get on/off at:\r\nStop #70312 Brickyard Rd NE & NE Woodinville Dr (NB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 239 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #70311 Brickyard Rd NE & E Riverside Dr (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.202171,
-          47.7602425
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90530",
-        "stop_id": "76298",
-        "stop_name": "Main St & 103rd Ave NE",
+        "stop_id": "76317",
+        "stop_name": "102nd Ave NE & Main St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
@@ -2487,6 +2367,106 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.202171,
+          47.7602425
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90530",
+        "stop_id": "76298",
+        "stop_name": "Main St & 103rd Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #76024 E Riverside Dr & 111th Ave NE (WB)\r\nStop #76030 E Riverside Dr & E Riverside Pl (WB)\r\nStop #76044 E Riverside Dr & Eason Ave (WB)\r\nStop #76023 102nd Ave NE & E Riverside Dr (NB)\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76306 Beardslee Blvd & NE 185th St (WB)\r\nStop #76308 Beardslee Blvd & 104th Ave NE (WB)\r\nStop #76315 102nd Ave NE & Main St (SB)\r\nStop #76021 E Riverside Dr & 102nd Ave NE (EB)\r\nStop #76045 E Riverside Dr & Eason Ave (EB)\r\nStop #76058 E Riverside Dr & 111th Ave NE (EB)\r\nStop #76060 E Riverside Dr & 111th Ave NE (EB)\r\n\nFor Route 239 to UW Bothell / Cascadia College get on/off at:\r\nStop #70312 Brickyard Rd NE & NE Woodinville Dr (NB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 239 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #70311 Brickyard Rd NE & E Riverside Dr (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.202705,
+          47.75634
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90530",
+        "stop_id": "76021",
+        "stop_name": "E Riverside Dr & 102nd Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #76024 E Riverside Dr & 111th Ave NE (WB)\r\nStop #76030 E Riverside Dr & E Riverside Pl (WB)\r\nStop #76044 E Riverside Dr & Eason Ave (WB)\r\nStop #76023 102nd Ave NE & E Riverside Dr (NB)\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76306 Beardslee Blvd & NE 185th St (WB)\r\nStop #76308 Beardslee Blvd & 104th Ave NE (WB)\r\nStop #76315 102nd Ave NE & Main St (SB)\r\nStop #76021 E Riverside Dr & 102nd Ave NE (EB)\r\nStop #76045 E Riverside Dr & Eason Ave (EB)\r\nStop #76058 E Riverside Dr & 111th Ave NE (EB)\r\nStop #76060 E Riverside Dr & 111th Ave NE (EB)\r\n\nFor Route 239 to UW Bothell / Cascadia College get on/off at:\r\nStop #70312 Brickyard Rd NE & NE Woodinville Dr (NB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 239 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #70311 Brickyard Rd NE & E Riverside Dr (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.200272,
+          47.7605972
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90530",
+        "stop_id": "76222",
+        "stop_name": "Beardslee Blvd & Sunrise Dr",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #76024 E Riverside Dr & 111th Ave NE (WB)\r\nStop #76030 E Riverside Dr & E Riverside Pl (WB)\r\nStop #76044 E Riverside Dr & Eason Ave (WB)\r\nStop #76023 102nd Ave NE & E Riverside Dr (NB)\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76306 Beardslee Blvd & NE 185th St (WB)\r\nStop #76308 Beardslee Blvd & 104th Ave NE (WB)\r\nStop #76315 102nd Ave NE & Main St (SB)\r\nStop #76021 E Riverside Dr & 102nd Ave NE (EB)\r\nStop #76045 E Riverside Dr & Eason Ave (EB)\r\nStop #76058 E Riverside Dr & 111th Ave NE (EB)\r\nStop #76060 E Riverside Dr & 111th Ave NE (EB)\r\n\nFor Route 239 to UW Bothell / Cascadia College get on/off at:\r\nStop #70312 Brickyard Rd NE & NE Woodinville Dr (NB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 239 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #70311 Brickyard Rd NE & E Riverside Dr (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.199661,
+          47.7559624
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90530",
+        "stop_id": "76045",
+        "stop_name": "E Riverside Dr & Eason Ave",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #76024 E Riverside Dr & 111th Ave NE (WB)\r\nStop #76030 E Riverside Dr & E Riverside Pl (WB)\r\nStop #76044 E Riverside Dr & Eason Ave (WB)\r\nStop #76023 102nd Ave NE & E Riverside Dr (NB)\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76306 Beardslee Blvd & NE 185th St (WB)\r\nStop #76308 Beardslee Blvd & 104th Ave NE (WB)\r\nStop #76315 102nd Ave NE & Main St (SB)\r\nStop #76021 E Riverside Dr & 102nd Ave NE (EB)\r\nStop #76045 E Riverside Dr & Eason Ave (EB)\r\nStop #76058 E Riverside Dr & 111th Ave NE (EB)\r\nStop #76060 E Riverside Dr & 111th Ave NE (EB)\r\n\nFor Route 239 to UW Bothell / Cascadia College get on/off at:\r\nStop #70312 Brickyard Rd NE & NE Woodinville Dr (NB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 239 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #70311 Brickyard Rd NE & E Riverside Dr (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.19738,
+          47.7618637
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90530",
+        "stop_id": "76306",
+        "stop_name": "Beardslee Blvd & NE 185th St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #76024 E Riverside Dr & 111th Ave NE (WB)\r\nStop #76030 E Riverside Dr & E Riverside Pl (WB)\r\nStop #76044 E Riverside Dr & Eason Ave (WB)\r\nStop #76023 102nd Ave NE & E Riverside Dr (NB)\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76306 Beardslee Blvd & NE 185th St (WB)\r\nStop #76308 Beardslee Blvd & 104th Ave NE (WB)\r\nStop #76315 102nd Ave NE & Main St (SB)\r\nStop #76021 E Riverside Dr & 102nd Ave NE (EB)\r\nStop #76045 E Riverside Dr & Eason Ave (EB)\r\nStop #76058 E Riverside Dr & 111th Ave NE (EB)\r\nStop #76060 E Riverside Dr & 111th Ave NE (EB)\r\n\nFor Route 239 to UW Bothell / Cascadia College get on/off at:\r\nStop #70312 Brickyard Rd NE & NE Woodinville Dr (NB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 239 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #70311 Brickyard Rd NE & E Riverside Dr (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.1959,
           47.7622452
         ]
@@ -2495,6 +2475,26 @@
         "alert_id": "1_90530",
         "stop_id": "76224",
         "stop_name": "Beardslee Blvd & 108th Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #76024 E Riverside Dr & 111th Ave NE (WB)\r\nStop #76030 E Riverside Dr & E Riverside Pl (WB)\r\nStop #76044 E Riverside Dr & Eason Ave (WB)\r\nStop #76023 102nd Ave NE & E Riverside Dr (NB)\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76306 Beardslee Blvd & NE 185th St (WB)\r\nStop #76308 Beardslee Blvd & 104th Ave NE (WB)\r\nStop #76315 102nd Ave NE & Main St (SB)\r\nStop #76021 E Riverside Dr & 102nd Ave NE (EB)\r\nStop #76045 E Riverside Dr & Eason Ave (EB)\r\nStop #76058 E Riverside Dr & 111th Ave NE (EB)\r\nStop #76060 E Riverside Dr & 111th Ave NE (EB)\r\n\nFor Route 239 to UW Bothell / Cascadia College get on/off at:\r\nStop #70312 Brickyard Rd NE & NE Woodinville Dr (NB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 239 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #70311 Brickyard Rd NE & E Riverside Dr (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.203842,
+          47.7568092
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90530",
+        "stop_id": "76023",
+        "stop_name": "102nd Ave NE & E Riverside Dr",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
@@ -2547,13 +2547,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.203621,
-          47.759716
+          -122.203827,
+          47.7597694
         ]
       },
       "properties": {
         "alert_id": "1_90530",
-        "stop_id": "76317",
+        "stop_id": "76315",
         "stop_name": "102nd Ave NE & Main St",
         "alert_type": "Route Change",
         "status": "upcoming",
@@ -2567,14 +2567,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.200783,
-          47.7606392
+          -122.199478,
+          47.7560654
         ]
       },
       "properties": {
         "alert_id": "1_90530",
-        "stop_id": "76308",
-        "stop_name": "Beardslee Blvd & 104th Ave NE",
+        "stop_id": "76044",
+        "stop_name": "E Riverside Dr & Eason Ave",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 239 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
@@ -2727,54 +2727,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.20163,
-          47.7619629
+          -122.193596,
+          47.7639961
         ]
       },
       "properties": {
         "alert_id": "1_90526",
-        "stop_id": "76216",
-        "stop_name": "NE 185th St & 104th Ave NE",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 230 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #76312 98th Ave NE & NE 183rd St (NB)\r\nStop #76215 NE 185th St & 101st Ave NE (EB)\r\nStop #76216 NE 185th St & 104th Av NE (EB)\r\nStop #76220 NE 185th St & 104th Ave NE (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76309 NE 185th St & Beardslee Blvd (WB)\r\nStop #76218 NE 185th St & 103rd Ave NE (WB)\r\nStop #76214 NE 185th St & 101st Ave NE (WB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #76925 Bothell Way NE & 96th Ave NE (NB)\r\nStop #79296 Bothell Way Ne & Bothell Way Ne (EB)\r\nThe temporary stop on Woodinville Dr just before Kaysner Way (EB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #76302 Woodinville Dr & Kaysner Way (WB)\r\nStop #76310 Bothell Way NE & NE 180th St (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.205315,
-          47.7617264
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90526",
-        "stop_id": "76215",
-        "stop_name": "NE 185th St & 101st Ave NE",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 230 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #76312 98th Ave NE & NE 183rd St (NB)\r\nStop #76215 NE 185th St & 101st Ave NE (EB)\r\nStop #76216 NE 185th St & 104th Av NE (EB)\r\nStop #76220 NE 185th St & 104th Ave NE (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76309 NE 185th St & Beardslee Blvd (WB)\r\nStop #76218 NE 185th St & 103rd Ave NE (WB)\r\nStop #76214 NE 185th St & 101st Ave NE (WB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #76925 Bothell Way NE & 96th Ave NE (NB)\r\nStop #79296 Bothell Way Ne & Bothell Way Ne (EB)\r\nThe temporary stop on Woodinville Dr just before Kaysner Way (EB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #76302 Woodinville Dr & Kaysner Way (WB)\r\nStop #76310 Bothell Way NE & NE 180th St (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.199234,
-          47.7618904
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90526",
-        "stop_id": "76220",
-        "stop_name": "NE 185th St & Ross Rd",
+        "stop_id": "76301",
+        "stop_name": "Beardslee Blvd & 110th Ave NE",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 230 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
@@ -2807,14 +2767,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.193596,
-          47.7639961
+          -122.20163,
+          47.7619629
         ]
       },
       "properties": {
         "alert_id": "1_90526",
-        "stop_id": "76301",
-        "stop_name": "Beardslee Blvd & 110th Ave NE",
+        "stop_id": "76216",
+        "stop_name": "NE 185th St & 104th Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 230 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #76312 98th Ave NE & NE 183rd St (NB)\r\nStop #76215 NE 185th St & 101st Ave NE (EB)\r\nStop #76216 NE 185th St & 104th Av NE (EB)\r\nStop #76220 NE 185th St & 104th Ave NE (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76309 NE 185th St & Beardslee Blvd (WB)\r\nStop #76218 NE 185th St & 103rd Ave NE (WB)\r\nStop #76214 NE 185th St & 101st Ave NE (WB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #76925 Bothell Way NE & 96th Ave NE (NB)\r\nStop #79296 Bothell Way Ne & Bothell Way Ne (EB)\r\nThe temporary stop on Woodinville Dr just before Kaysner Way (EB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #76302 Woodinville Dr & Kaysner Way (WB)\r\nStop #76310 Bothell Way NE & NE 180th St (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.197937,
+          47.7620468
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90526",
+        "stop_id": "76309",
+        "stop_name": "NE 185th St & Beardslee Blvd",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 230 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #76312 98th Ave NE & NE 183rd St (NB)\r\nStop #76215 NE 185th St & 101st Ave NE (EB)\r\nStop #76216 NE 185th St & 104th Av NE (EB)\r\nStop #76220 NE 185th St & 104th Ave NE (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76309 NE 185th St & Beardslee Blvd (WB)\r\nStop #76218 NE 185th St & 103rd Ave NE (WB)\r\nStop #76214 NE 185th St & 101st Ave NE (WB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #76925 Bothell Way NE & 96th Ave NE (NB)\r\nStop #79296 Bothell Way Ne & Bothell Way Ne (EB)\r\nThe temporary stop on Woodinville Dr just before Kaysner Way (EB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #76302 Woodinville Dr & Kaysner Way (WB)\r\nStop #76310 Bothell Way NE & NE 180th St (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.205315,
+          47.7617264
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90526",
+        "stop_id": "76215",
+        "stop_name": "NE 185th St & 101st Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 230 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
+        "description": "Affected stops:\r\nStop #76312 98th Ave NE & NE 183rd St (NB)\r\nStop #76215 NE 185th St & 101st Ave NE (EB)\r\nStop #76216 NE 185th St & 104th Av NE (EB)\r\nStop #76220 NE 185th St & 104th Ave NE (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76309 NE 185th St & Beardslee Blvd (WB)\r\nStop #76218 NE 185th St & 103rd Ave NE (WB)\r\nStop #76214 NE 185th St & 101st Ave NE (WB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #76925 Bothell Way NE & 96th Ave NE (NB)\r\nStop #79296 Bothell Way Ne & Bothell Way Ne (EB)\r\nThe temporary stop on Woodinville Dr just before Kaysner Way (EB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #76302 Woodinville Dr & Kaysner Way (WB)\r\nStop #76310 Bothell Way NE & NE 180th St (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1959,
+          47.7622452
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90526",
+        "stop_id": "76224",
+        "stop_name": "Beardslee Blvd & 108th Ave NE",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 230 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
@@ -2867,34 +2887,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1959,
-          47.7622452
+          -122.199234,
+          47.7618904
         ]
       },
       "properties": {
         "alert_id": "1_90526",
-        "stop_id": "76224",
-        "stop_name": "Beardslee Blvd & 108th Ave NE",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 230 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
-        "description": "Affected stops:\r\nStop #76312 98th Ave NE & NE 183rd St (NB)\r\nStop #76215 NE 185th St & 101st Ave NE (EB)\r\nStop #76216 NE 185th St & 104th Av NE (EB)\r\nStop #76220 NE 185th St & 104th Ave NE (EB)\r\nStop #76224 Beardslee Blvd & 108th Ave NE (EB)\r\nStop #76301 Beardslee Blvd & 110th Ave NE (WB)\r\nStop #76309 NE 185th St & Beardslee Blvd (WB)\r\nStop #76218 NE 185th St & 103rd Ave NE (WB)\r\nStop #76214 NE 185th St & 101st Ave NE (WB)\r\n\nFor Route 230 to Bothell get on/off at:\r\nStop #76925 Bothell Way NE & 96th Ave NE (NB)\r\nStop #79296 Bothell Way Ne & Bothell Way Ne (EB)\r\nThe temporary stop on Woodinville Dr just before Kaysner Way (EB)\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\n\nFor Route 230 to Kirkland TC get on/off at:\r\nStop #76305 UW Bothell & Cascadia College (EB)\r\nStop #76302 Woodinville Dr & Kaysner Way (WB)\r\nStop #76310 Bothell Way NE & NE 180th St (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/230/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.197937,
-          47.7620468
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90526",
-        "stop_id": "76309",
-        "stop_name": "NE 185th St & Beardslee Blvd",
+        "stop_id": "76220",
+        "stop_name": "NE 185th St & Ross Rd",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 230 will be rerouted from 9:00 AM to 3:00 PM on Sat Jul 4 due to the Bothell 4th of July Parade.",
@@ -3027,14 +3027,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.196953,
-          47.422966
+          -122.197159,
+          47.4223175
         ]
       },
       "properties": {
         "alert_id": "1_88961",
-        "stop_id": "57230",
-        "stop_name": "108th Ave SE & SE 200th St",
+        "stop_id": "57330",
+        "stop_name": "108th Ave SE & SE 201st St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
         "header": "Stop #57330 108th Ave SE & SE 201st St (SB) and Stop #57230 108th Ave SE & SE 200th St (NB) relocated through Fri Jul 10 due to bus stop maintenance work.",
@@ -3047,14 +3047,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.197159,
-          47.4223175
+          -122.196953,
+          47.422966
         ]
       },
       "properties": {
         "alert_id": "1_88961",
-        "stop_id": "57330",
-        "stop_name": "108th Ave SE & SE 201st St",
+        "stop_id": "57230",
+        "stop_name": "108th Ave SE & SE 200th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
         "header": "Stop #57330 108th Ave SE & SE 201st St (SB) and Stop #57230 108th Ave SE & SE 200th St (NB) relocated through Fri Jul 10 due to bus stop maintenance work.",
@@ -3080,26 +3080,6 @@
         "header": "Stop #72180 State St S & 10th Ave S (NB) relocated Wed May 13 to Fri Jul 31 from 8:00 AM to 4:00 PM daily due to construction.",
         "description": "Affected routes:\r\n250\r\n\nGet on/off at:\r\nStop #69485 Lakeview Dr NE & NE 64th St (NB)\r\nThe temporary stop on State St just north of the closed stop (NB)\r\nStop #72190 State St & 7th Ave S (NB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/250/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.201706,
-          47.6133919
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90562",
-        "stop_id": "67620",
-        "stop_name": "Bellevue Way NE & NE 4th St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "ST 550 will be rerouted from 9:00 PM to 1:00 AM on Sat Jul 4 due to the Bellevue Family 4th.",
-        "description": "Affected stops:\r\nStop #68035 Bellevue Way NE & Main St (NB)\r\nStop #68042 NE 4th St & 105th Ave NE (EB)\r\nStop #85640 NE 4th St & 108th Ave NE (WB)\r\nStop #67620 Bellevue Way NE & NE 4th St (SB)\r\n\nFor ST 550 to Bellevue get on/off at:\r\nStop #68020 Bellevue Way SE & SE 3rd St (NB)\r\nThe temporary stop on Main St, just west of 107th Ave NE (EB)\r\nStop #68007 Bellevue Transit Center Bay 12 (NB)\r\n\nFor ST 550 to Seattle get on/off at:\r\nStop #67652 Bellevue Transit Center - Bay 9 (WB)\r\nStop #85489 108th Ave Ne & Ne 2nd St (SB)\r\nStop #67640 Bellevue Way SE & Main St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/550/E/"
       }
     },
     {
@@ -3147,6 +3127,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.201706,
+          47.6133919
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90562",
+        "stop_id": "67620",
+        "stop_name": "Bellevue Way NE & NE 4th St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "ST 550 will be rerouted from 9:00 PM to 1:00 AM on Sat Jul 4 due to the Bellevue Family 4th.",
+        "description": "Affected stops:\r\nStop #68035 Bellevue Way NE & Main St (NB)\r\nStop #68042 NE 4th St & 105th Ave NE (EB)\r\nStop #85640 NE 4th St & 108th Ave NE (WB)\r\nStop #67620 Bellevue Way NE & NE 4th St (SB)\r\n\nFor ST 550 to Bellevue get on/off at:\r\nStop #68020 Bellevue Way SE & SE 3rd St (NB)\r\nThe temporary stop on Main St, just west of 107th Ave NE (EB)\r\nStop #68007 Bellevue Transit Center Bay 12 (NB)\r\n\nFor ST 550 to Seattle get on/off at:\r\nStop #67652 Bellevue Transit Center - Bay 9 (WB)\r\nStop #85489 108th Ave Ne & Ne 2nd St (SB)\r\nStop #67640 Bellevue Way SE & Main St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/550/E/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.201408,
           47.6106339
         ]
@@ -3167,46 +3167,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.197449,
-          47.617485
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90564",
-        "stop_id": "67610",
-        "stop_name": "NE 8th St & 108th Ave NE",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 271 will be rerouted from 9:00 PM to 1:00 AM on Sat Jul 4 due to the Bellevue Family 4th.",
-        "description": "Affected stops:\r\nStop #85669 NE 8th St & 102nd Ave NE (EB)\r\nStop #73049 NE 8th St & 106th Ave NE (EB)\r\nStop #67610 NE 8th St & 108th Ave NE (WB)\r\nStop #70608 NE 8th St & 102nd Ave NE (WB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #70596 NE 8th St & 100th Ave NE (EB)\r\nStop #68005 Bellevue Transit Center - Bay 5 (EB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #67655 Bellevue Transit Center - Bay 8 (WB)\r\nStop #70619 NE 8th St & 100th Ave NE (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.203979,
-          47.6173592
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90564",
-        "stop_id": "85669",
-        "stop_name": "NE 8th St & 102nd Ave NE",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 271 will be rerouted from 9:00 PM to 1:00 AM on Sat Jul 4 due to the Bellevue Family 4th.",
-        "description": "Affected stops:\r\nStop #85669 NE 8th St & 102nd Ave NE (EB)\r\nStop #73049 NE 8th St & 106th Ave NE (EB)\r\nStop #67610 NE 8th St & 108th Ave NE (WB)\r\nStop #70608 NE 8th St & 102nd Ave NE (WB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #70596 NE 8th St & 100th Ave NE (EB)\r\nStop #68005 Bellevue Transit Center - Bay 5 (EB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #67655 Bellevue Transit Center - Bay 8 (WB)\r\nStop #70619 NE 8th St & 100th Ave NE (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.204826,
           47.6175003
         ]
@@ -3215,6 +3175,26 @@
         "alert_id": "1_90564",
         "stop_id": "70608",
         "stop_name": "NE 8th St & 102nd Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 271 will be rerouted from 9:00 PM to 1:00 AM on Sat Jul 4 due to the Bellevue Family 4th.",
+        "description": "Affected stops:\r\nStop #85669 NE 8th St & 102nd Ave NE (EB)\r\nStop #73049 NE 8th St & 106th Ave NE (EB)\r\nStop #67610 NE 8th St & 108th Ave NE (WB)\r\nStop #70608 NE 8th St & 102nd Ave NE (WB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #70596 NE 8th St & 100th Ave NE (EB)\r\nStop #68005 Bellevue Transit Center - Bay 5 (EB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #67655 Bellevue Transit Center - Bay 8 (WB)\r\nStop #70619 NE 8th St & 100th Ave NE (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/W/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.197449,
+          47.617485
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90564",
+        "stop_id": "67610",
+        "stop_name": "NE 8th St & 108th Ave NE",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 271 will be rerouted from 9:00 PM to 1:00 AM on Sat Jul 4 due to the Bellevue Family 4th.",
@@ -3247,14 +3227,94 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.336205,
-          47.652195
+          -122.203979,
+          47.6173592
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90564",
+        "stop_id": "85669",
+        "stop_name": "NE 8th St & 102nd Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 271 will be rerouted from 9:00 PM to 1:00 AM on Sat Jul 4 due to the Bellevue Family 4th.",
+        "description": "Affected stops:\r\nStop #85669 NE 8th St & 102nd Ave NE (EB)\r\nStop #73049 NE 8th St & 106th Ave NE (EB)\r\nStop #67610 NE 8th St & 108th Ave NE (WB)\r\nStop #70608 NE 8th St & 102nd Ave NE (WB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #70596 NE 8th St & 100th Ave NE (EB)\r\nStop #68005 Bellevue Transit Center - Bay 5 (EB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #67655 Bellevue Transit Center - Bay 8 (WB)\r\nStop #70619 NE 8th St & 100th Ave NE (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/W/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336823,
+          47.6492615
         ]
       },
       "properties": {
         "alert_id": "1_90687",
-        "stop_id": "26940",
-        "stop_name": "Wallingford Ave N & N 37th St",
+        "stop_id": "26450",
+        "stop_name": "N 35th St & Wallingford Ave N",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336823,
+          47.6492615
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "26450",
+        "stop_name": "N 35th St & Wallingford Ave N",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327423,
+          47.6556129
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "26369",
+        "stop_name": "NE 40th St & 1st Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329376,
+          47.6556282
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "26370",
+        "stop_name": "N 40th St & Eastern Ave N",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
@@ -3287,6 +3347,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.316551,
+          47.6587448
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "9630",
+        "stop_name": "11th Ave NE & NE 42nd St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336205,
+          47.652195
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "26940",
+        "stop_name": "Wallingford Ave N & N 37th St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.336098,
           47.6557159
         ]
@@ -3294,6 +3394,126 @@
       "properties": {
         "alert_id": "1_90687",
         "stop_id": "26400",
+        "stop_name": "N 40th St & Wallingford Ave N",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336235,
+          47.6494102
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "26920",
+        "stop_name": "Wallingford Ave N & N 35th St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.316551,
+          47.6587448
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "9630",
+        "stop_name": "11th Ave NE & NE 42nd St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332069,
+          47.6555138
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "26980",
+        "stop_name": "N 40th St & Bagley Ave N",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.328735,
+          47.6554909
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "26999",
+        "stop_name": "N 40th St & Eastern Ave N",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336411,
+          47.651783
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "26430",
+        "stop_name": "Wallingford Ave N & N 37th St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335701,
+          47.6555786
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "26965",
         "stop_name": "N 40th St & Wallingford Ave N",
         "alert_type": "Route Change",
         "status": "upcoming",
@@ -3347,34 +3567,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.339073,
-          47.6491432
+          -122.319389,
+          47.6574516
         ]
       },
       "properties": {
         "alert_id": "1_90687",
-        "stop_id": "26901",
-        "stop_name": "N 35th St & Carr Pl N",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.327423,
-          47.6556129
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "26369",
-        "stop_name": "NE 40th St & 1st Ave NE",
+        "stop_id": "9612",
+        "stop_name": "NE 42nd St & 8th Ave NE",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
@@ -3427,14 +3627,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.332069,
-          47.6555138
+          -122.339073,
+          47.6492805
         ]
       },
       "properties": {
         "alert_id": "1_90687",
-        "stop_id": "26980",
-        "stop_name": "N 40th St & Bagley Ave N",
+        "stop_id": "26460",
+        "stop_name": "N 35th St & Woodlawn Ave N",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336388,
+          47.6540909
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "26410",
+        "stop_name": "Wallingford Ave N & N 39th St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
@@ -3467,14 +3687,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.336823,
-          47.6492615
+          -122.333145,
+          47.6556664
         ]
       },
       "properties": {
         "alert_id": "1_90687",
-        "stop_id": "26450",
-        "stop_name": "N 35th St & Wallingford Ave N",
+        "stop_id": "26381",
+        "stop_name": "N 40th St & Bagley Ave N",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
@@ -3487,14 +3707,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.336235,
-          47.6494102
+          -122.336388,
+          47.6540909
         ]
       },
       "properties": {
         "alert_id": "1_90687",
-        "stop_id": "26920",
-        "stop_name": "Wallingford Ave N & N 35th St",
+        "stop_id": "26410",
+        "stop_name": "Wallingford Ave N & N 39th St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327423,
+          47.6556129
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "26369",
+        "stop_name": "NE 40th St & 1st Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.328735,
+          47.6554909
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "26999",
+        "stop_name": "N 40th St & Eastern Ave N",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
+        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332069,
+          47.6555138
+        ]
+      },
+      "properties": {
+        "alert_id": "1_90687",
+        "stop_id": "26980",
+        "stop_name": "N 40th St & Bagley Ave N",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
@@ -3547,74 +3827,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.327423,
-          47.6556129
+          -122.339073,
+          47.6491432
         ]
       },
       "properties": {
         "alert_id": "1_90687",
-        "stop_id": "26369",
-        "stop_name": "NE 40th St & 1st Ave NE",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.333145,
-          47.6556664
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "26381",
-        "stop_name": "N 40th St & Bagley Ave N",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.336388,
-          47.6540909
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "26410",
-        "stop_name": "Wallingford Ave N & N 39th St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.316551,
-          47.6587448
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "9630",
-        "stop_name": "11th Ave NE & NE 42nd St",
+        "stop_id": "26901",
+        "stop_name": "N 35th St & Carr Pl N",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
@@ -3647,46 +3867,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.339073,
-          47.6492805
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "26460",
-        "stop_name": "N 35th St & Woodlawn Ave N",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.329376,
-          47.6556282
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "26370",
-        "stop_name": "N 40th St & Eastern Ave N",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.336205,
           47.652195
         ]
@@ -3695,186 +3875,6 @@
         "alert_id": "1_90687",
         "stop_id": "26940",
         "stop_name": "Wallingford Ave N & N 37th St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.336823,
-          47.6492615
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "26450",
-        "stop_name": "N 35th St & Wallingford Ave N",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.332069,
-          47.6555138
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "26980",
-        "stop_name": "N 40th St & Bagley Ave N",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.316551,
-          47.6587448
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "9630",
-        "stop_name": "11th Ave NE & NE 42nd St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.328735,
-          47.6554909
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "26999",
-        "stop_name": "N 40th St & Eastern Ave N",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335701,
-          47.6555786
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "26965",
-        "stop_name": "N 40th St & Wallingford Ave N",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.328735,
-          47.6554909
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "26999",
-        "stop_name": "N 40th St & Eastern Ave N",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.336411,
-          47.651783
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "26430",
-        "stop_name": "Wallingford Ave N & N 37th St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.319389,
-          47.6574516
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "9612",
-        "stop_name": "NE 42nd St & 8th Ave NE",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
-        "description": "Affected stops:\r\nStop #26901 N 35th St & Carr Pl N (EB)\r\nStop #26920 Wallingford Ave N & N 35th St (NB)\r\nStop #26940 Wallingford Ave N & N 37th St (NB)\r\nStop #26965 N 40th St & Wallingford Ave N (EB)\r\nStop #26980 N 40th St & Bagley Ave N (EB)\r\nStop #26999 N 40th St & Eastern Ave N (EB)\r\nStop #9612 NE 42nd St & 8th Ave NE (EB)\r\nStop #9630 11th Ave NE & NE 42nd St (NB)\r\nStop #26369 NE 40th St & 1st Ave NE (WB)\r\nStop #26370 N 40th St & Eastern Ave N (WB)\r\nStop #26381 N 40th St & Bagley Ave N (WB)\r\nStop #26400 N 40th St & Wallingford Ave N (WB)\r\nStop #26410 Wallingford Ave N & N 39th St (SB)\r\nStop #26430 Wallingford Ave N & N 37th St (SB)\r\nStop #26450 N 35th St & Wallingford Ave N (WB)\r\nStop #26460 N 35th St & Woodlawn Ave N (WB)\r\n\nGet on/off at:\r\nFor routes 31 and 32 to University District:\r\nStop #26885 N 35th St & Woodland Park Ave N (EB)\r\nStop #7498 Stone Way N & N 38th St (NB)\r\nStop #7500 Stone Way N & N 40th St (NB)\r\nStop #17410 N 45th St & Wallingford Ave N (EB)\r\nStop #29234 N 45th St & Corliss Ave N (EB)\r\nStop #29236 Ne 45th St & Thackeray Pl Ne (EB)\r\nStop #29865 Ne 45th St & Roosevelt Way Ne (EB)\r\nStop #10911 U District Station - Bay 3 (EB)\r\n\nFor routes 31 to Central Magnolia and 32 to Seattle Center:\r\nStop #5402 NE 42nd St & 8th Ave NE (WB)\r\nStop #29480 Ne 45th St & Latona Ave Ne (WB)\r\nStop #29500 N 45th St & Sunnyside Ave N (WB)\r\nStop #17310 N 45th St & Wallingford Ave N (WB)\r\nStop #7350 Stone Way N & N 45th St (SB)\r\nStop #7360 Stone Way N & N 43rd St (SB)\r\nStop #7380 Stone Way N & N 40th St (SB)\r\nStop #7382 Stone Way N & N 38th St (SB)\r\nStop #26480 N 35th St & Stone Way N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.336388,
-          47.6540909
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90687",
-        "stop_id": "26410",
-        "stop_name": "Wallingford Ave N & N 39th St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Routes 31 and 32 will be rerouted in Wallingford from 6:00 PM to 12:00 AM on Sat Jul 4 due to the Seafair Summer Fourth.",
