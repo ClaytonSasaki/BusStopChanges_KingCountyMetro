@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-09T10:35:54.004541+00:00",
+  "generated_at": "2026-07-09T13:35:05.091928+00:00",
   "features": [
     {
       "type": "Feature",
@@ -20,6 +20,46 @@
         "header": "Route 70 to Downtown Seattle is rerouted off Fairview Ave N between Aloha St and Valley St until Mon Aug 31 due to construction.",
         "description": "Affected stops:\r\nStop #10190 Fairview Ave N & Aloha St (SB)\r\n\nGet on/off at:\r\nStop #10170 Fairview Ave E & E Nelson Pl (SB)\r\nStop #10328 Valley St & Fairview Ave N (WB)\r\n\nTo learn more about the construction impacts that are part of the upgrade of Route 70 into the RapidRide J Line please visit SDOT\u2019s website link:\r\n\nhttps://www.seattle.gov/transportation/projects-and-programs/programs/transit-program/transit-plus-multimodal-corridor-program/rapidride-roosevelt",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/70/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.185982,
+          47.4602013
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89925",
+        "stop_id": "60022",
+        "stop_name": "116th Ave SE & SE 160th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #60022 116th Ave SE & SE 160th St (SB) relocated from Mon Jun 22 to Wed Sep 30 from 7:00 AM to 5:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n102\r\n148\r\n\nGet on/off: \r\nThe temporary stop on 116th Ave SE just south of SE 160th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/3637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.185982,
+          47.4602013
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89925",
+        "stop_id": "60022",
+        "stop_name": "116th Ave SE & SE 160th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #60022 116th Ave SE & SE 160th St (SB) relocated from Mon Jun 22 to Wed Sep 30 from 7:00 AM to 5:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n102\r\n148\r\n\nGet on/off: \r\nThe temporary stop on 116th Ave SE just south of SE 160th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/3637"
       }
     },
     {
@@ -67,39 +107,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.185982,
-          47.4602013
+          -122.238029,
+          47.3831062
         ]
       },
       "properties": {
-        "alert_id": "1_89925",
-        "stop_id": "60022",
-        "stop_name": "116th Ave SE & SE 160th St",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_87304",
+        "stop_id": "57187",
+        "stop_name": "W Smith St & 4th Ave N",
+        "alert_type": "Route Change",
         "status": "ongoing",
-        "header": "Stop #60022 116th Ave SE & SE 160th St (SB) relocated from Mon Jun 22 to Wed Sep 30 from 7:00 AM to 5:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n102\r\n148\r\n\nGet on/off: \r\nThe temporary stop on 116th Ave SE just south of SE 160th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/3637"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.185982,
-          47.4602013
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89925",
-        "stop_id": "60022",
-        "stop_name": "116th Ave SE & SE 160th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #60022 116th Ave SE & SE 160th St (SB) relocated from Mon Jun 22 to Wed Sep 30 from 7:00 AM to 5:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n102\r\n148\r\n\nGet on/off: \r\nThe temporary stop on 116th Ave SE just south of SE 160th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/3637"
+        "header": "Route 165 will be rerouted off portions of W Smith St and W Meeker St between 4th Ave N & Washington Ave N Thu Apr 30, 2026 through Fri Dec 24, 2027 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected stops:\r\nStop #57187 W Smith St & 4th Ave N (WB)\r\nStop #79215 W Smith St & 6th Ave N (WB)\r\n\nGet on/off at:\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\nStop #50755 W Meeker St & Washington Ave N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
       }
     },
     {
@@ -115,26 +135,6 @@
         "alert_id": "1_87304",
         "stop_id": "79215",
         "stop_name": "W Smith St & 6th Ave N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off portions of W Smith St and W Meeker St between 4th Ave N & Washington Ave N Thu Apr 30, 2026 through Fri Dec 24, 2027 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected stops:\r\nStop #57187 W Smith St & 4th Ave N (WB)\r\nStop #79215 W Smith St & 6th Ave N (WB)\r\n\nGet on/off at:\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\nStop #50755 W Meeker St & Washington Ave N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.238029,
-          47.3831062
-        ]
-      },
-      "properties": {
-        "alert_id": "1_87304",
-        "stop_id": "57187",
-        "stop_name": "W Smith St & 4th Ave N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off portions of W Smith St and W Meeker St between 4th Ave N & Washington Ave N Thu Apr 30, 2026 through Fri Dec 24, 2027 due to construction.",
@@ -287,46 +287,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.382584,
-          47.6671638
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91044",
-        "stop_id": "18720",
-        "stop_name": "Leary Ave NW & NW Vernon Pl",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 40 will be rerouted during the Ballard Seafood Festival from Fri Jul 10 at 8:00 PM to Mon Jul 13 at 2:00 AM.",
-        "description": "Affected stops:\r\nStop #18152 Leary Ave NW & NW Dock Pl (NB)\r\nStop #18720 Leary Ave NW & NW Vernon Pl (NB)\r\nStop #18740 NW Market St & Ballard Ave NW (WB)\r\nStop #18120 NW Market St & Ballard Ave NW (EB)\r\nStop #18145 Leary Ave NW & NW Vernon Pl (SB)\r\nStop #18151 Leary Ave NW & NW Dock Pl (SB)\r\n\nFor Route 40 to Northgate get on/off buses at:\r\nStop #18696 NW Leary Way & 15th Ave NW (WB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (NB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NW (NB)\r\nStop #19510 24th Ave NW & NW 57th St (NB)\r\n\nFor Route 40 to Downtown Seattle get on/off buses at:\r\nStop #19360 24th Ave NW & NW 57th St (SB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NE (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (SB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nStop #18165 NW Leary Way & 15th Ave NW (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/40/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.386124,
-          47.6687469
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91044",
-        "stop_id": "18740",
-        "stop_name": "NW Market St & Ballard Ave NW",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 40 will be rerouted during the Ballard Seafood Festival from Fri Jul 10 at 8:00 PM to Mon Jul 13 at 2:00 AM.",
-        "description": "Affected stops:\r\nStop #18152 Leary Ave NW & NW Dock Pl (NB)\r\nStop #18720 Leary Ave NW & NW Vernon Pl (NB)\r\nStop #18740 NW Market St & Ballard Ave NW (WB)\r\nStop #18120 NW Market St & Ballard Ave NW (EB)\r\nStop #18145 Leary Ave NW & NW Vernon Pl (SB)\r\nStop #18151 Leary Ave NW & NW Dock Pl (SB)\r\n\nFor Route 40 to Northgate get on/off buses at:\r\nStop #18696 NW Leary Way & 15th Ave NW (WB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (NB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NW (NB)\r\nStop #19510 24th Ave NW & NW 57th St (NB)\r\n\nFor Route 40 to Downtown Seattle get on/off buses at:\r\nStop #19360 24th Ave NW & NW 57th St (SB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NE (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (SB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nStop #18165 NW Leary Way & 15th Ave NW (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/40/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.380417,
           47.6653214
         ]
@@ -335,46 +295,6 @@
         "alert_id": "1_91044",
         "stop_id": "18152",
         "stop_name": "Leary Ave NW & NW Dock Pl",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 40 will be rerouted during the Ballard Seafood Festival from Fri Jul 10 at 8:00 PM to Mon Jul 13 at 2:00 AM.",
-        "description": "Affected stops:\r\nStop #18152 Leary Ave NW & NW Dock Pl (NB)\r\nStop #18720 Leary Ave NW & NW Vernon Pl (NB)\r\nStop #18740 NW Market St & Ballard Ave NW (WB)\r\nStop #18120 NW Market St & Ballard Ave NW (EB)\r\nStop #18145 Leary Ave NW & NW Vernon Pl (SB)\r\nStop #18151 Leary Ave NW & NW Dock Pl (SB)\r\n\nFor Route 40 to Northgate get on/off buses at:\r\nStop #18696 NW Leary Way & 15th Ave NW (WB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (NB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NW (NB)\r\nStop #19510 24th Ave NW & NW 57th St (NB)\r\n\nFor Route 40 to Downtown Seattle get on/off buses at:\r\nStop #19360 24th Ave NW & NW 57th St (SB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NE (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (SB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nStop #18165 NW Leary Way & 15th Ave NW (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/40/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.385345,
-          47.6686058
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91044",
-        "stop_id": "18120",
-        "stop_name": "NW Market St & Ballard Ave NW",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 40 will be rerouted during the Ballard Seafood Festival from Fri Jul 10 at 8:00 PM to Mon Jul 13 at 2:00 AM.",
-        "description": "Affected stops:\r\nStop #18152 Leary Ave NW & NW Dock Pl (NB)\r\nStop #18720 Leary Ave NW & NW Vernon Pl (NB)\r\nStop #18740 NW Market St & Ballard Ave NW (WB)\r\nStop #18120 NW Market St & Ballard Ave NW (EB)\r\nStop #18145 Leary Ave NW & NW Vernon Pl (SB)\r\nStop #18151 Leary Ave NW & NW Dock Pl (SB)\r\n\nFor Route 40 to Northgate get on/off buses at:\r\nStop #18696 NW Leary Way & 15th Ave NW (WB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (NB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NW (NB)\r\nStop #19510 24th Ave NW & NW 57th St (NB)\r\n\nFor Route 40 to Downtown Seattle get on/off buses at:\r\nStop #19360 24th Ave NW & NW 57th St (SB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NE (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (SB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nStop #18165 NW Leary Way & 15th Ave NW (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/40/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.383018,
-          47.6673164
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91044",
-        "stop_id": "18145",
-        "stop_name": "Leary Ave NW & NW Vernon Pl",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 40 will be rerouted during the Ballard Seafood Festival from Fri Jul 10 at 8:00 PM to Mon Jul 13 at 2:00 AM.",
@@ -407,6 +327,86 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.382584,
+          47.6671638
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91044",
+        "stop_id": "18720",
+        "stop_name": "Leary Ave NW & NW Vernon Pl",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 40 will be rerouted during the Ballard Seafood Festival from Fri Jul 10 at 8:00 PM to Mon Jul 13 at 2:00 AM.",
+        "description": "Affected stops:\r\nStop #18152 Leary Ave NW & NW Dock Pl (NB)\r\nStop #18720 Leary Ave NW & NW Vernon Pl (NB)\r\nStop #18740 NW Market St & Ballard Ave NW (WB)\r\nStop #18120 NW Market St & Ballard Ave NW (EB)\r\nStop #18145 Leary Ave NW & NW Vernon Pl (SB)\r\nStop #18151 Leary Ave NW & NW Dock Pl (SB)\r\n\nFor Route 40 to Northgate get on/off buses at:\r\nStop #18696 NW Leary Way & 15th Ave NW (WB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (NB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NW (NB)\r\nStop #19510 24th Ave NW & NW 57th St (NB)\r\n\nFor Route 40 to Downtown Seattle get on/off buses at:\r\nStop #19360 24th Ave NW & NW 57th St (SB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NE (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (SB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nStop #18165 NW Leary Way & 15th Ave NW (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/40/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.383018,
+          47.6673164
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91044",
+        "stop_id": "18145",
+        "stop_name": "Leary Ave NW & NW Vernon Pl",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 40 will be rerouted during the Ballard Seafood Festival from Fri Jul 10 at 8:00 PM to Mon Jul 13 at 2:00 AM.",
+        "description": "Affected stops:\r\nStop #18152 Leary Ave NW & NW Dock Pl (NB)\r\nStop #18720 Leary Ave NW & NW Vernon Pl (NB)\r\nStop #18740 NW Market St & Ballard Ave NW (WB)\r\nStop #18120 NW Market St & Ballard Ave NW (EB)\r\nStop #18145 Leary Ave NW & NW Vernon Pl (SB)\r\nStop #18151 Leary Ave NW & NW Dock Pl (SB)\r\n\nFor Route 40 to Northgate get on/off buses at:\r\nStop #18696 NW Leary Way & 15th Ave NW (WB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (NB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NW (NB)\r\nStop #19510 24th Ave NW & NW 57th St (NB)\r\n\nFor Route 40 to Downtown Seattle get on/off buses at:\r\nStop #19360 24th Ave NW & NW 57th St (SB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NE (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (SB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nStop #18165 NW Leary Way & 15th Ave NW (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/40/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.385345,
+          47.6686058
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91044",
+        "stop_id": "18120",
+        "stop_name": "NW Market St & Ballard Ave NW",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 40 will be rerouted during the Ballard Seafood Festival from Fri Jul 10 at 8:00 PM to Mon Jul 13 at 2:00 AM.",
+        "description": "Affected stops:\r\nStop #18152 Leary Ave NW & NW Dock Pl (NB)\r\nStop #18720 Leary Ave NW & NW Vernon Pl (NB)\r\nStop #18740 NW Market St & Ballard Ave NW (WB)\r\nStop #18120 NW Market St & Ballard Ave NW (EB)\r\nStop #18145 Leary Ave NW & NW Vernon Pl (SB)\r\nStop #18151 Leary Ave NW & NW Dock Pl (SB)\r\n\nFor Route 40 to Northgate get on/off buses at:\r\nStop #18696 NW Leary Way & 15th Ave NW (WB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (NB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NW (NB)\r\nStop #19510 24th Ave NW & NW 57th St (NB)\r\n\nFor Route 40 to Downtown Seattle get on/off buses at:\r\nStop #19360 24th Ave NW & NW 57th St (SB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NE (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (SB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nStop #18165 NW Leary Way & 15th Ave NW (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/40/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.386124,
+          47.6687469
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91044",
+        "stop_id": "18740",
+        "stop_name": "NW Market St & Ballard Ave NW",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 40 will be rerouted during the Ballard Seafood Festival from Fri Jul 10 at 8:00 PM to Mon Jul 13 at 2:00 AM.",
+        "description": "Affected stops:\r\nStop #18152 Leary Ave NW & NW Dock Pl (NB)\r\nStop #18720 Leary Ave NW & NW Vernon Pl (NB)\r\nStop #18740 NW Market St & Ballard Ave NW (WB)\r\nStop #18120 NW Market St & Ballard Ave NW (EB)\r\nStop #18145 Leary Ave NW & NW Vernon Pl (SB)\r\nStop #18151 Leary Ave NW & NW Dock Pl (SB)\r\n\nFor Route 40 to Northgate get on/off buses at:\r\nStop #18696 NW Leary Way & 15th Ave NW (WB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (NB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NW (NB)\r\nStop #19510 24th Ave NW & NW 57th St (NB)\r\n\nFor Route 40 to Downtown Seattle get on/off buses at:\r\nStop #19360 24th Ave NW & NW 57th St (SB)\r\nThe temporary stop on Shilshole Ave NW & 22nd Ave NE (SB)\r\nThe temporary stop on Shilshole Ave NW & NW Dock Pl (SB)\r\nThe temporary stop on 17th Ave NW & NW 48th St (SB)\r\nStop #18165 NW Leary Way & 15th Ave NW (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/40/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.296936,
           47.7338562
         ]
@@ -420,6 +420,46 @@
         "header": "Stop #82120 NE 145th St & 30th Ave NE (WB) closed from Mon Jul 6 until further notice due to construction.",
         "description": "Affected routes:\r\n65\r\n\nGet on/off at:\r\nStop #38730 30th Ave NE & NE 143rd St (NB)\r\nStop #82130 NE 145th St & 27th Ave NE (WB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/65/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.233917,
+          47.3865814
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88508",
+        "stop_id": "80600",
+        "stop_name": "W James St & 1st Ave N",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 150 and 183 will be rerouted and will not serve stop #80600 W James St & 4th Ave N (EB) Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM nightly, due to construction.",
+        "description": "Affected stops:\r\nStop #80600 W James St & 1st Ave N (EB)\r\n\nGet on/off at:\r\nStop #80590 W James St & 4th Ave N (EB)\r\nStop #57548 Kent Sounder Station BAY 8(SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.233917,
+          47.3865814
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88508",
+        "stop_id": "80600",
+        "stop_name": "W James St & 1st Ave N",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 150 and 183 will be rerouted and will not serve stop #80600 W James St & 4th Ave N (EB) Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM nightly, due to construction.",
+        "description": "Affected stops:\r\nStop #80600 W James St & 1st Ave N (EB)\r\n\nGet on/off at:\r\nStop #80590 W James St & 4th Ave N (EB)\r\nStop #57548 Kent Sounder Station BAY 8(SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
@@ -447,39 +487,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.233917,
-          47.3865814
+          -122.310036,
+          47.3867302
         ]
       },
       "properties": {
-        "alert_id": "1_88508",
-        "stop_id": "80600",
-        "stop_name": "W James St & 1st Ave N",
-        "alert_type": "Route Change",
+        "alert_id": "1_82885",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Routes 150 and 183 will be rerouted and will not serve stop #80600 W James St & 4th Ave N (EB) Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM nightly, due to construction.",
-        "description": "Affected stops:\r\nStop #80600 W James St & 1st Ave N (EB)\r\n\nGet on/off at:\r\nStop #80590 W James St & 4th Ave N (EB)\r\nStop #57548 Kent Sounder Station BAY 8(SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.233917,
-          47.3865814
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88508",
-        "stop_id": "80600",
-        "stop_name": "W James St & 1st Ave N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 150 and 183 will be rerouted and will not serve stop #80600 W James St & 4th Ave N (EB) Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM nightly, due to construction.",
-        "description": "Affected stops:\r\nStop #80600 W James St & 1st Ave N (EB)\r\n\nGet on/off at:\r\nStop #80590 W James St & 4th Ave N (EB)\r\nStop #57548 Kent Sounder Station BAY 8(SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
       }
     },
     {
@@ -495,86 +515,6 @@
         "alert_id": "1_82885",
         "stop_id": "47280",
         "stop_name": "S 240th St & 16th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.311783,
-          47.3866272
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48920",
-        "stop_name": "S 240th St & 17th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.308136,
-          47.3909111
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48974",
-        "stop_name": "Kent Des Moines Rd & 20th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.311691,
-          47.390789
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48972",
-        "stop_name": "16th Ave S & 17th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.310036,
-          47.3867302
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -627,6 +567,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.311783,
+          47.3866272
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48920",
+        "stop_name": "S 240th St & 17th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.308464,
           47.3910408
         ]
@@ -647,14 +607,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.311783,
-          47.3866272
+          -122.308136,
+          47.3909111
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48974",
+        "stop_name": "Kent Des Moines Rd & 20th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311691,
+          47.390789
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48972",
+        "stop_name": "16th Ave S & 17th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.309937,
+          47.3865929
         ]
       },
       "properties": {
         "alert_id": "1_82886",
-        "stop_id": "48920",
-        "stop_name": "S 240th St & 17th Ave S",
+        "stop_id": "48925",
+        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -667,14 +667,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.310036,
-          47.3867302
+          -122.311783,
+          47.3866272
         ]
       },
       "properties": {
         "alert_id": "1_82886",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
+        "stop_id": "48920",
+        "stop_name": "S 240th St & 17th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -707,13 +707,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.309937,
-          47.3865929
+          -122.310036,
+          47.3867302
         ]
       },
       "properties": {
         "alert_id": "1_82886",
-        "stop_id": "48925",
+        "stop_id": "47275",
         "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -1047,6 +1047,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.135582,
+          47.6028709
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89000",
+        "stop_id": "68670",
+        "stop_name": "Lake Hills Blvd & 154th Ave SE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.142479,
           47.5969696
         ]
@@ -1087,14 +1107,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.136032,
-          47.6029015
+          -122.140152,
+          47.6004448
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68510",
-        "stop_name": "Lake Hills Blvd & 154th Ave SE",
+        "stop_id": "68650",
+        "stop_name": "Lake Hills Blvd & SE 12th Pl",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
@@ -1127,33 +1147,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.140152,
-          47.6004448
+          -122.136032,
+          47.6029015
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68650",
-        "stop_name": "Lake Hills Blvd & SE 12th Pl",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.135582,
-          47.6028709
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89000",
-        "stop_id": "68670",
+        "stop_id": "68510",
         "stop_name": "Lake Hills Blvd & 154th Ave SE",
         "alert_type": "Route Change",
         "status": "ongoing",
@@ -1247,14 +1247,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.386871,
-          47.5610542
+          -122.387383,
+          47.561203
         ]
       },
       "properties": {
         "alert_id": "1_91071",
-        "stop_id": "19862",
-        "stop_name": "SW Alaska St & California Ave SW - Bay 1",
+        "stop_id": "20041",
+        "stop_name": "SW Alaska St & California Ave SW - Bay 3",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "RapidRide C Line will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
@@ -1267,14 +1267,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.387383,
-          47.561203
+          -122.386871,
+          47.5610542
         ]
       },
       "properties": {
         "alert_id": "1_91071",
-        "stop_id": "20041",
-        "stop_name": "SW Alaska St & California Ave SW - Bay 3",
+        "stop_id": "19862",
+        "stop_name": "SW Alaska St & California Ave SW - Bay 1",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "RapidRide C Line will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
@@ -1307,13 +1307,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.221626,
-          47.3261719
+          -122.221436,
+          47.3267365
         ]
       },
       "properties": {
         "alert_id": "1_88979",
-        "stop_id": "58270",
+        "stop_id": "57900",
         "stop_name": "Auburn Way N & 22nd St NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -1327,13 +1327,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.221436,
-          47.3267365
+          -122.221626,
+          47.3261719
         ]
       },
       "properties": {
         "alert_id": "1_88979",
-        "stop_id": "57900",
+        "stop_id": "58270",
         "stop_name": "Auburn Way N & 22nd St NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -1447,26 +1447,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.22818,
-          47.3866959
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88856",
-        "stop_id": "57480",
-        "stop_name": "E James St & Woodford Ave N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 165 is rerouted off E James St between Jason Ave N and Railroad Ave N from Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM daily due to construction.",
-        "description": "Affected stops:\r\nStop #57480 E James St & Woodford Ave N (WB)\r\nStop #58144 Central Ave N & E James St (SB)\r\nStop #57070 E James St & Central Ave N (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57470 E James St & Jason Ave N (WB)\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57452 Kent Sounder Station - Bay 2 (NB)\r\nStop #57090 E James St & Jason Ave N (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.230301,
           47.3865623
         ]
@@ -1495,6 +1475,26 @@
         "alert_id": "1_88856",
         "stop_id": "58144",
         "stop_name": "Central Ave N & E James St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 165 is rerouted off E James St between Jason Ave N and Railroad Ave N from Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM daily due to construction.",
+        "description": "Affected stops:\r\nStop #57480 E James St & Woodford Ave N (WB)\r\nStop #58144 Central Ave N & E James St (SB)\r\nStop #57070 E James St & Central Ave N (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57470 E James St & Jason Ave N (WB)\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57452 Kent Sounder Station - Bay 2 (NB)\r\nStop #57090 E James St & Jason Ave N (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.22818,
+          47.3866959
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88856",
+        "stop_id": "57480",
+        "stop_name": "E James St & Woodford Ave N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 165 is rerouted off E James St between Jason Ave N and Railroad Ave N from Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM daily due to construction.",
@@ -1727,46 +1727,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.338028,
-          47.6111031
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90893",
-        "stop_id": "1120",
-        "stop_name": "Pine St & 4th Ave",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 10, 11 and 12 will be rerouted in Downtown Seattle from 7:00 AM to 8:00 PM on Thu Jul 9 due to the Downtown Summer Sounds.",
-        "description": "Affected stops:\r\nStop #1110 Pine St & 5th Ave (WB)\r\nStop #1120 Pine St & 4th Ave (WB)\r\n\nGet on/off at:\r\nRoutes 10 to Capitol Hill, 11 to Madison Park, 12 to Interlaken Park:\r\nStop #1085 Pine St & 9th Ave (WB)\r\nStop #1215 Union St & 5th Ave (WB)\r\nStop #1230 Union St & 4th Ave (WB)\r\nStop #1180 Pike St & 4th Ave (EB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.336456,
-          47.6117668
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90893",
-        "stop_id": "1110",
-        "stop_name": "Pine St & 5th Ave",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Routes 10, 11 and 12 will be rerouted in Downtown Seattle from 7:00 AM to 8:00 PM on Thu Jul 9 due to the Downtown Summer Sounds.",
-        "description": "Affected stops:\r\nStop #1110 Pine St & 5th Ave (WB)\r\nStop #1120 Pine St & 4th Ave (WB)\r\n\nGet on/off at:\r\nRoutes 10 to Capitol Hill, 11 to Madison Park, 12 to Interlaken Park:\r\nStop #1085 Pine St & 9th Ave (WB)\r\nStop #1215 Union St & 5th Ave (WB)\r\nStop #1230 Union St & 4th Ave (WB)\r\nStop #1180 Pike St & 4th Ave (EB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.336456,
           47.6117668
         ]
@@ -1827,19 +1787,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202446,
-          47.3793526
+          -122.338028,
+          47.6111031
         ]
       },
       "properties": {
-        "alert_id": "1_88980",
-        "stop_id": "57407",
-        "stop_name": "104th Ave SE & SE 248th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57407 104th Ave SE & SE 248th St (SB) and Stop #57162 104th Ave SE & SE 248th St (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 104th Ave SE just south of SE 248th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 248th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+        "alert_id": "1_90893",
+        "stop_id": "1120",
+        "stop_name": "Pine St & 4th Ave",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 10, 11 and 12 will be rerouted in Downtown Seattle from 7:00 AM to 8:00 PM on Thu Jul 9 due to the Downtown Summer Sounds.",
+        "description": "Affected stops:\r\nStop #1110 Pine St & 5th Ave (WB)\r\nStop #1120 Pine St & 4th Ave (WB)\r\n\nGet on/off at:\r\nRoutes 10 to Capitol Hill, 11 to Madison Park, 12 to Interlaken Park:\r\nStop #1085 Pine St & 9th Ave (WB)\r\nStop #1215 Union St & 5th Ave (WB)\r\nStop #1230 Union St & 4th Ave (WB)\r\nStop #1180 Pike St & 4th Ave (EB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
@@ -1847,19 +1807,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.20224,
-          47.3799477
+          -122.336456,
+          47.6117668
         ]
       },
       "properties": {
-        "alert_id": "1_88980",
-        "stop_id": "57162",
-        "stop_name": "104th Ave SE & SE 248th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57407 104th Ave SE & SE 248th St (SB) and Stop #57162 104th Ave SE & SE 248th St (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 104th Ave SE just south of SE 248th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 248th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+        "alert_id": "1_90893",
+        "stop_id": "1110",
+        "stop_name": "Pine St & 5th Ave",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Routes 10, 11 and 12 will be rerouted in Downtown Seattle from 7:00 AM to 8:00 PM on Thu Jul 9 due to the Downtown Summer Sounds.",
+        "description": "Affected stops:\r\nStop #1110 Pine St & 5th Ave (WB)\r\nStop #1120 Pine St & 4th Ave (WB)\r\n\nGet on/off at:\r\nRoutes 10 to Capitol Hill, 11 to Madison Park, 12 to Interlaken Park:\r\nStop #1085 Pine St & 9th Ave (WB)\r\nStop #1215 Union St & 5th Ave (WB)\r\nStop #1230 Union St & 4th Ave (WB)\r\nStop #1180 Pike St & 4th Ave (EB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
@@ -1887,19 +1847,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.387177,
-          47.5628815
+          -122.20224,
+          47.3799477
         ]
       },
       "properties": {
-        "alert_id": "1_91068",
-        "stop_id": "31818",
-        "stop_name": "SW Oregon St & California Ave SW",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 128 will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
-        "description": "Affected stops:\r\nStop #32011 SW Alaska St & 44th Ave SW - Bay 4 (WB)\r\nStop #31818 SW Oregon St & California Ave SW (EB)\r\nStop #32010 California Ave SW & SW Genesee St (SB)\r\nStop #37220 SW Oregon St & 44th Ave SW (WB)\r\nStop #31811 SW Alaska St & 44th Ave SW - Bay 2 (EB)\r\n\nFor Route 128 to Admiral District get on/off at:\r\nStop #36390 44th Ave SW & SW Alaska St BAY 6 (NB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (NB)\r\nStop #31830 California Ave SW & SW Genesee St (NB)\r\n\nFor Route 128 to Southcenter get on/off at:\r\nThe temporary stop on SW Genesee St, just west of California Ave SW (WB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (SB)\r\nThe temporary stop on 44th Ave SW, just south of SW Alaska St (SB)\r\nStop #20050 California Ave SW & Erskine Way SW (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/128/N/"
+        "alert_id": "1_88980",
+        "stop_id": "57162",
+        "stop_name": "104th Ave SE & SE 248th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57407 104th Ave SE & SE 248th St (SB) and Stop #57162 104th Ave SE & SE 248th St (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 104th Ave SE just south of SE 248th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 248th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -1907,19 +1867,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.386871,
-          47.5644188
+          -122.202446,
+          47.3793526
         ]
       },
       "properties": {
-        "alert_id": "1_91068",
-        "stop_id": "32010",
-        "stop_name": "California Ave SW & SW Genesee St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 128 will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
-        "description": "Affected stops:\r\nStop #32011 SW Alaska St & 44th Ave SW - Bay 4 (WB)\r\nStop #31818 SW Oregon St & California Ave SW (EB)\r\nStop #32010 California Ave SW & SW Genesee St (SB)\r\nStop #37220 SW Oregon St & 44th Ave SW (WB)\r\nStop #31811 SW Alaska St & 44th Ave SW - Bay 2 (EB)\r\n\nFor Route 128 to Admiral District get on/off at:\r\nStop #36390 44th Ave SW & SW Alaska St BAY 6 (NB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (NB)\r\nStop #31830 California Ave SW & SW Genesee St (NB)\r\n\nFor Route 128 to Southcenter get on/off at:\r\nThe temporary stop on SW Genesee St, just west of California Ave SW (WB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (SB)\r\nThe temporary stop on 44th Ave SW, just south of SW Alaska St (SB)\r\nStop #20050 California Ave SW & Erskine Way SW (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/128/N/"
+        "alert_id": "1_88980",
+        "stop_id": "57407",
+        "stop_name": "104th Ave SE & SE 248th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57407 104th Ave SE & SE 248th St (SB) and Stop #57162 104th Ave SE & SE 248th St (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 104th Ave SE just south of SE 248th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 248th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -1947,6 +1907,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.387177,
+          47.5628815
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91068",
+        "stop_id": "31818",
+        "stop_name": "SW Oregon St & California Ave SW",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 128 will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
+        "description": "Affected stops:\r\nStop #32011 SW Alaska St & 44th Ave SW - Bay 4 (WB)\r\nStop #31818 SW Oregon St & California Ave SW (EB)\r\nStop #32010 California Ave SW & SW Genesee St (SB)\r\nStop #37220 SW Oregon St & 44th Ave SW (WB)\r\nStop #31811 SW Alaska St & 44th Ave SW - Bay 2 (EB)\r\n\nFor Route 128 to Admiral District get on/off at:\r\nStop #36390 44th Ave SW & SW Alaska St BAY 6 (NB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (NB)\r\nStop #31830 California Ave SW & SW Genesee St (NB)\r\n\nFor Route 128 to Southcenter get on/off at:\r\nThe temporary stop on SW Genesee St, just west of California Ave SW (WB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (SB)\r\nThe temporary stop on 44th Ave SW, just south of SW Alaska St (SB)\r\nStop #20050 California Ave SW & Erskine Way SW (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/128/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.387955,
           47.5612068
         ]
@@ -1955,6 +1935,26 @@
         "alert_id": "1_91068",
         "stop_id": "32011",
         "stop_name": "SW Alaska St & 44th Ave SW - Bay 4",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 128 will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
+        "description": "Affected stops:\r\nStop #32011 SW Alaska St & 44th Ave SW - Bay 4 (WB)\r\nStop #31818 SW Oregon St & California Ave SW (EB)\r\nStop #32010 California Ave SW & SW Genesee St (SB)\r\nStop #37220 SW Oregon St & 44th Ave SW (WB)\r\nStop #31811 SW Alaska St & 44th Ave SW - Bay 2 (EB)\r\n\nFor Route 128 to Admiral District get on/off at:\r\nStop #36390 44th Ave SW & SW Alaska St BAY 6 (NB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (NB)\r\nStop #31830 California Ave SW & SW Genesee St (NB)\r\n\nFor Route 128 to Southcenter get on/off at:\r\nThe temporary stop on SW Genesee St, just west of California Ave SW (WB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (SB)\r\nThe temporary stop on 44th Ave SW, just south of SW Alaska St (SB)\r\nStop #20050 California Ave SW & Erskine Way SW (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/128/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.386871,
+          47.5644188
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91068",
+        "stop_id": "32010",
+        "stop_name": "California Ave SW & SW Genesee St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 128 will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
@@ -2067,74 +2067,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.387909,
-          47.563015
+          -122.387527,
+          47.5610695
         ]
       },
       "properties": {
         "alert_id": "1_91067",
-        "stop_id": "37220",
-        "stop_name": "SW Oregon St & 44th Ave SW",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 50 will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
-        "description": "Affected stops:\r\nStop #32010 California Ave SW & SW Genesee St (SB)\r\nStop #37220 SW Oregon St & 44th Ave SW (WB)\r\nStop #31811 SW Alaska St & 44th Ave SW - Bay 2 (EB)\r\nStop #20040 SW Alaska St & 42nd Ave SW (WB)\r\nStop #32011 SW Alaska St & 44th Ave SW - Bay 4 (WB)\r\nStop #31818 SW Oregon St & California Ave SW (EB)\r\n\nFor Route 50 to Othello Station get on/off at:\r\nThe temporary stop on SW Genesee St, just west of California Ave SW (WB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (SB)\r\nThe temporary stop on 44th Ave SW, just south of SW Alaska St (SB)\r\nStop #19875 SW Alaska St & 42nd Ave SW (EB)\r\n\nFor Route 50 to West Seattle get on/off at:\r\nThe temporary stop on SW Alaska St, just east of 41st Ave SW (WB)\r\nStop #36390 44th Ave SW & SW Alaska St BAY 6 (NB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (NB)\r\nStop #31830 California Ave SW & SW Genesee St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/50/E/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.387955,
-          47.5612068
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91067",
-        "stop_id": "32011",
-        "stop_name": "SW Alaska St & 44th Ave SW - Bay 4",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 50 will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
-        "description": "Affected stops:\r\nStop #32010 California Ave SW & SW Genesee St (SB)\r\nStop #37220 SW Oregon St & 44th Ave SW (WB)\r\nStop #31811 SW Alaska St & 44th Ave SW - Bay 2 (EB)\r\nStop #20040 SW Alaska St & 42nd Ave SW (WB)\r\nStop #32011 SW Alaska St & 44th Ave SW - Bay 4 (WB)\r\nStop #31818 SW Oregon St & California Ave SW (EB)\r\n\nFor Route 50 to Othello Station get on/off at:\r\nThe temporary stop on SW Genesee St, just west of California Ave SW (WB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (SB)\r\nThe temporary stop on 44th Ave SW, just south of SW Alaska St (SB)\r\nStop #19875 SW Alaska St & 42nd Ave SW (EB)\r\n\nFor Route 50 to West Seattle get on/off at:\r\nThe temporary stop on SW Alaska St, just east of 41st Ave SW (WB)\r\nStop #36390 44th Ave SW & SW Alaska St BAY 6 (NB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (NB)\r\nStop #31830 California Ave SW & SW Genesee St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/50/E/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.385315,
-          47.5611534
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91067",
-        "stop_id": "20040",
-        "stop_name": "SW Alaska St & 42nd Ave SW",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 50 will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
-        "description": "Affected stops:\r\nStop #32010 California Ave SW & SW Genesee St (SB)\r\nStop #37220 SW Oregon St & 44th Ave SW (WB)\r\nStop #31811 SW Alaska St & 44th Ave SW - Bay 2 (EB)\r\nStop #20040 SW Alaska St & 42nd Ave SW (WB)\r\nStop #32011 SW Alaska St & 44th Ave SW - Bay 4 (WB)\r\nStop #31818 SW Oregon St & California Ave SW (EB)\r\n\nFor Route 50 to Othello Station get on/off at:\r\nThe temporary stop on SW Genesee St, just west of California Ave SW (WB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (SB)\r\nThe temporary stop on 44th Ave SW, just south of SW Alaska St (SB)\r\nStop #19875 SW Alaska St & 42nd Ave SW (EB)\r\n\nFor Route 50 to West Seattle get on/off at:\r\nThe temporary stop on SW Alaska St, just east of 41st Ave SW (WB)\r\nStop #36390 44th Ave SW & SW Alaska St BAY 6 (NB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (NB)\r\nStop #31830 California Ave SW & SW Genesee St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/50/E/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.386871,
-          47.5644188
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91067",
-        "stop_id": "32010",
-        "stop_name": "California Ave SW & SW Genesee St",
+        "stop_id": "31811",
+        "stop_name": "SW Alaska St & 44th Ave SW - Bay 2",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 50 will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
@@ -2167,14 +2107,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.387527,
-          47.5610695
+          -122.385315,
+          47.5611534
         ]
       },
       "properties": {
         "alert_id": "1_91067",
-        "stop_id": "31811",
-        "stop_name": "SW Alaska St & 44th Ave SW - Bay 2",
+        "stop_id": "20040",
+        "stop_name": "SW Alaska St & 42nd Ave SW",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 50 will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
+        "description": "Affected stops:\r\nStop #32010 California Ave SW & SW Genesee St (SB)\r\nStop #37220 SW Oregon St & 44th Ave SW (WB)\r\nStop #31811 SW Alaska St & 44th Ave SW - Bay 2 (EB)\r\nStop #20040 SW Alaska St & 42nd Ave SW (WB)\r\nStop #32011 SW Alaska St & 44th Ave SW - Bay 4 (WB)\r\nStop #31818 SW Oregon St & California Ave SW (EB)\r\n\nFor Route 50 to Othello Station get on/off at:\r\nThe temporary stop on SW Genesee St, just west of California Ave SW (WB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (SB)\r\nThe temporary stop on 44th Ave SW, just south of SW Alaska St (SB)\r\nStop #19875 SW Alaska St & 42nd Ave SW (EB)\r\n\nFor Route 50 to West Seattle get on/off at:\r\nThe temporary stop on SW Alaska St, just east of 41st Ave SW (WB)\r\nStop #36390 44th Ave SW & SW Alaska St BAY 6 (NB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (NB)\r\nStop #31830 California Ave SW & SW Genesee St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/50/E/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.387909,
+          47.563015
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91067",
+        "stop_id": "37220",
+        "stop_name": "SW Oregon St & 44th Ave SW",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 50 will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
+        "description": "Affected stops:\r\nStop #32010 California Ave SW & SW Genesee St (SB)\r\nStop #37220 SW Oregon St & 44th Ave SW (WB)\r\nStop #31811 SW Alaska St & 44th Ave SW - Bay 2 (EB)\r\nStop #20040 SW Alaska St & 42nd Ave SW (WB)\r\nStop #32011 SW Alaska St & 44th Ave SW - Bay 4 (WB)\r\nStop #31818 SW Oregon St & California Ave SW (EB)\r\n\nFor Route 50 to Othello Station get on/off at:\r\nThe temporary stop on SW Genesee St, just west of California Ave SW (WB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (SB)\r\nThe temporary stop on 44th Ave SW, just south of SW Alaska St (SB)\r\nStop #19875 SW Alaska St & 42nd Ave SW (EB)\r\n\nFor Route 50 to West Seattle get on/off at:\r\nThe temporary stop on SW Alaska St, just east of 41st Ave SW (WB)\r\nStop #36390 44th Ave SW & SW Alaska St BAY 6 (NB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (NB)\r\nStop #31830 California Ave SW & SW Genesee St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/50/E/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.386871,
+          47.5644188
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91067",
+        "stop_id": "32010",
+        "stop_name": "California Ave SW & SW Genesee St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 50 will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
+        "description": "Affected stops:\r\nStop #32010 California Ave SW & SW Genesee St (SB)\r\nStop #37220 SW Oregon St & 44th Ave SW (WB)\r\nStop #31811 SW Alaska St & 44th Ave SW - Bay 2 (EB)\r\nStop #20040 SW Alaska St & 42nd Ave SW (WB)\r\nStop #32011 SW Alaska St & 44th Ave SW - Bay 4 (WB)\r\nStop #31818 SW Oregon St & California Ave SW (EB)\r\n\nFor Route 50 to Othello Station get on/off at:\r\nThe temporary stop on SW Genesee St, just west of California Ave SW (WB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (SB)\r\nThe temporary stop on 44th Ave SW, just south of SW Alaska St (SB)\r\nStop #19875 SW Alaska St & 42nd Ave SW (EB)\r\n\nFor Route 50 to West Seattle get on/off at:\r\nThe temporary stop on SW Alaska St, just east of 41st Ave SW (WB)\r\nStop #36390 44th Ave SW & SW Alaska St BAY 6 (NB)\r\nThe temporary stop on 44th Ave SW, just south of SW Oregon St (NB)\r\nStop #31830 California Ave SW & SW Genesee St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/50/E/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.387955,
+          47.5612068
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91067",
+        "stop_id": "32011",
+        "stop_name": "SW Alaska St & 44th Ave SW - Bay 4",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 50 will be rerouted in Alaska Junction from Thu Jul 9 at 2:00 PM to Sun Jul 12 at 11:59 PM due to the West Seattle Summer Fest.",
@@ -2487,26 +2487,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.313187,
-          47.3193321
-        ]
-      },
-      "properties": {
-        "alert_id": "1_90800",
-        "stop_id": "60660",
-        "stop_name": "Pacific Hwy S & S 316th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #60660 Pacific Hwy S & S 316th St (NB) closed from Mon Jul 6 to Thu Jul 9 from 9:30 PM to 5:00 AM nightly due to construction.",
-        "description": "Affected routes:\r\nRapidRide A Line\r\n\nGet on/off at:\r\nStop #85538 Federal Way Downtown Station - Bay 8 (NB)\r\nStop #60670 Pacific Hwy S & S 312th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/671/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.336456,
           47.6117668
         ]
@@ -2607,13 +2587,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.385345,
-          47.6686058
+          -122.386124,
+          47.6687469
         ]
       },
       "properties": {
         "alert_id": "1_91053",
-        "stop_id": "18120",
+        "stop_id": "18740",
         "stop_name": "NW Market St & Ballard Ave NW",
         "alert_type": "Route Change",
         "status": "upcoming",
@@ -2627,13 +2607,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.386124,
-          47.6687469
+          -122.385345,
+          47.6686058
         ]
       },
       "properties": {
         "alert_id": "1_91053",
-        "stop_id": "18740",
+        "stop_id": "18120",
         "stop_name": "NW Market St & Ballard Ave NW",
         "alert_type": "Route Change",
         "status": "upcoming",
