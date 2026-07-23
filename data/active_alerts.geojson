@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-23T16:08:25.531235+00:00",
+  "generated_at": "2026-07-23T17:45:01.733948+00:00",
   "features": [
     {
       "type": "Feature",
@@ -20,26 +20,6 @@
         "header": "Route 70 to Downtown Seattle is rerouted off Fairview Ave N between Aloha St and Valley St until Mon Aug 31 due to construction.",
         "description": "Affected stops:\r\nStop #10190 Fairview Ave N & Aloha St (SB)\r\n\nGet on/off at:\r\nStop #10170 Fairview Ave E & E Nelson Pl (SB)\r\nStop #10328 Valley St & Fairview Ave N (WB)\r\n\nTo learn more about the construction impacts that are part of the upgrade of Route 70 into the RapidRide J Line please visit SDOT\u2019s website link:\r\n\nhttps://www.seattle.gov/transportation/projects-and-programs/programs/transit-program/transit-plus-multimodal-corridor-program/rapidride-roosevelt",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/70/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.222198,
-          47.3451881
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89529",
-        "stop_id": "57920",
-        "stop_name": "Auburn Way N & 42nd St NE",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #58235 Auburn Way N & 42nd St NE (SB) and Stop #57920 Auburn Way N & 42nd St NE (NB) closed from Mon Jun 15 through Sat Aug 15 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Auburn Way N just south of the affected stop (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Auburn Way N just north of the affected stop (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
       }
     },
     {
@@ -67,19 +47,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.185982,
-          47.4602013
+          -122.222198,
+          47.3451881
         ]
       },
       "properties": {
-        "alert_id": "1_89925",
-        "stop_id": "60022",
-        "stop_name": "116th Ave SE & SE 160th St",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_89529",
+        "stop_id": "57920",
+        "stop_name": "Auburn Way N & 42nd St NE",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #60022 116th Ave SE & SE 160th St (SB) relocated from Mon Jun 22 to Wed Sep 30 from 7:00 AM to 5:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n102\r\n148\r\n\nGet on/off: \r\nThe temporary stop on 116th Ave SE just south of SE 160th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/3637"
+        "header": "Stop #58235 Auburn Way N & 42nd St NE (SB) and Stop #57920 Auburn Way N & 42nd St NE (NB) closed from Mon Jun 15 through Sat Aug 15 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Auburn Way N just south of the affected stop (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Auburn Way N just north of the affected stop (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
       }
     },
     {
@@ -107,19 +87,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.240036,
-          47.3831444
+          -122.185982,
+          47.4602013
         ]
       },
       "properties": {
-        "alert_id": "1_87304",
-        "stop_id": "79215",
-        "stop_name": "W Smith St & 6th Ave N",
-        "alert_type": "Route Change",
+        "alert_id": "1_89925",
+        "stop_id": "60022",
+        "stop_name": "116th Ave SE & SE 160th St",
+        "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Route 165 will be rerouted off portions of W Smith St and W Meeker St between 4th Ave N & Washington Ave N Thu Apr 30, 2026 through Fri Dec 24, 2027 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected stops:\r\nStop #57187 W Smith St & 4th Ave N (WB)\r\nStop #79215 W Smith St & 6th Ave N (WB)\r\n\nGet on/off at:\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\nStop #50755 W Meeker St & Washington Ave N (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
+        "header": "Stop #60022 116th Ave SE & SE 160th St (SB) relocated from Mon Jun 22 to Wed Sep 30 from 7:00 AM to 5:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n102\r\n148\r\n\nGet on/off: \r\nThe temporary stop on 116th Ave SE just south of SE 160th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/3637"
       }
     },
     {
@@ -135,6 +115,26 @@
         "alert_id": "1_87304",
         "stop_id": "57187",
         "stop_name": "W Smith St & 4th Ave N",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 165 will be rerouted off portions of W Smith St and W Meeker St between 4th Ave N & Washington Ave N Thu Apr 30, 2026 through Fri Dec 24, 2027 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected stops:\r\nStop #57187 W Smith St & 4th Ave N (WB)\r\nStop #79215 W Smith St & 6th Ave N (WB)\r\n\nGet on/off at:\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\nStop #50755 W Meeker St & Washington Ave N (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.240036,
+          47.3831444
+        ]
+      },
+      "properties": {
+        "alert_id": "1_87304",
+        "stop_id": "79215",
+        "stop_name": "W Smith St & 6th Ave N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off portions of W Smith St and W Meeker St between 4th Ave N & Washington Ave N Thu Apr 30, 2026 through Fri Dec 24, 2027 due to construction.",
@@ -207,6 +207,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.249084,
+          47.4972382
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91686",
+        "stop_id": "55371",
+        "stop_name": "68th Ave S & S 118th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #55371 68th Ave S & S 118th St (SB) and Stop #55378 68th Ave S & S 118th St (NB) relocated from Mon Jul 20 through Mon Oct 26.",
+        "description": "Affected routes:\r\n107\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nThe temporary stop on 68th Ave S just south of the affected stop (SB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55378 68th Ave S just south of the affected stop (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.248878,
           47.4973106
         ]
@@ -227,19 +247,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.249084,
-          47.4972382
+          -122.229919,
+          47.3703918
         ]
       },
       "properties": {
-        "alert_id": "1_91686",
-        "stop_id": "55371",
-        "stop_name": "68th Ave S & S 118th St",
+        "alert_id": "1_89650",
+        "stop_id": "57990",
+        "stop_name": "Central Ave S & S 259th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #55371 68th Ave S & S 118th St (SB) and Stop #55378 68th Ave S & S 118th St (NB) relocated from Mon Jul 20 through Mon Oct 26.",
-        "description": "Affected routes:\r\n107\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nThe temporary stop on 68th Ave S just south of the affected stop (SB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55378 68th Ave S just south of the affected stop (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/N"
+        "header": "Stop #57990 Central Ave S & S 259th St (NB) relocated from Mon Mar 23 through Mon Jun 1 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on Central Ave S just south of 259th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -287,26 +307,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.229919,
-          47.3703918
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89650",
-        "stop_id": "57990",
-        "stop_name": "Central Ave S & S 259th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57990 Central Ave S & S 259th St (NB) relocated from Mon Mar 23 through Mon Jun 1 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on Central Ave S just south of 259th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.207909,
           47.4662895
         ]
@@ -320,6 +320,86 @@
         "header": "Stop #59934 SR 515 & S 15th St (SB) relocated from Mon Jul 20 through Sat Aug 15 due to construction.",
         "description": "Affected routes:\r\n160\r\n\nGet on/off at:\r\nThe temporary stop on Benson Dr S (WA 515) just south of S 16th St (SB)\r\nStop #59938 Talbot Rd S & S Renton Village Pl (SB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334229,
+          47.6222763
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91564",
+        "stop_id": "10305",
+        "stop_name": "Fairview Ave N & Harrison St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #10305 Fairview Ave N & Harrison St (NB) relocated from Mon Jul 20 to Mon Aug 10 at 12:00 AM due to construction.",
+        "description": "Affected routes:\r\n70\r\n256\r\n303\r\n322\r\n\nGet on/off:\r\nThe temporary stop on Fairview Ave N just south of Harrison St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334229,
+          47.6222763
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91564",
+        "stop_id": "10305",
+        "stop_name": "Fairview Ave N & Harrison St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #10305 Fairview Ave N & Harrison St (NB) relocated from Mon Jul 20 to Mon Aug 10 at 12:00 AM due to construction.",
+        "description": "Affected routes:\r\n70\r\n256\r\n303\r\n322\r\n\nGet on/off:\r\nThe temporary stop on Fairview Ave N just south of Harrison St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334229,
+          47.6222763
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91564",
+        "stop_id": "10305",
+        "stop_name": "Fairview Ave N & Harrison St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #10305 Fairview Ave N & Harrison St (NB) relocated from Mon Jul 20 to Mon Aug 10 at 12:00 AM due to construction.",
+        "description": "Affected routes:\r\n70\r\n256\r\n303\r\n322\r\n\nGet on/off:\r\nThe temporary stop on Fairview Ave N just south of Harrison St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334229,
+          47.6222763
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91564",
+        "stop_id": "10305",
+        "stop_name": "Fairview Ave N & Harrison St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #10305 Fairview Ave N & Harrison St (NB) relocated from Mon Jul 20 to Mon Aug 10 at 12:00 AM due to construction.",
+        "description": "Affected routes:\r\n70\r\n256\r\n303\r\n322\r\n\nGet on/off:\r\nThe temporary stop on Fairview Ave N just south of Harrison St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
@@ -347,79 +427,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334229,
-          47.6222763
+          -122.198853,
+          47.6162529
         ]
       },
       "properties": {
-        "alert_id": "1_91564",
-        "stop_id": "10305",
-        "stop_name": "Fairview Ave N & Harrison St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #10305 Fairview Ave N & Harrison St (NB) relocated from Mon Jul 20 to Mon Aug 10 at 12:00 AM due to construction.",
-        "description": "Affected routes:\r\n70\r\n256\r\n303\r\n322\r\n\nGet on/off:\r\nThe temporary stop on Fairview Ave N just south of Harrison St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334229,
-          47.6222763
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91564",
-        "stop_id": "10305",
-        "stop_name": "Fairview Ave N & Harrison St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #10305 Fairview Ave N & Harrison St (NB) relocated from Mon Jul 20 to Mon Aug 10 at 12:00 AM due to construction.",
-        "description": "Affected routes:\r\n70\r\n256\r\n303\r\n322\r\n\nGet on/off:\r\nThe temporary stop on Fairview Ave N just south of Harrison St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334229,
-          47.6222763
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91564",
-        "stop_id": "10305",
-        "stop_name": "Fairview Ave N & Harrison St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #10305 Fairview Ave N & Harrison St (NB) relocated from Mon Jul 20 to Mon Aug 10 at 12:00 AM due to construction.",
-        "description": "Affected routes:\r\n70\r\n256\r\n303\r\n322\r\n\nGet on/off:\r\nThe temporary stop on Fairview Ave N just south of Harrison St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334229,
-          47.6222763
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91564",
-        "stop_id": "10305",
-        "stop_name": "Fairview Ave N & Harrison St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #10305 Fairview Ave N & Harrison St (NB) relocated from Mon Jul 20 to Mon Aug 10 at 12:00 AM due to construction.",
-        "description": "Affected routes:\r\n70\r\n256\r\n303\r\n322\r\n\nGet on/off:\r\nThe temporary stop on Fairview Ave N just south of Harrison St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+        "alert_id": "1_91845",
+        "stop_id": "68048",
+        "stop_name": "106th Ave NE & NE 6th St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 240 to Bellevue TC will be rerouted off NE 4th St and 106th Ave NE from Thu Jul 23 at 4:30 PM to Sun Jul 26 at 10:00 PM due to the Bellevue Arts & Crafts Fair.",
+        "description": "Affected stops:\r\nStop #85640 NE 4th St & 108th Ave NE (WB)\r\nStop #68048 106th Ave NE & NE 6th St (NB)\r\n\nGet on/off at:\r\nStop #85630 Bellevue Transit Center - Bay 1 (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/240/N/"
       }
     },
     {
@@ -447,19 +467,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.198853,
-          47.6162529
+          -122.251419,
+          47.4920197
         ]
       },
       "properties": {
-        "alert_id": "1_91845",
-        "stop_id": "68048",
-        "stop_name": "106th Ave NE & NE 6th St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 240 to Bellevue TC will be rerouted off NE 4th St and 106th Ave NE from Thu Jul 23 at 4:30 PM to Sun Jul 26 at 10:00 PM due to the Bellevue Arts & Crafts Fair.",
-        "description": "Affected stops:\r\nStop #85640 NE 4th St & 108th Ave NE (WB)\r\nStop #68048 106th Ave NE & NE 6th St (NB)\r\n\nGet on/off at:\r\nStop #85630 Bellevue Transit Center - Bay 1 (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/240/N/"
+        "alert_id": "1_91688",
+        "stop_id": "55374",
+        "stop_name": "S 124th St & 67th Ave S",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #55375 S 124th St & 67th Ave S (WB) and Stop #55374 S 124th St & 67th Ave S (EB) relocated from Mon Jul 20 through Mon Oct 26 due to construction.",
+        "description": "Affected routes:\r\n107\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nThe temporary stop on S 124th St just east of the affected stop (EB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nThe temporary stop on S 124th St just east of the affected stop (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/N"
       }
     },
     {
@@ -474,26 +494,6 @@
       "properties": {
         "alert_id": "1_91688",
         "stop_id": "55375",
-        "stop_name": "S 124th St & 67th Ave S",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #55375 S 124th St & 67th Ave S (WB) and Stop #55374 S 124th St & 67th Ave S (EB) relocated from Mon Jul 20 through Mon Oct 26 due to construction.",
-        "description": "Affected routes:\r\n107\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nThe temporary stop on S 124th St just east of the affected stop (EB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nThe temporary stop on S 124th St just east of the affected stop (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.251419,
-          47.4920197
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91688",
-        "stop_id": "55374",
         "stop_name": "S 124th St & 67th Ave S",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -627,14 +627,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.311691,
-          47.390789
+          -122.310036,
+          47.3867302
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "48972",
-        "stop_name": "16th Ave S & 17th Pl S",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -647,14 +647,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.309937,
-          47.3865929
+          -122.308464,
+          47.3910408
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
+        "stop_id": "50466",
+        "stop_name": "Kent Des Moines Rd & 20th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -707,6 +707,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.309937,
+          47.3865929
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48925",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311691,
+          47.390789
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48972",
+        "stop_name": "16th Ave S & 17th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.311783,
           47.3866272
         ]
@@ -740,66 +780,6 @@
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
         "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.310036,
-          47.3867302
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.308464,
-          47.3910408
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "50466",
-        "stop_name": "Kent Des Moines Rd & 20th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.311783,
-          47.3866272
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82886",
-        "stop_id": "48920",
-        "stop_name": "S 240th St & 17th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nThis is an update to the previous alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
       }
     },
     {
@@ -827,14 +807,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.312439,
-          47.3867798
+          -122.311783,
+          47.3866272
         ]
       },
       "properties": {
         "alert_id": "1_82886",
-        "stop_id": "47280",
-        "stop_name": "S 240th St & 16th Ave S",
+        "stop_id": "48920",
+        "stop_name": "S 240th St & 17th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -855,6 +835,26 @@
         "alert_id": "1_82886",
         "stop_id": "47275",
         "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nThis is an update to the previous alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.312439,
+          47.3867798
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82886",
+        "stop_id": "47280",
+        "stop_name": "S 240th St & 16th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -927,6 +927,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.188461,
+          47.6793251
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89116",
+        "stop_id": "70664",
+        "stop_name": "NE 85th St & 114th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #70664 NE 85th St & 114th Ave NE (WB) relocated Thu Jun 4 to Thu Aug 20 from 7:00 AM to 6:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n239\r\n250\r\n\nGet on/off at:\r\nThe temporary stop on NE 85th St, just west of the closed stop (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.188461,
+          47.6793251
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89116",
+        "stop_id": "70664",
+        "stop_name": "NE 85th St & 114th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #70664 NE 85th St & 114th Ave NE (WB) relocated Thu Jun 4 to Thu Aug 20 from 7:00 AM to 6:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n239\r\n250\r\n\nGet on/off at:\r\nThe temporary stop on NE 85th St, just west of the closed stop (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.191422,
           47.6101265
         ]
@@ -940,46 +980,6 @@
         "header": "Stop #82810 Main St & 112th Ave NE (WB) closed from Wed May 27 to Thu Dec 31 from 8:00 AM to 3:00 PM daily, Mon-Fri only due to construction.",
         "description": "Affected routes:\r\n240\r\n\nGet on/off at:\r\nStop #82790 112th Ave SE & SE 4th St (NB)\r\nStop #85730 108th Ave NE & NE 2nd St (NB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/240/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.188461,
-          47.6793251
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89116",
-        "stop_id": "70664",
-        "stop_name": "NE 85th St & 114th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #70664 NE 85th St & 114th Ave NE (WB) relocated Thu Jun 4 to Thu Aug 20 from 7:00 AM to 6:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n239\r\n250\r\n\nGet on/off at:\r\nThe temporary stop on NE 85th St, just west of the closed stop (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7424"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.188461,
-          47.6793251
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89116",
-        "stop_id": "70664",
-        "stop_name": "NE 85th St & 114th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #70664 NE 85th St & 114th Ave NE (WB) relocated Thu Jun 4 to Thu Aug 20 from 7:00 AM to 6:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n239\r\n250\r\n\nGet on/off at:\r\nThe temporary stop on NE 85th St, just west of the closed stop (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7424"
       }
     },
     {
@@ -1007,13 +1007,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202347,
-          47.3972015
+          -122.202148,
+          47.398262
         ]
       },
       "properties": {
         "alert_id": "1_91279",
-        "stop_id": "57400",
+        "stop_id": "57160",
         "stop_name": "104th Ave SE & SE 228th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -1027,13 +1027,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202148,
-          47.398262
+          -122.202347,
+          47.3972015
         ]
       },
       "properties": {
         "alert_id": "1_91279",
-        "stop_id": "57160",
+        "stop_id": "57400",
         "stop_name": "104th Ave SE & SE 228th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -1107,14 +1107,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.142807,
-          47.5981712
+          -122.246307,
+          47.3813095
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86095",
+        "stop_id": "57188",
+        "stop_name": "W Meeker St & Washington Ave S",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Mon Apr 6 through Mon Apr 26 due to permanent bus stop closure.",
+        "description": "Affected routes:\r\n165\r\nDART 914\r\n\nGet on/off:\r\nThe temporary stop on Thomas Ave N just east of the regular stop",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.246307,
+          47.3813095
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86095",
+        "stop_id": "57188",
+        "stop_name": "W Meeker St & Washington Ave S",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Mon Apr 6 through Mon Apr 26 due to permanent bus stop closure.",
+        "description": "Affected routes:\r\n165\r\nDART 914\r\n\nGet on/off:\r\nThe temporary stop on Thomas Ave N just east of the regular stop",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.142029,
+          47.5987816
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68540",
-        "stop_name": "148th Ave SE & Lake Hills Blvd",
+        "stop_id": "68640",
+        "stop_name": "Lake Hills Blvd & 148th Ave SE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
@@ -1127,14 +1167,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.140549,
-          47.6002808
+          -122.142807,
+          47.5981712
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68530",
-        "stop_name": "Lake Hills Blvd & SE 12th Pl",
+        "stop_id": "68540",
+        "stop_name": "148th Ave SE & Lake Hills Blvd",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
@@ -1167,13 +1207,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.140152,
-          47.6004448
+          -122.142479,
+          47.5969696
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68650",
+        "stop_id": "68630",
+        "stop_name": "148th Ave SE & SE 16th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.140549,
+          47.6002808
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89000",
+        "stop_id": "68530",
         "stop_name": "Lake Hills Blvd & SE 12th Pl",
         "alert_type": "Route Change",
         "status": "ongoing",
@@ -1187,14 +1247,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.142479,
-          47.5969696
+          -122.140152,
+          47.6004448
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68630",
-        "stop_name": "148th Ave SE & SE 16th St",
+        "stop_id": "68650",
+        "stop_name": "Lake Hills Blvd & SE 12th Pl",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
@@ -1227,34 +1287,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.142029,
-          47.5987816
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89000",
-        "stop_id": "68640",
-        "stop_name": "Lake Hills Blvd & 148th Ave SE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.191422,
-          47.6101265
+          -122.196312,
+          47.6116524
         ]
       },
       "properties": {
         "alert_id": "1_91992",
-        "stop_id": "82810",
-        "stop_name": "Main St & 112th Ave NE",
+        "stop_id": "85489",
+        "stop_name": "108th Ave NE & NE 2nd St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 240 will be rerouted in both directions off Main St between 110th Ave NE and 112th Ave NE from until 8:00 PM due to construction.",
@@ -1287,79 +1327,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.196312,
-          47.6116524
+          -122.191422,
+          47.6101265
         ]
       },
       "properties": {
         "alert_id": "1_91992",
-        "stop_id": "85489",
-        "stop_name": "108th Ave NE & NE 2nd St",
+        "stop_id": "82810",
+        "stop_name": "Main St & 112th Ave NE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 240 will be rerouted in both directions off Main St between 110th Ave NE and 112th Ave NE from until 8:00 PM due to construction.",
         "description": "Affected stops:\r\nStop #82810 Main St & 112th Ave NE (WB)\r\nStop #85730 108th Ave NE & NE 2nd St (NB)\r\nStop #82730 Main St & 108th Ave SE (EB)\r\nStop #85489 108th Ave NE & NE 2nd St (SB)\r\n\nGet on/off at: To Bellevue TC\r\nStop #82790 112th Ave SE & SE 4th St (NB)\r\nThe temporary stop on 112th Ave NE just north of Main St (NB) \r\nThe temporary stop on 112th Ave NE just north of NE 2nd St (NB) \r\nStop #85640 NE 4th St & 108th Ave NE (WB)\r\n\nGet on/off: To Renton\r\nStop #85630 Bellevue Transit Center - Bay 1 (SB)\r\nThe temporary stop on 112th Ave NE just south of NE 2nd St (SB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/240/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.246307,
-          47.3813095
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86095",
-        "stop_id": "57188",
-        "stop_name": "W Meeker St & Washington Ave S",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Mon Apr 6 through Mon Apr 26 due to permanent bus stop closure.",
-        "description": "Affected routes:\r\n165\r\nDART 914\r\n\nGet on/off:\r\nThe temporary stop on Thomas Ave N just east of the regular stop",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.246307,
-          47.3813095
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86095",
-        "stop_id": "57188",
-        "stop_name": "W Meeker St & Washington Ave S",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Mon Apr 6 through Mon Apr 26 due to permanent bus stop closure.",
-        "description": "Affected routes:\r\n165\r\nDART 914\r\n\nGet on/off:\r\nThe temporary stop on Thomas Ave N just east of the regular stop",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.20813,
-          47.4798775
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91871",
-        "stop_id": "45305",
-        "stop_name": "Renton Transit Center - Bay 7",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 105 will be rerouted in Downtown Renton from 4:00 AM to 1:30 PM on Sat Jul 25 due to the Renton River Days Parade.",
-        "description": "Affected stops:\r\nStop #45305 Renton Transit Center - Bay 7 (SB)\r\nStop #46474 Mill Ave S & S 2nd St (NB)\r\n\nGet on/off at:\r\nFor Route 105 to Renton:\r\nStop #45301 Renton Transit Center BAY 5 (SB)\r\n\nFor Route 105 to Renton Highlands:\r\nStop #45301 Renton Transit Center BAY 5 (SB)\r\nStop #56510 Bronson Way N & Park Ave N (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/105/N/"
       }
     },
     {
@@ -1387,19 +1367,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.212677,
-          47.4796677
+          -122.20813,
+          47.4798775
         ]
       },
       "properties": {
-        "alert_id": "1_91872",
-        "stop_id": "46450",
-        "stop_name": "S 3rd St & Shattuck Ave S",
+        "alert_id": "1_91871",
+        "stop_id": "45305",
+        "stop_name": "Renton Transit Center - Bay 7",
         "alert_type": "Route Change",
         "status": "upcoming",
-        "header": "Route 107 to Renton TC will be rerouted in Downtown Renton from 4:00 AM to 1:30 PM on Sat Jul 25 due to the Renton River Days Parade.",
-        "description": "Affected stops:\r\nStop #46440 S 3rd St & Rainier Ave S (EB)\r\nStop #46450 S 3rd St & Shattuck Ave S (EB)\r\n\nGet on/off at:\r\nThe temporary stop on Rainier Ave S, just south of S 2nd St (NB)\r\nStop #46479 Renton Transit Center - Bay 4 (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
+        "header": "Route 105 will be rerouted in Downtown Renton from 4:00 AM to 1:30 PM on Sat Jul 25 due to the Renton River Days Parade.",
+        "description": "Affected stops:\r\nStop #45305 Renton Transit Center - Bay 7 (SB)\r\nStop #46474 Mill Ave S & S 2nd St (NB)\r\n\nGet on/off at:\r\nFor Route 105 to Renton:\r\nStop #45301 Renton Transit Center BAY 5 (SB)\r\n\nFor Route 105 to Renton Highlands:\r\nStop #45301 Renton Transit Center BAY 5 (SB)\r\nStop #56510 Bronson Way N & Park Ave N (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/105/N/"
       }
     },
     {
@@ -1415,6 +1395,26 @@
         "alert_id": "1_91872",
         "stop_id": "46440",
         "stop_name": "S 3rd St & Rainier Ave S",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 107 to Renton TC will be rerouted in Downtown Renton from 4:00 AM to 1:30 PM on Sat Jul 25 due to the Renton River Days Parade.",
+        "description": "Affected stops:\r\nStop #46440 S 3rd St & Rainier Ave S (EB)\r\nStop #46450 S 3rd St & Shattuck Ave S (EB)\r\n\nGet on/off at:\r\nThe temporary stop on Rainier Ave S, just south of S 2nd St (NB)\r\nStop #46479 Renton Transit Center - Bay 4 (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.212677,
+          47.4796677
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91872",
+        "stop_id": "46450",
+        "stop_name": "S 3rd St & Shattuck Ave S",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 107 to Renton TC will be rerouted in Downtown Renton from 4:00 AM to 1:30 PM on Sat Jul 25 due to the Renton River Days Parade.",
@@ -1527,6 +1527,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.323685,
+          47.648613
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91110",
+        "stop_id": "9150",
+        "stop_name": "Eastlake Ave E & E Allison St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #9150 Eastlake Ave E & E Allison St (SB) relocated from Mon Jul 13 through Fri Aug 7 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n70\r\n\nGet on/off at:\r\nStop #9140 University Bridge & NE 40th St (SB)\r\nThe temporary stop on Eastlake Ave E, just south of E Shelby St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/5377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26989,
+          47.5228729
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91550",
+        "stop_id": "8090",
+        "stop_name": "Rainier Ave S & S Henderson St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
+        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.266037,
+          47.5232239
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91550",
+        "stop_id": "31136",
+        "stop_name": "S Henderson St & 53rd Ave S",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
+        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.267807,
           47.5199165
         ]
@@ -1535,6 +1595,46 @@
         "alert_id": "1_91550",
         "stop_id": "8070",
         "stop_name": "Rainier Ave S & 52nd Ave S",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
+        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.269897,
+          47.521328
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91550",
+        "stop_id": "8080",
+        "stop_name": "Rainier Ave S & S Fisher Pl",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
+        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.263481,
+          47.5200996
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91550",
+        "stop_id": "8050",
+        "stop_name": "Rainier Ave S & Seward Park Ave S",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
@@ -1580,106 +1680,6 @@
         "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
         "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.26989,
-          47.5228729
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91550",
-        "stop_id": "8090",
-        "stop_name": "Rainier Ave S & S Henderson St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
-        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.263481,
-          47.5200996
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91550",
-        "stop_id": "8050",
-        "stop_name": "Rainier Ave S & Seward Park Ave S",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
-        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.269897,
-          47.521328
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91550",
-        "stop_id": "8080",
-        "stop_name": "Rainier Ave S & S Fisher Pl",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
-        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.266037,
-          47.5232239
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91550",
-        "stop_id": "31136",
-        "stop_name": "S Henderson St & 53rd Ave S",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
-        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.323685,
-          47.648613
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91110",
-        "stop_id": "9150",
-        "stop_name": "Eastlake Ave E & E Allison St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #9150 Eastlake Ave E & E Allison St (SB) relocated from Mon Jul 13 through Fri Aug 7 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n70\r\n\nGet on/off at:\r\nStop #9140 University Bridge & NE 40th St (SB)\r\nThe temporary stop on Eastlake Ave E, just south of E Shelby St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/5377"
       }
     },
     {
@@ -1747,19 +1747,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202171,
-          47.7602425
+          -122.221436,
+          47.3267365
         ]
       },
       "properties": {
-        "alert_id": "1_78978",
-        "stop_id": "76298",
-        "stop_name": "Main St & 103rd Ave NE",
-        "alert_type": "Route Change",
+        "alert_id": "1_88979",
+        "stop_id": "57900",
+        "stop_name": "Auburn Way N & 22nd St NE",
+        "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Route 239 to UW Bothell / Cascadia College is rerouted off Main St between 102nd Ave NE & 104th Ave NE through Fri Sep 25 due to construction.",
-        "description": "Affected stops:\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\n\nGet on/off at:\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/n"
+        "header": "Stop #58270 Auburn Way N & 22nd St NE (SB) and Stop #57900 Auburn Way N & 22nd St NE (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on Auburn Way N just north of 22nd St NE (NB)\r\nThe temporary stop on Auburn Way N just south of 22nd St NE (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -1787,19 +1787,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.221436,
-          47.3267365
+          -122.202171,
+          47.7602425
         ]
       },
       "properties": {
-        "alert_id": "1_88979",
-        "stop_id": "57900",
-        "stop_name": "Auburn Way N & 22nd St NE",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_78978",
+        "stop_id": "76298",
+        "stop_name": "Main St & 103rd Ave NE",
+        "alert_type": "Route Change",
         "status": "ongoing",
-        "header": "Stop #58270 Auburn Way N & 22nd St NE (SB) and Stop #57900 Auburn Way N & 22nd St NE (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on Auburn Way N just north of 22nd St NE (NB)\r\nThe temporary stop on Auburn Way N just south of 22nd St NE (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+        "header": "Route 239 to UW Bothell / Cascadia College is rerouted off Main St between 102nd Ave NE & 104th Ave NE through Fri Sep 25 due to construction.",
+        "description": "Affected stops:\r\nStop #76298 Main St & 103rd Ave NE (EB)\r\n\nGet on/off at:\r\nStop #76317 102nd Ave NE & Main St (NB)\r\nStop #76222 Beardslee Blvd & Sunrise Dr (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/239/n"
       }
     },
     {
@@ -1947,146 +1947,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.237007,
-          47.6371346
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86755",
-        "stop_id": "71355",
-        "stop_name": "Sr 520 & Evergreen Point Rd",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
-        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.237007,
-          47.6371346
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86755",
-        "stop_id": "71355",
-        "stop_name": "Sr 520 & Evergreen Point Rd",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
-        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.237007,
-          47.6371346
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86755",
-        "stop_id": "71355",
-        "stop_name": "Sr 520 & Evergreen Point Rd",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
-        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.237007,
-          47.6371346
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86755",
-        "stop_id": "71355",
-        "stop_name": "Sr 520 & Evergreen Point Rd",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
-        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.237007,
-          47.6371346
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86755",
-        "stop_id": "71355",
-        "stop_name": "Sr 520 & Evergreen Point Rd",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
-        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.237007,
-          47.6371346
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86755",
-        "stop_id": "71355",
-        "stop_name": "Sr 520 & Evergreen Point Rd",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
-        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.237007,
-          47.6371346
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86755",
-        "stop_id": "71355",
-        "stop_name": "Sr 520 & Evergreen Point Rd",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
-        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.323204,
           47.6489449
         ]
@@ -2100,6 +1960,146 @@
         "header": "Stop #9550 Eastlake Ave E & E Allison St (NB) relocated until Fri Aug 28 at 7:00 PM due to construction.",
         "description": "Affected routes:\r\n70\r\n\nGet on/off at:\r\nThe temporary stop on Eastlake Ave E just before E Allison St (NB)\r\n\nTo learn more about the construction impacts that are part of the upgrade of Route 70 into the RapidRide J Line please visit SDOT\u2019s website link:\r\n\nhttps://www.seattle.gov/transportation/projects-and-programs/programs/transit-program/transit-plus-multimodal-corridor-program/rapidride-roosevelt",
         "url": "https://www.seattle.gov/transportation/projects-and-programs/programs/transit-program/transit-plus-multimodal-corridor-program/rapidride-j-line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.237007,
+          47.6371346
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86755",
+        "stop_id": "71355",
+        "stop_name": "Sr 520 & Evergreen Point Rd",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
+        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.237007,
+          47.6371346
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86755",
+        "stop_id": "71355",
+        "stop_name": "Sr 520 & Evergreen Point Rd",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
+        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.237007,
+          47.6371346
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86755",
+        "stop_id": "71355",
+        "stop_name": "Sr 520 & Evergreen Point Rd",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
+        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.237007,
+          47.6371346
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86755",
+        "stop_id": "71355",
+        "stop_name": "Sr 520 & Evergreen Point Rd",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
+        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.237007,
+          47.6371346
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86755",
+        "stop_id": "71355",
+        "stop_name": "Sr 520 & Evergreen Point Rd",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
+        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.237007,
+          47.6371346
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86755",
+        "stop_id": "71355",
+        "stop_name": "Sr 520 & Evergreen Point Rd",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
+        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.237007,
+          47.6371346
+        ]
+      },
+      "properties": {
+        "alert_id": "1_86755",
+        "stop_id": "71355",
+        "stop_name": "Sr 520 & Evergreen Point Rd",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "The elevator at SR 520 & Evergreen Point Rd (WB) is out of service until further notice.",
+        "description": "Westbound transit riders who require the use of an elevator can plan ahead to board or exit SR 520 transit service at the Clyde Hill/Yarrow Point Freeway Station instead. Transit passengers who need to get to Evergreen Point Station can transfer to eastbound routes 271 or ST 542 from the stop on NE Pacific St & Montlake Blvd NE - Bay 1 (EB) and use the elevator at the eastbound stop.\r\n\nThe Clyde Hill/Yarrow Point Freeway station elevators in both directions have resumed operation.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
       }
     },
     {
@@ -2167,14 +2167,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202896,
-          47.4807205
+          -122.20813,
+          47.4801102
         ]
       },
       "properties": {
         "alert_id": "1_91869",
-        "stop_id": "46472",
-        "stop_name": "Mill Ave S & Houser Way S",
+        "stop_id": "45303",
+        "stop_name": "Renton Transit Center - Bay 6",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 101 will be rerouted in Downtown Renton from 4:00 AM to 1:30 PM on Sat Jul 25 due to the Renton River Days Parade.",
@@ -2207,14 +2207,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.212677,
-          47.4796677
+          -122.202896,
+          47.4807205
         ]
       },
       "properties": {
         "alert_id": "1_91869",
-        "stop_id": "46450",
-        "stop_name": "S 3rd St & Shattuck Ave S",
+        "stop_id": "46472",
+        "stop_name": "Mill Ave S & Houser Way S",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 101 will be rerouted in Downtown Renton from 4:00 AM to 1:30 PM on Sat Jul 25 due to the Renton River Days Parade.",
@@ -2247,19 +2247,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.20813,
-          47.4801102
+          -122.212677,
+          47.4796677
         ]
       },
       "properties": {
         "alert_id": "1_91869",
-        "stop_id": "45303",
-        "stop_name": "Renton Transit Center - Bay 6",
+        "stop_id": "46450",
+        "stop_name": "S 3rd St & Shattuck Ave S",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 101 will be rerouted in Downtown Renton from 4:00 AM to 1:30 PM on Sat Jul 25 due to the Renton River Days Parade.",
         "description": "Affected stops:\r\nStop #46468 Main Ave S & S 4th St (NB)\r\nStop #46472 Mill Ave S & Houser Way S (NB)\r\nStop #46440 S 3rd St & Rainier Ave S (EB)\r\nStop #46450 S 3rd St & Shattuck Ave S (EB)\r\nStop #45303 Renton Transit Center - Bay 6 (SB)\r\n\nGet on/off at:\r\nFor Route 101 to Downtown Seattle:\r\nStop #46466 S Grady Way & Wells Ave S (EB)\r\nThe temporary stop on S 4th St, just east of Wells Ave S (WB)\r\nThe temporary stop on Rainier Ave S, just south of S 2nd St (NB)\r\nStop #45301 Renton Transit Center - Bay 5 (SB)\r\n\nFor Route 101 to Renton TC:\r\nThe temporary stop on Rainier Ave S, just south of S 2nd St (NB)\r\nStop #46479 Renton Transit Center BAY 4 (EB)\r\nThe temporary stop on S 4th St, just east of Shattuck Ave S (EB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/101/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320595,
+          47.6130295
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91946",
+        "stop_id": "3032",
+        "stop_name": "E Union St & Broadway",
+        "alert_type": "Stop Closure",
+        "status": "upcoming",
+        "header": "Stop #3032 E Union St & Broadway (WB) closed from 7:00 AM to 3:00 PM on Sat Jul 25 due to construction.",
+        "description": "Affected routes:\r\n2\r\n\nGet on/off at:\r\nStop #13262 E Union St & 12th Ave (WB)\r\nStop #3033 Seneca St & Harvard Ave (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/2/N/"
       }
     },
     {
@@ -2347,26 +2367,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.20224,
-          47.3799477
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88980",
-        "stop_id": "57162",
-        "stop_name": "104th Ave SE & SE 248th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57407 104th Ave SE & SE 248th St (SB) and Stop #57162 104th Ave SE & SE 248th St (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 104th Ave SE just south of SE 248th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 248th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.202446,
           47.3793526
         ]
@@ -2387,239 +2387,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33596,
-          47.5987167
+          -122.20224,
+          47.3799477
         ]
       },
       "properties": {
-        "alert_id": "1_91668",
-        "stop_id": "1562",
-        "stop_name": "Alaskan Way S & S Jackson St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
-        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.336784,
-          47.6026154
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91668",
-        "stop_id": "1558",
-        "stop_name": "Columbia St & Alaskan Way",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
-        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.336685,
-          47.6024971
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91668",
-        "stop_id": "1559",
-        "stop_name": "Alaskan Way & Columbia St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
-        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.336784,
-          47.6026154
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91668",
-        "stop_id": "1558",
-        "stop_name": "Columbia St & Alaskan Way",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
-        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33596,
-          47.5987167
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91668",
-        "stop_id": "1562",
-        "stop_name": "Alaskan Way S & S Jackson St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
-        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.336685,
-          47.6024971
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91668",
-        "stop_id": "1559",
-        "stop_name": "Alaskan Way & Columbia St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
-        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335556,
-          47.5997009
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91668",
-        "stop_id": "1561",
-        "stop_name": "Alaskan Way S & S Jackson St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
-        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.336685,
-          47.6024971
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91668",
-        "stop_id": "1559",
-        "stop_name": "Alaskan Way & Columbia St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
-        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33596,
-          47.5987167
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91668",
-        "stop_id": "1562",
-        "stop_name": "Alaskan Way S & S Jackson St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
-        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335556,
-          47.5997009
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91668",
-        "stop_id": "1561",
-        "stop_name": "Alaskan Way S & S Jackson St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
-        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335556,
-          47.5997009
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91668",
-        "stop_id": "1561",
-        "stop_name": "Alaskan Way S & S Jackson St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
-        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.336784,
-          47.6026154
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91668",
-        "stop_id": "1558",
-        "stop_name": "Columbia St & Alaskan Way",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
-        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+        "alert_id": "1_88980",
+        "stop_id": "57162",
+        "stop_name": "104th Ave SE & SE 248th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57407 104th Ave SE & SE 248th St (SB) and Stop #57162 104th Ave SE & SE 248th St (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on 104th Ave SE just south of SE 248th St (SB)\r\nThe temporary stop on 104th Ave SE just north of SE 248th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -2660,6 +2440,246 @@
         "header": "Stop #64970 SE Newport Way & 152nd Ave SE (EB) relocated until Sat Aug 15 at 9:00 AM due to construction.",
         "description": "Affected routes:\r\n203\r\n271\r\n\nGet on/off at:\r\nStop #64960 SE Newport Way & 151st Ave SE (EB)\r\nThe temporary stop on SE Newport Way just east of 152nd Ave SE (EB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336784,
+          47.6026154
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91668",
+        "stop_id": "1558",
+        "stop_name": "Columbia St & Alaskan Way",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
+        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33596,
+          47.5987167
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91668",
+        "stop_id": "1562",
+        "stop_name": "Alaskan Way S & S Jackson St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
+        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336784,
+          47.6026154
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91668",
+        "stop_id": "1558",
+        "stop_name": "Columbia St & Alaskan Way",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
+        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335556,
+          47.5997009
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91668",
+        "stop_id": "1561",
+        "stop_name": "Alaskan Way S & S Jackson St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
+        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336685,
+          47.6024971
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91668",
+        "stop_id": "1559",
+        "stop_name": "Alaskan Way & Columbia St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
+        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335556,
+          47.5997009
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91668",
+        "stop_id": "1561",
+        "stop_name": "Alaskan Way S & S Jackson St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
+        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335556,
+          47.5997009
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91668",
+        "stop_id": "1561",
+        "stop_name": "Alaskan Way S & S Jackson St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
+        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33596,
+          47.5987167
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91668",
+        "stop_id": "1562",
+        "stop_name": "Alaskan Way S & S Jackson St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
+        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336784,
+          47.6026154
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91668",
+        "stop_id": "1558",
+        "stop_name": "Columbia St & Alaskan Way",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
+        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336685,
+          47.6024971
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91668",
+        "stop_id": "1559",
+        "stop_name": "Alaskan Way & Columbia St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
+        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336685,
+          47.6024971
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91668",
+        "stop_id": "1559",
+        "stop_name": "Alaskan Way & Columbia St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
+        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33596,
+          47.5987167
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91668",
+        "stop_id": "1562",
+        "stop_name": "Alaskan Way S & S Jackson St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "RapidRide C Line, RapidRide H Line and Route 125 will be rerouted off Alaskan Way from 5:00 PM to 11:59 PM on Sat Jul 25 during the Seafair Torchlight Parade.",
+        "description": "Affected stops:\r\nStop #1561 Alaskan Way S & S Jackson St (NB)\r\nStop #1559 Alaskan Way & Columbia St (NB)\r\nStop #1558 Columbia St & Alaskan Way (WB)\r\nStop #1562 Alaskan Way S & S Jackson St (SB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to Downtown Seattle get on/off at:\r\nStop #619 4th Ave S & S Jackson St Island (NB)\r\nStop #531 3rd Ave & James St (NB)\r\n\nRapidRide C Line, RapidRide H Line and Route 125 to West Seattle/Burien get on/off at:\r\nStop #481 3rd Ave & Columbia St (SB)\r\nStop #360 2nd Ave & Cherry St (SB)\r\nStop #390 2nd Ave Ext S & S Jackson St (SB)\r\n\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures"
       }
     },
     {
@@ -2687,26 +2707,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.229996,
-          47.3645096
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91625",
-        "stop_id": "58210",
-        "stop_name": "Central Ave S & S 266th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #58210 Central Ave S & S 266th St (SB) and Stop #57960 Central Ave S & S 266th St (NB) closed through Fri Oct 2 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nTemporary stop on Central Ave S, just south of S 266th St, (SB)\r\nStop #58190 Central Ave S & S 262nd St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nTemporary stop on Central Ave S, just north of the closed stop. (NB)\r\nStop #57950 Auburn Way N & S 277th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.229797,
           47.3636665
         ]
@@ -2727,19 +2727,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.212471,
-          47.4421959
+          -122.229996,
+          47.3645096
         ]
       },
       "properties": {
-        "alert_id": "1_91660",
-        "stop_id": "59949",
-        "stop_name": "Talbot Rd S & S Carr Rd",
+        "alert_id": "1_91625",
+        "stop_id": "58210",
+        "stop_name": "Central Ave S & S 266th St",
         "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #59949 Talbot Rd S & S Carr Rd (SB) and Stop #60361 Talbot Rd S & S Carr Rd (NB) closed from Mon Jul 20 through Sat Aug 29.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #59948 Talbot Rd S & S 177th St (SB)\r\nStop #59370 S Carr Rd & Talbot Rd S (EB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #60350 SE Carr Rd & 98th Ave S (WB)\r\nThe temporary stop on Talbot Rd S just north of the closed stop (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+        "header": "Stop #58210 Central Ave S & S 266th St (SB) and Stop #57960 Central Ave S & S 266th St (NB) closed through Fri Oct 2 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nTemporary stop on Central Ave S, just south of S 266th St, (SB)\r\nStop #58190 Central Ave S & S 262nd St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nTemporary stop on Central Ave S, just north of the closed stop. (NB)\r\nStop #57950 Auburn Way N & S 277th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S"
       }
     },
     {
@@ -2767,19 +2767,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.339813,
-          47.6163635
+          -122.212471,
+          47.4421959
         ]
       },
       "properties": {
-        "alert_id": "1_91781",
-        "stop_id": "6190",
-        "stop_name": "7th Ave & Blanchard St",
-        "alert_type": "Route Change",
+        "alert_id": "1_91660",
+        "stop_id": "59949",
+        "stop_name": "Talbot Rd S & S Carr Rd",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Route 62 to Downtown Seattle is rerouted from Wed Jul 22 at 6:00 AM to Fri Jul 24 at 11:45 PM during the Amazon bring your kids to work day.",
-        "description": "Affected stops:\r\nStop #18402 Dexter Ave & Denny Way (SB)\r\nStop #6190 7th Ave & Blanchard St (SB)\r\n\nGet on/off at:\r\nStop #7430 Wall St & 5th Ave (WB)\r\nStop #420 3rd Ave & Virginia St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/62/S"
+        "header": "Stop #59949 Talbot Rd S & S Carr Rd (SB) and Stop #60361 Talbot Rd S & S Carr Rd (NB) closed from Mon Jul 20 through Sat Aug 29.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #59948 Talbot Rd S & S 177th St (SB)\r\nStop #59370 S Carr Rd & Talbot Rd S (EB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #60350 SE Carr Rd & 98th Ave S (WB)\r\nThe temporary stop on Talbot Rd S just north of the closed stop (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -2807,19 +2807,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.19426,
-          47.6155014
+          -122.339813,
+          47.6163635
         ]
       },
       "properties": {
-        "alert_id": "1_91582",
-        "stop_id": "68005",
-        "stop_name": "Bellevue Transit Center - Bay 5",
+        "alert_id": "1_91781",
+        "stop_id": "6190",
+        "stop_name": "7th Ave & Blanchard St",
         "alert_type": "Route Change",
         "status": "ongoing",
-        "header": "Route 271, ST 550, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Mon Jul 20 through Tue Oct 20 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected stops:\r\nStop #68005 Bellevue Transit Center - Bay 5 (EB)\r\nStop #67652 Bellevue Transit Center - Bay 9 (WB)\r\nStop #68006 Bellevue Transit Center - Bay 6\r\n\nGet on/off at:\r\nFor Route 271 to Eastgate P&R:\r\nStop #73049 NE 8th St & 106th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 550 to Seattle:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\nStop #85640 NE 4th St & 108th Ave NE (WB)\r\n\nFor Route 556 to Issaquah and Route 566 to Auburn:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+        "header": "Route 62 to Downtown Seattle is rerouted from Wed Jul 22 at 6:00 AM to Fri Jul 24 at 11:45 PM during the Amazon bring your kids to work day.",
+        "description": "Affected stops:\r\nStop #18402 Dexter Ave & Denny Way (SB)\r\nStop #6190 7th Ave & Blanchard St (SB)\r\n\nGet on/off at:\r\nStop #7430 Wall St & 5th Ave (WB)\r\nStop #420 3rd Ave & Virginia St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/62/S"
       }
     },
     {
@@ -2875,6 +2875,26 @@
         "alert_id": "1_91582",
         "stop_id": "68006",
         "stop_name": "Bellevue Transit Center - Bay 6",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 271, ST 550, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Mon Jul 20 through Tue Oct 20 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected stops:\r\nStop #68005 Bellevue Transit Center - Bay 5 (EB)\r\nStop #67652 Bellevue Transit Center - Bay 9 (WB)\r\nStop #68006 Bellevue Transit Center - Bay 6\r\n\nGet on/off at:\r\nFor Route 271 to Eastgate P&R:\r\nStop #73049 NE 8th St & 106th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 550 to Seattle:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\nStop #85640 NE 4th St & 108th Ave NE (WB)\r\n\nFor Route 556 to Issaquah and Route 566 to Auburn:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.19426,
+          47.6155014
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91582",
+        "stop_id": "68005",
+        "stop_name": "Bellevue Transit Center - Bay 5",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 271, ST 550, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Mon Jul 20 through Tue Oct 20 due to construction.",
@@ -2947,19 +2967,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.295418,
-          47.6612778
+          -122.128212,
+          47.6786156
         ]
       },
       "properties": {
-        "alert_id": "1_88962",
-        "stop_id": "25202",
-        "stop_name": "NE 45th St & University Village",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #25202 NE 45th St & University Village (WB) relocated from Thu Jun 4 through Fri Aug 28 due to construction.",
-        "description": "Affected routes:\r\n31\r\n32\r\n45\r\n67\r\n\nGet on/off at:\r\nTemporary stop on NE 45th St just east of the University Village main driveway. (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/75083"
+        "alert_id": "1_91935",
+        "stop_id": "73758",
+        "stop_name": "NE 85th St & 160th Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "ST 542 will be rerouted in Downtown Redmond from 6:00 AM to 11:00 PM on Sat Jul 25 during the Redmond Derby Days.",
+        "description": "Affected stops:\r\nStop #73758 NE 85th St & 160th Ave NE (WB)\r\nStop #73848 NE 85th St & 154th Ave NE (EB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)\r\n\nFor ST 542 to U-District Station get on/off at:\r\n6:00 AM - 1:00 PM\r\nStop #71960 Redmond Transit Center - Bay 5 (SB)\r\nThe temporary stop on 161th Ave NE, just north of NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)\r\nStop #68496 154th Ave NE & NE 85th St (SB)\r\n\n1:00 PM - 11:00 PM\r\nStop #71960 Redmond Transit Center - Bay 5 (SB)\r\nStop #68809 160th Ave NE & NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)\r\nStop #68496 154th Ave NE & NE 85th St (SB)\r\n\nFor ST 542 to Redmond get on/off at:\r\n6:00 AM - 1:00 PM\r\nThe temporary stop on 154th Ave NE, just north of NE 85th St (NB)\r\nThe temporary stop on 161st Ave NE, just north of the QFC driveway (SB)\r\nThe temporary stop on 161st Ave NE, just south of NE 85th St (SB)\r\nStop #73227 Redmond Transit Center - Bay 1 (EB)\r\n\n1:00 PM - 11:00 PM\r\nThe temporary stop on 154th Ave NE, just north of NE 85th St (NB)\r\nStop #74027 160th Ave NE & NE 90th St (SB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/542/E/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.133942,
+          47.6785355
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91935",
+        "stop_id": "73848",
+        "stop_name": "NE 85th St & 154th Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "ST 542 will be rerouted in Downtown Redmond from 6:00 AM to 11:00 PM on Sat Jul 25 during the Redmond Derby Days.",
+        "description": "Affected stops:\r\nStop #73758 NE 85th St & 160th Ave NE (WB)\r\nStop #73848 NE 85th St & 154th Ave NE (EB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)\r\n\nFor ST 542 to U-District Station get on/off at:\r\n6:00 AM - 1:00 PM\r\nStop #71960 Redmond Transit Center - Bay 5 (SB)\r\nThe temporary stop on 161th Ave NE, just north of NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)\r\nStop #68496 154th Ave NE & NE 85th St (SB)\r\n\n1:00 PM - 11:00 PM\r\nStop #71960 Redmond Transit Center - Bay 5 (SB)\r\nStop #68809 160th Ave NE & NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)\r\nStop #68496 154th Ave NE & NE 85th St (SB)\r\n\nFor ST 542 to Redmond get on/off at:\r\n6:00 AM - 1:00 PM\r\nThe temporary stop on 154th Ave NE, just north of NE 85th St (NB)\r\nThe temporary stop on 161st Ave NE, just north of the QFC driveway (SB)\r\nThe temporary stop on 161st Ave NE, just south of NE 85th St (SB)\r\nStop #73227 Redmond Transit Center - Bay 1 (EB)\r\n\n1:00 PM - 11:00 PM\r\nThe temporary stop on 154th Ave NE, just north of NE 85th St (NB)\r\nStop #74027 160th Ave NE & NE 90th St (SB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/542/E/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.126778,
+          47.6784592
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91935",
+        "stop_id": "73757",
+        "stop_name": "NE 85th St & 161st Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "ST 542 will be rerouted in Downtown Redmond from 6:00 AM to 11:00 PM on Sat Jul 25 during the Redmond Derby Days.",
+        "description": "Affected stops:\r\nStop #73758 NE 85th St & 160th Ave NE (WB)\r\nStop #73848 NE 85th St & 154th Ave NE (EB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)\r\n\nFor ST 542 to U-District Station get on/off at:\r\n6:00 AM - 1:00 PM\r\nStop #71960 Redmond Transit Center - Bay 5 (SB)\r\nThe temporary stop on 161th Ave NE, just north of NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)\r\nStop #68496 154th Ave NE & NE 85th St (SB)\r\n\n1:00 PM - 11:00 PM\r\nStop #71960 Redmond Transit Center - Bay 5 (SB)\r\nStop #68809 160th Ave NE & NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)\r\nStop #68496 154th Ave NE & NE 85th St (SB)\r\n\nFor ST 542 to Redmond get on/off at:\r\n6:00 AM - 1:00 PM\r\nThe temporary stop on 154th Ave NE, just north of NE 85th St (NB)\r\nThe temporary stop on 161st Ave NE, just north of the QFC driveway (SB)\r\nThe temporary stop on 161st Ave NE, just south of NE 85th St (SB)\r\nStop #73227 Redmond Transit Center - Bay 1 (EB)\r\n\n1:00 PM - 11:00 PM\r\nThe temporary stop on 154th Ave NE, just north of NE 85th St (NB)\r\nStop #74027 160th Ave NE & NE 90th St (SB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/542/E/"
       }
     },
     {
@@ -3027,19 +3087,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.211708,
-          47.4509659
+          -122.295418,
+          47.6612778
         ]
       },
       "properties": {
-        "alert_id": "1_85376",
-        "stop_id": "59951",
-        "stop_name": "Talbot Rd S & S 32nd St",
+        "alert_id": "1_88962",
+        "stop_id": "25202",
+        "stop_name": "NE 45th St & University Village",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #59951 Talbot Rd S & S 32nd St (SB) and Stop #60359 Talbot Rd S & S 32nd St (NB) relocated through Sat Aug 1 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+        "header": "Stop #25202 NE 45th St & University Village (WB) relocated from Thu Jun 4 through Fri Aug 28 due to construction.",
+        "description": "Affected routes:\r\n31\r\n32\r\n45\r\n67\r\n\nGet on/off at:\r\nTemporary stop on NE 45th St just east of the University Village main driveway. (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/75083"
       }
     },
     {
@@ -3067,14 +3127,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.303543,
-          47.3170509
+          -122.211708,
+          47.4509659
+        ]
+      },
+      "properties": {
+        "alert_id": "1_85376",
+        "stop_id": "59951",
+        "stop_name": "Talbot Rd S & S 32nd St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #59951 Talbot Rd S & S 32nd St (SB) and Stop #60359 Talbot Rd S & S 32nd St (NB) relocated through Sat Aug 1 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Talbot Rd S just past S 32nd St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30323,
+          47.316452
         ]
       },
       "properties": {
         "alert_id": "1_91817",
-        "stop_id": "85531",
-        "stop_name": "Federal Way Downtown Station - Bay 1",
+        "stop_id": "85541",
+        "stop_name": "Federal Way Downtown Station - Bay 11",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 187 and RapidRide A Line will be rerouted at the Federal Way Downtown Station from 9:00 AM to 12:30 PM on Thu Jul 23 due to construction.",
@@ -3107,19 +3187,79 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.30323,
-          47.316452
+          -122.303543,
+          47.3170509
         ]
       },
       "properties": {
         "alert_id": "1_91817",
-        "stop_id": "85541",
-        "stop_name": "Federal Way Downtown Station - Bay 11",
+        "stop_id": "85531",
+        "stop_name": "Federal Way Downtown Station - Bay 1",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 187 and RapidRide A Line will be rerouted at the Federal Way Downtown Station from 9:00 AM to 12:30 PM on Thu Jul 23 due to construction.",
         "description": "Affected stops:\r\nStop #85531 Federal Way Downtown Station - Bay 1 (SB)\r\nStop #85532 Federal Way Downtown Station - Bay 2 (SB)\r\n\nGet on/off at:\r\nFor Route 187 and RapidRide A Line to Federal Way TC get off at:\r\nStop #85540 Federal Way Downtown Station - Bay 10 (NB)\r\n\nFor Route 187 to Twin Lakes get on at:\r\nStop #85541 Federal Way Downtown Station - Bay 11 (SB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.128212,
+          47.6786156
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91938",
+        "stop_id": "73758",
+        "stop_name": "NE 85th St & 160th Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "ST 545 will be rerouted in Downtown Redmond from 6:00 AM to 11:00 PM on Sat Jul 25 during the Redmond Derby Days.",
+        "description": "Affected stops:\r\nStop #73848 NE 85th St & 154th Ave NE (EB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)\r\nStop #73758 NE 85th St & 160th Ave NE (WB)\r\n\nFor ST 545 to Redmond get on/off at:\r\n6:00 AM - 1:00 PM\r\nThe temporary stop on 154th Ave NE, just north of NE 85th St (NB)\r\nThe temporary stop on 161st Ave NE, just north of the QFC driveway (SB)\r\nThe temporary stop on 161st Ave NE, just south of NE 85th St (SB)\r\nStop #71951 Redmond Transit Center BAY 3 (EB)\r\n\n1:00 PM - 11:00 PM\r\nThe temporary stop on 154th Ave NE, just north of NE 85th St (NB)\r\nStop #74027 160th Ave NE & NE 90th St (SB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)\r\n\nFor ST 545 to Downtown Seattle get on/off at:\r\n6:00 AM - 1:00 PM\r\nStop #71954 Redmond Transit Center BAY 6 (WB)\r\nThe temporary stop on 161th Ave NE, just north of NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)\r\nStop #68496 154th Ave NE & NE 85th St (SB)\r\n\n1:00 PM - 11:00 PM\r\nStop #71954 Redmond Transit Center BAY 6 (WB)\r\nStop #68809 160th Ave NE & NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)\r\nStop #68496 154th Ave NE & NE 85th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/545/E/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.133942,
+          47.6785355
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91938",
+        "stop_id": "73848",
+        "stop_name": "NE 85th St & 154th Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "ST 545 will be rerouted in Downtown Redmond from 6:00 AM to 11:00 PM on Sat Jul 25 during the Redmond Derby Days.",
+        "description": "Affected stops:\r\nStop #73848 NE 85th St & 154th Ave NE (EB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)\r\nStop #73758 NE 85th St & 160th Ave NE (WB)\r\n\nFor ST 545 to Redmond get on/off at:\r\n6:00 AM - 1:00 PM\r\nThe temporary stop on 154th Ave NE, just north of NE 85th St (NB)\r\nThe temporary stop on 161st Ave NE, just north of the QFC driveway (SB)\r\nThe temporary stop on 161st Ave NE, just south of NE 85th St (SB)\r\nStop #71951 Redmond Transit Center BAY 3 (EB)\r\n\n1:00 PM - 11:00 PM\r\nThe temporary stop on 154th Ave NE, just north of NE 85th St (NB)\r\nStop #74027 160th Ave NE & NE 90th St (SB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)\r\n\nFor ST 545 to Downtown Seattle get on/off at:\r\n6:00 AM - 1:00 PM\r\nStop #71954 Redmond Transit Center BAY 6 (WB)\r\nThe temporary stop on 161th Ave NE, just north of NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)\r\nStop #68496 154th Ave NE & NE 85th St (SB)\r\n\n1:00 PM - 11:00 PM\r\nStop #71954 Redmond Transit Center BAY 6 (WB)\r\nStop #68809 160th Ave NE & NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)\r\nStop #68496 154th Ave NE & NE 85th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/545/E/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.126778,
+          47.6784592
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91938",
+        "stop_id": "73757",
+        "stop_name": "NE 85th St & 161st Ave NE",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "ST 545 will be rerouted in Downtown Redmond from 6:00 AM to 11:00 PM on Sat Jul 25 during the Redmond Derby Days.",
+        "description": "Affected stops:\r\nStop #73848 NE 85th St & 154th Ave NE (EB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)\r\nStop #73758 NE 85th St & 160th Ave NE (WB)\r\n\nFor ST 545 to Redmond get on/off at:\r\n6:00 AM - 1:00 PM\r\nThe temporary stop on 154th Ave NE, just north of NE 85th St (NB)\r\nThe temporary stop on 161st Ave NE, just north of the QFC driveway (SB)\r\nThe temporary stop on 161st Ave NE, just south of NE 85th St (SB)\r\nStop #71951 Redmond Transit Center BAY 3 (EB)\r\n\n1:00 PM - 11:00 PM\r\nThe temporary stop on 154th Ave NE, just north of NE 85th St (NB)\r\nStop #74027 160th Ave NE & NE 90th St (SB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)\r\n\nFor ST 545 to Downtown Seattle get on/off at:\r\n6:00 AM - 1:00 PM\r\nStop #71954 Redmond Transit Center BAY 6 (WB)\r\nThe temporary stop on 161th Ave NE, just north of NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)\r\nStop #68496 154th Ave NE & NE 85th St (SB)\r\n\n1:00 PM - 11:00 PM\r\nStop #71954 Redmond Transit Center BAY 6 (WB)\r\nStop #68809 160th Ave NE & NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)\r\nStop #68496 154th Ave NE & NE 85th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/545/E/"
       }
     },
     {
@@ -3147,14 +3287,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.21563,
-          47.4796753
+          -122.217361,
+          47.4836197
         ]
       },
       "properties": {
         "alert_id": "1_91695",
-        "stop_id": "46440",
-        "stop_name": "S 3rd St & Rainier Ave S",
+        "stop_id": "46430",
+        "stop_name": "Rainier Ave S & Hayes Pl SW",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 106 will be rerouted in the downtown Renton area from 4:00 AM to 1:30 PM on Sat Jul 25 during the Renton River Days Parade.",
@@ -3167,14 +3307,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.207756,
-          47.4805031
+          -122.21563,
+          47.4796753
         ]
       },
       "properties": {
         "alert_id": "1_91695",
-        "stop_id": "46464",
-        "stop_name": "Renton Transit Center - Bay 9",
+        "stop_id": "46440",
+        "stop_name": "S 3rd St & Rainier Ave S",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 106 will be rerouted in the downtown Renton area from 4:00 AM to 1:30 PM on Sat Jul 25 during the Renton River Days Parade.",
@@ -3207,39 +3347,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.217361,
-          47.4836197
+          -122.207756,
+          47.4805031
         ]
       },
       "properties": {
         "alert_id": "1_91695",
-        "stop_id": "46430",
-        "stop_name": "Rainier Ave S & Hayes Pl SW",
+        "stop_id": "46464",
+        "stop_name": "Renton Transit Center - Bay 9",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 106 will be rerouted in the downtown Renton area from 4:00 AM to 1:30 PM on Sat Jul 25 during the Renton River Days Parade.",
         "description": "Affected stops:\r\nStop #46464 Renton Transit Center - Bay 9 (NB)\r\nStop #46430 Rainier Ave S & Hayes Pl SW (SB)\r\nStop #46440 S 3rd St & Rainier Ave S (EB)\r\nStop #46450 S 3rd St & Shattuck Ave S (EB)\r\n\nGet on/off at:\r\nFor Route 106 to Downtown Seattle:\r\nStop #46476 Renton Transit Center BAY 1 (WB)\r\n\nFor Route 106 to Renton:\r\nStop #46420 Renton Ave Ext & Hardie Ave SW (EB)\r\nStop #46479 Renton Transit Center BAY 4 (EB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/106/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.127411,
-          47.6790848
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91772",
-        "stop_id": "68809",
-        "stop_name": "160th Ave NE & NE 85th St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "RapidRide B Line will be rerouted in Downtown Redmond from 6:00 AM to 1:00 PM on Sat Jul 25 during the Redmond Derby Days.",
-        "description": "Affected stops:\r\nStop #74027 160th Ave NE & NE 90th St (SB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)\r\nStop #68809 160th Ave NE & NE 85th St (NB)\r\n\nFor RapidRide B Line to Redmond TC get on/off at:\r\nThe temporary stop on 161st Ave NE, just north of the QFC driveway (SB)\r\nThe temporary stop on 161st Ave NE, just south of NE 85th St (SB)\r\nStop #73227 Redmond Transit Center - Bay 1 (EB)\r\n\nFor RapidRide B Line to Bellevue TC get on/off at:\r\nStop #71961 Redmond Transit Center - Bay 4 (WB)\r\nThe temporary stop on 161st Ave NE, just north of NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/672/E"
       }
     },
     {
@@ -3255,6 +3375,26 @@
         "alert_id": "1_91772",
         "stop_id": "74027",
         "stop_name": "160th Ave NE & NE 90th St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "RapidRide B Line will be rerouted in Downtown Redmond from 6:00 AM to 1:00 PM on Sat Jul 25 during the Redmond Derby Days.",
+        "description": "Affected stops:\r\nStop #74027 160th Ave NE & NE 90th St (SB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)\r\nStop #68809 160th Ave NE & NE 85th St (NB)\r\n\nFor RapidRide B Line to Redmond TC get on/off at:\r\nThe temporary stop on 161st Ave NE, just north of the QFC driveway (SB)\r\nThe temporary stop on 161st Ave NE, just south of NE 85th St (SB)\r\nStop #73227 Redmond Transit Center - Bay 1 (EB)\r\n\nFor RapidRide B Line to Bellevue TC get on/off at:\r\nStop #71961 Redmond Transit Center - Bay 4 (WB)\r\nThe temporary stop on 161st Ave NE, just north of NE 85th St (NB)\r\nStop #68805 NE 90th St & 160th Ave NE (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/672/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.127411,
+          47.6790848
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91772",
+        "stop_id": "68809",
+        "stop_name": "160th Ave NE & NE 85th St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "RapidRide B Line will be rerouted in Downtown Redmond from 6:00 AM to 1:00 PM on Sat Jul 25 during the Redmond Derby Days.",
@@ -3287,14 +3427,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.204155,
-          47.4780731
+          -122.202896,
+          47.4807205
         ]
       },
       "properties": {
         "alert_id": "1_91693",
-        "stop_id": "46468",
-        "stop_name": "Main Ave S & S 4th St",
+        "stop_id": "46472",
+        "stop_name": "Mill Ave S & Houser Way S",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 148 will be rerouted in the downtown Renton area from 4:00 AM to 1:30PM on Sat Jul 25 during the Renton River Days Parade.",
@@ -3307,14 +3447,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202896,
-          47.4807205
+          -122.204155,
+          47.4780731
         ]
       },
       "properties": {
         "alert_id": "1_91693",
-        "stop_id": "46472",
-        "stop_name": "Mill Ave S & Houser Way S",
+        "stop_id": "46468",
+        "stop_name": "Main Ave S & S 4th St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 148 will be rerouted in the downtown Renton area from 4:00 AM to 1:30PM on Sat Jul 25 during the Renton River Days Parade.",
