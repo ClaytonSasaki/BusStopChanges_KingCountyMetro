@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-30T17:03:18.195833+00:00",
+  "generated_at": "2026-07-30T18:42:15.611690+00:00",
   "features": [
     {
       "type": "Feature",
@@ -27,13 +27,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.222198,
-          47.3451881
+          -122.222389,
+          47.3439255
         ]
       },
       "properties": {
         "alert_id": "1_89529",
-        "stop_id": "57920",
+        "stop_id": "58235",
         "stop_name": "Auburn Way N & 42nd St NE",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -47,13 +47,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.222389,
-          47.3439255
+          -122.222198,
+          47.3451881
         ]
       },
       "properties": {
         "alert_id": "1_89529",
-        "stop_id": "58235",
+        "stop_id": "57920",
         "stop_name": "Auburn Way N & 42nd St NE",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -147,6 +147,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.356552,
+          47.624649
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91926",
+        "stop_id": "2370",
+        "stop_name": "Mercer St & Queen Anne Ave N",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 1 will be rerouted off Mercer St between 1st Ave N and 2nd Ave W from Sat Aug 1 at 7:00 AM to Sun Aug 2 at 5:00 PM due to construction.",
+        "description": "Affected stops:\r\nStop #2370 Mercer St & Queen Anne Ave N (WB)\r\n\nGet on/off at:\r\nStop #2360 1st Ave N & Republican St (NB)\r\nStop #2690 1st Ave N & Mercer St (NB)\r\nStop #2390 2nd Ave W & W Roy St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/1/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.248703,
           47.7581787
         ]
@@ -160,26 +180,6 @@
         "header": "Route 331 to Aurora Village/Kenmore is rerouted off NE Bothell Way between 68th Ave NE and 73rd Ave NE through Fri Aug 28 due to construction.",
         "description": "Affected stops:\r\nStop #76870 NE Bothell Way & 68th Ave NE (EB)\r\n\nGet on/off at:\r\nStop #70022 68th Ave NE & NE Bothell Way (NB)\r\nStop #76527 NE 181st St & 73rd Ave NE (EB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/331/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.197174,
-          47.4078369
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86770",
-        "stop_id": "57370",
-        "stop_name": "108th Ave SE & SE 217th St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57370 108th Ave SE & SE 217th St (SB) and Stop #57190 108th Ave SE & SE 217th St (NB) relocated from Mon Apr 20 through Tue Aug 11 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57360 108th Ave SE & SE 212th St (SB)\r\nThe temporary stop on 108th Ave SE just north of SE 220th St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57185 108th Ave SE & SE 220th Pl (NB)\r\nThe temporary stop on 108th Ave SE just south of SE 220th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -207,19 +207,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.249084,
-          47.4972382
+          -122.197174,
+          47.4078369
         ]
       },
       "properties": {
-        "alert_id": "1_91686",
-        "stop_id": "55371",
-        "stop_name": "68th Ave S & S 118th St",
+        "alert_id": "1_86770",
+        "stop_id": "57370",
+        "stop_name": "108th Ave SE & SE 217th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #55371 68th Ave S & S 118th St (SB) and Stop #55378 68th Ave S & S 118th St (NB) relocated from Mon Jul 20 through Mon Oct 26.",
-        "description": "Affected routes:\r\n107\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nThe temporary stop on 68th Ave S just south of the affected stop (SB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55378 68th Ave S just south of the affected stop (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/N"
+        "header": "Stop #57370 108th Ave SE & SE 217th St (SB) and Stop #57190 108th Ave SE & SE 217th St (NB) relocated from Mon Apr 20 through Tue Aug 11 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57360 108th Ave SE & SE 212th St (SB)\r\nThe temporary stop on 108th Ave SE just north of SE 220th St (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57185 108th Ave SE & SE 220th Pl (NB)\r\nThe temporary stop on 108th Ave SE just south of SE 220th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -247,19 +247,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335213,
-          47.6070518
+          -122.249084,
+          47.4972382
         ]
       },
       "properties": {
-        "alert_id": "1_92215",
-        "stop_id": "558",
-        "stop_name": "3rd Ave & Seneca St",
-        "alert_type": "Stop Closure",
+        "alert_id": "1_91686",
+        "stop_id": "55371",
+        "stop_name": "68th Ave S & S 118th St",
+        "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
-        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+        "header": "Stop #55371 68th Ave S & S 118th St (SB) and Stop #55378 68th Ave S & S 118th St (NB) relocated from Mon Jul 20 through Mon Oct 26.",
+        "description": "Affected routes:\r\n107\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nThe temporary stop on 68th Ave S just south of the affected stop (SB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nStop #55378 68th Ave S just south of the affected stop (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/N"
       }
     },
     {
@@ -267,239 +267,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335213,
-          47.6070518
+          -122.248947,
+          47.4939957
         ]
       },
       "properties": {
-        "alert_id": "1_92215",
-        "stop_id": "558",
-        "stop_name": "3rd Ave & Seneca St",
-        "alert_type": "Stop Closure",
+        "alert_id": "1_91687",
+        "stop_id": "55376",
+        "stop_name": "68th Ave S & S 122nd St",
+        "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
-        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335213,
-          47.6070518
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92215",
-        "stop_id": "558",
-        "stop_name": "3rd Ave & Seneca St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
-        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335213,
-          47.6070518
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92215",
-        "stop_id": "558",
-        "stop_name": "3rd Ave & Seneca St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
-        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335213,
-          47.6070518
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92215",
-        "stop_id": "558",
-        "stop_name": "3rd Ave & Seneca St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
-        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335213,
-          47.6070518
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92215",
-        "stop_id": "558",
-        "stop_name": "3rd Ave & Seneca St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
-        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335213,
-          47.6070518
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92215",
-        "stop_id": "558",
-        "stop_name": "3rd Ave & Seneca St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
-        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335213,
-          47.6070518
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92215",
-        "stop_id": "558",
-        "stop_name": "3rd Ave & Seneca St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
-        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335213,
-          47.6070518
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92215",
-        "stop_id": "558",
-        "stop_name": "3rd Ave & Seneca St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
-        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335213,
-          47.6070518
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92215",
-        "stop_id": "558",
-        "stop_name": "3rd Ave & Seneca St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
-        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335213,
-          47.6070518
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92215",
-        "stop_id": "558",
-        "stop_name": "3rd Ave & Seneca St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
-        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335213,
-          47.6070518
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92215",
-        "stop_id": "558",
-        "stop_name": "3rd Ave & Seneca St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
-        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335213,
-          47.6070518
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92215",
-        "stop_id": "558",
-        "stop_name": "3rd Ave & Seneca St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
-        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+        "header": "Stop #55373 68th Ave S & S 122nd St (SB) and Stop #55376 68th Ave S & S 122nd St (NB) relocated from Mon Jul 20 through Mon Oct 26 due to construction.",
+        "description": "Affected routes:\r\n107\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nThe temporary stop on 68th Ave S just south of the affected stop (SB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nThe temporary stop on 68th Ave S just north of the affected stop (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/N"
       }
     },
     {
@@ -527,19 +307,259 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.248947,
-          47.4939957
+          -122.335213,
+          47.6070518
         ]
       },
       "properties": {
-        "alert_id": "1_91687",
-        "stop_id": "55376",
-        "stop_name": "68th Ave S & S 122nd St",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_92215",
+        "stop_id": "558",
+        "stop_name": "3rd Ave & Seneca St",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #55373 68th Ave S & S 122nd St (SB) and Stop #55376 68th Ave S & S 122nd St (NB) relocated from Mon Jul 20 through Mon Oct 26 due to construction.",
-        "description": "Affected routes:\r\n107\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nThe temporary stop on 68th Ave S just south of the affected stop (SB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nThe temporary stop on 68th Ave S just north of the affected stop (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/N"
+        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
+        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335213,
+          47.6070518
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92215",
+        "stop_id": "558",
+        "stop_name": "3rd Ave & Seneca St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
+        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335213,
+          47.6070518
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92215",
+        "stop_id": "558",
+        "stop_name": "3rd Ave & Seneca St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
+        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335213,
+          47.6070518
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92215",
+        "stop_id": "558",
+        "stop_name": "3rd Ave & Seneca St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
+        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335213,
+          47.6070518
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92215",
+        "stop_id": "558",
+        "stop_name": "3rd Ave & Seneca St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
+        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335213,
+          47.6070518
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92215",
+        "stop_id": "558",
+        "stop_name": "3rd Ave & Seneca St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
+        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335213,
+          47.6070518
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92215",
+        "stop_id": "558",
+        "stop_name": "3rd Ave & Seneca St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
+        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335213,
+          47.6070518
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92215",
+        "stop_id": "558",
+        "stop_name": "3rd Ave & Seneca St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
+        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335213,
+          47.6070518
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92215",
+        "stop_id": "558",
+        "stop_name": "3rd Ave & Seneca St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
+        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335213,
+          47.6070518
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92215",
+        "stop_id": "558",
+        "stop_name": "3rd Ave & Seneca St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
+        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335213,
+          47.6070518
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92215",
+        "stop_id": "558",
+        "stop_name": "3rd Ave & Seneca St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
+        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335213,
+          47.6070518
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92215",
+        "stop_id": "558",
+        "stop_name": "3rd Ave & Seneca St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
+        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335213,
+          47.6070518
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92215",
+        "stop_id": "558",
+        "stop_name": "3rd Ave & Seneca St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #558 3rd Ave & Seneca St (NB) closed from Thu Jul 30 to Wed Aug 5 7:00 AM to 5:00 PM weekdays only due to construction.",
+        "description": "Affected routes:\r\n1\r\n2\r\n3\r\n4\r\n7\r\n13\r\n14\r\n36\r\n70\r\n125\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n\nGet on/off at:\r\nStop #538 3rd Ave & Columbia St (NB)\r\nStop #575 3rd Ave & Pike St (NB)\r\n\nFor Route 125 and RapidRide C Line to Downtown Seattle:\r\nStop #539 3rd Ave & Marion St (NB)\r\nStop #575 3rd Ave & Pike St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/905"
       }
     },
     {
@@ -587,126 +607,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.337959,
-          47.6097908
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92213",
-        "stop_id": "431",
-        "stop_name": "3rd Ave & Pike St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #431 3rd Ave & Pike St (SB) closed Thu Jul 30 to Wed Aug 5 from 7:00 AM to 5:00 PM, weekdays only, due to construction.",
-        "description": "Affected routes:\r\n21\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n56\r\n57\r\n\nGet on/off at:\r\nStop #420 3rd Ave & Virginia St (SB)\r\nStop #468 3rd Ave & Seneca St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/20049"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.337959,
-          47.6097908
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92213",
-        "stop_id": "431",
-        "stop_name": "3rd Ave & Pike St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #431 3rd Ave & Pike St (SB) closed Thu Jul 30 to Wed Aug 5 from 7:00 AM to 5:00 PM, weekdays only, due to construction.",
-        "description": "Affected routes:\r\n21\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n56\r\n57\r\n\nGet on/off at:\r\nStop #420 3rd Ave & Virginia St (SB)\r\nStop #468 3rd Ave & Seneca St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/20049"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.337959,
-          47.6097908
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92213",
-        "stop_id": "431",
-        "stop_name": "3rd Ave & Pike St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #431 3rd Ave & Pike St (SB) closed Thu Jul 30 to Wed Aug 5 from 7:00 AM to 5:00 PM, weekdays only, due to construction.",
-        "description": "Affected routes:\r\n21\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n56\r\n57\r\n\nGet on/off at:\r\nStop #420 3rd Ave & Virginia St (SB)\r\nStop #468 3rd Ave & Seneca St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/20049"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.337959,
-          47.6097908
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92213",
-        "stop_id": "431",
-        "stop_name": "3rd Ave & Pike St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #431 3rd Ave & Pike St (SB) closed Thu Jul 30 to Wed Aug 5 from 7:00 AM to 5:00 PM, weekdays only, due to construction.",
-        "description": "Affected routes:\r\n21\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n56\r\n57\r\n\nGet on/off at:\r\nStop #420 3rd Ave & Virginia St (SB)\r\nStop #468 3rd Ave & Seneca St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/20049"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.337959,
-          47.6097908
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92213",
-        "stop_id": "431",
-        "stop_name": "3rd Ave & Pike St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #431 3rd Ave & Pike St (SB) closed Thu Jul 30 to Wed Aug 5 from 7:00 AM to 5:00 PM, weekdays only, due to construction.",
-        "description": "Affected routes:\r\n21\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n56\r\n57\r\n\nGet on/off at:\r\nStop #420 3rd Ave & Virginia St (SB)\r\nStop #468 3rd Ave & Seneca St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/20049"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.337959,
-          47.6097908
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92213",
-        "stop_id": "431",
-        "stop_name": "3rd Ave & Pike St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #431 3rd Ave & Pike St (SB) closed Thu Jul 30 to Wed Aug 5 from 7:00 AM to 5:00 PM, weekdays only, due to construction.",
-        "description": "Affected routes:\r\n21\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n56\r\n57\r\n\nGet on/off at:\r\nStop #420 3rd Ave & Virginia St (SB)\r\nStop #468 3rd Ave & Seneca St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/20049"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.334229,
           47.6222763
         ]
@@ -780,6 +680,126 @@
         "header": "Stop #10305 Fairview Ave N & Harrison St (NB) relocated from Mon Jul 20 to Mon Aug 10 at 12:00 AM due to construction.",
         "description": "Affected routes:\r\n70\r\n256\r\n303\r\n322\r\n\nGet on/off:\r\nThe temporary stop on Fairview Ave N just south of Harrison St (NB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337959,
+          47.6097908
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92213",
+        "stop_id": "431",
+        "stop_name": "3rd Ave & Pike St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #431 3rd Ave & Pike St (SB) closed Thu Jul 30 to Wed Aug 5 from 7:00 AM to 5:00 PM, weekdays only, due to construction.",
+        "description": "Affected routes:\r\n21\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n56\r\n57\r\n\nGet on/off at:\r\nStop #420 3rd Ave & Virginia St (SB)\r\nStop #468 3rd Ave & Seneca St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/20049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337959,
+          47.6097908
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92213",
+        "stop_id": "431",
+        "stop_name": "3rd Ave & Pike St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #431 3rd Ave & Pike St (SB) closed Thu Jul 30 to Wed Aug 5 from 7:00 AM to 5:00 PM, weekdays only, due to construction.",
+        "description": "Affected routes:\r\n21\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n56\r\n57\r\n\nGet on/off at:\r\nStop #420 3rd Ave & Virginia St (SB)\r\nStop #468 3rd Ave & Seneca St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/20049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337959,
+          47.6097908
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92213",
+        "stop_id": "431",
+        "stop_name": "3rd Ave & Pike St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #431 3rd Ave & Pike St (SB) closed Thu Jul 30 to Wed Aug 5 from 7:00 AM to 5:00 PM, weekdays only, due to construction.",
+        "description": "Affected routes:\r\n21\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n56\r\n57\r\n\nGet on/off at:\r\nStop #420 3rd Ave & Virginia St (SB)\r\nStop #468 3rd Ave & Seneca St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/20049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337959,
+          47.6097908
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92213",
+        "stop_id": "431",
+        "stop_name": "3rd Ave & Pike St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #431 3rd Ave & Pike St (SB) closed Thu Jul 30 to Wed Aug 5 from 7:00 AM to 5:00 PM, weekdays only, due to construction.",
+        "description": "Affected routes:\r\n21\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n56\r\n57\r\n\nGet on/off at:\r\nStop #420 3rd Ave & Virginia St (SB)\r\nStop #468 3rd Ave & Seneca St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/20049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337959,
+          47.6097908
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92213",
+        "stop_id": "431",
+        "stop_name": "3rd Ave & Pike St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #431 3rd Ave & Pike St (SB) closed Thu Jul 30 to Wed Aug 5 from 7:00 AM to 5:00 PM, weekdays only, due to construction.",
+        "description": "Affected routes:\r\n21\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n56\r\n57\r\n\nGet on/off at:\r\nStop #420 3rd Ave & Virginia St (SB)\r\nStop #468 3rd Ave & Seneca St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/20049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337959,
+          47.6097908
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92213",
+        "stop_id": "431",
+        "stop_name": "3rd Ave & Pike St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #431 3rd Ave & Pike St (SB) closed Thu Jul 30 to Wed Aug 5 from 7:00 AM to 5:00 PM, weekdays only, due to construction.",
+        "description": "Affected routes:\r\n21\r\nRapidRide C Line\r\nRapidRide D Line\r\nRapidRide E Line\r\n56\r\n57\r\n\nGet on/off at:\r\nStop #420 3rd Ave & Virginia St (SB)\r\nStop #468 3rd Ave & Seneca St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/20049"
       }
     },
     {
@@ -807,59 +827,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.19622,
-          47.6720581
+          -122.376312,
+          47.6689072
         ]
       },
       "properties": {
-        "alert_id": "1_92216",
-        "stop_id": "72163",
-        "stop_name": "6th St S & 5th Ave S",
+        "alert_id": "1_92015",
+        "stop_id": "13721",
+        "stop_name": "15th Ave NW & NW Market St",
         "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #72163 6th St S & 5th Ave S (NB) closed from 7:00 AM to 5:00 PM on Thu Jul 30 due to construction.",
-        "description": "Affected routes:\r\n245\r\n255\r\n\nGet on/off at:\r\nStop #72161 6th St S & NE 68th St (NB)\r\nStop #72164 6th St S & 1st Ave S (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/1130"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.19622,
-          47.6720581
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92216",
-        "stop_id": "72163",
-        "stop_name": "6th St S & 5th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #72163 6th St S & 5th Ave S (NB) closed from 7:00 AM to 5:00 PM on Thu Jul 30 due to construction.",
-        "description": "Affected routes:\r\n245\r\n255\r\n\nGet on/off at:\r\nStop #72161 6th St S & NE 68th St (NB)\r\nStop #72164 6th St S & 1st Ave S (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/1130"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.252289,
-          47.4921532
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91688",
-        "stop_id": "55375",
-        "stop_name": "S 124th St & 67th Ave S",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #55375 S 124th St & 67th Ave S (WB) and Stop #55374 S 124th St & 67th Ave S (EB) relocated from Mon Jul 20 through Mon Oct 26 due to construction.",
-        "description": "Affected routes:\r\n107\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nThe temporary stop on S 124th St just east of the affected stop (EB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nThe temporary stop on S 124th St just east of the affected stop (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/N"
+        "status": "upcoming",
+        "header": "Stop #13721 15th Ave NW & NW Market St (SB) closed from 7:00 AM to 12:00 PM on Sat Aug 1 due to construction.",
+        "description": "Affected routes:\r\nRapidRide D Line\r\n\nGet on/off at:\r\nStop #13700 15th Ave NW & NW 60th St (SB)\r\nThe temporary stop on 15th Ave NW, just north of NW 54th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/12138"
       }
     },
     {
@@ -874,6 +854,26 @@
       "properties": {
         "alert_id": "1_91688",
         "stop_id": "55374",
+        "stop_name": "S 124th St & 67th Ave S",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #55375 S 124th St & 67th Ave S (WB) and Stop #55374 S 124th St & 67th Ave S (EB) relocated from Mon Jul 20 through Mon Oct 26 due to construction.",
+        "description": "Affected routes:\r\n107\r\n\nFor Route 107 to Beacon Hill Station get on/off at:\r\nThe temporary stop on S 124th St just east of the affected stop (EB)\r\n\nFor Route 107 to Renton TC get on/off at:\r\nThe temporary stop on S 124th St just east of the affected stop (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/107/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.252289,
+          47.4921532
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91688",
+        "stop_id": "55375",
         "stop_name": "S 124th St & 67th Ave S",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -907,6 +907,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.19622,
+          47.6720581
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92216",
+        "stop_id": "72163",
+        "stop_name": "6th St S & 5th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #72163 6th St S & 5th Ave S (NB) closed from 7:00 AM to 5:00 PM on Thu Jul 30 due to construction.",
+        "description": "Affected routes:\r\n245\r\n255\r\n\nGet on/off at:\r\nStop #72161 6th St S & NE 68th St (NB)\r\nStop #72164 6th St S & 1st Ave S (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/1130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.19622,
+          47.6720581
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92216",
+        "stop_id": "72163",
+        "stop_name": "6th St S & 5th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #72163 6th St S & 5th Ave S (NB) closed from 7:00 AM to 5:00 PM on Thu Jul 30 due to construction.",
+        "description": "Affected routes:\r\n245\r\n255\r\n\nGet on/off at:\r\nStop #72161 6th St S & NE 68th St (NB)\r\nStop #72164 6th St S & 1st Ave S (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/1130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.135414,
           47.5793343
         ]
@@ -927,46 +967,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.402191,
-          47.6390114
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91920",
-        "stop_id": "20940",
-        "stop_name": "Viewmont Way W & 35th Ave W",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 24 will be rerouted in Magnolia from 7:00 AM to 2:00 PM on Sat Aug 1 due to the Magnolia Summerfest Parade.",
-        "description": "Affected stops:\r\nStop #24760 34th Ave W & W Barrett St (SB)\r\nStop #24770 34th Ave W & W Armour St (SB)\r\nStop #24780 34th Ave W & W Raye St (SB)\r\nStop #24250 34th Ave W & W McGraw St (SB)\r\nStop #20940 Viewmont Way W & 35th Ave W (WB)\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24260 34th Ave W & W McGraw St (NB)\r\nStop #24270 34th Ave W & W Raye St (NB)\r\nStop #24280 34th Ave W & W Armour St (NB)\r\n\nFor Route 24 to Magnolia get on/off at:\r\nThe temporary stop on 34th Ave W, just north of W Barrett St (SB)\r\nThe temporary stop on 35th Ave W, just north of W McGraw St (SB)\r\nStop #20950 Viewmont Way W & Edgemont Pl W (WB)\r\n\nFor Route 24 to Downtown Seattle get on/off at:\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24290 34th Ave W & W Barrett St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/24/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.400864,
-          47.6430626
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91920",
-        "stop_id": "24270",
-        "stop_name": "34th Ave W & W Raye St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 24 will be rerouted in Magnolia from 7:00 AM to 2:00 PM on Sat Aug 1 due to the Magnolia Summerfest Parade.",
-        "description": "Affected stops:\r\nStop #24760 34th Ave W & W Barrett St (SB)\r\nStop #24770 34th Ave W & W Armour St (SB)\r\nStop #24780 34th Ave W & W Raye St (SB)\r\nStop #24250 34th Ave W & W McGraw St (SB)\r\nStop #20940 Viewmont Way W & 35th Ave W (WB)\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24260 34th Ave W & W McGraw St (NB)\r\nStop #24270 34th Ave W & W Raye St (NB)\r\nStop #24280 34th Ave W & W Armour St (NB)\r\n\nFor Route 24 to Magnolia get on/off at:\r\nThe temporary stop on 34th Ave W, just north of W Barrett St (SB)\r\nThe temporary stop on 35th Ave W, just north of W McGraw St (SB)\r\nStop #20950 Viewmont Way W & Edgemont Pl W (WB)\r\n\nFor Route 24 to Downtown Seattle get on/off at:\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24290 34th Ave W & W Barrett St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/24/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.40107,
           47.6429825
         ]
@@ -975,46 +975,6 @@
         "alert_id": "1_91920",
         "stop_id": "24780",
         "stop_name": "34th Ave W & W Raye St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 24 will be rerouted in Magnolia from 7:00 AM to 2:00 PM on Sat Aug 1 due to the Magnolia Summerfest Parade.",
-        "description": "Affected stops:\r\nStop #24760 34th Ave W & W Barrett St (SB)\r\nStop #24770 34th Ave W & W Armour St (SB)\r\nStop #24780 34th Ave W & W Raye St (SB)\r\nStop #24250 34th Ave W & W McGraw St (SB)\r\nStop #20940 Viewmont Way W & 35th Ave W (WB)\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24260 34th Ave W & W McGraw St (NB)\r\nStop #24270 34th Ave W & W Raye St (NB)\r\nStop #24280 34th Ave W & W Armour St (NB)\r\n\nFor Route 24 to Magnolia get on/off at:\r\nThe temporary stop on 34th Ave W, just north of W Barrett St (SB)\r\nThe temporary stop on 35th Ave W, just north of W McGraw St (SB)\r\nStop #20950 Viewmont Way W & Edgemont Pl W (WB)\r\n\nFor Route 24 to Downtown Seattle get on/off at:\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24290 34th Ave W & W Barrett St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/24/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.401039,
-          47.6466255
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91920",
-        "stop_id": "24760",
-        "stop_name": "34th Ave W & W Barrett St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 24 will be rerouted in Magnolia from 7:00 AM to 2:00 PM on Sat Aug 1 due to the Magnolia Summerfest Parade.",
-        "description": "Affected stops:\r\nStop #24760 34th Ave W & W Barrett St (SB)\r\nStop #24770 34th Ave W & W Armour St (SB)\r\nStop #24780 34th Ave W & W Raye St (SB)\r\nStop #24250 34th Ave W & W McGraw St (SB)\r\nStop #20940 Viewmont Way W & 35th Ave W (WB)\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24260 34th Ave W & W McGraw St (NB)\r\nStop #24270 34th Ave W & W Raye St (NB)\r\nStop #24280 34th Ave W & W Armour St (NB)\r\n\nFor Route 24 to Magnolia get on/off at:\r\nThe temporary stop on 34th Ave W, just north of W Barrett St (SB)\r\nThe temporary stop on 35th Ave W, just north of W McGraw St (SB)\r\nStop #20950 Viewmont Way W & Edgemont Pl W (WB)\r\n\nFor Route 24 to Downtown Seattle get on/off at:\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24290 34th Ave W & W Barrett St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/24/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.402267,
-          47.6393433
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91920",
-        "stop_id": "20650",
-        "stop_name": "35th Ave W & W Mcgraw St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 24 will be rerouted in Magnolia from 7:00 AM to 2:00 PM on Sat Aug 1 due to the Magnolia Summerfest Parade.",
@@ -1067,6 +1027,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.400902,
+          47.6398048
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91920",
+        "stop_id": "24260",
+        "stop_name": "34th Ave W & W Mcgraw St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 24 will be rerouted in Magnolia from 7:00 AM to 2:00 PM on Sat Aug 1 due to the Magnolia Summerfest Parade.",
+        "description": "Affected stops:\r\nStop #24760 34th Ave W & W Barrett St (SB)\r\nStop #24770 34th Ave W & W Armour St (SB)\r\nStop #24780 34th Ave W & W Raye St (SB)\r\nStop #24250 34th Ave W & W McGraw St (SB)\r\nStop #20940 Viewmont Way W & 35th Ave W (WB)\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24260 34th Ave W & W McGraw St (NB)\r\nStop #24270 34th Ave W & W Raye St (NB)\r\nStop #24280 34th Ave W & W Armour St (NB)\r\n\nFor Route 24 to Magnolia get on/off at:\r\nThe temporary stop on 34th Ave W, just north of W Barrett St (SB)\r\nThe temporary stop on 35th Ave W, just north of W McGraw St (SB)\r\nStop #20950 Viewmont Way W & Edgemont Pl W (WB)\r\n\nFor Route 24 to Downtown Seattle get on/off at:\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24290 34th Ave W & W Barrett St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/24/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.400864,
+          47.6430626
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91920",
+        "stop_id": "24270",
+        "stop_name": "34th Ave W & W Raye St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 24 will be rerouted in Magnolia from 7:00 AM to 2:00 PM on Sat Aug 1 due to the Magnolia Summerfest Parade.",
+        "description": "Affected stops:\r\nStop #24760 34th Ave W & W Barrett St (SB)\r\nStop #24770 34th Ave W & W Armour St (SB)\r\nStop #24780 34th Ave W & W Raye St (SB)\r\nStop #24250 34th Ave W & W McGraw St (SB)\r\nStop #20940 Viewmont Way W & 35th Ave W (WB)\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24260 34th Ave W & W McGraw St (NB)\r\nStop #24270 34th Ave W & W Raye St (NB)\r\nStop #24280 34th Ave W & W Armour St (NB)\r\n\nFor Route 24 to Magnolia get on/off at:\r\nThe temporary stop on 34th Ave W, just north of W Barrett St (SB)\r\nThe temporary stop on 35th Ave W, just north of W McGraw St (SB)\r\nStop #20950 Viewmont Way W & Edgemont Pl W (WB)\r\n\nFor Route 24 to Downtown Seattle get on/off at:\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24290 34th Ave W & W Barrett St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/24/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401039,
+          47.6466255
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91920",
+        "stop_id": "24760",
+        "stop_name": "34th Ave W & W Barrett St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 24 will be rerouted in Magnolia from 7:00 AM to 2:00 PM on Sat Aug 1 due to the Magnolia Summerfest Parade.",
+        "description": "Affected stops:\r\nStop #24760 34th Ave W & W Barrett St (SB)\r\nStop #24770 34th Ave W & W Armour St (SB)\r\nStop #24780 34th Ave W & W Raye St (SB)\r\nStop #24250 34th Ave W & W McGraw St (SB)\r\nStop #20940 Viewmont Way W & 35th Ave W (WB)\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24260 34th Ave W & W McGraw St (NB)\r\nStop #24270 34th Ave W & W Raye St (NB)\r\nStop #24280 34th Ave W & W Armour St (NB)\r\n\nFor Route 24 to Magnolia get on/off at:\r\nThe temporary stop on 34th Ave W, just north of W Barrett St (SB)\r\nThe temporary stop on 35th Ave W, just north of W McGraw St (SB)\r\nStop #20950 Viewmont Way W & Edgemont Pl W (WB)\r\n\nFor Route 24 to Downtown Seattle get on/off at:\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24290 34th Ave W & W Barrett St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/24/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.401093,
           47.6399498
         ]
@@ -1087,14 +1107,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.400902,
-          47.6398048
+          -122.402267,
+          47.6393433
         ]
       },
       "properties": {
         "alert_id": "1_91920",
-        "stop_id": "24260",
-        "stop_name": "34th Ave W & W Mcgraw St",
+        "stop_id": "20650",
+        "stop_name": "35th Ave W & W Mcgraw St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 24 will be rerouted in Magnolia from 7:00 AM to 2:00 PM on Sat Aug 1 due to the Magnolia Summerfest Parade.",
+        "description": "Affected stops:\r\nStop #24760 34th Ave W & W Barrett St (SB)\r\nStop #24770 34th Ave W & W Armour St (SB)\r\nStop #24780 34th Ave W & W Raye St (SB)\r\nStop #24250 34th Ave W & W McGraw St (SB)\r\nStop #20940 Viewmont Way W & 35th Ave W (WB)\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24260 34th Ave W & W McGraw St (NB)\r\nStop #24270 34th Ave W & W Raye St (NB)\r\nStop #24280 34th Ave W & W Armour St (NB)\r\n\nFor Route 24 to Magnolia get on/off at:\r\nThe temporary stop on 34th Ave W, just north of W Barrett St (SB)\r\nThe temporary stop on 35th Ave W, just north of W McGraw St (SB)\r\nStop #20950 Viewmont Way W & Edgemont Pl W (WB)\r\n\nFor Route 24 to Downtown Seattle get on/off at:\r\nStop #20650 35th Ave W & W McGraw St (NB)\r\nStop #24290 34th Ave W & W Barrett St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/24/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.402191,
+          47.6390114
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91920",
+        "stop_id": "20940",
+        "stop_name": "Viewmont Way W & 35th Ave W",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 24 will be rerouted in Magnolia from 7:00 AM to 2:00 PM on Sat Aug 1 due to the Magnolia Summerfest Parade.",
@@ -1127,46 +1167,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.133942,
-          47.6785355
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92010",
-        "stop_id": "73848",
-        "stop_name": "NE 85th St & 154th Ave NE",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #73848 NE 85th St & 154th Ave NE (EB) closed from Mon Jul 27 to Thu Aug 13 from 7:30 AM to 3:00 PM daily due to construction.",
-        "description": "Affected routes:\r\nST 545\r\nST 542\r\n\nGet on/off at:\r\nThe temporary stop on 154th Ave NE, just south of NE 85th St (NB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.133942,
-          47.6785355
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92010",
-        "stop_id": "73848",
-        "stop_name": "NE 85th St & 154th Ave NE",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #73848 NE 85th St & 154th Ave NE (EB) closed from Mon Jul 27 to Thu Aug 13 from 7:30 AM to 3:00 PM daily due to construction.",
-        "description": "Affected routes:\r\nST 545\r\nST 542\r\n\nGet on/off at:\r\nThe temporary stop on 154th Ave NE, just south of NE 85th St (NB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.296936,
           47.7338562
         ]
@@ -1180,6 +1180,46 @@
         "header": "Stop #82120 NE 145th St & 30th Ave NE (WB) closed from Mon Jul 6 until further notice due to construction.",
         "description": "Affected routes:\r\n65\r\n\nGet on/off at:\r\nStop #38730 30th Ave NE & NE 143rd St (NB)\r\nStop #82130 NE 145th St & 27th Ave NE (WB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/65/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.133942,
+          47.6785355
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92010",
+        "stop_id": "73848",
+        "stop_name": "NE 85th St & 154th Ave NE",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #73848 NE 85th St & 154th Ave NE (EB) closed from Mon Jul 27 to Thu Aug 13 from 7:30 AM to 3:00 PM daily due to construction.",
+        "description": "Affected routes:\r\nST 545\r\nST 542\r\n\nGet on/off at:\r\nThe temporary stop on 154th Ave NE, just south of NE 85th St (NB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.133942,
+          47.6785355
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92010",
+        "stop_id": "73848",
+        "stop_name": "NE 85th St & 154th Ave NE",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #73848 NE 85th St & 154th Ave NE (EB) closed from Mon Jul 27 to Thu Aug 13 from 7:30 AM to 3:00 PM daily due to construction.",
+        "description": "Affected routes:\r\nST 545\r\nST 542\r\n\nGet on/off at:\r\nThe temporary stop on 154th Ave NE, just south of NE 85th St (NB)\r\nStop #73757 NE 85th St & 161st Ave NE (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
@@ -1207,46 +1247,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.233917,
-          47.3865814
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88508",
-        "stop_id": "80600",
-        "stop_name": "W James St & 1st Ave N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 150 and 183 will be rerouted and will not serve stop #80600 W James St & 4th Ave N (EB) Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM nightly, due to construction.",
-        "description": "Affected stops:\r\nStop #80600 W James St & 1st Ave N (EB)\r\n\nGet on/off at:\r\nStop #80590 W James St & 4th Ave N (EB)\r\nStop #57548 Kent Sounder Station BAY 8(SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.233917,
-          47.3865814
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88508",
-        "stop_id": "80600",
-        "stop_name": "W James St & 1st Ave N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 150 and 183 will be rerouted and will not serve stop #80600 W James St & 4th Ave N (EB) Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM nightly, due to construction.",
-        "description": "Affected stops:\r\nStop #80600 W James St & 1st Ave N (EB)\r\n\nGet on/off at:\r\nStop #80590 W James St & 4th Ave N (EB)\r\nStop #57548 Kent Sounder Station BAY 8(SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.202103,
           47.3913116
         ]
@@ -1267,19 +1267,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.311783,
-          47.3866272
+          -122.233917,
+          47.3865814
         ]
       },
       "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48920",
-        "stop_name": "S 240th St & 17th Ave S",
-        "alert_type": "Stop Closure",
+        "alert_id": "1_88508",
+        "stop_id": "80600",
+        "stop_name": "W James St & 1st Ave N",
+        "alert_type": "Route Change",
         "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+        "header": "Routes 150 and 183 will be rerouted and will not serve stop #80600 W James St & 4th Ave N (EB) Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM nightly, due to construction.",
+        "description": "Affected stops:\r\nStop #80600 W James St & 1st Ave N (EB)\r\n\nGet on/off at:\r\nStop #80590 W James St & 4th Ave N (EB)\r\nStop #57548 Kent Sounder Station BAY 8(SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
@@ -1287,14 +1287,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.308136,
-          47.3909111
+          -122.233917,
+          47.3865814
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88508",
+        "stop_id": "80600",
+        "stop_name": "W James St & 1st Ave N",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 150 and 183 will be rerouted and will not serve stop #80600 W James St & 4th Ave N (EB) Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM nightly, due to construction.",
+        "description": "Affected stops:\r\nStop #80600 W James St & 1st Ave N (EB)\r\n\nGet on/off at:\r\nStop #80590 W James St & 4th Ave N (EB)\r\nStop #57548 Kent Sounder Station BAY 8(SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310036,
+          47.3867302
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "48974",
-        "stop_name": "Kent Des Moines Rd & 20th Ave S",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -1315,6 +1335,26 @@
         "alert_id": "1_82885",
         "stop_id": "47280",
         "stop_name": "S 240th St & 16th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.309937,
+          47.3865929
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48925",
+        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -1347,14 +1387,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.310036,
-          47.3867302
+          -122.311783,
+          47.3866272
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
+        "stop_id": "48920",
+        "stop_name": "S 240th St & 17th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -1387,13 +1427,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.308464,
-          47.3910408
+          -122.308136,
+          47.3909111
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "50466",
+        "stop_id": "48974",
         "stop_name": "Kent Des Moines Rd & 20th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -1407,14 +1447,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.309937,
-          47.3865929
+          -122.308464,
+          47.3910408
         ]
       },
       "properties": {
         "alert_id": "1_82885",
-        "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
+        "stop_id": "50466",
+        "stop_name": "Kent Des Moines Rd & 20th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -1440,46 +1480,6 @@
         "header": "DART 901 will be rerouted around the Federal Way Downtown Station due to construction.",
         "description": "Affected stops:\r\nStop #85541 Federal Way Downtown Station - Bay 11 (SB)\r\n\nGet on/off at:\r\nStop #85539 Federal Way Downtown Station - Bay 9 (NB)\r\nStop #80477 23rd Ave S & S 314th St (SB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/901/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.310036,
-          47.3867302
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82886",
-        "stop_id": "47275",
-        "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nThis is an update to the previous alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.309937,
-          47.3865929
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82886",
-        "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nThis is an update to the previous alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
       }
     },
     {
@@ -1527,6 +1527,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.309937,
+          47.3865929
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82886",
+        "stop_id": "48925",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nThis is an update to the previous alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310036,
+          47.3867302
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82886",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nThis is an update to the previous alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.188362,
           47.6791801
         ]
@@ -1600,6 +1640,26 @@
         "header": "Stop #70310 Juanita Woodinville Way NE & 115th Ave NE (NB) relocated from 8:00 AM to 4:00 PM on Fri Jul 31 due to construction.",
         "description": "Affected routes:\r\n231\r\n256\r\n\nGet on/off:\r\nFor Route 231 to Woodinville P&R:\r\nThe temporary stop on Juanita-Woodinville Way NE just south of the entrance driveway to Brickyard Park and Ride (NB)\r\n\nFor Route 256 to Woodinville:\r\nThe temporary stop inside the Brickyard Park and Ride (NB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.397446,
+          47.6396255
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91915",
+        "stop_id": "99500",
+        "stop_name": "W Mcgraw St & 31st Ave W",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 31 will be rerouted in Magnolia from 7:00 AM to 2:00 PM on Sat Aug 1 due to the Magnolia Summerfest Parade.",
+        "description": "Affected stops:\r\nStop #24250 34th Ave W & W McGraw St (SB)\r\nStop #20670 W McGraw St & 32nd Ave W (EB)\r\nStop #99500 W McGraw St & 31st Ave W (WB)\r\n\nFor Route 31 to University District get on/off at:\r\nThe temporary stop on Condon Way W, just south of W McGraw St (SB)\r\nStop #20680 Condon Way W & W Crockett St (SB)\r\n\nFor Route 31 to Central Magnolia get on/off at:\r\nThe temporary stop on Condon Way W, just south of W McGraw St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/31/E/"
       }
     },
     {
@@ -1635,26 +1695,6 @@
         "alert_id": "1_91915",
         "stop_id": "20670",
         "stop_name": "W Mcgraw St & 32nd Ave W",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 31 will be rerouted in Magnolia from 7:00 AM to 2:00 PM on Sat Aug 1 due to the Magnolia Summerfest Parade.",
-        "description": "Affected stops:\r\nStop #24250 34th Ave W & W McGraw St (SB)\r\nStop #20670 W McGraw St & 32nd Ave W (EB)\r\nStop #99500 W McGraw St & 31st Ave W (WB)\r\n\nFor Route 31 to University District get on/off at:\r\nThe temporary stop on Condon Way W, just south of W McGraw St (SB)\r\nStop #20680 Condon Way W & W Crockett St (SB)\r\n\nFor Route 31 to Central Magnolia get on/off at:\r\nThe temporary stop on Condon Way W, just south of W McGraw St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/31/E/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.397446,
-          47.6396255
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91915",
-        "stop_id": "99500",
-        "stop_name": "W Mcgraw St & 31st Ave W",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 31 will be rerouted in Magnolia from 7:00 AM to 2:00 PM on Sat Aug 1 due to the Magnolia Summerfest Parade.",
@@ -1807,6 +1847,146 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.360649,
+          47.6396561
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92247",
+        "stop_id": "41350",
+        "stop_name": "W Mcgraw St & 3rd Ave W",
+        "alert_type": "Stop Closure",
+        "status": "upcoming",
+        "header": "Stop #41350 W McGraw St & 3rd Ave W (WB) closed from 7:00 AM to 3:00 PM on Sat Aug 1 due to construction.",
+        "description": "Affected routes:\r\n4\r\n13\r\n\nGet on/off at:\r\nStop #41340 W McGraw St & Queen Anne Ave N (WB)\r\nStop #41360 3rd Ave W & W Smith St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.360649,
+          47.6396561
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92247",
+        "stop_id": "41350",
+        "stop_name": "W Mcgraw St & 3rd Ave W",
+        "alert_type": "Stop Closure",
+        "status": "upcoming",
+        "header": "Stop #41350 W McGraw St & 3rd Ave W (WB) closed from 7:00 AM to 3:00 PM on Sat Aug 1 due to construction.",
+        "description": "Affected routes:\r\n4\r\n13\r\n\nGet on/off at:\r\nStop #41340 W McGraw St & Queen Anne Ave N (WB)\r\nStop #41360 3rd Ave W & W Smith St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327957,
+          47.6137848
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91510",
+        "stop_id": "11133",
+        "stop_name": "Pike St & Minor Ave",
+        "alert_type": "Stop Closure",
+        "status": "upcoming",
+        "header": "Stop #11133 Pike St & Minor Ave (EB) closed from Sat Aug 1 at 7:00 AM to Sun Aug 2 at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n3\r\n10\r\n11\r\n12\r\n49\r\n\nGet on/off at:\r\nFor Route 3 to Summit and Route 11 to Madison Park:\r\nStop #1195 Pike St & 7th Ave (EB)\r\nStop #13460 Bellevue Ave & E Olive St (NB)\r\n\nFor Route 10 to Capitol Hill, Route 12 to Interlaken Park, and Route 49 to University District:\r\nStop #1195 Pike St & 7th Ave (EB)\r\nStop #11140 E Pine St & Summit Ave (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/77585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327957,
+          47.6137848
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91510",
+        "stop_id": "11133",
+        "stop_name": "Pike St & Minor Ave",
+        "alert_type": "Stop Closure",
+        "status": "upcoming",
+        "header": "Stop #11133 Pike St & Minor Ave (EB) closed from Sat Aug 1 at 7:00 AM to Sun Aug 2 at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n3\r\n10\r\n11\r\n12\r\n49\r\n\nGet on/off at:\r\nFor Route 3 to Summit and Route 11 to Madison Park:\r\nStop #1195 Pike St & 7th Ave (EB)\r\nStop #13460 Bellevue Ave & E Olive St (NB)\r\n\nFor Route 10 to Capitol Hill, Route 12 to Interlaken Park, and Route 49 to University District:\r\nStop #1195 Pike St & 7th Ave (EB)\r\nStop #11140 E Pine St & Summit Ave (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/77585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327957,
+          47.6137848
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91510",
+        "stop_id": "11133",
+        "stop_name": "Pike St & Minor Ave",
+        "alert_type": "Stop Closure",
+        "status": "upcoming",
+        "header": "Stop #11133 Pike St & Minor Ave (EB) closed from Sat Aug 1 at 7:00 AM to Sun Aug 2 at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n3\r\n10\r\n11\r\n12\r\n49\r\n\nGet on/off at:\r\nFor Route 3 to Summit and Route 11 to Madison Park:\r\nStop #1195 Pike St & 7th Ave (EB)\r\nStop #13460 Bellevue Ave & E Olive St (NB)\r\n\nFor Route 10 to Capitol Hill, Route 12 to Interlaken Park, and Route 49 to University District:\r\nStop #1195 Pike St & 7th Ave (EB)\r\nStop #11140 E Pine St & Summit Ave (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/77585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327957,
+          47.6137848
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91510",
+        "stop_id": "11133",
+        "stop_name": "Pike St & Minor Ave",
+        "alert_type": "Stop Closure",
+        "status": "upcoming",
+        "header": "Stop #11133 Pike St & Minor Ave (EB) closed from Sat Aug 1 at 7:00 AM to Sun Aug 2 at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n3\r\n10\r\n11\r\n12\r\n49\r\n\nGet on/off at:\r\nFor Route 3 to Summit and Route 11 to Madison Park:\r\nStop #1195 Pike St & 7th Ave (EB)\r\nStop #13460 Bellevue Ave & E Olive St (NB)\r\n\nFor Route 10 to Capitol Hill, Route 12 to Interlaken Park, and Route 49 to University District:\r\nStop #1195 Pike St & 7th Ave (EB)\r\nStop #11140 E Pine St & Summit Ave (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/77585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327957,
+          47.6137848
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91510",
+        "stop_id": "11133",
+        "stop_name": "Pike St & Minor Ave",
+        "alert_type": "Stop Closure",
+        "status": "upcoming",
+        "header": "Stop #11133 Pike St & Minor Ave (EB) closed from Sat Aug 1 at 7:00 AM to Sun Aug 2 at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n3\r\n10\r\n11\r\n12\r\n49\r\n\nGet on/off at:\r\nFor Route 3 to Summit and Route 11 to Madison Park:\r\nStop #1195 Pike St & 7th Ave (EB)\r\nStop #13460 Bellevue Ave & E Olive St (NB)\r\n\nFor Route 10 to Capitol Hill, Route 12 to Interlaken Park, and Route 49 to University District:\r\nStop #1195 Pike St & 7th Ave (EB)\r\nStop #11140 E Pine St & Summit Ave (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/77585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.323204,
           47.6489449
         ]
@@ -1867,19 +2047,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.246307,
-          47.3813095
+          -122.391617,
+          47.6905022
         ]
       },
       "properties": {
-        "alert_id": "1_86095",
-        "stop_id": "57188",
-        "stop_name": "W Meeker St & Washington Ave S",
+        "alert_id": "1_92006",
+        "stop_id": "19210",
+        "stop_name": "NW 85th St & Earl Ave NW",
         "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Mon Apr 6 through Mon Apr 26 due to permanent bus stop closure.",
-        "description": "Affected routes:\r\n165\r\nDART 914\r\n\nGet on/off:\r\nThe temporary stop on Thomas Ave N just east of the regular stop",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+        "status": "upcoming",
+        "header": "Stop #19210 NW 85th St & Earl Ave NW (EB) relocated from Sat Aug 1 at 8:00 AM to Sun Aug 2 at 6:00 PM due to construction.",
+        "description": "Affected routes:\r\n45\r\n\nGet on/off at:\r\nThe temporary stop on NW 85th St just west of Earl Ave NW (EB)\r\nStop #35551 NW 85th St & 24th Ave NW (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/3343"
       }
     },
     {
@@ -1887,34 +2067,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.246307,
-          47.3813095
-        ]
-      },
-      "properties": {
-        "alert_id": "1_86095",
-        "stop_id": "57188",
-        "stop_name": "W Meeker St & Washington Ave S",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Mon Apr 6 through Mon Apr 26 due to permanent bus stop closure.",
-        "description": "Affected routes:\r\n165\r\nDART 914\r\n\nGet on/off:\r\nThe temporary stop on Thomas Ave N just east of the regular stop",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.142029,
-          47.5987816
+          -122.142479,
+          47.5969696
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68640",
-        "stop_name": "Lake Hills Blvd & 148th Ave SE",
+        "stop_id": "68630",
+        "stop_name": "148th Ave SE & SE 16th St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
@@ -1934,6 +2094,46 @@
       "properties": {
         "alert_id": "1_89000",
         "stop_id": "68650",
+        "stop_name": "Lake Hills Blvd & SE 12th Pl",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.136032,
+          47.6029015
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89000",
+        "stop_id": "68510",
+        "stop_name": "Lake Hills Blvd & 154th Ave SE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.140549,
+          47.6002808
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89000",
+        "stop_id": "68530",
         "stop_name": "Lake Hills Blvd & SE 12th Pl",
         "alert_type": "Route Change",
         "status": "ongoing",
@@ -1987,14 +2187,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.136032,
-          47.6029015
+          -122.142029,
+          47.5987816
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68510",
-        "stop_name": "Lake Hills Blvd & 154th Ave SE",
+        "stop_id": "68640",
+        "stop_name": "Lake Hills Blvd & 148th Ave SE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
@@ -2007,19 +2207,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.142479,
-          47.5969696
+          -122.246307,
+          47.3813095
         ]
       },
       "properties": {
-        "alert_id": "1_89000",
-        "stop_id": "68630",
-        "stop_name": "148th Ave SE & SE 16th St",
-        "alert_type": "Route Change",
+        "alert_id": "1_86095",
+        "stop_id": "57188",
+        "stop_name": "W Meeker St & Washington Ave S",
+        "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Mon Apr 6 through Mon Apr 26 due to permanent bus stop closure.",
+        "description": "Affected routes:\r\n165\r\nDART 914\r\n\nGet on/off:\r\nThe temporary stop on Thomas Ave N just east of the regular stop",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
@@ -2027,19 +2227,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.140549,
-          47.6002808
+          -122.246307,
+          47.3813095
         ]
       },
       "properties": {
-        "alert_id": "1_89000",
-        "stop_id": "68530",
-        "stop_name": "Lake Hills Blvd & SE 12th Pl",
-        "alert_type": "Route Change",
+        "alert_id": "1_86095",
+        "stop_id": "57188",
+        "stop_name": "W Meeker St & Washington Ave S",
+        "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)\r\n\nThis is an update to the previous Alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Mon Apr 6 through Mon Apr 26 due to permanent bus stop closure.",
+        "description": "Affected routes:\r\n165\r\nDART 914\r\n\nGet on/off:\r\nThe temporary stop on Thomas Ave N just east of the regular stop",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
@@ -2487,46 +2687,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.376877,
-          47.5208244
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92122",
-        "stop_id": "23070",
-        "stop_name": "35th Ave SW & SW Barton St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 21 to Westwood Village is serving Stop #30636 4th Ave S & I-90 Ramp (SB).",
-        "description": "Affected direction: to Westwood Village\r\n\nAffected stops:\r\nStop #30636 4th Ave S & I-90 Ramp (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/78020"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.323685,
-          47.648613
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91110",
-        "stop_id": "9150",
-        "stop_name": "Eastlake Ave E & E Allison St",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #9150 Eastlake Ave E & E Allison St (SB) relocated from Mon Jul 13 through Fri Aug 7 due to construction.",
-        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n70\r\n\nGet on/off at:\r\nStop #9140 University Bridge & NE 40th St (SB)\r\nThe temporary stop on Eastlake Ave E, just south of E Shelby St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/5377"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.26989,
           47.5228729
         ]
@@ -2535,106 +2695,6 @@
         "alert_id": "1_91550",
         "stop_id": "8090",
         "stop_name": "Rainier Ave S & S Henderson St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
-        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.269897,
-          47.521328
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91550",
-        "stop_id": "8080",
-        "stop_name": "Rainier Ave S & S Fisher Pl",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
-        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.268219,
-          47.5232353
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91550",
-        "stop_id": "31137",
-        "stop_name": "S Henderson St & Rainier Ave S",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
-        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.267807,
-          47.5199165
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91550",
-        "stop_id": "8070",
-        "stop_name": "Rainier Ave S & 52nd Ave S",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
-        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.266037,
-          47.5232239
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91550",
-        "stop_id": "31136",
-        "stop_name": "S Henderson St & 53rd Ave S",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
-        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.264366,
-          47.5216446
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91550",
-        "stop_id": "30122",
-        "stop_name": "Seward Park Ave S & S Fisher Pl",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
@@ -2667,6 +2727,146 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.269897,
+          47.521328
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91550",
+        "stop_id": "8080",
+        "stop_name": "Rainier Ave S & S Fisher Pl",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
+        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.264366,
+          47.5216446
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91550",
+        "stop_id": "30122",
+        "stop_name": "Seward Park Ave S & S Fisher Pl",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
+        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.268219,
+          47.5232353
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91550",
+        "stop_id": "31137",
+        "stop_name": "S Henderson St & Rainier Ave S",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
+        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.266037,
+          47.5232239
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91550",
+        "stop_id": "31136",
+        "stop_name": "S Henderson St & 53rd Ave S",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
+        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.267807,
+          47.5199165
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91550",
+        "stop_id": "8070",
+        "stop_name": "Rainier Ave S & 52nd Ave S",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 7 will be rerouted in the Rainier Beach Area from Sat Jul 18 to Sun Aug 9 every Saturday and Sunday from 7:00 AM to 7:00 PM due to construction.",
+        "description": "Affected stops:\r\nStop #31137 S Henderson St & Rainier Ave S (EB)\r\nStop #31136 S Henderson St & 53rd Ave S (EB)\r\nStop #30122 Seward Park Ave S & S Fisher Pl (SB)\r\nStop #8050 Rainier Ave S & Seward Park Ave S (WB)\r\nStop #8070 Rainier Ave S & 52nd Ave S (WB)\r\nStop #8080 Rainier Ave S & S Fisher Pl (NB)\r\nStop #8090 Rainier Ave S & S Henderson St (NB)\r\n\nGet on/off at:\r\nThe temporary stop on S Henderson St just east of 50th Ave S (WB)\r\nStop #8100 Rainier Ave S & Cloverdale Pl S (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/7/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323685,
+          47.648613
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91110",
+        "stop_id": "9150",
+        "stop_name": "Eastlake Ave E & E Allison St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #9150 Eastlake Ave E & E Allison St (SB) relocated from Mon Jul 13 through Fri Aug 7 due to construction.",
+        "description": "This is an update to the previous alert.\r\n\nAffected routes:\r\n70\r\n\nGet on/off at:\r\nStop #9140 University Bridge & NE 40th St (SB)\r\nThe temporary stop on Eastlake Ave E, just south of E Shelby St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/5377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.376877,
+          47.5208244
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92122",
+        "stop_id": "23070",
+        "stop_name": "35th Ave SW & SW Barton St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 21 to Westwood Village is serving Stop #30636 4th Ave S & I-90 Ramp (SB).",
+        "description": "Affected direction: to Westwood Village\r\n\nAffected stops:\r\nStop #30636 4th Ave S & I-90 Ramp (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/78020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.229919,
           47.3703918
         ]
@@ -2687,59 +2887,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.301712,
-          47.6321678
+          -122.297836,
+          47.6130066
         ]
       },
       "properties": {
-        "alert_id": "1_92167",
-        "stop_id": "29251",
-        "stop_name": "24th Ave E & E Galer St",
+        "alert_id": "1_92243",
+        "stop_id": "2970",
+        "stop_name": "E Union St & 27th Ave",
         "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #29251 24th Ave E & E Galer St (SB) closed from Mon Jul 27 to Fri Jul 31 9:00 AM to 3:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n43\r\n48\r\n988\r\n\nGet on/off at:\r\nStop #29249 24th Ave E & Boyer Ave E (SB)\r\nStop #29253 24th Ave E & E Prospect St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/1887"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.301712,
-          47.6321678
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92167",
-        "stop_id": "29251",
-        "stop_name": "24th Ave E & E Galer St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #29251 24th Ave E & E Galer St (SB) closed from Mon Jul 27 to Fri Jul 31 9:00 AM to 3:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n43\r\n48\r\n988\r\n\nGet on/off at:\r\nStop #29249 24th Ave E & Boyer Ave E (SB)\r\nStop #29253 24th Ave E & E Prospect St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/1887"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.301712,
-          47.6321678
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92167",
-        "stop_id": "29251",
-        "stop_name": "24th Ave E & E Galer St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #29251 24th Ave E & E Galer St (SB) closed from Mon Jul 27 to Fri Jul 31 9:00 AM to 3:00 PM daily due to construction.",
-        "description": "Affected routes:\r\n43\r\n48\r\n988\r\n\nGet on/off at:\r\nStop #29249 24th Ave E & Boyer Ave E (SB)\r\nStop #29253 24th Ave E & E Prospect St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/1887"
+        "status": "upcoming",
+        "header": "Stop #2970 E Union St & 27th Ave (WB) closed from Sat Aug 1 at 8:00 AM to Sun Aug 2 at 5:00 PM due to construction.",
+        "description": "Affected routes:\r\n2\r\n\nGet on/off at:\r\nStop #2960 E Union St & 29th Ave (WB)\r\nStop #2980 E Union St & 25th Ave (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/7587"
       }
     },
     {
@@ -2767,6 +2927,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.301712,
+          47.6321678
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92167",
+        "stop_id": "29251",
+        "stop_name": "24th Ave E & E Galer St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #29251 24th Ave E & E Galer St (SB) closed from Mon Jul 27 to Fri Jul 31 9:00 AM to 3:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n43\r\n48\r\n988\r\n\nGet on/off at:\r\nStop #29249 24th Ave E & Boyer Ave E (SB)\r\nStop #29253 24th Ave E & E Prospect St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/1887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.301712,
+          47.6321678
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92167",
+        "stop_id": "29251",
+        "stop_name": "24th Ave E & E Galer St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #29251 24th Ave E & E Galer St (SB) closed from Mon Jul 27 to Fri Jul 31 9:00 AM to 3:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n43\r\n48\r\n988\r\n\nGet on/off at:\r\nStop #29249 24th Ave E & Boyer Ave E (SB)\r\nStop #29253 24th Ave E & E Prospect St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/1887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.301712,
+          47.6321678
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92167",
+        "stop_id": "29251",
+        "stop_name": "24th Ave E & E Galer St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #29251 24th Ave E & E Galer St (SB) closed from Mon Jul 27 to Fri Jul 31 9:00 AM to 3:00 PM daily due to construction.",
+        "description": "Affected routes:\r\n43\r\n48\r\n988\r\n\nGet on/off at:\r\nStop #29249 24th Ave E & Boyer Ave E (SB)\r\nStop #29253 24th Ave E & E Prospect St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/1887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.365128,
           47.6345253
         ]
@@ -2787,53 +3007,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.036339,
-          47.5342865
+          -122.036583,
+          47.5321274
         ]
       },
       "properties": {
         "alert_id": "1_92285",
-        "stop_id": "64548",
-        "stop_name": "Front St N & NE Dogwood St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 271 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
-        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.03653,
-          47.5355415
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92285",
-        "stop_id": "64456",
-        "stop_name": "Front St N & NE Crescent Dr",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 271 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
-        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.036377,
-          47.5321922
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92285",
-        "stop_id": "64540",
+        "stop_id": "65090",
         "stop_name": "Front St N & NE Alder St",
         "alert_type": "Route Change",
         "status": "upcoming",
@@ -2867,6 +3047,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.036499,
+          47.5368423
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92285",
+        "stop_id": "64554",
+        "stop_name": "Front St N & NW Holly St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 271 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
+        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.03653,
+          47.5355415
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92285",
+        "stop_id": "64456",
+        "stop_name": "Front St N & NE Crescent Dr",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 271 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
+        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.036324,
           47.5360336
         ]
@@ -2887,14 +3107,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.036583,
-          47.5321274
+          -122.036339,
+          47.5342865
         ]
       },
       "properties": {
         "alert_id": "1_92285",
-        "stop_id": "65090",
-        "stop_name": "Front St N & NE Alder St",
+        "stop_id": "64548",
+        "stop_name": "Front St N & NE Dogwood St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 271 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
@@ -2907,14 +3127,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.036499,
-          47.5368423
+          -122.036377,
+          47.5321922
         ]
       },
       "properties": {
         "alert_id": "1_92285",
-        "stop_id": "64554",
-        "stop_name": "Front St N & NW Holly St",
+        "stop_id": "64540",
+        "stop_name": "Front St N & NE Alder St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 271 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
@@ -3027,26 +3247,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.221626,
-          47.3261719
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88979",
-        "stop_id": "58270",
-        "stop_name": "Auburn Way N & 22nd St NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #58270 Auburn Way N & 22nd St NE (SB) and Stop #57900 Auburn Way N & 22nd St NE (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on Auburn Way N just north of 22nd St NE (NB)\r\nThe temporary stop on Auburn Way N just south of 22nd St NE (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.221436,
           47.3267365
         ]
@@ -3067,59 +3267,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334473,
-          47.7375755
+          -122.221626,
+          47.3261719
         ]
       },
       "properties": {
-        "alert_id": "1_89748",
-        "stop_id": "16330",
-        "stop_name": "Meridian Ave N & N 150th St",
-        "alert_type": "Stop Closure",
+        "alert_id": "1_88979",
+        "stop_id": "58270",
+        "stop_name": "Auburn Way N & 22nd St NE",
+        "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Sat Aug 29 due to construction.",
-        "description": "Affected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8722"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334473,
-          47.7375755
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89748",
-        "stop_id": "16330",
-        "stop_name": "Meridian Ave N & N 150th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Sat Aug 29 due to construction.",
-        "description": "Affected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8722"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334473,
-          47.7375755
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89748",
-        "stop_id": "16330",
-        "stop_name": "Meridian Ave N & N 150th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Sat Aug 29 due to construction.",
-        "description": "Affected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8722"
+        "header": "Stop #58270 Auburn Way N & 22nd St NE (SB) and Stop #57900 Auburn Way N & 22nd St NE (NB) relocated through Sat Aug 1 due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n160\r\n\nGet on/off:\r\nThe temporary stop on Auburn Way N just north of 22nd St NE (NB)\r\nThe temporary stop on Auburn Way N just south of 22nd St NE (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
       }
     },
     {
@@ -3147,19 +3307,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.22818,
-          47.3866959
+          -122.334473,
+          47.7375755
         ]
       },
       "properties": {
-        "alert_id": "1_88856",
-        "stop_id": "57480",
-        "stop_name": "E James St & Woodford Ave N",
-        "alert_type": "Route Change",
+        "alert_id": "1_89748",
+        "stop_id": "16330",
+        "stop_name": "Meridian Ave N & N 150th St",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Route 165 is rerouted off E James St between Jason Ave N and Railroad Ave N from Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM daily due to construction.",
-        "description": "Affected stops:\r\nStop #57480 E James St & Woodford Ave N (WB)\r\nStop #58144 Central Ave N & E James St (SB)\r\nStop #57070 E James St & Central Ave N (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57470 E James St & Jason Ave N (WB)\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57452 Kent Sounder Station - Bay 2 (NB)\r\nStop #57090 E James St & Jason Ave N (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/E"
+        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Sat Aug 29 due to construction.",
+        "description": "Affected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334473,
+          47.7375755
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89748",
+        "stop_id": "16330",
+        "stop_name": "Meridian Ave N & N 150th St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Sat Aug 29 due to construction.",
+        "description": "Affected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334473,
+          47.7375755
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89748",
+        "stop_id": "16330",
+        "stop_name": "Meridian Ave N & N 150th St",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Sat Aug 29 due to construction.",
+        "description": "Affected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8722"
       }
     },
     {
@@ -3195,6 +3395,26 @@
         "alert_id": "1_88856",
         "stop_id": "57070",
         "stop_name": "E James St & Central Ave N",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 165 is rerouted off E James St between Jason Ave N and Railroad Ave N from Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM daily due to construction.",
+        "description": "Affected stops:\r\nStop #57480 E James St & Woodford Ave N (WB)\r\nStop #58144 Central Ave N & E James St (SB)\r\nStop #57070 E James St & Central Ave N (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #57470 E James St & Jason Ave N (WB)\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nStop #57452 Kent Sounder Station - Bay 2 (NB)\r\nStop #57090 E James St & Jason Ave N (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.22818,
+          47.3866959
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88856",
+        "stop_id": "57480",
+        "stop_name": "E James St & Woodford Ave N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 165 is rerouted off E James St between Jason Ave N and Railroad Ave N from Mon Jun 1 to Fri Jul 31 from 11:00 PM to 4:00 AM daily due to construction.",
@@ -3727,6 +3947,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.036537,
+          47.5342369
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92275",
+        "stop_id": "81692",
+        "stop_name": "Front St N & NE Dogwood St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
+        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 208 to North Bend get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 208 to Issaquah get on/off at:\r\nStop #80484 Front St S & SE Andrews St (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/208/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.036339,
+          47.5342865
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92275",
+        "stop_id": "64548",
+        "stop_name": "Front St N & NE Dogwood St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
+        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 208 to North Bend get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 208 to Issaquah get on/off at:\r\nStop #80484 Front St S & SE Andrews St (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/208/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.036499,
+          47.5368423
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92275",
+        "stop_id": "64554",
+        "stop_name": "Front St N & NW Holly St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
+        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 208 to North Bend get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 208 to Issaquah get on/off at:\r\nStop #80484 Front St S & SE Andrews St (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/208/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.036583,
           47.5321274
         ]
@@ -3767,54 +4047,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.036499,
-          47.5368423
+          -122.03653,
+          47.5355415
         ]
       },
       "properties": {
         "alert_id": "1_92275",
-        "stop_id": "64554",
-        "stop_name": "Front St N & NW Holly St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
-        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 208 to North Bend get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 208 to Issaquah get on/off at:\r\nStop #80484 Front St S & SE Andrews St (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/208/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.036339,
-          47.5342865
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92275",
-        "stop_id": "64548",
-        "stop_name": "Front St N & NE Dogwood St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
-        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 208 to North Bend get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 208 to Issaquah get on/off at:\r\nStop #80484 Front St S & SE Andrews St (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/208/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.036537,
-          47.5342369
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92275",
-        "stop_id": "81692",
-        "stop_name": "Front St N & NE Dogwood St",
+        "stop_id": "64456",
+        "stop_name": "Front St N & NE Crescent Dr",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
@@ -3834,26 +4074,6 @@
       "properties": {
         "alert_id": "1_92275",
         "stop_id": "81704",
-        "stop_name": "Front St N & NE Crescent Dr",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
-        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 208 to North Bend get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 208 to Issaquah get on/off at:\r\nStop #80484 Front St S & SE Andrews St (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/208/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.03653,
-          47.5355415
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92275",
-        "stop_id": "64456",
         "stop_name": "Front St N & NE Crescent Dr",
         "alert_type": "Route Change",
         "status": "upcoming",
@@ -4127,34 +4347,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.201241,
-          47.364727
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92223",
-        "stop_id": "57218",
-        "stop_name": "Scenic Vista Rd & SE 264th St",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #57218 Scenic Vista Rd & SE 264th St (SB) closed due to street repair work.",
-        "description": "Affected routes:\r\nDART 914\r\n\nGet on/off at:\r\nStop #57203 104th Ave SE & SE 260th St (SB)\r\nStop #57181 104th Ave SE & SE 264th St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/914/E/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.194725,
-          47.615509
+          -122.19426,
+          47.6155014
         ]
       },
       "properties": {
         "alert_id": "1_91574",
-        "stop_id": "67652",
-        "stop_name": "Bellevue Transit Center - Bay 9",
+        "stop_id": "68005",
+        "stop_name": "Bellevue Transit Center - Bay 5",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 271, ST 550, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Mon Jul 27 through Fri Aug 28 due to construction.",
@@ -4187,6 +4387,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.19426,
+          47.6155014
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91574",
+        "stop_id": "68005",
+        "stop_name": "Bellevue Transit Center - Bay 5",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 271, ST 550, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Mon Jul 27 through Fri Aug 28 due to construction.",
+        "description": "Affected stops:\r\nStop #68005 Bellevue Transit Center - Bay 5 (EB)\r\nStop #68007 Bellevue Transit Center Bay 12 (NB)\r\nStop #67652 Bellevue Transit Center - Bay 9 (WB)\r\nStop #68006 Bellevue Transit Center - Bay 6\r\n\nGet on/off at:\r\nFor Route 271 and ST 556 to University District:\r\nThe temporary stop on NE 6th St, just east of 110th Ave NE (WB)\r\n\nFor Route 271 to Eastgate P&R:\r\nStop #73049 NE 8th St & 106th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 556 to Issaquah and Route 566 to Auburn:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 550 to Seattle:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\nStop #85640 NE 4th St & 108th Ave NE (WB)\r\n\nFor Route 550 to Bellevue:\r\nStop #68042 NE 4th St & 105th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just north of NE 6th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.193909,
           47.6154938
         ]
@@ -4207,14 +4427,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.19426,
-          47.6155014
+          -122.194725,
+          47.615509
         ]
       },
       "properties": {
         "alert_id": "1_91574",
-        "stop_id": "68005",
-        "stop_name": "Bellevue Transit Center - Bay 5",
+        "stop_id": "67652",
+        "stop_name": "Bellevue Transit Center - Bay 9",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 271, ST 550, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Mon Jul 27 through Fri Aug 28 due to construction.",
@@ -4227,19 +4447,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.19426,
-          47.6155014
+          -122.201241,
+          47.364727
         ]
       },
       "properties": {
-        "alert_id": "1_91574",
-        "stop_id": "68005",
-        "stop_name": "Bellevue Transit Center - Bay 5",
-        "alert_type": "Route Change",
+        "alert_id": "1_92223",
+        "stop_id": "57218",
+        "stop_name": "Scenic Vista Rd & SE 264th St",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Route 271, ST 550, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Mon Jul 27 through Fri Aug 28 due to construction.",
-        "description": "Affected stops:\r\nStop #68005 Bellevue Transit Center - Bay 5 (EB)\r\nStop #68007 Bellevue Transit Center Bay 12 (NB)\r\nStop #67652 Bellevue Transit Center - Bay 9 (WB)\r\nStop #68006 Bellevue Transit Center - Bay 6\r\n\nGet on/off at:\r\nFor Route 271 and ST 556 to University District:\r\nThe temporary stop on NE 6th St, just east of 110th Ave NE (WB)\r\n\nFor Route 271 to Eastgate P&R:\r\nStop #73049 NE 8th St & 106th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 556 to Issaquah and Route 566 to Auburn:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 550 to Seattle:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\nStop #85640 NE 4th St & 108th Ave NE (WB)\r\n\nFor Route 550 to Bellevue:\r\nStop #68042 NE 4th St & 105th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just north of NE 6th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+        "header": "Stop #57218 Scenic Vista Rd & SE 264th St (SB) closed due to street repair work.",
+        "description": "Affected routes:\r\nDART 914\r\n\nGet on/off at:\r\nStop #57203 104th Ave SE & SE 260th St (SB)\r\nStop #57181 104th Ave SE & SE 264th St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/914/E/"
       }
     },
     {
@@ -4407,13 +4627,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.121002,
-          47.5890427
+          -122.121193,
+          47.5889053
         ]
       },
       "properties": {
         "alert_id": "1_92220",
-        "stop_id": "71675",
+        "stop_id": "71661",
         "stop_name": "SE 24th St & 161st Ave SE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -4427,13 +4647,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.121193,
-          47.5889053
+          -122.121002,
+          47.5890427
         ]
       },
       "properties": {
         "alert_id": "1_92220",
-        "stop_id": "71661",
+        "stop_id": "71675",
         "stop_name": "SE 24th St & 161st Ave SE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
