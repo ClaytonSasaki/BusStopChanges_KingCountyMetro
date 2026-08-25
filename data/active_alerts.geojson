@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-25T15:56:30.256229+00:00",
+  "generated_at": "2026-08-25T16:45:26.668646+00:00",
   "features": [
     {
       "type": "Feature",
@@ -147,13 +147,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.248878,
-          47.4973106
+          -122.249084,
+          47.4972382
         ]
       },
       "properties": {
         "alert_id": "1_91686",
-        "stop_id": "55378",
+        "stop_id": "55371",
         "stop_name": "68th Ave S & S 118th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -167,13 +167,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.249084,
-          47.4972382
+          -122.248878,
+          47.4973106
         ]
       },
       "properties": {
         "alert_id": "1_91686",
-        "stop_id": "55371",
+        "stop_id": "55378",
         "stop_name": "68th Ave S & S 118th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -567,86 +567,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.254913,
-          47.2888412
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93626",
-        "stop_id": "81190",
-        "stop_name": "Algona Blvd N & 8th Ave N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "DART 917 is rerouted off a portion of Milwaukee Blvd S and Algona Blvd N between Ellingson Rd & 15th St SW until further notice due to construction.",
-        "description": "Affected stops:\r\nStop #81126 Milwaukee Blvd S & Warde St (SB)\r\nStop #81130 Milwaukee Blvd S & 3rd Ave S (SB)\r\nStop #81132 Milwaukee Blvd S & 4th Ave S (SB)\r\nStop #81182 Main St & 2nd Ave N (NB)\r\nStop #81186 Main St & 5th Ave N (NB)\r\nStop #81188 Main St & Broadway (NB)\r\nStop #81190 Algona Blvd N & 8th Ave N (NB)\r\nStop #81194 Algona Blvd N & 10th Ave N (NB)\r\nStop #81195 O St SW & Boundary Rd SW (NB)\r\n\nFor DART 917 to 3rd Av SE & Milwaukee Blvd S get on/off at:\r\nStop #81122 Main St & 2nd Ave N (SB)\r\nStop #57851 Milwaukee Blvd N & Ellingson Rd (SB)\r\n\nFor DART 917 to Auburn Station get on/off at:\r\nStop #81178 Milwaukee Blvd S & Warde St (NB)\r\nStop #57804 15th St SW & O St SW (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/917/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.252045,
-          47.2809525
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93626",
-        "stop_id": "81182",
-        "stop_name": "Main St & 2nd Ave N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "DART 917 is rerouted off a portion of Milwaukee Blvd S and Algona Blvd N between Ellingson Rd & 15th St SW until further notice due to construction.",
-        "description": "Affected stops:\r\nStop #81126 Milwaukee Blvd S & Warde St (SB)\r\nStop #81130 Milwaukee Blvd S & 3rd Ave S (SB)\r\nStop #81132 Milwaukee Blvd S & 4th Ave S (SB)\r\nStop #81182 Main St & 2nd Ave N (NB)\r\nStop #81186 Main St & 5th Ave N (NB)\r\nStop #81188 Main St & Broadway (NB)\r\nStop #81190 Algona Blvd N & 8th Ave N (NB)\r\nStop #81194 Algona Blvd N & 10th Ave N (NB)\r\nStop #81195 O St SW & Boundary Rd SW (NB)\r\n\nFor DART 917 to 3rd Av SE & Milwaukee Blvd S get on/off at:\r\nStop #81122 Main St & 2nd Ave N (SB)\r\nStop #57851 Milwaukee Blvd N & Ellingson Rd (SB)\r\n\nFor DART 917 to Auburn Station get on/off at:\r\nStop #81178 Milwaukee Blvd S & Warde St (NB)\r\nStop #57804 15th St SW & O St SW (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/917/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.255569,
-          47.2862015
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93626",
-        "stop_id": "81188",
-        "stop_name": "Main St & Broadway",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "DART 917 is rerouted off a portion of Milwaukee Blvd S and Algona Blvd N between Ellingson Rd & 15th St SW until further notice due to construction.",
-        "description": "Affected stops:\r\nStop #81126 Milwaukee Blvd S & Warde St (SB)\r\nStop #81130 Milwaukee Blvd S & 3rd Ave S (SB)\r\nStop #81132 Milwaukee Blvd S & 4th Ave S (SB)\r\nStop #81182 Main St & 2nd Ave N (NB)\r\nStop #81186 Main St & 5th Ave N (NB)\r\nStop #81188 Main St & Broadway (NB)\r\nStop #81190 Algona Blvd N & 8th Ave N (NB)\r\nStop #81194 Algona Blvd N & 10th Ave N (NB)\r\nStop #81195 O St SW & Boundary Rd SW (NB)\r\n\nFor DART 917 to 3rd Av SE & Milwaukee Blvd S get on/off at:\r\nStop #81122 Main St & 2nd Ave N (SB)\r\nStop #57851 Milwaukee Blvd N & Ellingson Rd (SB)\r\n\nFor DART 917 to Auburn Station get on/off at:\r\nStop #81178 Milwaukee Blvd S & Warde St (NB)\r\nStop #57804 15th St SW & O St SW (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/917/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.254967,
-          47.2912331
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93626",
-        "stop_id": "81194",
-        "stop_name": "Algona Blvd N & 10th Ave N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "DART 917 is rerouted off a portion of Milwaukee Blvd S and Algona Blvd N between Ellingson Rd & 15th St SW until further notice due to construction.",
-        "description": "Affected stops:\r\nStop #81126 Milwaukee Blvd S & Warde St (SB)\r\nStop #81130 Milwaukee Blvd S & 3rd Ave S (SB)\r\nStop #81132 Milwaukee Blvd S & 4th Ave S (SB)\r\nStop #81182 Main St & 2nd Ave N (NB)\r\nStop #81186 Main St & 5th Ave N (NB)\r\nStop #81188 Main St & Broadway (NB)\r\nStop #81190 Algona Blvd N & 8th Ave N (NB)\r\nStop #81194 Algona Blvd N & 10th Ave N (NB)\r\nStop #81195 O St SW & Boundary Rd SW (NB)\r\n\nFor DART 917 to 3rd Av SE & Milwaukee Blvd S get on/off at:\r\nStop #81122 Main St & 2nd Ave N (SB)\r\nStop #57851 Milwaukee Blvd N & Ellingson Rd (SB)\r\n\nFor DART 917 to Auburn Station get on/off at:\r\nStop #81178 Milwaukee Blvd S & Warde St (NB)\r\nStop #57804 15th St SW & O St SW (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/917/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.250107,
           47.2741089
         ]
@@ -655,26 +575,6 @@
         "alert_id": "1_93626",
         "stop_id": "81132",
         "stop_name": "Milwaukee Blvd S & 4th Ave S",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "DART 917 is rerouted off a portion of Milwaukee Blvd S and Algona Blvd N between Ellingson Rd & 15th St SW until further notice due to construction.",
-        "description": "Affected stops:\r\nStop #81126 Milwaukee Blvd S & Warde St (SB)\r\nStop #81130 Milwaukee Blvd S & 3rd Ave S (SB)\r\nStop #81132 Milwaukee Blvd S & 4th Ave S (SB)\r\nStop #81182 Main St & 2nd Ave N (NB)\r\nStop #81186 Main St & 5th Ave N (NB)\r\nStop #81188 Main St & Broadway (NB)\r\nStop #81190 Algona Blvd N & 8th Ave N (NB)\r\nStop #81194 Algona Blvd N & 10th Ave N (NB)\r\nStop #81195 O St SW & Boundary Rd SW (NB)\r\n\nFor DART 917 to 3rd Av SE & Milwaukee Blvd S get on/off at:\r\nStop #81122 Main St & 2nd Ave N (SB)\r\nStop #57851 Milwaukee Blvd N & Ellingson Rd (SB)\r\n\nFor DART 917 to Auburn Station get on/off at:\r\nStop #81178 Milwaukee Blvd S & Warde St (NB)\r\nStop #57804 15th St SW & O St SW (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/917/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.254112,
-          47.28405
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93626",
-        "stop_id": "81186",
-        "stop_name": "Main St & 5th Ave N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "DART 917 is rerouted off a portion of Milwaukee Blvd S and Algona Blvd N between Ellingson Rd & 15th St SW until further notice due to construction.",
@@ -707,6 +607,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.255569,
+          47.2862015
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93626",
+        "stop_id": "81188",
+        "stop_name": "Main St & Broadway",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "DART 917 is rerouted off a portion of Milwaukee Blvd S and Algona Blvd N between Ellingson Rd & 15th St SW until further notice due to construction.",
+        "description": "Affected stops:\r\nStop #81126 Milwaukee Blvd S & Warde St (SB)\r\nStop #81130 Milwaukee Blvd S & 3rd Ave S (SB)\r\nStop #81132 Milwaukee Blvd S & 4th Ave S (SB)\r\nStop #81182 Main St & 2nd Ave N (NB)\r\nStop #81186 Main St & 5th Ave N (NB)\r\nStop #81188 Main St & Broadway (NB)\r\nStop #81190 Algona Blvd N & 8th Ave N (NB)\r\nStop #81194 Algona Blvd N & 10th Ave N (NB)\r\nStop #81195 O St SW & Boundary Rd SW (NB)\r\n\nFor DART 917 to 3rd Av SE & Milwaukee Blvd S get on/off at:\r\nStop #81122 Main St & 2nd Ave N (SB)\r\nStop #57851 Milwaukee Blvd N & Ellingson Rd (SB)\r\n\nFor DART 917 to Auburn Station get on/off at:\r\nStop #81178 Milwaukee Blvd S & Warde St (NB)\r\nStop #57804 15th St SW & O St SW (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/917/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.250023,
           47.278286
         ]
@@ -715,6 +635,86 @@
         "alert_id": "1_93626",
         "stop_id": "81126",
         "stop_name": "Milwaukee Blvd S & Warde St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "DART 917 is rerouted off a portion of Milwaukee Blvd S and Algona Blvd N between Ellingson Rd & 15th St SW until further notice due to construction.",
+        "description": "Affected stops:\r\nStop #81126 Milwaukee Blvd S & Warde St (SB)\r\nStop #81130 Milwaukee Blvd S & 3rd Ave S (SB)\r\nStop #81132 Milwaukee Blvd S & 4th Ave S (SB)\r\nStop #81182 Main St & 2nd Ave N (NB)\r\nStop #81186 Main St & 5th Ave N (NB)\r\nStop #81188 Main St & Broadway (NB)\r\nStop #81190 Algona Blvd N & 8th Ave N (NB)\r\nStop #81194 Algona Blvd N & 10th Ave N (NB)\r\nStop #81195 O St SW & Boundary Rd SW (NB)\r\n\nFor DART 917 to 3rd Av SE & Milwaukee Blvd S get on/off at:\r\nStop #81122 Main St & 2nd Ave N (SB)\r\nStop #57851 Milwaukee Blvd N & Ellingson Rd (SB)\r\n\nFor DART 917 to Auburn Station get on/off at:\r\nStop #81178 Milwaukee Blvd S & Warde St (NB)\r\nStop #57804 15th St SW & O St SW (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/917/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.254967,
+          47.2912331
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93626",
+        "stop_id": "81194",
+        "stop_name": "Algona Blvd N & 10th Ave N",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "DART 917 is rerouted off a portion of Milwaukee Blvd S and Algona Blvd N between Ellingson Rd & 15th St SW until further notice due to construction.",
+        "description": "Affected stops:\r\nStop #81126 Milwaukee Blvd S & Warde St (SB)\r\nStop #81130 Milwaukee Blvd S & 3rd Ave S (SB)\r\nStop #81132 Milwaukee Blvd S & 4th Ave S (SB)\r\nStop #81182 Main St & 2nd Ave N (NB)\r\nStop #81186 Main St & 5th Ave N (NB)\r\nStop #81188 Main St & Broadway (NB)\r\nStop #81190 Algona Blvd N & 8th Ave N (NB)\r\nStop #81194 Algona Blvd N & 10th Ave N (NB)\r\nStop #81195 O St SW & Boundary Rd SW (NB)\r\n\nFor DART 917 to 3rd Av SE & Milwaukee Blvd S get on/off at:\r\nStop #81122 Main St & 2nd Ave N (SB)\r\nStop #57851 Milwaukee Blvd N & Ellingson Rd (SB)\r\n\nFor DART 917 to Auburn Station get on/off at:\r\nStop #81178 Milwaukee Blvd S & Warde St (NB)\r\nStop #57804 15th St SW & O St SW (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/917/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.252045,
+          47.2809525
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93626",
+        "stop_id": "81182",
+        "stop_name": "Main St & 2nd Ave N",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "DART 917 is rerouted off a portion of Milwaukee Blvd S and Algona Blvd N between Ellingson Rd & 15th St SW until further notice due to construction.",
+        "description": "Affected stops:\r\nStop #81126 Milwaukee Blvd S & Warde St (SB)\r\nStop #81130 Milwaukee Blvd S & 3rd Ave S (SB)\r\nStop #81132 Milwaukee Blvd S & 4th Ave S (SB)\r\nStop #81182 Main St & 2nd Ave N (NB)\r\nStop #81186 Main St & 5th Ave N (NB)\r\nStop #81188 Main St & Broadway (NB)\r\nStop #81190 Algona Blvd N & 8th Ave N (NB)\r\nStop #81194 Algona Blvd N & 10th Ave N (NB)\r\nStop #81195 O St SW & Boundary Rd SW (NB)\r\n\nFor DART 917 to 3rd Av SE & Milwaukee Blvd S get on/off at:\r\nStop #81122 Main St & 2nd Ave N (SB)\r\nStop #57851 Milwaukee Blvd N & Ellingson Rd (SB)\r\n\nFor DART 917 to Auburn Station get on/off at:\r\nStop #81178 Milwaukee Blvd S & Warde St (NB)\r\nStop #57804 15th St SW & O St SW (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/917/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.254913,
+          47.2888412
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93626",
+        "stop_id": "81190",
+        "stop_name": "Algona Blvd N & 8th Ave N",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "DART 917 is rerouted off a portion of Milwaukee Blvd S and Algona Blvd N between Ellingson Rd & 15th St SW until further notice due to construction.",
+        "description": "Affected stops:\r\nStop #81126 Milwaukee Blvd S & Warde St (SB)\r\nStop #81130 Milwaukee Blvd S & 3rd Ave S (SB)\r\nStop #81132 Milwaukee Blvd S & 4th Ave S (SB)\r\nStop #81182 Main St & 2nd Ave N (NB)\r\nStop #81186 Main St & 5th Ave N (NB)\r\nStop #81188 Main St & Broadway (NB)\r\nStop #81190 Algona Blvd N & 8th Ave N (NB)\r\nStop #81194 Algona Blvd N & 10th Ave N (NB)\r\nStop #81195 O St SW & Boundary Rd SW (NB)\r\n\nFor DART 917 to 3rd Av SE & Milwaukee Blvd S get on/off at:\r\nStop #81122 Main St & 2nd Ave N (SB)\r\nStop #57851 Milwaukee Blvd N & Ellingson Rd (SB)\r\n\nFor DART 917 to Auburn Station get on/off at:\r\nStop #81178 Milwaukee Blvd S & Warde St (NB)\r\nStop #57804 15th St SW & O St SW (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/917/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.254112,
+          47.28405
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93626",
+        "stop_id": "81186",
+        "stop_name": "Main St & 5th Ave N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "DART 917 is rerouted off a portion of Milwaukee Blvd S and Algona Blvd N between Ellingson Rd & 15th St SW until further notice due to construction.",
@@ -767,46 +767,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3339,
-          47.7090034
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93388",
-        "stop_id": "17760",
-        "stop_name": "Meridian Ave N & N Northgate Way",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 345 and 365 will be rerouted off Meridian Ave N between NE 115th St and N Northgate Way from Mon Aug 24 through Mon Aug 31 due to construction.",
-        "description": "Affected stops:\r\nStop #17760 Meridian Ave N & N Northgate Way (NB)\r\nStop #16940 Meridian Ave N & N 115th St (SB)\r\n\nGet on/off at:\r\nFor Route 345 to Shoreline S 148th St Station and Route 365 to Shoreline S 185th St Station:\r\nStop #17740 Meridian Ave N & N 105th St (NB)\r\nStop #17755 N Northgate Way & Meridian Ave N (WB)\r\nStop #17780 Meridian Ave N & N 115th St (NB)\r\n\nFor Routes 345 and 365 to Northgate Station: \r\nStop #16920 Meridian Ave N & N 120th St (SB)\r\nStop #16914 Northwest Hospital (WB)\r\nStop #16960 Meridian Ave N & N Northgate Way (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33416,
-          47.7119713
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93388",
-        "stop_id": "16940",
-        "stop_name": "Meridian Ave N & N 115th St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 345 and 365 will be rerouted off Meridian Ave N between NE 115th St and N Northgate Way from Mon Aug 24 through Mon Aug 31 due to construction.",
-        "description": "Affected stops:\r\nStop #17760 Meridian Ave N & N Northgate Way (NB)\r\nStop #16940 Meridian Ave N & N 115th St (SB)\r\n\nGet on/off at:\r\nFor Route 345 to Shoreline S 148th St Station and Route 365 to Shoreline S 185th St Station:\r\nStop #17740 Meridian Ave N & N 105th St (NB)\r\nStop #17755 N Northgate Way & Meridian Ave N (WB)\r\nStop #17780 Meridian Ave N & N 115th St (NB)\r\n\nFor Routes 345 and 365 to Northgate Station: \r\nStop #16920 Meridian Ave N & N 120th St (SB)\r\nStop #16914 Northwest Hospital (WB)\r\nStop #16960 Meridian Ave N & N Northgate Way (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.33416,
           47.7119713
         ]
@@ -847,6 +807,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.3339,
+          47.7090034
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93388",
+        "stop_id": "17760",
+        "stop_name": "Meridian Ave N & N Northgate Way",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 345 and 365 will be rerouted off Meridian Ave N between NE 115th St and N Northgate Way from Mon Aug 24 through Mon Aug 31 due to construction.",
+        "description": "Affected stops:\r\nStop #17760 Meridian Ave N & N Northgate Way (NB)\r\nStop #16940 Meridian Ave N & N 115th St (SB)\r\n\nGet on/off at:\r\nFor Route 345 to Shoreline S 148th St Station and Route 365 to Shoreline S 185th St Station:\r\nStop #17740 Meridian Ave N & N 105th St (NB)\r\nStop #17755 N Northgate Way & Meridian Ave N (WB)\r\nStop #17780 Meridian Ave N & N 115th St (NB)\r\n\nFor Routes 345 and 365 to Northgate Station: \r\nStop #16920 Meridian Ave N & N 120th St (SB)\r\nStop #16914 Northwest Hospital (WB)\r\nStop #16960 Meridian Ave N & N Northgate Way (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33416,
+          47.7119713
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93388",
+        "stop_id": "16940",
+        "stop_name": "Meridian Ave N & N 115th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 345 and 365 will be rerouted off Meridian Ave N between NE 115th St and N Northgate Way from Mon Aug 24 through Mon Aug 31 due to construction.",
+        "description": "Affected stops:\r\nStop #17760 Meridian Ave N & N Northgate Way (NB)\r\nStop #16940 Meridian Ave N & N 115th St (SB)\r\n\nGet on/off at:\r\nFor Route 345 to Shoreline S 148th St Station and Route 365 to Shoreline S 185th St Station:\r\nStop #17740 Meridian Ave N & N 105th St (NB)\r\nStop #17755 N Northgate Way & Meridian Ave N (WB)\r\nStop #17780 Meridian Ave N & N 115th St (NB)\r\n\nFor Routes 345 and 365 to Northgate Station: \r\nStop #16920 Meridian Ave N & N 120th St (SB)\r\nStop #16914 Northwest Hospital (WB)\r\nStop #16960 Meridian Ave N & N Northgate Way (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.259399,
+          47.44133
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93783",
+        "stop_id": "58126",
+        "stop_name": "S 180th St & Southcenter Pkwy",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #58126 S 180th St & Southcenter Pkwy (EB) relocated until Fri Sep 11 from 7:00 AM to 5:00 PM daily due to construction.",
+        "description": "Affected routes:\r\nDART 906\r\n\nGet on/off:\r\nThe temporary stop on S 180th St, just east of Southcenter Pkwy (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/4259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.270554,
           47.5233765
         ]
@@ -880,46 +900,6 @@
         "header": "Stop #30140 S Henderson St & Rainier Ave S (WB) closed from Wed Aug 26 to Sat Aug 29 from 8:00 AM to 6:00 PM daily due to construction.",
         "description": "Affected routes:\r\n106\r\n107\r\n\nGet on/off at:\r\nStop #30160 S Henderson St & Renton Ave S (WB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/714"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.308136,
-          47.3909111
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48974",
-        "stop_name": "Kent Des Moines Rd & 20th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.308464,
-          47.3910408
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "50466",
-        "stop_name": "Kent Des Moines Rd & 20th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
       }
     },
     {
@@ -967,6 +947,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.309937,
+          47.3865929
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48925",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308464,
+          47.3910408
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "50466",
+        "stop_name": "Kent Des Moines Rd & 20th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.311691,
           47.390789
         ]
@@ -975,6 +995,26 @@
         "alert_id": "1_82885",
         "stop_id": "48972",
         "stop_name": "16th Ave S & 17th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308136,
+          47.3909111
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48974",
+        "stop_name": "Kent Des Moines Rd & 20th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -1027,19 +1067,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.309937,
-          47.3865929
+          -122.312439,
+          47.3867798
         ]
       },
       "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
+        "alert_id": "1_82886",
+        "stop_id": "47280",
+        "stop_name": "S 240th St & 16th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nThis is an update to the previous alert.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
       }
     },
     {
@@ -1087,26 +1127,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.312439,
-          47.3867798
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82886",
-        "stop_id": "47280",
-        "stop_name": "S 240th St & 16th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 165 will be rerouted off S 240th St between 16th Ave S and 20th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 165 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St at 14th Ave S (WB)\r\n\nFor Route 165 to Green River College get on/off at:\r\nThe temporary stop on S 240th St at 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nThis is an update to the previous alert.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/165/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.309937,
           47.3865929
         ]
@@ -1168,13 +1188,13 @@
         "type": "Point",
         "coordinates": [
           -122.334106,
-          47.5842438
+          47.5865173
         ]
       },
       "properties": {
         "alert_id": "1_88622",
-        "stop_id": "15212",
-        "stop_name": "1st Ave S & S Walker St",
+        "stop_id": "15207",
+        "stop_name": "1st Ave S & S Holgate St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
@@ -1208,13 +1228,13 @@
         "type": "Point",
         "coordinates": [
           -122.334106,
-          47.5759239
+          47.5796814
         ]
       },
       "properties": {
         "alert_id": "1_88622",
-        "stop_id": "15205",
-        "stop_name": "1st Ave S & S Hanford St",
+        "stop_id": "15230",
+        "stop_name": "1st Ave S & S Lander St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
@@ -1228,53 +1248,13 @@
         "type": "Point",
         "coordinates": [
           -122.334297,
-          47.585762
+          47.5836525
         ]
       },
       "properties": {
         "alert_id": "1_88622",
-        "stop_id": "15202",
-        "stop_name": "1st Ave S & S Holgate St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\n\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334106,
-          47.5865173
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88622",
-        "stop_id": "15207",
-        "stop_name": "1st Ave S & S Holgate St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
-        "description": "Reroute will be in effect on each of the games noted below:\r\n\n\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334106,
-          47.5796814
-        ]
-      },
-      "properties": {
-        "alert_id": "1_88622",
-        "stop_id": "15230",
-        "stop_name": "1st Ave S & S Lander St",
+        "stop_id": "15211",
+        "stop_name": "1st Ave S & S Walker St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
@@ -1327,14 +1307,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.333992,
-          47.5723419
+          -122.334297,
+          47.585762
         ]
       },
       "properties": {
         "alert_id": "1_88622",
-        "stop_id": "15190",
-        "stop_name": "1st Ave S & S Spokane St",
+        "stop_id": "15202",
+        "stop_name": "1st Ave S & S Holgate St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
@@ -1347,13 +1327,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334297,
-          47.5836525
+          -122.334106,
+          47.5842438
         ]
       },
       "properties": {
         "alert_id": "1_88622",
-        "stop_id": "15211",
+        "stop_id": "15212",
         "stop_name": "1st Ave S & S Walker St",
         "alert_type": "Route Change",
         "status": "upcoming",
@@ -1375,6 +1355,46 @@
         "alert_id": "1_88622",
         "stop_id": "15203",
         "stop_name": "1st Ave S & S Stacy St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\n\n\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334106,
+          47.5759239
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88622",
+        "stop_id": "15205",
+        "stop_name": "1st Ave S & S Hanford St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
+        "description": "Reroute will be in effect on each of the games noted below:\r\n\n\r\nTuesday, August 25 at 9:00 PM-10:00 PM\r\n\n\r\nAffected stops:\r\nStop #15190 1st Ave S & S Spokane St (NB)\r\nStop #15205 1st Ave S & S Hanford St (NB)\r\nStop #15230 1st Ave S & S Lander St (NB)\r\nStop #15206 1st Ave S & S Stacy St (NB)\r\nStop #15212 1st Ave S & S Walker St (NB)\r\nStop #15207 1st Ave S & S Holgate St (NB)\r\nStop #15204 Edgar Martinez Dr S & Occidental Ave S (EB)\r\nStop #15201 1st Ave S & S Atlantic St (SB)\r\nStop #15202 1st Ave S & S Holgate St (SB)\r\nStop #15211 1st Ave S & S Walker St (SB)\r\nStop #15203 1st Ave S & S Stacy St (SB)\r\n\nFor Route 21 to Downtown Seattle get on/off buses at:\r\nStop #15145 SW Spokane St & Chelan Ave SW (EB)\r\nStop #30538 4th Ave S & S Spokane St (NB)\r\nStop #30550 4th Ave S & S Hanford St (NB)\r\nStop #30560 4th Ave S & S Forest St (NB)\r\nStop #30570 4th Ave S & S Lander St (NB)\r\nStop #30590 4th Ave S & S Walker St (NB)\r\nStop #30600 4th Ave S & S Holgate St (NB)\r\nStop #30635 4th Ave S & S Royal Brougham Way (NB)\r\n\nFor Route 21 to Westwood Village get on/off buses at:\r\nStop #515 3rd Ave S & S Main St (SB)\r\nStop #30670 4th Ave S & Edgar Martinez Dr S (SB)\r\nStop #30690 4th Ave S & S Holgate St (SB)\r\nStop #30700 4th Ave S & S Walker St (SB)\r\nStop #15380 1st Ave S & S Lander St (SB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/21/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333992,
+          47.5723419
+        ]
+      },
+      "properties": {
+        "alert_id": "1_88622",
+        "stop_id": "15190",
+        "stop_name": "1st Ave S & S Spokane St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 21 will be affected in both directions after all Mariners home games; stops on portions of 1st Ave S will not be served; use alternate stops on 4th Ave S instead.",
@@ -1707,26 +1727,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.135582,
-          47.6028709
-        ]
-      },
-      "properties": {
-        "alert_id": "1_89000",
-        "stop_id": "68670",
-        "stop_name": "Lake Hills Blvd & 154th Ave SE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Thu Aug 28 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.142807,
           47.5981712
         ]
@@ -1767,14 +1767,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.142029,
-          47.5987816
+          -122.142479,
+          47.5969696
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68640",
-        "stop_name": "Lake Hills Blvd & 148th Ave SE",
+        "stop_id": "68630",
+        "stop_name": "148th Ave SE & SE 16th St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Thu Aug 28 due to construction.",
@@ -1787,14 +1787,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.140152,
-          47.6004448
+          -122.135582,
+          47.6028709
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68650",
-        "stop_name": "Lake Hills Blvd & SE 12th Pl",
+        "stop_id": "68670",
+        "stop_name": "Lake Hills Blvd & 154th Ave SE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Thu Aug 28 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE just south of SE 11th St (SB)\r\nThe temporary stop on SE 16th St just west 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.142029,
+          47.5987816
+        ]
+      },
+      "properties": {
+        "alert_id": "1_89000",
+        "stop_id": "68640",
+        "stop_name": "Lake Hills Blvd & 148th Ave SE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Thu Aug 28 due to construction.",
@@ -1827,14 +1847,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.142479,
-          47.5969696
+          -122.140152,
+          47.6004448
         ]
       },
       "properties": {
         "alert_id": "1_89000",
-        "stop_id": "68630",
-        "stop_name": "148th Ave SE & SE 16th St",
+        "stop_id": "68650",
+        "stop_name": "Lake Hills Blvd & SE 12th Pl",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Tue Jun 9 through Thu Aug 28 due to construction.",
@@ -2127,6 +2147,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.036499,
+          47.5368423
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92285",
+        "stop_id": "64554",
+        "stop_name": "Front St N & NW Holly St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 271 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
+        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.036583,
           47.5321274
         ]
@@ -2167,26 +2207,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.036499,
-          47.5368423
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92285",
-        "stop_id": "64554",
-        "stop_name": "Front St N & NW Holly St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 271 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
-        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 271 to Issaquah TC get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 271 to University District get on/off at:\r\nStop #65092 Newport Way SW & W Sunset Way (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/271/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.036377,
           47.5321922
         ]
@@ -2207,13 +2227,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.036339,
-          47.5342865
+          -122.036537,
+          47.5342369
         ]
       },
       "properties": {
         "alert_id": "1_92285",
-        "stop_id": "64548",
+        "stop_id": "81692",
         "stop_name": "Front St N & NE Dogwood St",
         "alert_type": "Route Change",
         "status": "upcoming",
@@ -2227,13 +2247,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.036537,
-          47.5342369
+          -122.036339,
+          47.5342865
         ]
       },
       "properties": {
         "alert_id": "1_92285",
-        "stop_id": "81692",
+        "stop_id": "64548",
         "stop_name": "Front St N & NE Dogwood St",
         "alert_type": "Route Change",
         "status": "upcoming",
@@ -2460,6 +2480,26 @@
         "header": "Stop #16330 Meridian Ave N & N 150th St (SB) closed through Sat Aug 29 due to construction.",
         "description": "Affected routes:\r\n333\r\n365\r\n989\r\n\nGet on/off at:\r\nThe temporary stop located on Meridian Ave N just north of N 150th St (SB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/8722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.407677,
+          47.5801201
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93609",
+        "stop_id": "32420",
+        "stop_name": "Alki Ave SW & 59th Ave SW",
+        "alert_type": "Stop Closure",
+        "status": "upcoming",
+        "header": "Stop #32420 Alki Ave SW & 59th Ave SW (NB) closed from 9:00 AM to 3:00 PM on Wed Aug 26 due to construction.",
+        "description": "Affected routes:\r\n775\r\n\nGet on/off at:\r\nStop #14960 Alki Ave SW & 61st Ave SW (NB)\r\nStop #32421 Alki Ave SW & 57th Ave SW (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/4593"
       }
     },
     {
@@ -2756,7 +2796,7 @@
         "stop_id": "28370",
         "stop_name": "NW 36th St & 1st Ave NW",
         "alert_type": "Stop Relocation",
-        "status": "upcoming",
+        "status": "ongoing",
         "header": "Stop #28370 NW 36th St & 1st Ave NW (WB) relocated from 9:00 AM to 3:00 PM on Tue Aug 25 due to construction.",
         "description": "Affected routes:\r\n40\r\n\nGet on/off at:\r\nStop #26862 Fremont Pl N & N 36th St (WB)\r\nThe temporary stop on NW Leary Wy, just east of NW 39th St (WB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/2749"
@@ -2807,14 +2847,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202324,
-          47.4915848
+          -122.202087,
+          47.4887085
         ]
       },
       "properties": {
         "alert_id": "1_93527",
-        "stop_id": "45230",
-        "stop_name": "Park Ave N & N 6th St",
+        "stop_id": "46510",
+        "stop_name": "Park Ave N & N 4th St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 240 will be rerouted off Park Ave N between N 3rd St & N 6th St from Sat Aug 22 to Sun Aug 30 7:00 AM to 5:00 PM daily weekends only, due to construction.",
@@ -2827,14 +2867,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202087,
-          47.4887085
+          -122.202324,
+          47.4915848
         ]
       },
       "properties": {
         "alert_id": "1_93527",
-        "stop_id": "46510",
-        "stop_name": "Park Ave N & N 4th St",
+        "stop_id": "45230",
+        "stop_name": "Park Ave N & N 6th St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 240 will be rerouted off Park Ave N between N 3rd St & N 6th St from Sat Aug 22 to Sun Aug 30 7:00 AM to 5:00 PM daily weekends only, due to construction.",
@@ -2876,7 +2916,7 @@
         "stop_id": "23030",
         "stop_name": "35th Ave SW & SW Thistle St",
         "alert_type": "Stop Closure",
-        "status": "upcoming",
+        "status": "ongoing",
         "header": "Stop #23030 35th Ave SW & SW Thistle St (SB) closed from 9:00 AM to 3:00 PM on Tue Aug 25 due to construction.",
         "description": "Affected routes:\r\n21\r\n\nGet on/off at:\r\nStop #23020 35th Ave SW & SW Elmgrove St (SB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/2692"
@@ -2927,26 +2967,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.212349,
-          47.4420204
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91660",
-        "stop_id": "60361",
-        "stop_name": "Talbot Rd S & S Carr Rd",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Stop #59949 Talbot Rd S & S Carr Rd (SB) and Stop #60361 Talbot Rd S & S Carr Rd (NB) closed from Mon Jul 20 through Sat Aug 29.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #59948 Talbot Rd S & S 177th St (SB)\r\nStop #59370 S Carr Rd & Talbot Rd S (EB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #60350 SE Carr Rd & 98th Ave S (WB)\r\nThe temporary stop on Talbot Rd S just north of the closed stop (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.212471,
           47.4421959
         ]
@@ -2967,6 +2987,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.212349,
+          47.4420204
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91660",
+        "stop_id": "60361",
+        "stop_name": "Talbot Rd S & S Carr Rd",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Stop #59949 Talbot Rd S & S Carr Rd (SB) and Stop #60361 Talbot Rd S & S Carr Rd (NB) closed from Mon Jul 20 through Sat Aug 29.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #59948 Talbot Rd S & S 177th St (SB)\r\nStop #59370 S Carr Rd & Talbot Rd S (EB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #60350 SE Carr Rd & 98th Ave S (WB)\r\nThe temporary stop on Talbot Rd S just north of the closed stop (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.036499,
+          47.5368423
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92275",
+        "stop_id": "64554",
+        "stop_name": "Front St N & NW Holly St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
+        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 208 to North Bend get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 208 to Issaquah get on/off at:\r\nStop #80484 Front St S & SE Andrews St (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/208/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.036339,
           47.5342865
         ]
@@ -2974,6 +3034,46 @@
       "properties": {
         "alert_id": "1_92275",
         "stop_id": "64548",
+        "stop_name": "Front St N & NE Dogwood St",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
+        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 208 to North Bend get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 208 to Issaquah get on/off at:\r\nStop #80484 Front St S & SE Andrews St (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/208/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.036324,
+          47.5360336
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92275",
+        "stop_id": "81704",
+        "stop_name": "Front St N & NE Crescent Dr",
+        "alert_type": "Route Change",
+        "status": "upcoming",
+        "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
+        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 208 to North Bend get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 208 to Issaquah get on/off at:\r\nStop #80484 Front St S & SE Andrews St (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/208/E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.036537,
+          47.5342369
+        ]
+      },
+      "properties": {
+        "alert_id": "1_92275",
+        "stop_id": "81692",
         "stop_name": "Front St N & NE Dogwood St",
         "alert_type": "Route Change",
         "status": "upcoming",
@@ -3035,66 +3135,6 @@
         "alert_id": "1_92275",
         "stop_id": "64540",
         "stop_name": "Front St N & NE Alder St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
-        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 208 to North Bend get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 208 to Issaquah get on/off at:\r\nStop #80484 Front St S & SE Andrews St (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/208/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.036537,
-          47.5342369
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92275",
-        "stop_id": "81692",
-        "stop_name": "Front St N & NE Dogwood St",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
-        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 208 to North Bend get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 208 to Issaquah get on/off at:\r\nStop #80484 Front St S & SE Andrews St (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/208/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.036324,
-          47.5360336
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92275",
-        "stop_id": "81704",
-        "stop_name": "Front St N & NE Crescent Dr",
-        "alert_type": "Route Change",
-        "status": "upcoming",
-        "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
-        "description": "Affected stops:\r\nStop #64554 Front St N & NW Holly St (SB)\r\nStop #64456 Front St N & NE Crescent Dr (SB)\r\nStop #81692 Front St N & NE Dogwood St (SB)\r\nStop #65090 Front St N & NE Alder St (SB)\r\nStop #64540 Front St N & NE Alder St (NB)\r\nStop #64548 Front St N & NE Dogwood St (NB)\r\nStop #81704 Front St N & NE Crescent Dr (NB)\r\n\nFor Route 208 to North Bend get on/off at:\r\nStop #64568 NW Gilman Blvd & Rainier Blvd N (EB)\r\nStop #80486 Front St S & E Sunset Way (SB)\r\n\nFor Route 208 to Issaquah get on/off at:\r\nStop #80484 Front St S & SE Andrews St (NB)\r\nStop #64572 NW Gilman Blvd & NW Juniper St (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/208/E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.036499,
-          47.5368423
-        ]
-      },
-      "properties": {
-        "alert_id": "1_92275",
-        "stop_id": "64554",
-        "stop_name": "Front St N & NW Holly St",
         "alert_type": "Route Change",
         "status": "upcoming",
         "header": "Route 208 will be rerouted off Front St N from Sat Aug 1 to Sun Aug 30 every Saturday and Sunday from 8:00 AM to 10:00 PM during the Front Street Eatery.",
@@ -3467,46 +3507,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.193909,
-          47.6154938
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91574",
-        "stop_id": "68006",
-        "stop_name": "Bellevue Transit Center - Bay 6",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 271, ST 550, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Mon Jul 27 through Fri Aug 28 due to construction.",
-        "description": "Affected stops:\r\nStop #68005 Bellevue Transit Center - Bay 5 (EB)\r\nStop #68007 Bellevue Transit Center Bay 12 (NB)\r\nStop #67652 Bellevue Transit Center - Bay 9 (WB)\r\nStop #68006 Bellevue Transit Center - Bay 6\r\n\nGet on/off at:\r\nFor Route 271 and ST 556 to University District:\r\nThe temporary stop on NE 6th St, just east of 110th Ave NE (WB)\r\n\nFor Route 271 to Eastgate P&R:\r\nStop #73049 NE 8th St & 106th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 556 to Issaquah and Route 566 to Auburn:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 550 to Seattle:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\nStop #85640 NE 4th St & 108th Ave NE (WB)\r\n\nFor Route 550 to Bellevue:\r\nStop #68042 NE 4th St & 105th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just north of NE 6th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.19426,
-          47.6155014
-        ]
-      },
-      "properties": {
-        "alert_id": "1_91574",
-        "stop_id": "68005",
-        "stop_name": "Bellevue Transit Center - Bay 5",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 271, ST 550, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Mon Jul 27 through Fri Aug 28 due to construction.",
-        "description": "Affected stops:\r\nStop #68005 Bellevue Transit Center - Bay 5 (EB)\r\nStop #68007 Bellevue Transit Center Bay 12 (NB)\r\nStop #67652 Bellevue Transit Center - Bay 9 (WB)\r\nStop #68006 Bellevue Transit Center - Bay 6\r\n\nGet on/off at:\r\nFor Route 271 and ST 556 to University District:\r\nThe temporary stop on NE 6th St, just east of 110th Ave NE (WB)\r\n\nFor Route 271 to Eastgate P&R:\r\nStop #73049 NE 8th St & 106th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 556 to Issaquah and Route 566 to Auburn:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 550 to Seattle:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\nStop #85640 NE 4th St & 108th Ave NE (WB)\r\n\nFor Route 550 to Bellevue:\r\nStop #68042 NE 4th St & 105th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just north of NE 6th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.19619,
           47.6153603
         ]
@@ -3515,6 +3515,26 @@
         "alert_id": "1_91574",
         "stop_id": "68007",
         "stop_name": "Bellevue Transit Center - Bay 12",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 271, ST 550, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Mon Jul 27 through Fri Aug 28 due to construction.",
+        "description": "Affected stops:\r\nStop #68005 Bellevue Transit Center - Bay 5 (EB)\r\nStop #68007 Bellevue Transit Center Bay 12 (NB)\r\nStop #67652 Bellevue Transit Center - Bay 9 (WB)\r\nStop #68006 Bellevue Transit Center - Bay 6\r\n\nGet on/off at:\r\nFor Route 271 and ST 556 to University District:\r\nThe temporary stop on NE 6th St, just east of 110th Ave NE (WB)\r\n\nFor Route 271 to Eastgate P&R:\r\nStop #73049 NE 8th St & 106th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 556 to Issaquah and Route 566 to Auburn:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 550 to Seattle:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\nStop #85640 NE 4th St & 108th Ave NE (WB)\r\n\nFor Route 550 to Bellevue:\r\nStop #68042 NE 4th St & 105th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just north of NE 6th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.193909,
+          47.6154938
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91574",
+        "stop_id": "68006",
+        "stop_name": "Bellevue Transit Center - Bay 6",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 271, ST 550, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Mon Jul 27 through Fri Aug 28 due to construction.",
@@ -3547,6 +3567,86 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.19426,
+          47.6155014
+        ]
+      },
+      "properties": {
+        "alert_id": "1_91574",
+        "stop_id": "68005",
+        "stop_name": "Bellevue Transit Center - Bay 5",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 271, ST 550, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Mon Jul 27 through Fri Aug 28 due to construction.",
+        "description": "Affected stops:\r\nStop #68005 Bellevue Transit Center - Bay 5 (EB)\r\nStop #68007 Bellevue Transit Center Bay 12 (NB)\r\nStop #67652 Bellevue Transit Center - Bay 9 (WB)\r\nStop #68006 Bellevue Transit Center - Bay 6\r\n\nGet on/off at:\r\nFor Route 271 and ST 556 to University District:\r\nThe temporary stop on NE 6th St, just east of 110th Ave NE (WB)\r\n\nFor Route 271 to Eastgate P&R:\r\nStop #73049 NE 8th St & 106th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 556 to Issaquah and Route 566 to Auburn:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 550 to Seattle:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\nStop #85640 NE 4th St & 108th Ave NE (WB)\r\n\nFor Route 550 to Bellevue:\r\nStop #68042 NE 4th St & 105th Ave NE (EB)\r\nThe temporary stop on 110th Ave NE, just north of NE 6th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.248703,
+          47.7581787
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93590",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "Affected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.248703,
+          47.7581787
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93590",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "Affected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.248703,
+          47.7581787
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93590",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
+        "description": "Affected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.242851,
           47.7572136
         ]
@@ -3627,46 +3727,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93590",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "Affected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93590",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "Affected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.242851,
           47.7572136
         ]
@@ -3675,26 +3735,6 @@
         "alert_id": "1_93590",
         "stop_id": "76880",
         "stop_name": "NE Bothell Way & 73rd Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
-        "description": "Affected routes:\r\n322\r\n331\r\n372\r\n981\r\nST 522\r\n\nRoutes 372, 981 & ST 522 get on/off:\r\nThe temporary stop on NE Bothell Way just east of the regular stop (EB)\r\n\nRoute 322 and 331 to Kenmore P&R get on/off:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93590",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
         "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22 through Wed April 21, 2027 due to construction.",
