@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-01T01:26:34.291345+00:00",
+  "generated_at": "2026-09-01T06:42:27.011804+00:00",
   "features": [
     {
       "type": "Feature",
@@ -147,14 +147,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.218773,
-          47.6401787
+          -122.218277,
+          47.6400909
         ]
       },
       "properties": {
         "alert_id": "1_93864",
-        "stop_id": "71356",
-        "stop_name": "Sr 520 & 92nd Avenue Northeast",
+        "stop_id": "71359",
+        "stop_name": "Sr 520 & 92nd Ave NE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Beginning Sat Aug 29, the new Route 270 starts service but will not use stops #71359 SR 520 & 92nd Ave NE (EB) and #71356 SR 520 & 92nd Ave NE (WB).",
@@ -167,14 +167,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.218277,
-          47.6400909
+          -122.218773,
+          47.6401787
         ]
       },
       "properties": {
         "alert_id": "1_93864",
-        "stop_id": "71359",
-        "stop_name": "Sr 520 & 92nd Ave NE",
+        "stop_id": "71356",
+        "stop_name": "Sr 520 & 92nd Avenue Northeast",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Beginning Sat Aug 29, the new Route 270 starts service but will not use stops #71359 SR 520 & 92nd Ave NE (EB) and #71356 SR 520 & 92nd Ave NE (WB).",
@@ -207,13 +207,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.249161,
-          47.4936752
+          -122.248947,
+          47.4939957
         ]
       },
       "properties": {
         "alert_id": "1_91687",
-        "stop_id": "55373",
+        "stop_id": "55376",
         "stop_name": "68th Ave S & S 122nd St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -227,13 +227,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.248947,
-          47.4939957
+          -122.249161,
+          47.4936752
         ]
       },
       "properties": {
         "alert_id": "1_91687",
-        "stop_id": "55376",
+        "stop_id": "55373",
         "stop_name": "68th Ave S & S 122nd St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -387,14 +387,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.193909,
-          47.6154938
+          -122.19426,
+          47.6155014
         ]
       },
       "properties": {
         "alert_id": "1_93543",
-        "stop_id": "68006",
-        "stop_name": "Bellevue Transit Center - Bay 6",
+        "stop_id": "68005",
+        "stop_name": "Bellevue Transit Center - Bay 5",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Routes 220, 240, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Sat Aug 29 through Sun Dec 20 due to construction.",
@@ -447,14 +447,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.19426,
-          47.6155014
+          -122.193909,
+          47.6154938
         ]
       },
       "properties": {
         "alert_id": "1_93543",
-        "stop_id": "68005",
-        "stop_name": "Bellevue Transit Center - Bay 5",
+        "stop_id": "68006",
+        "stop_name": "Bellevue Transit Center - Bay 6",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Routes 220, 240, ST 556 and ST 566 will be rerouted around Bellevue Transit Center from Sat Aug 29 through Sun Dec 20 due to construction.",
@@ -487,14 +487,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.238029,
-          47.3831062
+          -122.240036,
+          47.3831444
         ]
       },
       "properties": {
         "alert_id": "1_93867",
-        "stop_id": "57187",
-        "stop_name": "W Smith St & 4th Ave N",
+        "stop_id": "79215",
+        "stop_name": "W Smith St & 6th Ave N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 164 to Kent Station is rerouted off portions of W Smith St and W Meeker St between 4th Ave N and Washington Ave N from Sat Aug 29 through Fri Dec 24, 2027 due to construction.",
@@ -507,14 +507,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.240036,
-          47.3831444
+          -122.238029,
+          47.3831062
         ]
       },
       "properties": {
         "alert_id": "1_93867",
-        "stop_id": "79215",
-        "stop_name": "W Smith St & 6th Ave N",
+        "stop_id": "57187",
+        "stop_name": "W Smith St & 4th Ave N",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 164 to Kent Station is rerouted off portions of W Smith St and W Meeker St between 4th Ave N and Washington Ave N from Sat Aug 29 through Fri Dec 24, 2027 due to construction.",
@@ -707,6 +707,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.248703,
+          47.7581787
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93860",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22, 2026 through Thu April 22, 2027 due to construction.",
+        "description": "Affected routes:\r\n322\r\n331\r\n981\r\nST 522\r\n\nGet on/off:\r\nRoutes 331 to UW Bothell, 981 to Mercer Island and ST 522 to Woodinville:\r\nThe temporary stop on NE Bothell Way, just east of the regular stop (EB)\r\n\nRoute 322 to Kenmore P&R:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.248703,
+          47.7581787
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93860",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22, 2026 through Thu April 22, 2027 due to construction.",
+        "description": "Affected routes:\r\n322\r\n331\r\n981\r\nST 522\r\n\nGet on/off:\r\nRoutes 331 to UW Bothell, 981 to Mercer Island and ST 522 to Woodinville:\r\nThe temporary stop on NE Bothell Way, just east of the regular stop (EB)\r\n\nRoute 322 to Kenmore P&R:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.248703,
+          47.7581787
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93860",
+        "stop_id": "76870",
+        "stop_name": "NE Bothell Way & 68th Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22, 2026 through Thu April 22, 2027 due to construction.",
+        "description": "Affected routes:\r\n322\r\n331\r\n981\r\nST 522\r\n\nGet on/off:\r\nRoutes 331 to UW Bothell, 981 to Mercer Island and ST 522 to Woodinville:\r\nThe temporary stop on NE Bothell Way, just east of the regular stop (EB)\r\n\nRoute 322 to Kenmore P&R:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.242851,
           47.7572136
         ]
@@ -727,66 +787,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93860",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22, 2026 through Thu April 22, 2027 due to construction.",
-        "description": "Affected routes:\r\n322\r\n331\r\n981\r\nST 522\r\n\nGet on/off:\r\nRoutes 331 to UW Bothell, 981 to Mercer Island and ST 522 to Woodinville:\r\nThe temporary stop on NE Bothell Way, just east of the regular stop (EB)\r\n\nRoute 322 to Kenmore P&R:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93860",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22, 2026 through Thu April 22, 2027 due to construction.",
-        "description": "Affected routes:\r\n322\r\n331\r\n981\r\nST 522\r\n\nGet on/off:\r\nRoutes 331 to UW Bothell, 981 to Mercer Island and ST 522 to Woodinville:\r\nThe temporary stop on NE Bothell Way, just east of the regular stop (EB)\r\n\nRoute 322 to Kenmore P&R:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.248703,
-          47.7581787
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93860",
-        "stop_id": "76870",
-        "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22, 2026 through Thu April 22, 2027 due to construction.",
-        "description": "Affected routes:\r\n322\r\n331\r\n981\r\nST 522\r\n\nGet on/off:\r\nRoutes 331 to UW Bothell, 981 to Mercer Island and ST 522 to Woodinville:\r\nThe temporary stop on NE Bothell Way, just east of the regular stop (EB)\r\n\nRoute 322 to Kenmore P&R:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.309937,
           47.3865929
         ]
@@ -794,86 +794,6 @@
       "properties": {
         "alert_id": "1_82885",
         "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.308136,
-          47.3909111
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48974",
-        "stop_name": "Kent Des Moines Rd & 20th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.312439,
-          47.3867798
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "47280",
-        "stop_name": "S 240th St & 16th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.311783,
-          47.3866272
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48920",
-        "stop_name": "S 240th St & 17th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.310036,
-          47.3867302
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "47275",
         "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -907,6 +827,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.308136,
+          47.3909111
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48974",
+        "stop_name": "Kent Des Moines Rd & 20th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.31189,
           47.3907471
         ]
@@ -915,6 +855,66 @@
         "alert_id": "1_82885",
         "stop_id": "50468",
         "stop_name": "16th Ave S & 17th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310036,
+          47.3867302
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311783,
+          47.3866272
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48920",
+        "stop_name": "S 240th St & 17th Ave S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.312439,
+          47.3867798
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "47280",
+        "stop_name": "S 240th St & 16th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
@@ -1487,34 +1487,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.324142,
-          47.7413864
+          -122.323792,
+          47.741066
         ]
       },
       "properties": {
         "alert_id": "1_93887",
-        "stop_id": "97137",
-        "stop_name": "NE 155th St & 5th Ave NE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
-        "description": "Affected stops:\r\nStop #81302 5th Ave NE & NE 152nd St (NB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #81254 5th Ave NE & NE 152nd St (SB)\r\n\nFor Route 333 to Mountlake Terrace Station get on/off at:\r\nStop #81301 Shoreline South/148th Station - Bay 2 (SB)\r\nStop #75340 N 145th St & Meridian Ave N (WB)\r\n\nFor Route 333 to Shoreline South/148th St Station get on/off at:\r\nStop #75210 N 145th St & Courtland Pl N (EB)\r\nStop #81299 Shoreline South/148th Station - Bay 1 (WB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334473,
-          47.7375755
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93887",
-        "stop_id": "16330",
-        "stop_name": "Meridian Ave N & N 150th St",
+        "stop_id": "81252",
+        "stop_name": "5th Ave NE & NE 155th St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
@@ -1547,26 +1527,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334579,
-          47.7411003
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93887",
-        "stop_id": "16327",
-        "stop_name": "Meridian Ave N & N 155th St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
-        "description": "Affected stops:\r\nStop #81302 5th Ave NE & NE 152nd St (NB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #81254 5th Ave NE & NE 152nd St (SB)\r\n\nFor Route 333 to Mountlake Terrace Station get on/off at:\r\nStop #81301 Shoreline South/148th Station - Bay 2 (SB)\r\nStop #75340 N 145th St & Meridian Ave N (WB)\r\n\nFor Route 333 to Shoreline South/148th St Station get on/off at:\r\nStop #75210 N 145th St & Courtland Pl N (EB)\r\nStop #81299 Shoreline South/148th Station - Bay 1 (WB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.323532,
           47.7390633
         ]
@@ -1575,86 +1535,6 @@
         "alert_id": "1_93887",
         "stop_id": "81302",
         "stop_name": "5th Ave NE & NE 152nd St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
-        "description": "Affected stops:\r\nStop #81302 5th Ave NE & NE 152nd St (NB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #81254 5th Ave NE & NE 152nd St (SB)\r\n\nFor Route 333 to Mountlake Terrace Station get on/off at:\r\nStop #81301 Shoreline South/148th Station - Bay 2 (SB)\r\nStop #75340 N 145th St & Meridian Ave N (WB)\r\n\nFor Route 333 to Shoreline South/148th St Station get on/off at:\r\nStop #75210 N 145th St & Courtland Pl N (EB)\r\nStop #81299 Shoreline South/148th Station - Bay 1 (WB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.330467,
-          47.7414551
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93887",
-        "stop_id": "77613",
-        "stop_name": "N 155th St & 1st Ave NE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
-        "description": "Affected stops:\r\nStop #81302 5th Ave NE & NE 152nd St (NB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #81254 5th Ave NE & NE 152nd St (SB)\r\n\nFor Route 333 to Mountlake Terrace Station get on/off at:\r\nStop #81301 Shoreline South/148th Station - Bay 2 (SB)\r\nStop #75340 N 145th St & Meridian Ave N (WB)\r\n\nFor Route 333 to Shoreline South/148th St Station get on/off at:\r\nStop #75210 N 145th St & Courtland Pl N (EB)\r\nStop #81299 Shoreline South/148th Station - Bay 1 (WB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334145,
-          47.7413559
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93887",
-        "stop_id": "77611",
-        "stop_name": "N 155th St & Meridian Ave N",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
-        "description": "Affected stops:\r\nStop #81302 5th Ave NE & NE 152nd St (NB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #81254 5th Ave NE & NE 152nd St (SB)\r\n\nFor Route 333 to Mountlake Terrace Station get on/off at:\r\nStop #81301 Shoreline South/148th Station - Bay 2 (SB)\r\nStop #75340 N 145th St & Meridian Ave N (WB)\r\n\nFor Route 333 to Shoreline South/148th St Station get on/off at:\r\nStop #75210 N 145th St & Courtland Pl N (EB)\r\nStop #81299 Shoreline South/148th Station - Bay 1 (WB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334435,
-          47.7360954
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93887",
-        "stop_id": "16331",
-        "stop_name": "Meridian Ave N & N 148th St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
-        "description": "Affected stops:\r\nStop #81302 5th Ave NE & NE 152nd St (NB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #81254 5th Ave NE & NE 152nd St (SB)\r\n\nFor Route 333 to Mountlake Terrace Station get on/off at:\r\nStop #81301 Shoreline South/148th Station - Bay 2 (SB)\r\nStop #75340 N 145th St & Meridian Ave N (WB)\r\n\nFor Route 333 to Shoreline South/148th St Station get on/off at:\r\nStop #75210 N 145th St & Courtland Pl N (EB)\r\nStop #81299 Shoreline South/148th Station - Bay 1 (WB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.323792,
-          47.741066
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93887",
-        "stop_id": "81252",
-        "stop_name": "5th Ave NE & NE 155th St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
@@ -1687,6 +1567,126 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.334435,
+          47.7360954
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93887",
+        "stop_id": "16331",
+        "stop_name": "Meridian Ave N & N 148th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
+        "description": "Affected stops:\r\nStop #81302 5th Ave NE & NE 152nd St (NB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #81254 5th Ave NE & NE 152nd St (SB)\r\n\nFor Route 333 to Mountlake Terrace Station get on/off at:\r\nStop #81301 Shoreline South/148th Station - Bay 2 (SB)\r\nStop #75340 N 145th St & Meridian Ave N (WB)\r\n\nFor Route 333 to Shoreline South/148th St Station get on/off at:\r\nStop #75210 N 145th St & Courtland Pl N (EB)\r\nStop #81299 Shoreline South/148th Station - Bay 1 (WB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334473,
+          47.7375755
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93887",
+        "stop_id": "16330",
+        "stop_name": "Meridian Ave N & N 150th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
+        "description": "Affected stops:\r\nStop #81302 5th Ave NE & NE 152nd St (NB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #81254 5th Ave NE & NE 152nd St (SB)\r\n\nFor Route 333 to Mountlake Terrace Station get on/off at:\r\nStop #81301 Shoreline South/148th Station - Bay 2 (SB)\r\nStop #75340 N 145th St & Meridian Ave N (WB)\r\n\nFor Route 333 to Shoreline South/148th St Station get on/off at:\r\nStop #75210 N 145th St & Courtland Pl N (EB)\r\nStop #81299 Shoreline South/148th Station - Bay 1 (WB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.324142,
+          47.7413864
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93887",
+        "stop_id": "97137",
+        "stop_name": "NE 155th St & 5th Ave NE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
+        "description": "Affected stops:\r\nStop #81302 5th Ave NE & NE 152nd St (NB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #81254 5th Ave NE & NE 152nd St (SB)\r\n\nFor Route 333 to Mountlake Terrace Station get on/off at:\r\nStop #81301 Shoreline South/148th Station - Bay 2 (SB)\r\nStop #75340 N 145th St & Meridian Ave N (WB)\r\n\nFor Route 333 to Shoreline South/148th St Station get on/off at:\r\nStop #75210 N 145th St & Courtland Pl N (EB)\r\nStop #81299 Shoreline South/148th Station - Bay 1 (WB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334145,
+          47.7413559
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93887",
+        "stop_id": "77611",
+        "stop_name": "N 155th St & Meridian Ave N",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
+        "description": "Affected stops:\r\nStop #81302 5th Ave NE & NE 152nd St (NB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #81254 5th Ave NE & NE 152nd St (SB)\r\n\nFor Route 333 to Mountlake Terrace Station get on/off at:\r\nStop #81301 Shoreline South/148th Station - Bay 2 (SB)\r\nStop #75340 N 145th St & Meridian Ave N (WB)\r\n\nFor Route 333 to Shoreline South/148th St Station get on/off at:\r\nStop #75210 N 145th St & Courtland Pl N (EB)\r\nStop #81299 Shoreline South/148th Station - Bay 1 (WB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330467,
+          47.7414551
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93887",
+        "stop_id": "77613",
+        "stop_name": "N 155th St & 1st Ave NE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
+        "description": "Affected stops:\r\nStop #81302 5th Ave NE & NE 152nd St (NB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #81254 5th Ave NE & NE 152nd St (SB)\r\n\nFor Route 333 to Mountlake Terrace Station get on/off at:\r\nStop #81301 Shoreline South/148th Station - Bay 2 (SB)\r\nStop #75340 N 145th St & Meridian Ave N (WB)\r\n\nFor Route 333 to Shoreline South/148th St Station get on/off at:\r\nStop #75210 N 145th St & Courtland Pl N (EB)\r\nStop #81299 Shoreline South/148th Station - Bay 1 (WB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334579,
+          47.7411003
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93887",
+        "stop_id": "16327",
+        "stop_name": "Meridian Ave N & N 155th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Beginning Sat Aug 29, Route 333 will operate on N 145th St and no longer service stops on 5th Ave NE, N 155th St, or Meridian Ave N.",
+        "description": "Affected stops:\r\nStop #81302 5th Ave NE & NE 152nd St (NB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #81254 5th Ave NE & NE 152nd St (SB)\r\n\nFor Route 333 to Mountlake Terrace Station get on/off at:\r\nStop #81301 Shoreline South/148th Station - Bay 2 (SB)\r\nStop #75340 N 145th St & Meridian Ave N (WB)\r\n\nFor Route 333 to Shoreline South/148th St Station get on/off at:\r\nStop #75210 N 145th St & Courtland Pl N (EB)\r\nStop #81299 Shoreline South/148th Station - Bay 1 (WB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/333/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.32946,
           47.7413063
         ]
@@ -1707,13 +1707,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.229996,
-          47.3645096
+          -122.229797,
+          47.3636665
         ]
       },
       "properties": {
         "alert_id": "1_91625",
-        "stop_id": "58210",
+        "stop_id": "57960",
         "stop_name": "Central Ave S & S 266th St",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -1727,13 +1727,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.229797,
-          47.3636665
+          -122.229996,
+          47.3645096
         ]
       },
       "properties": {
         "alert_id": "1_91625",
-        "stop_id": "57960",
+        "stop_id": "58210",
         "stop_name": "Central Ave S & S 266th St",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -1827,14 +1827,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334297,
-          47.7381516
+          -122.330467,
+          47.7414551
         ]
       },
       "properties": {
         "alert_id": "1_93882",
-        "stop_id": "16329",
-        "stop_name": "Meridian Ave N & N 150th St",
+        "stop_id": "77613",
+        "stop_name": "N 155th St & 1st Ave NE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Beginning Sat Aug 29, Route 365 will operate on N 145th St and no longer service stops on N 155th St or stops on Meridian Ave N that are north of N 145th St.",
+        "description": "Affected stops:\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\n\nFor Route 365 to Shoreline get on/off at:\r\nStop #16570 Meridian Ave N & N 145th St (NB)\r\nStop #77780 5th Ave NE & NE 155th St (NB)\r\n\nFor Route 365 to Northgate Station get on/off at:\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #16800 Meridian Ave N & N 145th St (SB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/365/s"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32946,
+          47.7413063
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93882",
+        "stop_id": "77616",
+        "stop_name": "NE 155th St & 1st Ave NE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Beginning Sat Aug 29, Route 365 will operate on N 145th St and no longer service stops on N 155th St or stops on Meridian Ave N that are north of N 145th St.",
@@ -1887,46 +1907,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.32946,
-          47.7413063
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93882",
-        "stop_id": "77616",
-        "stop_name": "NE 155th St & 1st Ave NE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Beginning Sat Aug 29, Route 365 will operate on N 145th St and no longer service stops on N 155th St or stops on Meridian Ave N that are north of N 145th St.",
-        "description": "Affected stops:\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\n\nFor Route 365 to Shoreline get on/off at:\r\nStop #16570 Meridian Ave N & N 145th St (NB)\r\nStop #77780 5th Ave NE & NE 155th St (NB)\r\n\nFor Route 365 to Northgate Station get on/off at:\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #16800 Meridian Ave N & N 145th St (SB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/365/s"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.334473,
-          47.7375755
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93882",
-        "stop_id": "16330",
-        "stop_name": "Meridian Ave N & N 150th St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Beginning Sat Aug 29, Route 365 will operate on N 145th St and no longer service stops on N 155th St or stops on Meridian Ave N that are north of N 145th St.",
-        "description": "Affected stops:\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\n\nFor Route 365 to Shoreline get on/off at:\r\nStop #16570 Meridian Ave N & N 145th St (NB)\r\nStop #77780 5th Ave NE & NE 155th St (NB)\r\n\nFor Route 365 to Northgate Station get on/off at:\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #16800 Meridian Ave N & N 145th St (SB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/365/s"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.334435,
           47.7360954
         ]
@@ -1947,14 +1927,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.330467,
-          47.7414551
+          -122.334297,
+          47.7381516
         ]
       },
       "properties": {
         "alert_id": "1_93882",
-        "stop_id": "77613",
-        "stop_name": "N 155th St & 1st Ave NE",
+        "stop_id": "16329",
+        "stop_name": "Meridian Ave N & N 150th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Beginning Sat Aug 29, Route 365 will operate on N 145th St and no longer service stops on N 155th St or stops on Meridian Ave N that are north of N 145th St.",
+        "description": "Affected stops:\r\nStop #16329 Meridian Ave N & N 150th St (NB)\r\nStop #77611 N 155th St & Meridian Ave N (EB)\r\nStop #77616 NE 155th St & 1st Ave NE (EB)\r\nStop #97137 NE 155th St & 5th Ave NE (WB)\r\nStop #77613 N 155th St & 1st Ave NE (WB)\r\nStop #16327 Meridian Ave N & N 155th St (SB)\r\nStop #16330 Meridian Ave N & N 150th St (SB)\r\nStop #16331 Meridian Ave N & N 148th St (SB)\r\n\nFor Route 365 to Shoreline get on/off at:\r\nStop #16570 Meridian Ave N & N 145th St (NB)\r\nStop #77780 5th Ave NE & NE 155th St (NB)\r\n\nFor Route 365 to Northgate Station get on/off at:\r\nStop #81252 5th Ave NE & NE 155th St (SB)\r\nStop #16800 Meridian Ave N & N 145th St (SB)\r\n\nThis scheduling data and routing change will be available in Metro\u2019s Trip Planner and third-party transit planning applications after Saturday, September 12. We apologize for the confusion regarding this new service and appreciate your patience as the updated information becomes available.",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/365/s"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334473,
+          47.7375755
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93882",
+        "stop_id": "16330",
+        "stop_name": "Meridian Ave N & N 150th St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Beginning Sat Aug 29, Route 365 will operate on N 145th St and no longer service stops on N 155th St or stops on Meridian Ave N that are north of N 145th St.",
@@ -2267,14 +2267,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.309937,
-          47.3865929
+          -122.311783,
+          47.3866272
         ]
       },
       "properties": {
         "alert_id": "1_93875",
-        "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
+        "stop_id": "48920",
+        "stop_name": "S 240th St & 17th Ave S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 166 is rerouted off S 240th St between 16th Ave S and 20th Ave S from Sat Aug 29 through Thu Dec 31 due to a road closure.",
@@ -2287,13 +2287,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.310036,
-          47.3867302
+          -122.309937,
+          47.3865929
         ]
       },
       "properties": {
         "alert_id": "1_93875",
-        "stop_id": "47275",
+        "stop_id": "48925",
         "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -2327,14 +2327,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.311783,
-          47.3866272
+          -122.310036,
+          47.3867302
         ]
       },
       "properties": {
         "alert_id": "1_93875",
-        "stop_id": "48920",
-        "stop_name": "S 240th St & 17th Ave S",
+        "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 166 is rerouted off S 240th St between 16th Ave S and 20th Ave S from Sat Aug 29 through Thu Dec 31 due to a road closure.",
@@ -2387,26 +2387,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.182899,
-          47.7184486
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93999",
-        "stop_id": "74222",
-        "stop_name": "NE 132nd St & 118th Ave NE",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Routes 225, 239, 255, and DART 930 will be rerouted off NE 128th St between 120th Ave NE & 124th Ave NE from Mon Aug 31 at 7:00 AM to Wed Sep 30 at 6:00 PM due to the Totem Lake TC Closure.",
-        "description": "Affected stops:\r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\nStop #74222 NE 132nd St & 118th Ave NE (WB)\r\nStop #74234 Totem Lake Transit Center - Bay 1 (NB)\r\nStop #74230 Totem Lake Transit Center - Bay 3 (WB)\r\n\nGet on/off at:\r\nRoutes 225 to Kenmore P&R and to Overlake Village Station, 239 to UW Bothell, 255 to Totem Lake TC, and DART 930 to Redmond: \r\nStop #74226 NE 128th St & Totem Lake Blvd (EB)\r\nThe temporary stop on 120th Ave NE, just north of NE 128th St (NB)\r\n\nRoute 239 to Kirkland TC and DART 930 to Kingsgate P&R:\r\nStop #74220 NE 132nd St & 121st Ave NE (WB)\r\nStop #74731 NE 128th St & 120th Ave NE (WB)\r\n\nRoute 255 to University District:\r\nStop #74731 NE 128th St & 120th Ave NE (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.180359,
           47.7145042
         ]
@@ -2447,14 +2427,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.180496,
-          47.7146454
+          -122.180359,
+          47.7145042
         ]
       },
       "properties": {
         "alert_id": "1_93999",
-        "stop_id": "74234",
-        "stop_name": "Totem Lake Transit Center - Bay 1",
+        "stop_id": "74232",
+        "stop_name": "Totem Lake Transit Center - Bay 2",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Routes 225, 239, 255, and DART 930 will be rerouted off NE 128th St between 120th Ave NE & 124th Ave NE from Mon Aug 31 at 7:00 AM to Wed Sep 30 at 6:00 PM due to the Totem Lake TC Closure.",
+        "description": "Affected stops:\r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\nStop #74222 NE 132nd St & 118th Ave NE (WB)\r\nStop #74234 Totem Lake Transit Center - Bay 1 (NB)\r\nStop #74230 Totem Lake Transit Center - Bay 3 (WB)\r\n\nGet on/off at:\r\nRoutes 225 to Kenmore P&R and to Overlake Village Station, 239 to UW Bothell, 255 to Totem Lake TC, and DART 930 to Redmond: \r\nStop #74226 NE 128th St & Totem Lake Blvd (EB)\r\nThe temporary stop on 120th Ave NE, just north of NE 128th St (NB)\r\n\nRoute 239 to Kirkland TC and DART 930 to Kingsgate P&R:\r\nStop #74220 NE 132nd St & 121st Ave NE (WB)\r\nStop #74731 NE 128th St & 120th Ave NE (WB)\r\n\nRoute 255 to University District:\r\nStop #74731 NE 128th St & 120th Ave NE (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.180359,
+          47.7145042
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93999",
+        "stop_id": "74232",
+        "stop_name": "Totem Lake Transit Center - Bay 2",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Routes 225, 239, 255, and DART 930 will be rerouted off NE 128th St between 120th Ave NE & 124th Ave NE from Mon Aug 31 at 7:00 AM to Wed Sep 30 at 6:00 PM due to the Totem Lake TC Closure.",
+        "description": "Affected stops:\r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\nStop #74222 NE 132nd St & 118th Ave NE (WB)\r\nStop #74234 Totem Lake Transit Center - Bay 1 (NB)\r\nStop #74230 Totem Lake Transit Center - Bay 3 (WB)\r\n\nGet on/off at:\r\nRoutes 225 to Kenmore P&R and to Overlake Village Station, 239 to UW Bothell, 255 to Totem Lake TC, and DART 930 to Redmond: \r\nStop #74226 NE 128th St & Totem Lake Blvd (EB)\r\nThe temporary stop on 120th Ave NE, just north of NE 128th St (NB)\r\n\nRoute 239 to Kirkland TC and DART 930 to Kingsgate P&R:\r\nStop #74220 NE 132nd St & 121st Ave NE (WB)\r\nStop #74731 NE 128th St & 120th Ave NE (WB)\r\n\nRoute 255 to University District:\r\nStop #74731 NE 128th St & 120th Ave NE (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.182899,
+          47.7184486
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93999",
+        "stop_id": "74222",
+        "stop_name": "NE 132nd St & 118th Ave NE",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Routes 225, 239, 255, and DART 930 will be rerouted off NE 128th St between 120th Ave NE & 124th Ave NE from Mon Aug 31 at 7:00 AM to Wed Sep 30 at 6:00 PM due to the Totem Lake TC Closure.",
@@ -2507,14 +2527,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.180359,
-          47.7145042
+          -122.180496,
+          47.7146454
         ]
       },
       "properties": {
         "alert_id": "1_93999",
-        "stop_id": "74232",
-        "stop_name": "Totem Lake Transit Center - Bay 2",
+        "stop_id": "74234",
+        "stop_name": "Totem Lake Transit Center - Bay 1",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Routes 225, 239, 255, and DART 930 will be rerouted off NE 128th St between 120th Ave NE & 124th Ave NE from Mon Aug 31 at 7:00 AM to Wed Sep 30 at 6:00 PM due to the Totem Lake TC Closure.",
@@ -2540,126 +2560,6 @@
         "header": "Routes 225, 239, 255, and DART 930 will be rerouted off NE 128th St between 120th Ave NE & 124th Ave NE from Mon Aug 31 at 7:00 AM to Wed Sep 30 at 6:00 PM due to the Totem Lake TC Closure.",
         "description": "Affected stops:\r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\nStop #74222 NE 132nd St & 118th Ave NE (WB)\r\nStop #74234 Totem Lake Transit Center - Bay 1 (NB)\r\nStop #74230 Totem Lake Transit Center - Bay 3 (WB)\r\n\nGet on/off at:\r\nRoutes 225 to Kenmore P&R and to Overlake Village Station, 239 to UW Bothell, 255 to Totem Lake TC, and DART 930 to Redmond: \r\nStop #74226 NE 128th St & Totem Lake Blvd (EB)\r\nThe temporary stop on 120th Ave NE, just north of NE 128th St (NB)\r\n\nRoute 239 to Kirkland TC and DART 930 to Kingsgate P&R:\r\nStop #74220 NE 132nd St & 121st Ave NE (WB)\r\nStop #74731 NE 128th St & 120th Ave NE (WB)\r\n\nRoute 255 to University District:\r\nStop #74731 NE 128th St & 120th Ave NE (WB)",
         "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.180359,
-          47.7145042
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93999",
-        "stop_id": "74232",
-        "stop_name": "Totem Lake Transit Center - Bay 2",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Routes 225, 239, 255, and DART 930 will be rerouted off NE 128th St between 120th Ave NE & 124th Ave NE from Mon Aug 31 at 7:00 AM to Wed Sep 30 at 6:00 PM due to the Totem Lake TC Closure.",
-        "description": "Affected stops:\r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\nStop #74222 NE 132nd St & 118th Ave NE (WB)\r\nStop #74234 Totem Lake Transit Center - Bay 1 (NB)\r\nStop #74230 Totem Lake Transit Center - Bay 3 (WB)\r\n\nGet on/off at:\r\nRoutes 225 to Kenmore P&R and to Overlake Village Station, 239 to UW Bothell, 255 to Totem Lake TC, and DART 930 to Redmond: \r\nStop #74226 NE 128th St & Totem Lake Blvd (EB)\r\nThe temporary stop on 120th Ave NE, just north of NE 128th St (NB)\r\n\nRoute 239 to Kirkland TC and DART 930 to Kingsgate P&R:\r\nStop #74220 NE 132nd St & 121st Ave NE (WB)\r\nStop #74731 NE 128th St & 120th Ave NE (WB)\r\n\nRoute 255 to University District:\r\nStop #74731 NE 128th St & 120th Ave NE (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.135582,
-          47.6028709
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93713",
-        "stop_id": "68670",
-        "stop_name": "Lake Hills Blvd & 154th Ave SE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Sat Aug 29 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE, just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St, just west of 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St, just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St, just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.136032,
-          47.6029015
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93713",
-        "stop_id": "68510",
-        "stop_name": "Lake Hills Blvd & 154th Ave SE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Sat Aug 29 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE, just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St, just west of 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St, just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St, just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.140549,
-          47.6002808
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93713",
-        "stop_id": "68530",
-        "stop_name": "Lake Hills Blvd & SE 12th Pl",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Sat Aug 29 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE, just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St, just west of 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St, just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St, just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.140152,
-          47.6004448
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93713",
-        "stop_id": "68650",
-        "stop_name": "Lake Hills Blvd & SE 12th Pl",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Sat Aug 29 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE, just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St, just west of 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St, just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St, just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.142807,
-          47.5981712
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93713",
-        "stop_id": "68540",
-        "stop_name": "148th Ave SE & Lake Hills Blvd",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Sat Aug 29 through Tue Feb 2 due to construction.",
-        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE, just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St, just west of 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St, just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St, just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
       }
     },
     {
@@ -2695,6 +2595,106 @@
         "alert_id": "1_93713",
         "stop_id": "68630",
         "stop_name": "148th Ave SE & SE 16th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Sat Aug 29 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE, just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St, just west of 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St, just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St, just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.142807,
+          47.5981712
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93713",
+        "stop_id": "68540",
+        "stop_name": "148th Ave SE & Lake Hills Blvd",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Sat Aug 29 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE, just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St, just west of 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St, just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St, just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.135582,
+          47.6028709
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93713",
+        "stop_id": "68670",
+        "stop_name": "Lake Hills Blvd & 154th Ave SE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Sat Aug 29 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE, just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St, just west of 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St, just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St, just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.140152,
+          47.6004448
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93713",
+        "stop_id": "68650",
+        "stop_name": "Lake Hills Blvd & SE 12th Pl",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Sat Aug 29 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE, just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St, just west of 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St, just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St, just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.140549,
+          47.6002808
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93713",
+        "stop_id": "68530",
+        "stop_name": "Lake Hills Blvd & SE 12th Pl",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Sat Aug 29 through Tue Feb 2 due to construction.",
+        "description": "Affected stops:\r\nStop #68510 Lake Hills Blvd & 154th Ave SE (WB)\r\nStop #68530 Lake Hills Blvd & SE 12th Pl (WB)\r\nStop #68540 148th Ave SE & Lake Hills Blvd (SB)\r\nStop #68630 148th Ave SE & SE 16th St (NB)\r\nStop #68640 Lake Hills Blvd & 148th Ave SE (EB)\r\nStop #68650 Lake Hills Blvd & SE 12th Pl (EB)\r\nStop #68670 Lake Hills Blvd & 154th Ave SE (EB)\r\n\nFor Route 223 to Eastgate P&R get on/off at:\r\nStop #68502 156th Ave SE & Lake Hills Blvd (SB)\r\nThe temporary stop on 156th Ave SE, just north of SE 8th St (SB)\r\nThe temporary stop on SE 16th St, just west of 156th Ave SE (WB)\r\nStop #68550 148th Ave SE & SE 16th St (SB)\r\n\nFor Route 223 to Downtown Redmond Station get on/off at:\r\nStop #68620 148th Ave SE & SE 22nd St (NB)\r\nThe temporary stop on SE 16th Ave St, just east of 148th Ave SE (EB)\r\nThe temporary stop on SE 16th Ave St, just west of 156th Ave SE (EB)\r\nStop #68680 156th Ave SE & Lake Hills Blvd (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/223/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.136032,
+          47.6029015
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93713",
+        "stop_id": "68510",
+        "stop_name": "Lake Hills Blvd & 154th Ave SE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Route 223 will be rerouted off Lake Hills Blvd between SE 16th St and 156th Ave SE from Sat Aug 29 through Tue Feb 2 due to construction.",
