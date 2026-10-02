@@ -33,9 +33,13 @@ jobs:
           ref: main
 
       - name: Build site
+        env:
+          CARTO_API_KEY: ${{ secrets.CARTO_API_KEY }}
         run: |
           mkdir _site
-          sed 's|\.\./data/active_alerts\.geojson|data/active_alerts.geojson|g' web/index.html > _site/index.html
+          sed 's|\.\./data/active_alerts\.geojson|data/active_alerts.geojson|g' web/index.html \
+            | sed "s|__CARTO_API_KEY__|${CARTO_API_KEY}|g" \
+            > _site/index.html
           mkdir _site/data
           cp data/active_alerts.geojson _site/data/
 

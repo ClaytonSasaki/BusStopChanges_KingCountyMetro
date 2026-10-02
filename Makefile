@@ -1,5 +1,7 @@
 .PHONY: all fetch serve install fetch-gtfs seed
 
+PORT ?= 8000
+
 all:
 	$(MAKE) -j2 fetch serve
 
@@ -10,7 +12,13 @@ fetch:
 	python worker/fetch_alerts.py
 
 serve:
-	python -m http.server 8000
+	@mkdir -p _site
+	@CARTO_KEY=$$(grep ^CARTO_API_KEY .env | cut -d= -f2-); \
+	sed 's|\.\./data/active_alerts\.geojson|data/active_alerts.geojson|g' web/index.html \
+	  | sed "s|__CARTO_API_KEY__|$$CARTO_KEY|g" \
+	  > _site/index.html
+	@rm -rf _site/data && ln -s ../data _site/data
+	python -m http.server $(PORT) --directory _site
 
 seed:
 	python worker/seed_data.py

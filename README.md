@@ -17,13 +17,15 @@ workflow every 10 minutes.
 - Python 3.11+
 - An [OneBusAway API key](https://onebusaway.org/api-key-request/) for the
   Puget Sound region (`api.pugetsound.onebusaway.org`)
+- A [CARTO API key](https://carto.com/basemaps/apikey/) for the default basemap
+  tiles (Voyager)
 
 ## Local setup
 
 ```bash
-# 1. Copy and fill in your API key
+# 1. Copy and fill in your API keys
 cp .env.example .env
-#    → edit .env and set OBA_API_KEY=<your key>
+#    → edit .env and set OBA_API_KEY=<your key> and CARTO_API_KEY=<your key>
 
 # 2. Install Python dependencies
 make install
@@ -44,13 +46,15 @@ make all
 
 # Or in two separate terminals:
 make fetch   # polls every 10 min, writes data/active_alerts.geojson
-make serve   # serves project root at http://localhost:8000
+make serve   # builds _site/ with your CARTO key, serves at http://localhost:8000
 ```
 
-Open **http://localhost:8000/web/** in a browser.
+Open **http://localhost:8000/** in a browser. `make serve` reads `CARTO_API_KEY`
+from `.env`; `_site/data` is a symlink to `data/`, so new alerts show up on refresh.
 
-**Testing without an API key:** `make seed` writes realistic fake data so you
-can develop against the map UI before your key arrives.
+**Testing without an OBA key:** `make seed` writes realistic fake data so you
+can develop against the map UI before your key arrives. Without a CARTO key,
+switch to the OpenStreetMap layer in the layer control.
 
 ## Architecture
 

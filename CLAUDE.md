@@ -12,7 +12,9 @@ the GTFS-Realtime service alerts feed and joining against static GTFS.
 ## Conventions
 - Python 3.11+, type hints, ruff for linting
 - Use `gtfs-realtime-bindings` for protobuf parsing
-- Keep secrets (OBA API key) in .env, never commit
+- Keep secrets (OBA and CARTO API keys) in .env, never commit. The CARTO key is
+  injected into `web/index.html`'s `__CARTO_API_KEY__` placeholder at build time
+  (`make serve` locally, `pages.yml` on GitHub Pages).
 
 ## GTFS-RT feed URL
 ```
