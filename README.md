@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
 
-Polls King County Metro's GTFS-Realtime service alerts feed every 10 minutes,
+Polls King County Metro's GTFS-Realtime service alerts feed every 30 minutes,
 classifies alerts as **Stop Closure**, **Stop Relocation**, or **Route Change**,
 and displays affected stops on an interactive Leaflet map — including upcoming
 changes as well as ongoing ones.
@@ -10,7 +10,8 @@ changes as well as ongoing ones.
 ## Live map
 
 When hosted on GitHub Pages the map is updated automatically by a GitHub Actions
-workflow every 10 minutes.
+workflow twice an hour, at :25 and :55. These off-peak minutes avoid the busy
+top of the hour on GitHub's scheduler and reduce load on the OneBusAway servers.
 
 ## Prerequisites
 
@@ -45,7 +46,7 @@ make fetch-gtfs
 make all
 
 # Or in two separate terminals:
-make fetch   # polls every 10 min, writes data/active_alerts.geojson
+make fetch   # polls every 30 min, writes data/active_alerts.geojson
 make serve   # builds _site/ with your CARTO key, serves at http://localhost:8000
 ```
 
@@ -64,7 +65,7 @@ See `CLAUDE.md` for full conventions and field-level schema documentation.
 |------|------|
 | `worker/fetch_alerts.py` | GTFS-RT poller — classifies alerts, writes `data/active_alerts.geojson` |
 | `worker/seed_data.py` | Writes fake GeoJSON for UI testing (`make seed`) |
-| `web/index.html` | Leaflet SPA — reads the GeoJSON, auto-refreshes every 10 min |
+| `web/index.html` | Leaflet SPA — reads the GeoJSON, auto-refreshes every 30 min |
 | `data/stops.txt` | Static GTFS stops (downloaded by `make fetch-gtfs`) |
 | `data/active_alerts.geojson` | Latest alert output — committed and served via Pages |
 | `.github/workflows/refresh.yml` | Scheduled Actions workflow — keeps GeoJSON up to date |

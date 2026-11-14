@@ -4,7 +4,7 @@ Tracks temporarily relocated King County Metro bus stops by parsing
 the GTFS-Realtime service alerts feed and joining against static GTFS.
 
 ## Architecture
-- `worker/` — Python script, polls GTFS-RT alerts every 10 min, emits GeoJSON
+- `worker/` — Python script, polls GTFS-RT alerts every 30 min, emits GeoJSON
 - `web/` — static frontend, Leaflet map, reads the GeoJSON
 - `data/` — static GTFS stops + latest GeoJSON output (both tracked in git)
 - `.github/workflows/refresh.yml` — GitHub Actions cron keeps GeoJSON current on Pages
@@ -53,5 +53,5 @@ Top-level field `generated_at` is an ISO-8601 UTC timestamp of the last fetch.
 `os.replace()` so the web server never serves a partial file.
 
 ## Worker flags
-- No flags: infinite poll loop every 10 minutes (local use via `make fetch`)
+- No flags: infinite poll loop every 30 minutes (local use via `make fetch`)
 - `--once`: single fetch then exit (used by GitHub Actions)
