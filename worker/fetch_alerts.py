@@ -22,7 +22,7 @@ ALERTS_URL = (
 )
 STOPS_FILE = Path("data/stops.txt")
 OUTPUT_FILE = Path("data/active_alerts.geojson")
-POLL_INTERVAL = 600  # seconds
+POLL_INTERVAL = 1800  # seconds (30 min)
 
 # KC Metro sends everything as UNKNOWN_EFFECT; filter by these effect values.
 _RELEVANT_EFFECTS = {
