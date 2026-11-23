@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-23T01:52:36.062990+00:00",
+  "generated_at": "2026-11-23T10:04:43.773192+00:00",
   "features": [
     {
       "type": "Feature",
@@ -67,6 +67,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.182899,
+          47.7184486
+        ]
+      },
+      "properties": {
+        "alert_id": "1_97026",
+        "stop_id": "74222",
+        "stop_name": "NE 132nd St & 118th Ave NE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 225 and 239 will be rerouted off NE 132nd St between 111th Ave NE & 120th Ave NE from Mon Oct 26 to Sat Dec 5 9:00 PM to 5:00 AM nightly due to construction.",
+        "description": "Affected stops:\r\nStop #85290 NE 132nd St & 111th Ave NE (EB)\r\nStop #85300 NE 132nd St & 116th Way NE (EB)\r\nStop #74222 NE 132nd St & 118th Ave NE (WB)\r\nStop #85310 NE 132nd St & 114th Pl NE (WB)\r\n\nGet on/off at:\r\nFor Route 225 to Kenmore P&R:\r\nStop #74721 Kingsgate P&R (SB)\r\nStop #85320 NE 132nd St & 111th Ave NE (WB)\r\n\nFor Route 225 to Overlake Village Station:\r\nStop #85280 NE 132nd St & 109th Ave NE (EB)\r\nStop #74721 Kingsgate P&R (SB)\r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\n\nFor Route 239 to Kirkland TC: \r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\nStop #74721 Kingsgate P&R (SB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.193146,
           47.7183952
         ]
@@ -87,14 +107,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.189003,
-          47.7184906
+          -122.193146,
+          47.7183952
         ]
       },
       "properties": {
         "alert_id": "1_97026",
-        "stop_id": "85310",
-        "stop_name": "NE 132nd St & 114th Pl NE",
+        "stop_id": "85290",
+        "stop_name": "NE 132nd St & 111th Ave NE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 225 and 239 will be rerouted off NE 132nd St between 111th Ave NE & 120th Ave NE from Mon Oct 26 to Sat Dec 5 9:00 PM to 5:00 AM nightly due to construction.",
+        "description": "Affected stops:\r\nStop #85290 NE 132nd St & 111th Ave NE (EB)\r\nStop #85300 NE 132nd St & 116th Way NE (EB)\r\nStop #74222 NE 132nd St & 118th Ave NE (WB)\r\nStop #85310 NE 132nd St & 114th Pl NE (WB)\r\n\nGet on/off at:\r\nFor Route 225 to Kenmore P&R:\r\nStop #74721 Kingsgate P&R (SB)\r\nStop #85320 NE 132nd St & 111th Ave NE (WB)\r\n\nFor Route 225 to Overlake Village Station:\r\nStop #85280 NE 132nd St & 109th Ave NE (EB)\r\nStop #74721 Kingsgate P&R (SB)\r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\n\nFor Route 239 to Kirkland TC: \r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\nStop #74721 Kingsgate P&R (SB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.189507,
+          47.7183647
+        ]
+      },
+      "properties": {
+        "alert_id": "1_97026",
+        "stop_id": "85300",
+        "stop_name": "NE 132nd St & 116th Way NE",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 225 and 239 will be rerouted off NE 132nd St between 111th Ave NE & 120th Ave NE from Mon Oct 26 to Sat Dec 5 9:00 PM to 5:00 AM nightly due to construction.",
+        "description": "Affected stops:\r\nStop #85290 NE 132nd St & 111th Ave NE (EB)\r\nStop #85300 NE 132nd St & 116th Way NE (EB)\r\nStop #74222 NE 132nd St & 118th Ave NE (WB)\r\nStop #85310 NE 132nd St & 114th Pl NE (WB)\r\n\nGet on/off at:\r\nFor Route 225 to Kenmore P&R:\r\nStop #74721 Kingsgate P&R (SB)\r\nStop #85320 NE 132nd St & 111th Ave NE (WB)\r\n\nFor Route 225 to Overlake Village Station:\r\nStop #85280 NE 132nd St & 109th Ave NE (EB)\r\nStop #74721 Kingsgate P&R (SB)\r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\n\nFor Route 239 to Kirkland TC: \r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\nStop #74721 Kingsgate P&R (SB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.182899,
+          47.7184486
+        ]
+      },
+      "properties": {
+        "alert_id": "1_97026",
+        "stop_id": "74222",
+        "stop_name": "NE 132nd St & 118th Ave NE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Routes 225 and 239 will be rerouted off NE 132nd St between 111th Ave NE & 120th Ave NE from Mon Oct 26 to Sat Dec 5 9:00 PM to 5:00 AM nightly due to construction.",
@@ -147,74 +207,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.193146,
-          47.7183952
+          -122.189003,
+          47.7184906
         ]
       },
       "properties": {
         "alert_id": "1_97026",
-        "stop_id": "85290",
-        "stop_name": "NE 132nd St & 111th Ave NE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 225 and 239 will be rerouted off NE 132nd St between 111th Ave NE & 120th Ave NE from Mon Oct 26 to Sat Dec 5 9:00 PM to 5:00 AM nightly due to construction.",
-        "description": "Affected stops:\r\nStop #85290 NE 132nd St & 111th Ave NE (EB)\r\nStop #85300 NE 132nd St & 116th Way NE (EB)\r\nStop #74222 NE 132nd St & 118th Ave NE (WB)\r\nStop #85310 NE 132nd St & 114th Pl NE (WB)\r\n\nGet on/off at:\r\nFor Route 225 to Kenmore P&R:\r\nStop #74721 Kingsgate P&R (SB)\r\nStop #85320 NE 132nd St & 111th Ave NE (WB)\r\n\nFor Route 225 to Overlake Village Station:\r\nStop #85280 NE 132nd St & 109th Ave NE (EB)\r\nStop #74721 Kingsgate P&R (SB)\r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\n\nFor Route 239 to Kirkland TC: \r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\nStop #74721 Kingsgate P&R (SB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.182899,
-          47.7184486
-        ]
-      },
-      "properties": {
-        "alert_id": "1_97026",
-        "stop_id": "74222",
-        "stop_name": "NE 132nd St & 118th Ave NE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 225 and 239 will be rerouted off NE 132nd St between 111th Ave NE & 120th Ave NE from Mon Oct 26 to Sat Dec 5 9:00 PM to 5:00 AM nightly due to construction.",
-        "description": "Affected stops:\r\nStop #85290 NE 132nd St & 111th Ave NE (EB)\r\nStop #85300 NE 132nd St & 116th Way NE (EB)\r\nStop #74222 NE 132nd St & 118th Ave NE (WB)\r\nStop #85310 NE 132nd St & 114th Pl NE (WB)\r\n\nGet on/off at:\r\nFor Route 225 to Kenmore P&R:\r\nStop #74721 Kingsgate P&R (SB)\r\nStop #85320 NE 132nd St & 111th Ave NE (WB)\r\n\nFor Route 225 to Overlake Village Station:\r\nStop #85280 NE 132nd St & 109th Ave NE (EB)\r\nStop #74721 Kingsgate P&R (SB)\r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\n\nFor Route 239 to Kirkland TC: \r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\nStop #74721 Kingsgate P&R (SB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.189507,
-          47.7183647
-        ]
-      },
-      "properties": {
-        "alert_id": "1_97026",
-        "stop_id": "85300",
-        "stop_name": "NE 132nd St & 116th Way NE",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 225 and 239 will be rerouted off NE 132nd St between 111th Ave NE & 120th Ave NE from Mon Oct 26 to Sat Dec 5 9:00 PM to 5:00 AM nightly due to construction.",
-        "description": "Affected stops:\r\nStop #85290 NE 132nd St & 111th Ave NE (EB)\r\nStop #85300 NE 132nd St & 116th Way NE (EB)\r\nStop #74222 NE 132nd St & 118th Ave NE (WB)\r\nStop #85310 NE 132nd St & 114th Pl NE (WB)\r\n\nGet on/off at:\r\nFor Route 225 to Kenmore P&R:\r\nStop #74721 Kingsgate P&R (SB)\r\nStop #85320 NE 132nd St & 111th Ave NE (WB)\r\n\nFor Route 225 to Overlake Village Station:\r\nStop #85280 NE 132nd St & 109th Ave NE (EB)\r\nStop #74721 Kingsgate P&R (SB)\r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\n\nFor Route 239 to Kirkland TC: \r\nStop #74232 Totem Lake Transit Center - Bay 2 (WB)\r\nStop #74721 Kingsgate P&R (SB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.182899,
-          47.7184486
-        ]
-      },
-      "properties": {
-        "alert_id": "1_97026",
-        "stop_id": "74222",
-        "stop_name": "NE 132nd St & 118th Ave NE",
+        "stop_id": "85310",
+        "stop_name": "NE 132nd St & 114th Pl NE",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Routes 225 and 239 will be rerouted off NE 132nd St between 111th Ave NE & 120th Ave NE from Mon Oct 26 to Sat Dec 5 9:00 PM to 5:00 AM nightly due to construction.",
@@ -307,6 +307,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.242851,
+          47.7572136
+        ]
+      },
+      "properties": {
+        "alert_id": "1_93860",
+        "stop_id": "76880",
+        "stop_name": "NE Bothell Way & 73rd Ave NE",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22, 2026 through Thu April 22, 2027 due to construction.",
+        "description": "Affected routes:\r\n322\r\n331\r\n981\r\nST 522\r\n\nGet on/off:\r\nRoutes 331 to UW Bothell, 981 to Mercer Island and ST 522 to Woodinville:\r\nThe temporary stop on NE Bothell Way, just east of the regular stop (EB)\r\n\nRoute 322 to Kenmore P&R:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.248703,
           47.7581787
         ]
@@ -395,26 +415,6 @@
         "alert_id": "1_93860",
         "stop_id": "76870",
         "stop_name": "NE Bothell Way & 68th Ave NE",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22, 2026 through Thu April 22, 2027 due to construction.",
-        "description": "Affected routes:\r\n322\r\n331\r\n981\r\nST 522\r\n\nGet on/off:\r\nRoutes 331 to UW Bothell, 981 to Mercer Island and ST 522 to Woodinville:\r\nThe temporary stop on NE Bothell Way, just east of the regular stop (EB)\r\n\nRoute 322 to Kenmore P&R:\r\nStop #70022 68th Ave Ne & Ne Bothell Way (NB)\r\nStop #76376 Kenmore Park & Ride & 73rd Ave Ne (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.242851,
-          47.7572136
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93860",
-        "stop_id": "76880",
-        "stop_name": "NE Bothell Way & 73rd Ave NE",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
         "header": "Stop #76870 NE Bothell Way & 68th Ave NE (EB) and Stop #76880 NE Bothell Way & 73rd Ave NE (EB) relocated from Wed Apr 22, 2026 through Thu April 22, 2027 due to construction.",
@@ -667,26 +667,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.309937,
-          47.3865929
-        ]
-      },
-      "properties": {
-        "alert_id": "1_82885",
-        "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.311783,
           47.3866272
         ]
@@ -714,6 +694,26 @@
       "properties": {
         "alert_id": "1_82885",
         "stop_id": "47275",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
+        "status": "ongoing",
+        "header": "Route 156 will be rerouted off portions of Kent Des Moines Rd, S 240th St and 16th Ave S from Mon Feb 9 to Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\nStop #48972 16th Ave S & 17th Pl S (NB)\r\nStop #48974 Kent Des Moines Rd & 20th Ave S (EB)\r\nStop #50466 Kent Des Moines Rd & 20th Ave S (WB)\r\nStop #50468 16th Ave S & 17th Pl S (SB)\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\n\nFor Route 156 to Southcenter get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (NB)\r\n\nFor Route 156 to Highline CC get on/off at:\r\nThe temporary stop on 20th Ave S just south of Kent Des Moines Rd (SB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/156/W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.309937,
+          47.3865929
+        ]
+      },
+      "properties": {
+        "alert_id": "1_82885",
+        "stop_id": "48925",
         "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
@@ -927,46 +927,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.195358,
-          47.6155052
-        ]
-      },
-      "properties": {
-        "alert_id": "1_98309",
-        "stop_id": "68003",
-        "stop_name": "Bellevue Transit Center - Bay 3",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 226, 250, RapidRide B Line, ST 547 and ST 566 will be rerouted around the Bellevue Transit Center from Fri Nov 20 through Fri Mar 19 due to construction.",
-        "description": "Affected stops:\r\nStop #68001 Bellevue Transit Center - Bay 11 (WB)\r\nStop #69021 Bellevue Transit Center - Bay 10 (WB)\r\nStop #68003 Bellevue Transit Center - Bay 3 (EB)\r\n\nGet on/off at:\r\nFor Routes 226 to Bellevue TC, 250 to Bellevue TC, and RapidRide B Line to Bellevue TC and to Downtown Redmond Station:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 226 to South Bellevue Station, 250 to Bear Creek P&R:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (NB)\r\n\nFor ST 547 to Redmond:\r\nStop #68004 Bellevue Transit Center - Bay 4 (EB)\r\n\nFor ST 547 to Downtown Seattle:\r\nStop #67655 Bellevue Transit Center - Bay 8 (WB)\r\n\nFor ST 566 to Redmond:\r\nStop #68007 Bellevue Transit Center - Bay 12 (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.196152,
-          47.6155205
-        ]
-      },
-      "properties": {
-        "alert_id": "1_98309",
-        "stop_id": "68001",
-        "stop_name": "Bellevue Transit Center - Bay 11",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 226, 250, RapidRide B Line, ST 547 and ST 566 will be rerouted around the Bellevue Transit Center from Fri Nov 20 through Fri Mar 19 due to construction.",
-        "description": "Affected stops:\r\nStop #68001 Bellevue Transit Center - Bay 11 (WB)\r\nStop #69021 Bellevue Transit Center - Bay 10 (WB)\r\nStop #68003 Bellevue Transit Center - Bay 3 (EB)\r\n\nGet on/off at:\r\nFor Routes 226 to Bellevue TC, 250 to Bellevue TC, and RapidRide B Line to Bellevue TC and to Downtown Redmond Station:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 226 to South Bellevue Station, 250 to Bear Creek P&R:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (NB)\r\n\nFor ST 547 to Redmond:\r\nStop #68004 Bellevue Transit Center - Bay 4 (EB)\r\n\nFor ST 547 to Downtown Seattle:\r\nStop #67655 Bellevue Transit Center - Bay 8 (WB)\r\n\nFor ST 566 to Redmond:\r\nStop #68007 Bellevue Transit Center - Bay 12 (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.196152,
           47.6155205
         ]
@@ -1087,6 +1047,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.195358,
+          47.6155052
+        ]
+      },
+      "properties": {
+        "alert_id": "1_98309",
+        "stop_id": "68003",
+        "stop_name": "Bellevue Transit Center - Bay 3",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 226, 250, RapidRide B Line, ST 547 and ST 566 will be rerouted around the Bellevue Transit Center from Fri Nov 20 through Fri Mar 19 due to construction.",
+        "description": "Affected stops:\r\nStop #68001 Bellevue Transit Center - Bay 11 (WB)\r\nStop #69021 Bellevue Transit Center - Bay 10 (WB)\r\nStop #68003 Bellevue Transit Center - Bay 3 (EB)\r\n\nGet on/off at:\r\nFor Routes 226 to Bellevue TC, 250 to Bellevue TC, and RapidRide B Line to Bellevue TC and to Downtown Redmond Station:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 226 to South Bellevue Station, 250 to Bear Creek P&R:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (NB)\r\n\nFor ST 547 to Redmond:\r\nStop #68004 Bellevue Transit Center - Bay 4 (EB)\r\n\nFor ST 547 to Downtown Seattle:\r\nStop #67655 Bellevue Transit Center - Bay 8 (WB)\r\n\nFor ST 566 to Redmond:\r\nStop #68007 Bellevue Transit Center - Bay 12 (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.196152,
           47.6155205
         ]
@@ -1175,6 +1155,26 @@
         "alert_id": "1_98309",
         "stop_id": "69021",
         "stop_name": "Bellevue Transit Center - Bay 10",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 226, 250, RapidRide B Line, ST 547 and ST 566 will be rerouted around the Bellevue Transit Center from Fri Nov 20 through Fri Mar 19 due to construction.",
+        "description": "Affected stops:\r\nStop #68001 Bellevue Transit Center - Bay 11 (WB)\r\nStop #69021 Bellevue Transit Center - Bay 10 (WB)\r\nStop #68003 Bellevue Transit Center - Bay 3 (EB)\r\n\nGet on/off at:\r\nFor Routes 226 to Bellevue TC, 250 to Bellevue TC, and RapidRide B Line to Bellevue TC and to Downtown Redmond Station:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (SB)\r\n\nFor Route 226 to South Bellevue Station, 250 to Bear Creek P&R:\r\nThe temporary stop on 110th Ave NE, just south of NE 6th St (NB)\r\n\nFor ST 547 to Redmond:\r\nStop #68004 Bellevue Transit Center - Bay 4 (EB)\r\n\nFor ST 547 to Downtown Seattle:\r\nStop #67655 Bellevue Transit Center - Bay 8 (WB)\r\n\nFor ST 566 to Redmond:\r\nStop #68007 Bellevue Transit Center - Bay 12 (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.196152,
+          47.6155205
+        ]
+      },
+      "properties": {
+        "alert_id": "1_98309",
+        "stop_id": "68001",
+        "stop_name": "Bellevue Transit Center - Bay 11",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Routes 226, 250, RapidRide B Line, ST 547 and ST 566 will be rerouted around the Bellevue Transit Center from Fri Nov 20 through Fri Mar 19 due to construction.",
@@ -1207,14 +1207,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.314789,
-          47.5267906
+          -122.313164,
+          47.5326233
         ]
       },
       "properties": {
         "alert_id": "1_99359",
-        "stop_id": "32150",
-        "stop_name": "14th Ave S & S Cloverdale St",
+        "stop_id": "32160",
+        "stop_name": "16th Ave S & East Marginal Way S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 60 is rerouted off 14th Ave S and 16th Ave S between S Cloverdale St and E Marginal Way S today due to a road closure.",
@@ -1227,14 +1227,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.313164,
-          47.5326233
+          -122.314789,
+          47.5267906
         ]
       },
       "properties": {
         "alert_id": "1_99359",
-        "stop_id": "32160",
-        "stop_name": "16th Ave S & East Marginal Way S",
+        "stop_id": "32150",
+        "stop_name": "14th Ave S & S Cloverdale St",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 60 is rerouted off 14th Ave S and 16th Ave S between S Cloverdale St and E Marginal Way S today due to a road closure.",
@@ -1460,66 +1460,6 @@
         "header": "Stop #9150 Eastlake Ave E & E Allison St (SB) relocated from Mon Jul 13 to Sat Jan 30 due to construction.",
         "description": "Affected routes:\r\n70\r\n\nGet on/off at:\r\nThe temporary stop on Eastlake Ave E, just south of E Shelby St (SB)\r\n\nTo learn more about the construction impacts that are part of the upgrade of Route 70 into the RapidRide J Line please visit SDOT's website link:\r\n\nhttps://www.seattle.gov/transportation/projects-and-programs/programs/transit-program/transit-plus-multimodal-corridor-program/rapidride-j-line",
         "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/5377"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.313614,
-          47.6613388
-        ]
-      },
-      "properties": {
-        "alert_id": "1_99195",
-        "stop_id": "11358",
-        "stop_name": "U District Station - Bay 2",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #11358 NE 45th St & University Way NE - Bay 2 (WB) relocated from Sat Nov 21 at 7:00 AM to Sun Nov 22 at 7:00 PM due to construction.",
-        "description": "Affected routes:\r\n31\r\n32\r\n48\r\n\nGet on/off at:\r\nFor Routes 31 to Central Magnolia and 32 to Seattle Center:\r\nThe temporary stop on NE 45th St, just east of University Way NE (WB)\r\nStop #9605 Roosevelt Way NE & NE 45th St (SB)\r\n\nFor Route 48 to University District (Saturday Only): \r\nThe temporary stop on NE 45th St, just east of University Way NE (WB)\r\nStop #9650 11th Ave NE & NE 45th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/75137"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.313614,
-          47.6613388
-        ]
-      },
-      "properties": {
-        "alert_id": "1_99195",
-        "stop_id": "11358",
-        "stop_name": "U District Station - Bay 2",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #11358 NE 45th St & University Way NE - Bay 2 (WB) relocated from Sat Nov 21 at 7:00 AM to Sun Nov 22 at 7:00 PM due to construction.",
-        "description": "Affected routes:\r\n31\r\n32\r\n48\r\n\nGet on/off at:\r\nFor Routes 31 to Central Magnolia and 32 to Seattle Center:\r\nThe temporary stop on NE 45th St, just east of University Way NE (WB)\r\nStop #9605 Roosevelt Way NE & NE 45th St (SB)\r\n\nFor Route 48 to University District (Saturday Only): \r\nThe temporary stop on NE 45th St, just east of University Way NE (WB)\r\nStop #9650 11th Ave NE & NE 45th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/75137"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.313614,
-          47.6613388
-        ]
-      },
-      "properties": {
-        "alert_id": "1_99195",
-        "stop_id": "11358",
-        "stop_name": "U District Station - Bay 2",
-        "alert_type": "Stop Relocation",
-        "status": "ongoing",
-        "header": "Stop #11358 NE 45th St & University Way NE - Bay 2 (WB) relocated from Sat Nov 21 at 7:00 AM to Sun Nov 22 at 7:00 PM due to construction.",
-        "description": "Affected routes:\r\n31\r\n32\r\n48\r\n\nGet on/off at:\r\nFor Routes 31 to Central Magnolia and 32 to Seattle Center:\r\nThe temporary stop on NE 45th St, just east of University Way NE (WB)\r\nStop #9605 Roosevelt Way NE & NE 45th St (SB)\r\n\nFor Route 48 to University District (Saturday Only): \r\nThe temporary stop on NE 45th St, just east of University Way NE (WB)\r\nStop #9650 11th Ave NE & NE 45th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/75137"
       }
     },
     {
@@ -1847,26 +1787,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.246307,
-          47.3813095
-        ]
-      },
-      "properties": {
-        "alert_id": "1_96911",
-        "stop_id": "57188",
-        "stop_name": "W Meeker St & Washington Ave S",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Route 164 to is rerouted off portions of W Smith St and W Meeker St between 4th Ave N and Washington Ave N until Fri Dec 24 due to construction.",
-        "description": "Affected stops:\r\nStop #57188 W Meeker St & Washington Ave S (EB)\r\nStop #57187 W Smith St & 4th Ave N (WB)\r\nStop #79215 W Smith St & 6th Ave N (WB)\r\n\nGet on/off at:\r\n\nFor Route 164 to Kent Des Moines Station:\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\nStop #79248 4th Ave N & W Smith St (NB)\r\nStop #59773 W James St & Lincoln Ave N (WB)\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\n\nFor Route 164 to Green River College:\r\nStop #50741 W Meeker St & Washington Ave N (EB)\r\nThe temporary stop on Washington Ave N, just south of W Harrison St (NB)\r\nStop #79243 W James St & Washington Ave N (EB)\r\nStop #79226 W Smith St & 6th Ave N (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/164/W/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.240036,
           47.3831444
         ]
@@ -1907,19 +1827,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.298286,
-          47.5401306
+          -122.246307,
+          47.3813095
         ]
       },
       "properties": {
-        "alert_id": "1_99106",
-        "stop_id": "30960",
-        "stop_name": "Beacon Ave S & 27th Ave S",
+        "alert_id": "1_96911",
+        "stop_id": "57188",
+        "stop_name": "W Meeker St & Washington Ave S",
         "alert_type": "Route Change",
         "status": "ongoing",
-        "header": "Route 36 to Othello Station is rerouted off Beacon Ave S between S Willows St and S Myrtle St from Sat Nov 21 at 7:00 AM to Sun Nov 22 at 6:00 PM due to construction.",
-        "description": "Affected stops:\r\nStop #30960 Beacon Ave S & 27th Ave S (SB)\r\n\nGet on/off at:\r\nStop #30950 Beacon Ave S & S Holly St (SB)\r\nStop #46092 S Myrtle St & Beacon Ave S (EB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/36/S"
+        "header": "Route 164 to is rerouted off portions of W Smith St and W Meeker St between 4th Ave N and Washington Ave N until Fri Dec 24 due to construction.",
+        "description": "Affected stops:\r\nStop #57188 W Meeker St & Washington Ave S (EB)\r\nStop #57187 W Smith St & 4th Ave N (WB)\r\nStop #79215 W Smith St & 6th Ave N (WB)\r\n\nGet on/off at:\r\n\nFor Route 164 to Kent Des Moines Station:\r\nStop #57459 Kent Sounder Station - Bay 9 (SB)\r\nStop #79248 4th Ave N & W Smith St (NB)\r\nStop #59773 W James St & Lincoln Ave N (WB)\r\nStop #50755 W Meeker St & Washington Ave N (WB)\r\n\nFor Route 164 to Green River College:\r\nStop #50741 W Meeker St & Washington Ave N (EB)\r\nThe temporary stop on Washington Ave N, just south of W Harrison St (NB)\r\nStop #79243 W James St & Washington Ave N (EB)\r\nStop #79226 W Smith St & 6th Ave N (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/164/W/"
       }
     },
     {
@@ -1987,106 +1907,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.137779,
-          47.6366844
-        ]
-      },
-      "properties": {
-        "alert_id": "1_98210",
-        "stop_id": "55566",
-        "stop_name": "152nd Ave NE & Da Vinci Ave NE - Bay 1",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
-        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.136368,
-          47.6379967
-        ]
-      },
-      "properties": {
-        "alert_id": "1_98210",
-        "stop_id": "66874",
-        "stop_name": "152nd Ave NE & NE 36th St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
-        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.137589,
-          47.6355629
-        ]
-      },
-      "properties": {
-        "alert_id": "1_98210",
-        "stop_id": "71323",
-        "stop_name": "152nd Ave NE & NE Shen St - Bay 2",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
-        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.137779,
-          47.6366844
-        ]
-      },
-      "properties": {
-        "alert_id": "1_98210",
-        "stop_id": "55566",
-        "stop_name": "152nd Ave NE & Da Vinci Ave NE - Bay 1",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
-        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.136108,
-          47.6379967
-        ]
-      },
-      "properties": {
-        "alert_id": "1_98210",
-        "stop_id": "66875",
-        "stop_name": "152nd Ave NE & NE 31st St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
-        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.137589,
           47.6355629
         ]
@@ -2115,66 +1935,6 @@
         "alert_id": "1_98210",
         "stop_id": "66874",
         "stop_name": "152nd Ave NE & NE 36th St",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
-        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.137589,
-          47.6355629
-        ]
-      },
-      "properties": {
-        "alert_id": "1_98210",
-        "stop_id": "71323",
-        "stop_name": "152nd Ave NE & NE Shen St - Bay 2",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
-        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.137779,
-          47.6366844
-        ]
-      },
-      "properties": {
-        "alert_id": "1_98210",
-        "stop_id": "55566",
-        "stop_name": "152nd Ave NE & Da Vinci Ave NE - Bay 1",
-        "alert_type": "Route Change",
-        "status": "ongoing",
-        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
-        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.136108,
-          47.6379967
-        ]
-      },
-      "properties": {
-        "alert_id": "1_98210",
-        "stop_id": "66875",
-        "stop_name": "152nd Ave NE & NE 31st St",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
@@ -2207,14 +1967,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.136108,
-          47.6379967
+          -122.137589,
+          47.6355629
         ]
       },
       "properties": {
         "alert_id": "1_98210",
-        "stop_id": "66875",
-        "stop_name": "152nd Ave NE & NE 31st St",
+        "stop_id": "71323",
+        "stop_name": "152nd Ave NE & NE Shen St - Bay 2",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
+        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.137779,
+          47.6366844
+        ]
+      },
+      "properties": {
+        "alert_id": "1_98210",
+        "stop_id": "55566",
+        "stop_name": "152nd Ave NE & Da Vinci Ave NE - Bay 1",
         "alert_type": "Route Change",
         "status": "ongoing",
         "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
@@ -2247,19 +2027,139 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.246307,
-          47.3813095
+          -122.136108,
+          47.6379967
         ]
       },
       "properties": {
-        "alert_id": "1_93880",
-        "stop_id": "57188",
-        "stop_name": "W Meeker St & Washington Ave S",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_98210",
+        "stop_id": "66875",
+        "stop_name": "152nd Ave NE & NE 31st St",
+        "alert_type": "Route Change",
         "status": "ongoing",
-        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Sat Aug 29 through Fri Apr 23, 2027 due to permanent bus stop closure.",
-        "description": "Affected routes:\r\n164\r\nDART 914\r\n\nGet on/off at:\r\nFor Route 164 to Green River College:\r\nStop #50741 W Meeker St & Washington Ave S (EB)\r\nStop #79226 W Smith St & 6th Ave N (EB)\r\n\nFor Dart 914 to East Hill / SE Kent:\r\nStop #50741 W Meeker St & Washington Ave S (EB)\r\nStop #57189 W Meeker St & 6th Ave S (EB)\r\n",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/9326"
+        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
+        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.137779,
+          47.6366844
+        ]
+      },
+      "properties": {
+        "alert_id": "1_98210",
+        "stop_id": "55566",
+        "stop_name": "152nd Ave NE & Da Vinci Ave NE - Bay 1",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
+        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.136108,
+          47.6379967
+        ]
+      },
+      "properties": {
+        "alert_id": "1_98210",
+        "stop_id": "66875",
+        "stop_name": "152nd Ave NE & NE 31st St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
+        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.137589,
+          47.6355629
+        ]
+      },
+      "properties": {
+        "alert_id": "1_98210",
+        "stop_id": "71323",
+        "stop_name": "152nd Ave NE & NE Shen St - Bay 2",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
+        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.136368,
+          47.6379967
+        ]
+      },
+      "properties": {
+        "alert_id": "1_98210",
+        "stop_id": "66874",
+        "stop_name": "152nd Ave NE & NE 36th St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
+        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.136108,
+          47.6379967
+        ]
+      },
+      "properties": {
+        "alert_id": "1_98210",
+        "stop_id": "66875",
+        "stop_name": "152nd Ave NE & NE 31st St",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
+        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.137779,
+          47.6366844
+        ]
+      },
+      "properties": {
+        "alert_id": "1_98210",
+        "stop_id": "55566",
+        "stop_name": "152nd Ave NE & Da Vinci Ave NE - Bay 1",
+        "alert_type": "Route Change",
+        "status": "ongoing",
+        "header": "Routes 222, 223 and 225 will be rerouted off 152nd Ave NE between NE 31st St and NE Turing St from Fri Nov 13 to Fri Nov 27 7:00 AM to 5:00 PM daily weekdays only due to construction.",
+        "description": "Affected stops:\r\nStop #71323 152nd Ave NE & NE Shen St (NB)\r\nStop #66875 152nd Ave NE & NE 31st St (NB)\r\nStop #66871 NE 31st St & 156th Ave NE (WB)\r\nStop #66874 152nd Ave NE & NE 36th St (SB)\r\nStop #55566 152nd Ave NE & Da Vinci Ave NE - Bay 1 (SB)\r\n\nGet on/off at:\r\nFor Route 222 to Redmond Technology Station:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68411 156th Ave NE & NE 33rd St (NB)\r\n\nFor Route 222 to Cottage Lake:\r\nStop #68415 156th Ave NE & NE 33rd St (SB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Routes 223 to Downtown Redmond Station and 225 to Kenmore P&R:\r\nStop #71326 152nd Ave NE & Overlake P&R (NB)\r\nStop #68394 NE 36th St & 150th Ave NE (WB)\r\n\nFor Route 223 to Eastgate P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71331 Overlake P&R (SB)\r\n\nFor Route 225 to Overlake P&R:\r\nStop #68409 NE 36th St & 150th Ave NE (EB)\r\nStop #71328 Overlake P&R (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/tripplanning"
       }
     },
     {
@@ -2287,19 +2187,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.202148,
-          47.398262
+          -122.246307,
+          47.3813095
         ]
       },
       "properties": {
-        "alert_id": "1_95260",
-        "stop_id": "57160",
-        "stop_name": "104th Ave SE & SE 228th St",
+        "alert_id": "1_93880",
+        "stop_id": "57188",
+        "stop_name": "W Meeker St & Washington Ave S",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
-        "header": "Stop #57400 104th Ave SE & SE 228th St (SB) and Stop #57160 104th Ave SE & SE 228th St (NB) relocated from Mon Sep 21 through Fri Dec 11 due to construction.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57390 Benson Rd SE & SE 224th St (SB)\r\nThe temporary stop on 104th Ave SE, just north of SE 230th Pl (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57150 104th Ave SE & SE 232nd St (NB)\r\nThe temporary stop on 104th Ave SE, just south of SE 226th St (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+        "header": "Stop #57188 W Meeker St & Washington Ave S (EB) relocated from Sat Aug 29 through Fri Apr 23, 2027 due to permanent bus stop closure.",
+        "description": "Affected routes:\r\n164\r\nDART 914\r\n\nGet on/off at:\r\nFor Route 164 to Green River College:\r\nStop #50741 W Meeker St & Washington Ave S (EB)\r\nStop #79226 W Smith St & 6th Ave N (EB)\r\n\nFor Dart 914 to East Hill / SE Kent:\r\nStop #50741 W Meeker St & Washington Ave S (EB)\r\nStop #57189 W Meeker St & 6th Ave S (EB)\r\n",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/stoproutes/9326"
       }
     },
     {
@@ -2314,6 +2214,26 @@
       "properties": {
         "alert_id": "1_95260",
         "stop_id": "57400",
+        "stop_name": "104th Ave SE & SE 228th St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #57400 104th Ave SE & SE 228th St (SB) and Stop #57160 104th Ave SE & SE 228th St (NB) relocated from Mon Sep 21 through Fri Dec 11 due to construction.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nStop #57390 Benson Rd SE & SE 224th St (SB)\r\nThe temporary stop on 104th Ave SE, just north of SE 230th Pl (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nStop #57150 104th Ave SE & SE 232nd St (NB)\r\nThe temporary stop on 104th Ave SE, just south of SE 226th St (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/N/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.202148,
+          47.398262
+        ]
+      },
+      "properties": {
+        "alert_id": "1_95260",
+        "stop_id": "57160",
         "stop_name": "104th Ave SE & SE 228th St",
         "alert_type": "Stop Relocation",
         "status": "ongoing",
@@ -2467,6 +2387,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.211708,
+          47.4509659
+        ]
+      },
+      "properties": {
+        "alert_id": "1_95978",
+        "stop_id": "59951",
+        "stop_name": "Talbot Rd S & S 32nd St",
+        "alert_type": "Stop Relocation",
+        "status": "ongoing",
+        "header": "Stop #59951 Talbot Rd S & S 32nd St (SB) and Stop #60359 Talbot Rd S & S 32nd St (NB) relocated through Thu Dec 10 due to bus stop maintenance work.",
+        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Talbot Rd S just north of the closed stop (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Talbot Rd S just south of the closed stop (NB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.211533,
           47.4510269
         ]
@@ -2487,19 +2427,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.211708,
-          47.4509659
+          -122.309937,
+          47.3865929
         ]
       },
       "properties": {
-        "alert_id": "1_95978",
-        "stop_id": "59951",
-        "stop_name": "Talbot Rd S & S 32nd St",
-        "alert_type": "Stop Relocation",
+        "alert_id": "1_93875",
+        "stop_id": "48925",
+        "stop_name": "S 240th St & 18th Pl S",
+        "alert_type": "Stop Closure",
         "status": "ongoing",
-        "header": "Stop #59951 Talbot Rd S & S 32nd St (SB) and Stop #60359 Talbot Rd S & S 32nd St (NB) relocated through Thu Dec 10 due to bus stop maintenance work.",
-        "description": "Affected routes:\r\n160\r\n\nFor Route 160 to Auburn Station get on/off at:\r\nThe temporary stop on Talbot Rd S just north of the closed stop (SB)\r\n\nFor Route 160 to Renton get on/off at:\r\nThe temporary stop on Talbot Rd S just south of the closed stop (NB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/160/S/"
+        "header": "Route 166 is rerouted off S 240th St between 16th Ave S and 20th Ave S from Sat Aug 29 through Thu Dec 31 due to a road closure.",
+        "description": "Affected stops:\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\n\nFor Route 166 to Kent get on/off at:\r\nThe temporary stop on S 240th St & 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nFor Route 166 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St & 14th Ave S (WB)",
+        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/166/S/"
       }
     },
     {
@@ -2555,26 +2495,6 @@
         "alert_id": "1_93875",
         "stop_id": "47280",
         "stop_name": "S 240th St & 16th Ave S",
-        "alert_type": "Stop Closure",
-        "status": "ongoing",
-        "header": "Route 166 is rerouted off S 240th St between 16th Ave S and 20th Ave S from Sat Aug 29 through Thu Dec 31 due to a road closure.",
-        "description": "Affected stops:\r\nStop #48920 S 240th St & 17th Ave S (EB)\r\nStop #48925 S 240th St & 18th Pl S (EB)\r\nStop #47275 S 240th St & 18th Pl S (WB)\r\nStop #47280 S 240th St & 16th Ave S (WB)\r\n\nFor Route 166 to Kent get on/off at:\r\nThe temporary stop on S 240th St & 14th Ave S (EB)\r\nStop #48930 S 240th St & 21st Ave S (EB)\r\n\nFor Route 166 to Burien TC get on/off at:\r\nStop #47270 S 240th St & 21st Ave S (WB)\r\nThe temporary stop on S 240th St & 14th Ave S (WB)",
-        "url": "https://tripplanner.kingcounty.gov/#/app/nextdepartures/routeheadway/full/166/S/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.309937,
-          47.3865929
-        ]
-      },
-      "properties": {
-        "alert_id": "1_93875",
-        "stop_id": "48925",
-        "stop_name": "S 240th St & 18th Pl S",
         "alert_type": "Stop Closure",
         "status": "ongoing",
         "header": "Route 166 is rerouted off S 240th St between 16th Ave S and 20th Ave S from Sat Aug 29 through Thu Dec 31 due to a road closure.",
